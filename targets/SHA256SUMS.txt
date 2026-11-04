@@ -1,0 +1,2 @@
+ce259c3c94213d8359953410e5908907dbc9aa1ab07d3953aff5182f7013f1dc  gyro-optical-target-a4.pdf
+23e563d80854379e8b99ae77c1e8422b5c5a5c4a74c73c7ca735c38137dc04d5  gyro-optical-target-letter.pdf

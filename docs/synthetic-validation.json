@@ -1,0 +1,101 @@
+[
+  {
+    "lock_seconds": 3,
+    "max_phase_step": 0.11826545589066129,
+    "center_error_px": 0.7081332740192297,
+    "residual_px": 0.14227464720721958,
+    "expected_rejection": false,
+    "correct_fraction": 1,
+    "rpm_error": -2.1474780968588902E-4,
+    "case": "normal33",
+    "rpm": 33.33311858552365,
+    "status": "VALIDATING"
+  },
+  {
+    "lock_seconds": 3,
+    "max_phase_step": 0.1575555231788215,
+    "center_error_px": 0.7247447643068623,
+    "residual_px": 0.12914258904152034,
+    "expected_rejection": false,
+    "correct_fraction": 1,
+    "rpm_error": 5.965248761441444E-5,
+    "case": "normal45",
+    "rpm": 45.000059652487614,
+    "status": "VALIDATING"
+  },
+  {
+    "lock_seconds": 5,
+    "max_phase_step": 0.11717944944479886,
+    "center_error_px": 0.6967514470791623,
+    "residual_px": 0.14968333036148412,
+    "expected_rejection": false,
+    "correct_fraction": 1,
+    "rpm_error": 2.961223760991061E-4,
+    "case": "tilt33",
+    "rpm": 33.333629455709435,
+    "status": "VALIDATING"
+  },
+  {
+    "lock_seconds": 5,
+    "max_phase_step": 0.15904442651113992,
+    "center_error_px": 0.7249027640095419,
+    "residual_px": 0.10895673352703551,
+    "expected_rejection": false,
+    "correct_fraction": 1,
+    "rpm_error": 6.495252411511387E-4,
+    "case": "dim45",
+    "rpm": 45.00064952524115,
+    "status": "VALIDATING"
+  },
+  {
+    "lock_seconds": 5,
+    "max_phase_step": 0.1178346524966205,
+    "center_error_px": 0.7464612940167283,
+    "residual_px": 0.16966422992885088,
+    "expected_rejection": false,
+    "correct_fraction": 1,
+    "rpm_error": -8.688490355694967E-4,
+    "case": "blur33",
+    "rpm": 33.332464484297766,
+    "status": "VALIDATING"
+  },
+  {
+    "lock_seconds": 3.533333333,
+    "max_phase_step": 0.31457252438939154,
+    "center_error_px": 0.7281814712869622,
+    "residual_px": 0.12944154641029945,
+    "expected_rejection": false,
+    "correct_fraction": 1,
+    "rpm_error": 7.317089568203983E-5,
+    "case": "drop45",
+    "rpm": 45.00007317089568,
+    "status": "VALIDATING"
+  },
+  {
+    "lock_seconds": 3.5,
+    "max_phase_step": 0.6988796348487387,
+    "center_error_px": 0.7093940349921253,
+    "residual_px": 0.13897239763386351,
+    "expected_rejection": false,
+    "correct_fraction": 1,
+    "rpm_error": -1.5481236059144976E-4,
+    "case": "occlusion33",
+    "rpm": 33.333178520972744,
+    "status": "VALIDATING"
+  },
+  {
+    "expected_rejection": true,
+    "case": "stationary",
+    "status": "NEED_ORBIT"
+  },
+  {
+    "expected_rejection": true,
+    "case": "two_markers",
+    "status": "AMBIGUOUS"
+  },
+  {
+    "expected_rejection": true,
+    "case": "camera_move",
+    "status": "NEED_ORBIT"
+  }
+]

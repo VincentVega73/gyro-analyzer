@@ -1,12 +1,12 @@
 """Public-only validation. No private repository or credentials required."""
 from pathlib import Path
-import re, json, sys
+import re, json, sys, hashlib
 from pypdf import PdfReader
 from pypdf.generic import ContentStream
 
 ROOT=Path(__file__).resolve().parent.parent
 errors=[]
-required=['README.md','CHANGELOG.md','ROADMAP.md','CONTRIBUTING.md','CODE_OF_CONDUCT.md','SECURITY.md']
+required=['README.md','CHANGELOG.md','ROADMAP.md','CONTRIBUTING.md','CODE_OF_CONDUCT.md','SECURITY.md','LICENSE.md','LICENSES/CC-BY-4.0.txt','docs/licensing-audit.md','targets/SHA256SUMS.txt','targets/versions.json']
 required+=['docs/'+s+'.md' for s in ('getting-started','user-guide','camera-setup','automatic-calibration','target-preparation','measuring-rpm','understanding-results','measurement-methodology','accuracy-and-uncertainty','troubleshooting','faq','compatibility','privacy','support')]
 for name in required:
     if not (ROOT/name).is_file():errors.append('Missing required document: '+name)
@@ -30,12 +30,18 @@ for p in ROOT.rglob('*'):
             target=link.split('#')[0]
             if target and not (p.parent/target).resolve().exists():errors.append(f'Broken local link: {relative} -> {target}')
 spec=json.loads((ROOT/'targets/target-standard.json').read_text())
+versions=json.loads((ROOT/'targets/versions.json').read_text())
+checksums=dict((line.split()[1],line.split()[0]) for line in (ROOT/'targets/SHA256SUMS.txt').read_text().splitlines())
 for name,dimensions in [('a4',(210,297)),('letter',(215.9,279.4))]:
     p=ROOT/f'targets/gyro-optical-target-{name}.pdf'
     if not p.is_file():errors.append('Missing PDF: '+p.name);continue
     pdf=PdfReader(p)
+    digest=hashlib.sha256(p.read_bytes()).hexdigest()
+    if checksums.get(p.name)!=digest or versions['sha256'].get(p.name)!=digest:errors.append('PDF checksum mismatch: '+p.name)
+    if pdf.metadata.author!='Sergey Kravchinskiy':errors.append('Incorrect PDF author: '+p.name)
     if len(pdf.pages)!=1:errors.append('PDF must contain one page: '+p.name);continue
     page=pdf.pages[0]
+    if 'CC BY 4.0' not in page.extract_text() or 'Copyright 2026 Sergey Kravchinskiy' not in page.extract_text():errors.append('Missing PDF license/copyright notice: '+p.name)
     if any(abs(float(value)*25.4/72-expected)>.02 for value,expected in zip((page.mediabox.width,page.mediabox.height),dimensions)):errors.append('Incorrect PDF page size: '+p.name)
     metadata=json.loads(pdf.metadata.subject)
     if metadata!=spec or metadata.get('target_version')!='GYRO-TARGET-1.0':errors.append('Incorrect target metadata: '+p.name)

@@ -61,4 +61,4 @@ Use [Issues](https://github.com/VincentVega73/gyro-analyzer/issues) for reproduc
 
 ## Licensing and affiliation
 
-The application source remains private. Public visibility does not make it open source. Documentation, target redistribution/modification and branding licensing terms await owner approval; no MIT, Apache, GPL or Creative Commons licence is assigned here. See [licensing status](docs/licensing-status.md). Gyro Analyzer is independent and is not an official product of Michell Engineering or any turntable manufacturer.
+Copyright 2026 Sergey Kravchinskiy. Documentation and official target PDFs are licensed under CC BY 4.0. Branding, logos and visual identity retain all rights. The Android application and source code are proprietary and closed source; CC BY 4.0 does not apply to them. See [license scope and attribution](LICENSE.md). See [licensing status](docs/licensing-status.md). Gyro Analyzer is independent and is not an official product of Michell Engineering or any turntable manufacturer.

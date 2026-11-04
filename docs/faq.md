@@ -46,4 +46,4 @@ The listing is not published. A real link will be added after release. There is 
 
 ## Is this open-source software?
 
-The Android source is private. Public documentation visibility does not grant an open-source licence. Licensing terms are pending owner approval.
+The Android application and source are proprietary and closed source. Documentation and official target PDFs are CC BY 4.0; branding is reserved. See [license scope](../LICENSE.md).

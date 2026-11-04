@@ -1,7 +1,12 @@
 # Licensing status
 
-The Android application source is private. No open-source licence has been selected. No LICENSE file is added until the owner approves terms.
+The owner approved the following terms on 4 November 2026. The identified rightsholder is **Sergey Kravchinskiy**.
 
-Documentation, printable-target redistribution/modification and branding terms require separate decisions. Public access alone does not grant a general right to modify or redistribute these materials or use the brand. The target is being provided for development evaluation; final reuse terms must be approved before production distribution.
+| Material | Terms |
+| --- | --- |
+| Documentation and documentation diagrams | CC BY 4.0 |
+| Official target PDFs and descriptive metadata | CC BY 4.0 |
+| Branding, logos and visual identity | All rights reserved |
+| Android application and source code | Proprietary, closed source |
 
-Proposed options are being considered internally: a permissive documentation licence with attribution, a separate printable-target grant, reserved branding rights and separately reviewed licences for any future code components. None of these proposals is an operative licence.
+See [scope and attribution](../LICENSE.md), [full license](../LICENSES/CC-BY-4.0.txt), [target checksums](../targets/SHA256SUMS.txt) and [licensing audit](licensing-audit.md). Public repository visibility does not extend CC BY 4.0 to excluded materials.

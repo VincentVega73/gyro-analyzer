@@ -9,7 +9,8 @@
 - [ ] Capture screenshots from the exact candidate build, in English, without private user data.
 - [ ] Run Markdown lint, links, PDF geometry/version, language and public-file checks.
 - [ ] Review every staged file and the clean public Git history for private source/data.
-- [ ] Obtain owner approval for documentation/target/branding terms and legal privacy details.
+- [x] Apply owner-approved documentation/target/branding terms and identified copyright holder.
+- [ ] Finalize legal privacy contact and production publication details.
 - [ ] Verify production signing, AAB, target API and current Google Play requirements.
 - [ ] Prepare real release notes, known limitations and actual download/store links.
 - [ ] Do not attach APK/AAB to public Releases without a separate owner decision.

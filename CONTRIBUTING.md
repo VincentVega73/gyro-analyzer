@@ -6,4 +6,4 @@ Use English for public contributions. Read the relevant guide, check existing is
 
 Documentation pull requests should update related guides and keep links valid. Run the repository validation script and Markdown lint. Do not change the target geometry without a reviewed versioned standard and matching detector validation. The private generator is not part of this repository.
 
-Licensing terms remain under owner review. Do not contribute third-party copyrighted material or assume that submission grants a licence for unrelated uses. Follow the [Code of Conduct](CODE_OF_CONDUCT.md).
+Submit documentation contributions under CC BY 4.0 only when you have the necessary rights. Retain third-party attribution and disclose any external material for review. No copyright assignment is required. Do not submit unlicensed third-party material. See [license scope](LICENSE.md). Follow the [Code of Conduct](CODE_OF_CONDUCT.md).
