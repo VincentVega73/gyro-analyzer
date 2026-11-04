@@ -1,0 +1,16 @@
+{
+  "target_version": "GYRO-TARGET-1.0",
+  "circle_diameter_mm": 180,
+  "hole_diameter_mm": 7.5,
+  "marker_diameter_mm": 12,
+  "marker_radius_mm": 65,
+  "marker_rgb": [
+    0,
+    0,
+    0
+  ],
+  "marker_type": "BLACK_ON_WHITE",
+  "control_length_mm": 50,
+  "minimum_marker_diameter_px": 12,
+  "print_scale_tolerance_percent": 1
+}

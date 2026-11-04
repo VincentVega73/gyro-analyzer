@@ -1,0 +1,92 @@
+{
+  "name": "Calibration problem",
+  "description": "Report official-target acquisition or geometry problems",
+  "body": [
+    {
+      "type": "markdown",
+      "attributes": {
+        "value": "Do not post personal information, confidential data, credentials or unreviewed camera images. This repository is public. Describe observed behaviour without unsupported accuracy claims."
+      }
+    },
+    {
+      "type": "textarea",
+      "id": "field-0",
+      "attributes": {
+        "label": "App version and phone model"
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "textarea",
+      "id": "field-1",
+      "attributes": {
+        "label": "Optical target version"
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "textarea",
+      "id": "field-2",
+      "attributes": {
+        "label": "Paper format"
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "textarea",
+      "id": "field-3",
+      "attributes": {
+        "label": "Printer type and scale check"
+      },
+      "validations": {
+        "required": false
+      }
+    },
+    {
+      "type": "textarea",
+      "id": "field-4",
+      "attributes": {
+        "label": "Lighting conditions"
+      },
+      "validations": {
+        "required": false
+      }
+    },
+    {
+      "type": "textarea",
+      "id": "field-5",
+      "attributes": {
+        "label": "Camera position and configuration"
+      },
+      "validations": {
+        "required": false
+      }
+    },
+    {
+      "type": "textarea",
+      "id": "field-6",
+      "attributes": {
+        "label": "Calibration error"
+      },
+      "validations": {
+        "required": false
+      }
+    },
+    {
+      "type": "textarea",
+      "id": "field-7",
+      "attributes": {
+        "label": "Reproduction steps"
+      },
+      "validations": {
+        "required": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "name": "Feature request",
+  "description": "Describe a user problem and a possible improvement",
+  "body": [
+    {
+      "type": "markdown",
+      "attributes": {
+        "value": "Do not post personal information, confidential data, credentials or unreviewed camera images. This repository is public. Describe observed behaviour without unsupported accuracy claims."
+      }
+    },
+    {
+      "type": "textarea",
+      "id": "field-0",
+      "attributes": {
+        "label": "Problem description"
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "textarea",
+      "id": "field-1",
+      "attributes": {
+        "label": "Proposed improvement"
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "textarea",
+      "id": "field-2",
+      "attributes": {
+        "label": "Expected user benefit"
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "textarea",
+      "id": "field-3",
+      "attributes": {
+        "label": "Possible alternatives"
+      },
+      "validations": {
+        "required": false
+      }
+    }
+  ]
+}

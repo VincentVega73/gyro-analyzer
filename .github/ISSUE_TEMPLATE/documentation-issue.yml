@@ -1,0 +1,42 @@
+{
+  "name": "Documentation issue",
+  "description": "Correct missing or inaccurate documentation",
+  "body": [
+    {
+      "type": "markdown",
+      "attributes": {
+        "value": "Do not post personal information, confidential data, credentials or unreviewed camera images. This repository is public. Describe observed behaviour without unsupported accuracy claims."
+      }
+    },
+    {
+      "type": "textarea",
+      "id": "field-0",
+      "attributes": {
+        "label": "Document link"
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "textarea",
+      "id": "field-1",
+      "attributes": {
+        "label": "Incorrect or missing information"
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "textarea",
+      "id": "field-2",
+      "attributes": {
+        "label": "Suggested correction"
+      },
+      "validations": {
+        "required": true
+      }
+    }
+  ]
+}
