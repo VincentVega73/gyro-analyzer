@@ -14,7 +14,7 @@ allowed={'.md','.pdf','.svg','.png','.json','.yml','.yaml','.py','.txt'}
 for p in ROOT.rglob('*'):
     if not p.is_file() or any(part in {'.git','node_modules','__pycache__'} for part in p.relative_to(ROOT).parts):continue
     relative=p.relative_to(ROOT).as_posix()
-    if p.suffix not in allowed and p.name not in {'.gitignore'}:errors.append('Forbidden file type: '+relative)
+    if p.suffix not in allowed and p.name not in {'.gitignore','.gitattributes'}:errors.append('Forbidden file type: '+relative)
     if p.suffix in {'.png','.pdf'}:continue
     text=p.read_text(encoding='utf-8')
     if re.search(r'[\u0400-\u052f\u4e00-\u9fff]',text):errors.append('Non-English script needs review: '+relative)
