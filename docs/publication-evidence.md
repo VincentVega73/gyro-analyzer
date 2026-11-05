@@ -35,7 +35,7 @@ Frames: 640 × 480, 30 FPS, 8 s; 241 frames before omissions; image noise seed 4
 | two_markers | 33.333333 | — | — | rejected as required |
 | camera_move | 33.333333 | — | — | rejected as required |
 
-These are simulated images of the actual PDF, not photographs of printed targets. Physical acceptance remains PENDING.
+These are simulated images of the actual PDF, not photographs of printed targets. This GYRO-106 table describes synthetic evidence only. Subsequent [GYRO-107 field results](accuracy-and-uncertainty.md#field-validation-with-the-official-optical-target) add four physical official-target sessions; broader acceptance remains incomplete.
 
 ## Historical identity
 

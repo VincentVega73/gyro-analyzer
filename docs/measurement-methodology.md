@@ -32,9 +32,55 @@ The [A4 PDF](../targets/gyro-optical-target-a4.pdf) and [Letter PDF](../targets/
 
 Print at 100%, disable fit-to-page, measure the control line and use opaque flat paper. The preparation guide's 1% print-scale criterion is not an RPM accuracy claim. Uniform scale does not directly set RPM because the calculation uses angle rather than linear distance. Distortion, curling, shadows, eccentric mounting and spindle interference can nevertheless impair observation or rotation. Stop the platter before installation; see [target preparation](target-preparation.md).
 
-One marker avoids ambiguous multiple passages per turn. The printed centre locates the intended mounting hole; the actual centre of rotation is estimated from motion. They need not coincide. Historical experimental green-marker recordings do **not** physically validate the official black-marker design. Physical acceptance remains **PENDING**.
+One marker avoids ambiguous multiple passages per turn. The printed centre locates the intended mounting hole; the actual centre of rotation is estimated from motion. They need not coincide. Historical experimental green-marker recordings do **not** physically validate the official black-marker design. Four new physical sessions with the official black target now provide initial field evidence; broader printer/device acceptance remains incomplete. See the real-world validation subsection below.
 
 See [versions](../targets/versions.json) and [SHA-256 checksums](../targets/SHA256SUMS.txt). Modified targets have not passed official compatibility validation unless separately documented. The Official Gyro Optical Target designation is not an absolute-accuracy certification.
+
+## Official Optical Target — Real-World Validation
+
+**Observed in real measurements:** the owner supplied four algorithm-2.2.1 recordings on a Michell Gyro SE using the official printed black-marker GYRO-TARGET-1.0 target. The sequence was **Unloaded → Playback → Playback → Unloaded**. Unloaded means tonearm and stylus not engaged; it does not specify an otherwise identical mechanical load. Target identity, operating condition and use of automatic calibration are owner-reported; the CSV does not store the target version or exact application build. It does store geometry, calibration checks and RPM results. These records are separate from the earlier experimental green-marker collection.
+
+The actual A4 and Letter vector geometry and checksums were rechecked: working diameter 180 mm, black mark 12 mm, offset 65 mm and spindle-opening guide 7.5 mm. The PDFs are deliberately designed for automatic acquisition and orbit calibration. One high-contrast marker simplifies identity and one-turn interpretation; it does not guarantee that segmentation will find only one candidate in the entire camera image.
+
+### Implemented automatic-calibration acceptance
+
+Source inspection, rather than interpretation of status labels, establishes this sequence:
+
+1. Acquire timestamped YUV frames; requested 60 FPS is distinct from delivered/processed cadence.
+2. Segment dark or supported legacy-colour pixels. Screen connected components by size, elongation (at most 2.2), fill (0.50–0.92) and a bright surrounding ring (at least 13 of 16 samples).
+3. Associate candidates through time using position, area and marker mode; reject ambiguous associations and expire stale tracks.
+4. Accumulate at least 60 points over at least two seconds; retain a bounded recent orbit history.
+5. Fit robust circle/ellipse geometry. Acquisition requires radius/marker-diameter ratio 3.0–8.5, fit residual at most max(1.5 px, 0.015 radius) and inlier confidence at least 0.9.
+6. Require three consistent fits: centre change below 1.2 px and each axis change below 1.5 px. More than one ready track or another plausible moving candidate prevents lock.
+7. Select the locked marker and independently validate spatial observations in three-second windows. A sufficient window has at least 60 observations covering 10 of 12 phase bins. Tolerance is max(1.5 px, 4 × max(0.35 px, fit residual)); no more than 35% may lie outside it for VALIDATED. Three sufficient failing windows invalidate geometry; insufficient coverage is VALIDATING, and prolonged absence of evidence becomes unverified.
+8. Official-target readiness requires accepted validation. Precision-start checks also require usable geometry and current observations; readiness is not a timer-only decision.
+
+All four recordings end with `calibration_validation = VALIDATED`. In M01, 2,321 earlier rows are VALIDATING and 6,194 are VALIDATED; the other three retain VALIDATED throughout their exported rows. These files start after acquisition, so first-attempt count, unsuccessful attempts and time-to-lock are unavailable. Accepted calibration proves that the implemented checks accepted those observations, **not that geometric error is zero** or that every possible accepted calibration is correct.
+
+### Field model selection and tracking
+
+M01/M03/M04 use CIRCLE; M02 uses ELLIPSE_AFFINE. The selector returns a circle immediately when its residual is below 0.35 px. Otherwise it tests a robust ellipse; a nearly circular ellipse (minor/major axis ratio above 0.995) does not justify extra parameters when a circle is available. Alternating training/validation points must show ellipse median spatial error below 65% of the circle error, with the training ellipse centre consistent with the full ellipse. Fit failure can fall back to a circle. Neither model name is a quality ranking.
+
+The saved models are fixed throughout these recordings. The pre-recording candidate points and competing fit scores are not exported, so the exact selection branch for an individual session cannot be replayed from these files. M02's accepted ellipse and the other accepted circles are consistent with the implemented choices; the files do not independently prove why every alternative lost. The original circle/ellipse and displaced-centre diagrams in section 5 explain the geometric consequences.
+
+Valid exported-row coverage is M01 63.993%, M02 99.921%, M03 89.624% and M04 93.631%. Illumination, reflections, thresholding, background regions, camera position and processing can affect observations. The CSV alone does not identify which physical cause dominated a loss.
+
+`COMPETING_MARKERS` means the tracker found additional surviving candidate components whose area exceeds 60% of the best candidate's area. A near-tie in distance (under 8 px difference) lowers confidence to 0.25 and fails the measurement confidence gate of 0.4. A more distant extra component can set the flag while the best observation remains accepted. Components are image regions, not a count of confirmed physical markers. Area, temporal association, brightness, geometry and phase gates reject unsuitable observations. Without diagnostic images, assigning candidates to the spindle hole, reflection or a specific background object would be speculation.
+
+### Tracking segments, phase blocks and windows
+
+| Session | Segment IDs | Valid runs | Phase blocks | Global-phase values | Geometry residual px | COMPETING_MARKERS rows |
+| --- | --- | --- | --- | --- | --- | --- |
+| M01 | 191 | 190 | 3 | 1 | 0.242936 | 4232 |
+| M02 | 2 | 2 | 1 | 10174 | 0.203028 | 5338 |
+| M03 | 165 | 165 | 1 | 9139 | 0.560231 | 7919 |
+| M04 | 134 | 134 | 1 | 9556 | 0.337985 | 8440 |
+
+Segment IDs count interruption state changes; a phase block changes only when the turn continuation is ambiguous or explicitly broken. Short recovered losses can therefore create many tracking segments while preserving one phase block. The number of valid runs is an independently counted number of contiguous accepted-row sequences. M01 has 191 exported IDs but only 190 valid runs: its last segment contains no accepted observation. Calling all 191 IDs successful tracking runs would be incorrect.
+
+M01 has one accepted point in block 0, 625 in block 1 and 4,823 in block 2. New blocks start at 0.267177 s and 28.586260 s with phase-ambiguity flags. `global_unwrapped_theta` is intentionally exported only for valid observations in block 0. Thus only one M01 row contains it. Every row in all four files follows this rule exactly; no serialization defect is demonstrated. Local `unwrapped_theta_rad` remains available in later blocks, and fixed-intercept-per-block regression estimates RPM without asserting unknown global turns.
+
+An RPM window is a time interval selected for a fit, not a tracking segment or a phase block. It can include several supported pieces with independent phase origins. Predictions are never added as observations. The [field results and limits](accuracy-and-uncertainty.md#field-validation-with-the-official-optical-target) quantify these distinctions.
 
 ## 3. Camera acquisition and timing
 
@@ -147,15 +193,21 @@ Both methods share timestamps, coordinates, geometry and phase. They are mathema
 
 At 33⅓ RPM, ω = 10π/9 = 3.490658504 rad/s and T = 1.8 s. At 60 observations/s the ideal phase increment is 0.058177642 rad. Sixty turns span 108 s: 60 × 60/108 = 33.333333333 RPM. Phase conversion 60ω/(2π) agrees. Twelve implementation tests cover 33⅓/45 RPM, 30/60/120 FPS and both directions over 65 s; both estimators satisfy a 10⁻⁸ RPM numerical tolerance. This validates arithmetic, not physical accuracy.
 
-### Real historical recording, with rejected calibration
+### Field example M02: excellent coverage, changing block speed
 
-Reference C, SHA-256 `f1162eb0093cfbc75d65390cc98e4cccc37ffd5be7c2d97d6d6bbc27da4fe2ae`, has 13,366 rows over 243.306987 s. Its stored algorithm is 2.1.0; original app build is absent. It is from the experimental-marker collection, not official-target acceptance. Per-file target identity and environment were not independently recorded.
+The playback recording spans 180.011146 s and accepts 10,174 of 10,182 rows (99.921%). It uses ELLIPSE_AFFINE, two segment IDs and one phase block, ending with VALIDATED calibration and RELIABLE_MODEL all-history quality. At the last exported updates, Phase Regression gives 33.237167164 RPM, Revolution Timing 33.236674421 RPM and the all-history result 33.237261751 RPM. The all-history result uses all accepted phases to its update time; the paired methods use common supported crossing intervals. They need not equal each other.
 
-At elapsed 9.050253 s an accepted observation was (512.179268, 297.502568) px. The final reported ellipse has centre (385.154307, 307.460692) px, axes (128.926142, 127.094023) px and orientation 1.524318470 rad. Substitution gives u = −0.031379573, v = −1.002017634 and atan2(v,u) = −1.602102484 rad. The online phase was −0.073389851 rad, using geometry available then. Final analysis reprojects history as geometry changes; this approximately quarter-turn origin difference illustrates why intermediate values must retain their geometry version rather than mixing online and final coordinates.
+Independent Python code reconstructs the three-pass weighted, block-centred phase slope and the four-pass crossing-time regression from accepted exported phase/time observations. It reproduces all three numbers within 10⁻⁹ RPM. The unchanged Kotlin source also reproduces their conditional uncertainty fields. High tracking coverage does not establish stationary rotation: the first independent 30-second fit is 33.307267 RPM, followed by 33.239440 RPM, with later blocks nearer 33.23 RPM. The cause is not isolated by these data.
 
-On supported comparison intervals, current algorithm 2.2.1 gives ω = 3.510514745181 rad/s and 33.522946470 RPM. Crossing regression gives T = 1.789830757022 s and 33.522722618 RPM from 131 events and 130 supported turns. Endpoint timing gives 33.521865381 RPM over 232.683949 s.
+### Field example M01: interrupted tracking with usable local phase
 
-Final status is **UNRELIABLE / GEOMETRY_INVALIDATED**, with a drift indication. A small difference of −0.000223852 RPM does not restore validity. Computed intervals are diagnostic, not a validated measurement uncertainty. This example demonstrates both the calculation and its rejection status.
+The unloaded recording spans 147.312761 s and accepts 5,449 of 8,515 rows (63.993%). It uses CIRCLE, 191 exported segment IDs (190 accepted runs) and three phase blocks. Final calibration is VALIDATED, all-history quality is RELIABLE_MODEL, and the paired status is METHODS_CONSISTENT_ABSOLUTE_UNKNOWN. Earlier low-coverage and unreliable states remain part of the record.
+
+The last exported Phase Regression result is 33.260638153 RPM, Revolution Timing 33.260723459 RPM, and all-history RPM 33.260559648. Independent fitting reproduces all three within 10⁻⁹ RPM despite only one populated global-phase row: local phase plus block-specific intercepts is sufficient. The first 30-second interval has only 38.933% accepted-row coverage; the final 27.313-second interval is partial. Both are visibly flagged in the field chart, not treated as ordinary full accepted blocks.
+
+### Export time versus finalization
+
+These examples reproduce the **last values exported in the CSV**, matching the supplied checkpoints. All-history fits refresh about once per second; paired estimates refresh about every five seconds. The last rows therefore contain cached fits ending slightly earlier than the recording. The reconstruction uses the last change of each result field to locate its corresponding prefix. Post-stop finalization can write newer results to companion JSON without adding a final CSV row; no companion JSON was supplied. The examples must not be described as verified post-stop JSON summaries. See [aggregate evidence](field-validation-results.json) for update times and independently calculated results.
 
 ## 11. Limitations and references
 

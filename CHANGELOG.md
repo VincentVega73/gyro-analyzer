@@ -4,6 +4,12 @@ Changes follow the categories used by Keep a Changelog. No production applicatio
 
 ## Unreleased — 1.0 Stage 1
 
+### Field documentation — GYRO-107, 2026-11-05
+
+- Updated the existing methodology and uncertainty papers with four official black-target physical sessions and independent numerical reproduction.
+- Added seven measured-data figures, explicit phase/export semantics and exploratory unloaded/playback comparison; no causal stylus-drag or absolute-accuracy claim.
+- Reclassified target evidence from no physical tests to initial field evidence while retaining broader acceptance gaps. No Android measurement algorithm changed.
+
 ### Documentation — 2026-11-05
 
 - Published implementation-based measurement methodology and uncertainty papers for algorithm 2.2.1, with original diagrams and fresh aggregate validation results.

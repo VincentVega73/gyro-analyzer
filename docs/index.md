@@ -13,4 +13,4 @@
 - [Measuring RPM](measuring-rpm.md), [understanding results](understanding-results.md), [troubleshooting](troubleshooting.md) and [FAQ](faq.md).
 - [Validation status](validation-status.md), [physical protocol](physical-test-protocol.md), [privacy](privacy.md) and [support](support.md).
 
-Return to the [project README](../README.md). Physical acceptance of the official black-marker target remains pending.
+Return to the [project README](../README.md). The [initial official-target field study](accuracy-and-uncertainty.md#field-validation-with-the-official-optical-target) documents four physical sessions; broad acceptance and absolute calibration remain unestablished.

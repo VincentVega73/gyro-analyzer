@@ -1,6 +1,6 @@
 # Gyro Optical Target
 
-Version: **GYRO-TARGET-1.0**. Development target; physical printer/device acceptance remains pending.
+Version: **GYRO-TARGET-1.0**. Development target with [initial physical field evidence](../docs/accuracy-and-uncertainty.md#field-validation-with-the-official-optical-target); broader printer/device acceptance remains incomplete.
 
 | Property | Value |
 | --- | --- |

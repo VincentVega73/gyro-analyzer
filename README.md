@@ -6,7 +6,7 @@ Camera-based, contact-free measurement of average turntable rotational speed on 
 
 **In development: 1.0 Stage 1.** This repository is the public documentation and printable-target workspace. It does not contain the Android application source code. The first Google Play release is not yet available. No public APK/AAB is distributed here. Development version numbering previously reached UI 3.0; the product release line starts at 1.0, with monotonically increasing Android version codes.
 
-The new monochrome target and automatic acquisition are under validation. Synthetic tests are not a substitute for printed-target tests on physical devices. Do not interpret the repository description as a certified accuracy claim.
+The official monochrome target now has initial physical evidence from four Michell Gyro SE sessions, with accepted final calibration and independently reproduced CSV calculations. Broader phone/printer compatibility and first-attempt success rates remain unvalidated. Do not interpret the repository description as a certified accuracy claim.
 
 ## Overview
 
@@ -46,7 +46,7 @@ Resolution is the displayed increment. Statistical uncertainty describes the fit
 ## Documentation
 
 - [Documentation index](docs/index.md) and [verified publication evidence](docs/publication-evidence.md).
-- Engineering papers: [Optical Measurement Methodology](docs/measurement-methodology.md) and [Accuracy, Uncertainty and Validation](docs/accuracy-and-uncertainty.md), verified against algorithm 2.2.1. Historical replay includes invalidated geometry; official-target physical acceptance remains pending.
+- Engineering papers: [Optical Measurement Methodology](docs/measurement-methodology.md) and [Accuracy, Uncertainty and Validation](docs/accuracy-and-uncertainty.md), verified against algorithm 2.2.1. Historical replay includes invalidated geometry; four new official-target field sessions are documented with their tracking, timing and uncertainty limits.
 - [Complete user guide](docs/user-guide.md) and [getting started](docs/getting-started.md).
 - [Camera setup](docs/camera-setup.md), [target standard](targets/README.md) and [automatic calibration](docs/automatic-calibration.md).
 - [Measuring RPM](docs/measuring-rpm.md), [results](docs/understanding-results.md), [methodology](docs/measurement-methodology.md) and [accuracy](docs/accuracy-and-uncertainty.md).
@@ -55,7 +55,7 @@ Resolution is the displayed increment. Statistical uncertainty describes the fit
 
 ## Downloads
 
-Official design files: [A4](targets/gyro-optical-target-a4.pdf), [US Letter](targets/gyro-optical-target-letter.pdf). Both use GYRO-TARGET-1.0, a single black marker and the same physical geometry. Physical acceptance is pending; see the [validation status](docs/validation-status.md). A Google Play link will be added only after publication.
+Official design files: [A4](targets/gyro-optical-target-a4.pdf), [US Letter](targets/gyro-optical-target-letter.pdf). Both use GYRO-TARGET-1.0, a single black marker and the same physical geometry. Initial physical sessions are documented; broader acceptance remains incomplete. See the [validation status](docs/validation-status.md). A Google Play link will be added only after publication.
 
 ## Support and feedback
 
