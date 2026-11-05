@@ -4,6 +4,12 @@ Changes follow the categories used by Keep a Changelog. No production applicatio
 
 ## Unreleased — 1.0 Stage 1
 
+### Documentation — 2026-11-05
+
+- Published implementation-based measurement methodology and uncertainty papers for algorithm 2.2.1, with original diagrams and fresh aggregate validation results.
+- Added an evidence register and navigation index. Historical invalidation statuses and missing before/after adjustment evidence are explicitly retained.
+- No Android measurement algorithm changed; official printed-target physical acceptance remains pending.
+
 ### Added
 
 - Monochrome GYRO-TARGET-1.0 A4/US Letter vector PDFs and offline target tools.

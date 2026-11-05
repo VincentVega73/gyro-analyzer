@@ -45,6 +45,8 @@ Resolution is the displayed increment. Statistical uncertainty describes the fit
 
 ## Documentation
 
+- [Documentation index](docs/index.md) and [verified publication evidence](docs/publication-evidence.md).
+- Engineering papers: [Optical Measurement Methodology](docs/measurement-methodology.md) and [Accuracy, Uncertainty and Validation](docs/accuracy-and-uncertainty.md), verified against algorithm 2.2.1. Historical replay includes invalidated geometry; official-target physical acceptance remains pending.
 - [Complete user guide](docs/user-guide.md) and [getting started](docs/getting-started.md).
 - [Camera setup](docs/camera-setup.md), [target standard](targets/README.md) and [automatic calibration](docs/automatic-calibration.md).
 - [Measuring RPM](docs/measuring-rpm.md), [results](docs/understanding-results.md), [methodology](docs/measurement-methodology.md) and [accuracy](docs/accuracy-and-uncertainty.md).
