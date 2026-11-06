@@ -17,7 +17,10 @@ for p in ROOT.rglob('*'):
     if p.suffix not in allowed and p.name not in {'.gitignore','.gitattributes'}:errors.append('Forbidden file type: '+relative)
     if p.suffix in {'.png','.pdf'}:continue
     text=p.read_text(encoding='utf-8')
-    if re.search(r'[\u0400-\u052f\u4e00-\u9fff]',text):errors.append('Non-English script needs review: '+relative)
+    # Factory designations and transcriptions retain their source language.
+    catalog_text = (relative.startswith('catalog/manufacturers/') and p.suffix == '.json') or relative in {
+        'catalog/dist/catalog.json', 'catalog/catalog.py', 'catalog/test_catalog.py', 'catalog/README.md'}
+    if re.search(r'[\u4e00-\u9fff]' if catalog_text else r'[\u0400-\u052f\u4e00-\u9fff]',text):errors.append('Non-English script needs review: '+relative)
     # Common secret formats, local private paths and application-source markers.
     patterns=[r'gh[pousr]_[A-Za-z0-9]{30,}',r'github_pat_[A-Za-z0-9_]{30,}',r'AKIA[A-Z0-9]{16}',r'-----BEGIN [A-Z ]*PRIVATE KEY-----',r'[A-Z]:\\Users\\',r'package\s+ru\.gyro\.tachometer',r'(?i)(password|token|api_key)\s*[:=]\s*[\"\x27][A-Za-z0-9_-]{20,}']
     for pattern in patterns:

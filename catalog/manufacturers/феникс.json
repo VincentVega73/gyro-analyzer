@@ -1,0 +1,106 @@
+[
+  {
+    "model_id": "feniks-0001",
+    "manufacturer": "Феникс",
+    "model": "Феникс ЭП-008С",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/feniks_ep008s_in.djvu",
+        "title": "Феникс ЭП-008С — руководство по эксплуатации",
+        "page": 3
+      },
+      {
+        "key": "history",
+        "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/feniks_ep008s.html",
+        "title": "Отечественная радиотехника XX века — Феникс ЭП-008С"
+      }
+    ],
+    "production_evidence": {
+      "country": "USSR",
+      "year": 1986,
+      "source": "history"
+    },
+    "factory": {
+      "value": "Львовский завод телеграфной аппаратуры",
+      "source": "history"
+    },
+    "drive_type": {
+      "value": "direct",
+      "source": "identity"
+    },
+    "speeds_rpm": {
+      "value": [
+        "3333/100",
+        "4511/100"
+      ],
+      "source": "identity",
+      "original": "33,33; 45,11 об/мин"
+    },
+    "specifications": [
+      {
+        "name": "wow_and_flutter",
+        "original": "Коэффициент детонации, не более 0,07 %",
+        "value": "≤ 0.07",
+        "unit": "%",
+        "source": "identity"
+      }
+    ]
+  },
+  {
+    "model_id": "feniks-0002",
+    "manufacturer": "Феникс",
+    "model": "Феникс ЭП-009С",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/feniks_ep009instr.djvu",
+        "title": "Феникс ЭП-009С — руководство по эксплуатации",
+        "page": 5
+      },
+      {
+        "key": "history",
+        "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/feniks_ep009s.html",
+        "title": "Отечественная радиотехника XX века — Феникс ЭП-009С"
+      },
+      {
+        "key": "sheet3",
+        "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/feniks_ep009instr.djvu",
+        "title": "Феникс ЭП-009С — руководство по эксплуатации",
+        "page": 3
+      }
+    ],
+    "production_evidence": {
+      "country": "USSR",
+      "year": 1991,
+      "source": "sheet3"
+    },
+    "factory": {
+      "value": "Львовский завод телеграфной аппаратуры",
+      "source": "history"
+    },
+    "drive_type": {
+      "value": "direct",
+      "source": "identity"
+    },
+    "speeds_rpm": {
+      "value": [
+        "3333/100",
+        "4511/100"
+      ],
+      "source": "identity",
+      "original": "33,33; 45,11 об/мин"
+    },
+    "specifications": [
+      {
+        "name": "wow_and_flutter",
+        "original": "Коэффициент детонации, не более 0,05%",
+        "value": "≤ 0.05",
+        "unit": "%",
+        "source": "identity"
+      }
+    ]
+  }
+]

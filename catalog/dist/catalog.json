@@ -1,5 +1,5 @@
 {
-  "catalog_version": "1.1.0",
+  "catalog_version": "1.2.0",
   "models": [
     {
       "aliases": [],
@@ -1896,7 +1896,1121 @@
           "url": "https://www.thorens.com/en/items/products/turntables.html"
         }
       ]
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "direct"
+      },
+      "factory": {
+        "source": "warranty",
+        "value": "Рижский электромеханический завод ПО «Радиотехника»"
+      },
+      "manufacturer": "Ария",
+      "model": "Ария-102-стерео",
+      "model_id": "aria-0001",
+      "product_standard": {
+        "source": "identity",
+        "value": "ГОСТ 24470-80"
+      },
+      "production_evidence": {
+        "country": "USSR",
+        "source": "history",
+        "year": 1986
+      },
+      "sources": [
+        {
+          "key": "identity",
+          "page": 5,
+          "title": "Ария-102-стерео — руководство по эксплуатации",
+          "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/arija102instr.djvu"
+        },
+        {
+          "key": "history",
+          "title": "Отечественная радиотехника XX века — Ария-102-стерео",
+          "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/arija102.html"
+        },
+        {
+          "key": "sheet3",
+          "page": 3,
+          "title": "Ария-102-стерео — руководство по эксплуатации",
+          "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/arija102instr.djvu"
+        },
+        {
+          "key": "sheet4",
+          "page": 4,
+          "title": "Ария-102-стерео — руководство по эксплуатации",
+          "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/arija102instr.djvu"
+        },
+        {
+          "key": "warranty",
+          "page": 10,
+          "title": "Ария-102-стерео — руководство по эксплуатации",
+          "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/arija102instr.djvu"
+        }
+      ],
+      "specifications": [
+        {
+          "condition": "33,33 мин⁻¹",
+          "method": "абсолютная величина",
+          "name": "wow_and_flutter",
+          "original": "Коэффициент детонации воспроизводимого звука на частоте вращения 33,33 мин⁻¹ (абсолютная величина), %, не более 0,12",
+          "source": "sheet4",
+          "unit": "%",
+          "value": "≤ 0.12"
+        }
+      ],
+      "speeds_rpm": {
+        "original": "33,33; 45,11 об/мин",
+        "source": "sheet3",
+        "value": [
+          "3333/100",
+          "4511/100"
+        ]
+      }
+    },
+    {
+      "aliases": [],
+      "factory": {
+        "source": "history",
+        "value": "Бердский радиозавод"
+      },
+      "manufacturer": "Арктур",
+      "model": "Арктур-006-стерео",
+      "model_id": "arktur-0001",
+      "production_evidence": {
+        "country": "USSR",
+        "source": "history",
+        "year": 1983
+      },
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Арктур-006-стерео — руководство по эксплуатации",
+          "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/arktur006in.djvu"
+        },
+        {
+          "key": "history",
+          "title": "Отечественная радиотехника XX века — Арктур-006-стерео",
+          "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/arktur006s.html"
+        },
+        {
+          "key": "sheet4",
+          "page": 4,
+          "title": "Арктур-006-стерео — руководство по эксплуатации",
+          "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/arktur006in.djvu"
+        },
+        {
+          "key": "sheet3",
+          "page": 3,
+          "title": "Арктур-006-стерео — руководство по эксплуатации",
+          "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/arktur006in.djvu"
+        }
+      ],
+      "specifications": [
+        {
+          "condition": "33,33 об/мин",
+          "method": "абсолютная величина",
+          "name": "wow_and_flutter",
+          "original": "Коэффициент детонации (абсолютная величина) на частоте вращения 33,33 об/мин не более 0,10%.",
+          "source": "sheet3",
+          "unit": "%",
+          "value": "≤ 0.10"
+        }
+      ],
+      "speeds_rpm": {
+        "original": "33 1/3; 45,11 об/мин",
+        "source": "sheet4",
+        "value": [
+          "100/3",
+          "4511/100"
+        ]
+      }
+    },
+    {
+      "aliases": [],
+      "factory": {
+        "source": "identity",
+        "value": "Бердский радиозавод"
+      },
+      "manufacturer": "Вега",
+      "model": "Вега-106-стерео",
+      "model_id": "vega-0001",
+      "production_evidence": {
+        "country": "USSR",
+        "source": "history",
+        "year": 1976
+      },
+      "sources": [
+        {
+          "key": "identity",
+          "page": 2,
+          "title": "Вега-106-стерео — руководство по эксплуатации",
+          "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/wega106st_instr.djvu"
+        },
+        {
+          "key": "history",
+          "title": "Отечественная радиотехника XX века — Вега-106-стерео",
+          "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/wega106s.html"
+        },
+        {
+          "key": "controls",
+          "page": 4,
+          "title": "Вега-106-стерео — руководство по эксплуатации",
+          "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/wega106st_instr.djvu"
+        },
+        {
+          "key": "nominal",
+          "page": 5,
+          "title": "Вега-106-стерео — руководство по эксплуатации",
+          "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/wega106st_instr.djvu"
+        }
+      ],
+      "speeds_rpm": {
+        "condition": "Двухскоростное исполнение. На листе 4 указаны положения переключателя; на листе 5 (nominal) для первой скорости указано 33 1/3 об/мин.",
+        "original": "33 об/мин; 45 об/мин",
+        "source": "controls",
+        "value": [
+          "100/3",
+          "45"
+        ]
+      }
+    },
+    {
+      "aliases": [],
+      "factory": {
+        "source": "history",
+        "value": "Бердский радиозавод"
+      },
+      "manufacturer": "Вега",
+      "model": "Вега-ЭП-110-стерео",
+      "model_id": "vega-0002",
+      "production_evidence": {
+        "country": "USSR",
+        "source": "history",
+        "year": 1987
+      },
+      "sources": [
+        {
+          "key": "identity",
+          "page": 8,
+          "title": "Вега-ЭП-110-стерео — руководство по эксплуатации",
+          "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/wega_ep110st_instr.djvu"
+        },
+        {
+          "key": "history",
+          "title": "Отечественная радиотехника XX века — Вега-ЭП-110-стерео",
+          "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/wega_ep110s.html"
+        }
+      ],
+      "speeds_rpm": {
+        "original": "33,33; 45,11 об/мин",
+        "source": "identity",
+        "value": [
+          "3333/100",
+          "4511/100"
+        ]
+      }
+    },
+    {
+      "aliases": [],
+      "factory": {
+        "source": "identity",
+        "value": "Бердский радиозавод"
+      },
+      "manufacturer": "Вега",
+      "model": "Вега-ЭП-120-стерео",
+      "model_id": "vega-0003",
+      "production_evidence": {
+        "country": "USSR",
+        "source": "history",
+        "year": 1984
+      },
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Вега-ЭП-120-стерео — руководство по эксплуатации",
+          "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/wega_ep120s_in.djvu"
+        },
+        {
+          "key": "history",
+          "title": "Отечественная радиотехника XX века — Вега-ЭП-120-стерео",
+          "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/wega_ep120s.html"
+        },
+        {
+          "key": "sheet4",
+          "page": 4,
+          "title": "Вега-ЭП-120-стерео — руководство по эксплуатации",
+          "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/wega_ep120s_in.djvu"
+        }
+      ],
+      "speeds_rpm": {
+        "original": "33,33; 45,11 об/мин",
+        "source": "sheet4",
+        "value": [
+          "3333/100",
+          "4511/100"
+        ]
+      }
+    },
+    {
+      "aliases": [],
+      "factory": {
+        "source": "history",
+        "value": "Бердский радиозавод"
+      },
+      "manufacturer": "Вега",
+      "model": "Вега ЭП-122С",
+      "model_id": "vega-0004",
+      "product_standard": {
+        "source": "sheet3",
+        "value": "ГОСТ 11157-87"
+      },
+      "production_evidence": {
+        "country": "USSR",
+        "source": "history",
+        "year": 1990
+      },
+      "sources": [
+        {
+          "key": "identity",
+          "page": 2,
+          "title": "Вега ЭП-122С — руководство по эксплуатации",
+          "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/wega_ep122s_in.djvu"
+        },
+        {
+          "key": "history",
+          "title": "Отечественная радиотехника XX века — Вега ЭП-122С",
+          "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/wega_ep122.html"
+        },
+        {
+          "key": "sheet3",
+          "page": 3,
+          "title": "Вега ЭП-122С — руководство по эксплуатации",
+          "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/wega_ep122s_in.djvu"
+        }
+      ],
+      "specifications": [
+        {
+          "name": "wow_and_flutter",
+          "original": "Коэффициент детонации не более 0,13%.",
+          "source": "sheet3",
+          "unit": "%",
+          "value": "≤ 0.13"
+        }
+      ],
+      "speeds_rpm": {
+        "original": "33,33; 45,11 об/мин",
+        "source": "sheet3",
+        "value": [
+          "3333/100",
+          "4511/100"
+        ]
+      }
+    },
+    {
+      "aliases": [],
+      "factory": {
+        "source": "history",
+        "value": "Ярославский радиозавод"
+      },
+      "manufacturer": "Импульс",
+      "model": "Импульс-201-стерео",
+      "model_id": "impuls-0001",
+      "production_evidence": {
+        "country": "USSR",
+        "source": "history",
+        "year": 1982
+      },
+      "sources": [
+        {
+          "key": "identity",
+          "page": 2,
+          "title": "Импульс-201-стерео — руководство по эксплуатации",
+          "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/impuls201instr.djvu"
+        },
+        {
+          "key": "history",
+          "title": "Отечественная радиотехника XX века — Импульс-201-стерео",
+          "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/impuls201s.html"
+        },
+        {
+          "key": "sheet5",
+          "page": 5,
+          "title": "Импульс-201-стерео — руководство по эксплуатации",
+          "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/impuls201instr.djvu"
+        }
+      ],
+      "specifications": [
+        {
+          "name": "wow_and_flutter",
+          "original": "Коэффициент детонации, %, не более 0,20",
+          "source": "sheet5",
+          "unit": "%",
+          "value": "≤ 0.20"
+        }
+      ],
+      "speeds_rpm": {
+        "original": "33,33; 45,11 об/мин",
+        "source": "sheet5",
+        "value": [
+          "3333/100",
+          "4511/100"
+        ]
+      }
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "sheet6",
+        "value": "direct"
+      },
+      "factory": {
+        "source": "history",
+        "value": "Кировский завод «Ладога»"
+      },
+      "manufacturer": "Корвет",
+      "model": "Корвет-038-стерео",
+      "model_id": "korvet-0002",
+      "product_standard": {
+        "source": "sheet5",
+        "value": "ГОСТ 24470-80"
+      },
+      "production_evidence": {
+        "country": "USSR",
+        "source": "history",
+        "year": 1983
+      },
+      "sources": [
+        {
+          "key": "identity",
+          "page": 3,
+          "title": "Корвет-038-стерео — руководство по эксплуатации",
+          "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/korwet038in.djvu"
+        },
+        {
+          "key": "history",
+          "title": "Отечественная радиотехника XX века — Корвет-038-стерео",
+          "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/korwet038s.html"
+        },
+        {
+          "key": "sheet6",
+          "page": 6,
+          "title": "Корвет-038-стерео — руководство по эксплуатации",
+          "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/korwet038in.djvu"
+        },
+        {
+          "key": "sheet4",
+          "page": 4,
+          "title": "Корвет-038-стерео — руководство по эксплуатации",
+          "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/korwet038in.djvu"
+        },
+        {
+          "key": "sheet5",
+          "page": 5,
+          "title": "Корвет-038-стерео — руководство по эксплуатации",
+          "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/korwet038in.djvu"
+        }
+      ],
+      "specifications": [
+        {
+          "method": "абсолютная величина",
+          "name": "wow_and_flutter",
+          "original": "Коэффициент детонации (абсолютная величина), %, не более 0,1",
+          "source": "sheet4",
+          "unit": "%",
+          "value": "≤ 0.1"
+        }
+      ],
+      "speeds_rpm": {
+        "original": "33,33; 45,11 об/мин",
+        "source": "sheet4",
+        "value": [
+          "3333/100",
+          "4511/100"
+        ]
+      }
+    },
+    {
+      "aliases": [],
+      "factory": {
+        "source": "history",
+        "value": "Кировский завод «Ладога»"
+      },
+      "manufacturer": "Корвет",
+      "model": "ЭП-003 «Корвет»",
+      "model_id": "korvet-0001",
+      "production_evidence": {
+        "country": "USSR",
+        "source": "history",
+        "year": 1978
+      },
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "ЭП-003 «Корвет» — руководство по эксплуатации",
+          "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/korwet003in.djvu"
+        },
+        {
+          "key": "history",
+          "title": "Отечественная радиотехника XX века — ЭП-003 «Корвет»",
+          "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/korwet003.html"
+        },
+        {
+          "key": "sheet6",
+          "page": 6,
+          "title": "ЭП-003 «Корвет» — руководство по эксплуатации",
+          "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/korwet003in.djvu"
+        }
+      ],
+      "specifications": [
+        {
+          "name": "wow_and_flutter",
+          "original": "Коэффициент детонации, не более 0,1 (+0,05) %",
+          "source": "sheet6",
+          "unit": "%",
+          "value": "≤ 0.1 (+0.05)"
+        }
+      ],
+      "speeds_rpm": {
+        "original": "33 1/3; 45,11 об/мин",
+        "source": "sheet6",
+        "value": [
+          "100/3",
+          "4511/100"
+        ]
+      }
+    },
+    {
+      "aliases": [],
+      "factory": {
+        "source": "history",
+        "value": "Ижевский ЭМЗ"
+      },
+      "manufacturer": "Орфей",
+      "model": "Орфей-101-стерео",
+      "model_id": "orfey-0001",
+      "product_standard": {
+        "source": "sheet3",
+        "value": "ГОСТ 24470-80"
+      },
+      "production_evidence": {
+        "country": "USSR",
+        "source": "history",
+        "year": 1981
+      },
+      "sources": [
+        {
+          "key": "identity",
+          "page": 2,
+          "title": "Орфей-101-стерео — руководство по эксплуатации",
+          "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/orfey101s_in.djvu"
+        },
+        {
+          "key": "history",
+          "title": "Отечественная радиотехника XX века — Орфей-101-стерео",
+          "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/orfey101s.html"
+        },
+        {
+          "key": "sheet3",
+          "page": 3,
+          "title": "Орфей-101-стерео — руководство по эксплуатации",
+          "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/orfey101s_in.djvu"
+        }
+      ],
+      "specifications": [
+        {
+          "method": "абсолютная величина",
+          "name": "wow_and_flutter",
+          "original": "Коэффициент детонации, абсолютная величина; %, не более 0,15",
+          "source": "sheet3",
+          "standard": "ГОСТ 24470-80",
+          "unit": "%",
+          "value": "≤ 0.15"
+        }
+      ],
+      "speeds_rpm": {
+        "original": "33,33; 45,11 об/мин",
+        "source": "sheet3",
+        "value": [
+          "3333/100",
+          "4511/100"
+        ]
+      }
+    },
+    {
+      "aliases": [],
+      "factory": {
+        "source": "history",
+        "value": "Рижский завод имени А. С. Попова"
+      },
+      "manufacturer": "Радиотехника",
+      "model": "Радиотехника-001-стерео",
+      "model_id": "radiotehnika-0001",
+      "production_evidence": {
+        "country": "USSR",
+        "source": "history",
+        "year": 1980
+      },
+      "sources": [
+        {
+          "key": "identity",
+          "page": 2,
+          "title": "Радиотехника-001-стерео — руководство по эксплуатации",
+          "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/radiotehnika001instr.djvu"
+        },
+        {
+          "key": "history",
+          "title": "Отечественная радиотехника XX века — Радиотехника-001-стерео",
+          "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/radiotehnika001.html"
+        },
+        {
+          "key": "sheet5",
+          "page": 5,
+          "title": "Радиотехника-001-стерео — руководство по эксплуатации",
+          "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/radiotehnika001instr.djvu"
+        }
+      ],
+      "specifications": [
+        {
+          "method": "абсолютная величина",
+          "name": "wow_and_flutter",
+          "original": "Коэффициент детонации (абсолютная величина) 0,1 (+0,05)%.",
+          "source": "sheet5",
+          "unit": "%",
+          "value": "0.1 (+0.05)"
+        }
+      ],
+      "speeds_rpm": {
+        "original": "33 1/3; 45,11 об/мин",
+        "source": "sheet5",
+        "value": [
+          "100/3",
+          "4511/100"
+        ]
+      }
+    },
+    {
+      "aliases": [],
+      "factory": {
+        "source": "history",
+        "value": "Рижский радиозавод имени А. С. Попова"
+      },
+      "manufacturer": "Радиотехника",
+      "model": "Радиотехника-ЭП-101-стерео",
+      "model_id": "radiotehnika-0002",
+      "production_evidence": {
+        "country": "USSR",
+        "source": "history",
+        "year": 1983
+      },
+      "sources": [
+        {
+          "key": "identity",
+          "page": 3,
+          "title": "Радиотехника-ЭП-101-стерео — руководство по эксплуатации",
+          "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/radiotehnika_ep101in.djvu"
+        },
+        {
+          "key": "history",
+          "title": "Отечественная радиотехника XX века — Радиотехника-ЭП-101-стерео",
+          "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/radiotehnika_ep101.html"
+        }
+      ],
+      "specifications": [
+        {
+          "condition": "33,33 и 45,11 об/мин",
+          "method": "абсолютная величина",
+          "name": "wow_and_flutter",
+          "original": "Коэффициент детонации (абсолютная величина), не более, 0,15%, при частотах вращения 33,33 и 45,11 об/мин.",
+          "source": "identity",
+          "unit": "%",
+          "value": "≤ 0.15"
+        }
+      ],
+      "speeds_rpm": {
+        "original": "33,33; 45,11 об/мин",
+        "source": "identity",
+        "value": [
+          "3333/100",
+          "4511/100"
+        ]
+      }
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "direct"
+      },
+      "factory": {
+        "source": "history",
+        "value": "Львовский завод телеграфной аппаратуры"
+      },
+      "manufacturer": "Феникс",
+      "model": "Феникс ЭП-008С",
+      "model_id": "feniks-0001",
+      "production_evidence": {
+        "country": "USSR",
+        "source": "history",
+        "year": 1986
+      },
+      "sources": [
+        {
+          "key": "identity",
+          "page": 3,
+          "title": "Феникс ЭП-008С — руководство по эксплуатации",
+          "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/feniks_ep008s_in.djvu"
+        },
+        {
+          "key": "history",
+          "title": "Отечественная радиотехника XX века — Феникс ЭП-008С",
+          "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/feniks_ep008s.html"
+        }
+      ],
+      "specifications": [
+        {
+          "name": "wow_and_flutter",
+          "original": "Коэффициент детонации, не более 0,07 %",
+          "source": "identity",
+          "unit": "%",
+          "value": "≤ 0.07"
+        }
+      ],
+      "speeds_rpm": {
+        "original": "33,33; 45,11 об/мин",
+        "source": "identity",
+        "value": [
+          "3333/100",
+          "4511/100"
+        ]
+      }
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "direct"
+      },
+      "factory": {
+        "source": "history",
+        "value": "Львовский завод телеграфной аппаратуры"
+      },
+      "manufacturer": "Феникс",
+      "model": "Феникс ЭП-009С",
+      "model_id": "feniks-0002",
+      "production_evidence": {
+        "country": "USSR",
+        "source": "sheet3",
+        "year": 1991
+      },
+      "sources": [
+        {
+          "key": "identity",
+          "page": 5,
+          "title": "Феникс ЭП-009С — руководство по эксплуатации",
+          "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/feniks_ep009instr.djvu"
+        },
+        {
+          "key": "history",
+          "title": "Отечественная радиотехника XX века — Феникс ЭП-009С",
+          "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/feniks_ep009s.html"
+        },
+        {
+          "key": "sheet3",
+          "page": 3,
+          "title": "Феникс ЭП-009С — руководство по эксплуатации",
+          "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/feniks_ep009instr.djvu"
+        }
+      ],
+      "specifications": [
+        {
+          "name": "wow_and_flutter",
+          "original": "Коэффициент детонации, не более 0,05%",
+          "source": "identity",
+          "unit": "%",
+          "value": "≤ 0.05"
+        }
+      ],
+      "speeds_rpm": {
+        "original": "33,33; 45,11 об/мин",
+        "source": "identity",
+        "value": [
+          "3333/100",
+          "4511/100"
+        ]
+      }
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "sheet3",
+        "value": "belt"
+      },
+      "factory": {
+        "source": "history",
+        "value": "Брянский завод технологического оборудования"
+      },
+      "manufacturer": "Электроника",
+      "model": "Электроника-012",
+      "model_id": "elektronika-0001",
+      "production_evidence": {
+        "country": "USSR",
+        "source": "history",
+        "year": 1981
+      },
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Электроника-012 — руководство по эксплуатации",
+          "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/elektronika012in.djvu"
+        },
+        {
+          "key": "history",
+          "title": "Отечественная радиотехника XX века — Электроника-012",
+          "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/elektronika012.html"
+        },
+        {
+          "key": "sheet3",
+          "page": 3,
+          "title": "Электроника-012 — руководство по эксплуатации",
+          "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/elektronika012in.djvu"
+        },
+        {
+          "key": "sheet4",
+          "page": 4,
+          "title": "Электроника-012 — руководство по эксплуатации",
+          "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/elektronika012in.djvu"
+        }
+      ],
+      "specifications": [
+        {
+          "name": "wow_and_flutter",
+          "original": "Коэффициент детонации, % не более 0,12",
+          "source": "sheet4",
+          "unit": "%",
+          "value": "≤ 0.12"
+        }
+      ],
+      "speeds_rpm": {
+        "original": "33 1/3; 45,11 об/мин",
+        "source": "sheet4",
+        "value": [
+          "100/3",
+          "4511/100"
+        ]
+      }
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "sheet5",
+        "value": "belt"
+      },
+      "factory": {
+        "source": "history",
+        "value": "Брянский завод технологического оборудования"
+      },
+      "manufacturer": "Электроника",
+      "model": "Электроника-030-стерео",
+      "model_id": "elektronika-0004",
+      "production_evidence": {
+        "country": "USSR",
+        "source": "history",
+        "year": 1984
+      },
+      "sources": [
+        {
+          "key": "identity",
+          "page": 2,
+          "title": "Электроника-030-стерео — руководство по эксплуатации",
+          "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/elektronika_ep030.djvu"
+        },
+        {
+          "key": "history",
+          "title": "Отечественная радиотехника XX века — Электроника-030-стерео",
+          "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/elektronika_ep030s.html"
+        },
+        {
+          "key": "sheet5",
+          "page": 5,
+          "title": "Электроника-030-стерео — руководство по эксплуатации",
+          "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/elektronika_ep030.djvu"
+        }
+      ],
+      "specifications": [
+        {
+          "condition": "33,33 об/мин",
+          "method": "абсолютная величина",
+          "name": "wow_and_flutter",
+          "original": "Коэффициент детонации (абсолютная величина), %, не более — 0,1 при 33,33 об/мин",
+          "source": "sheet5",
+          "unit": "%",
+          "value": "≤ 0.1"
+        }
+      ],
+      "speeds_rpm": {
+        "original": "33,33; 45,11 об/мин",
+        "source": "sheet5",
+        "value": [
+          "3333/100",
+          "4511/100"
+        ]
+      }
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "sheet4",
+        "value": "belt"
+      },
+      "factory": {
+        "source": "history",
+        "value": "Брянский завод «Элетон»"
+      },
+      "manufacturer": "Электроника",
+      "model": "Электроника Б1-011",
+      "model_id": "elektronika-0002",
+      "production_evidence": {
+        "country": "USSR",
+        "source": "history",
+        "year": 1976
+      },
+      "sources": [
+        {
+          "key": "identity",
+          "page": 2,
+          "title": "Электроника Б1-011 — руководство по эксплуатации",
+          "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/elektronika_b1_011in.djvu"
+        },
+        {
+          "key": "history",
+          "title": "Отечественная радиотехника XX века — Электроника Б1-011",
+          "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/elektronika_b1_011.html"
+        },
+        {
+          "key": "sheet4",
+          "page": 4,
+          "title": "Электроника Б1-011 — руководство по эксплуатации",
+          "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/elektronika_b1_011in.djvu"
+        }
+      ],
+      "speeds_rpm": {
+        "condition": "Исполнение, описанное в п. 4.8 данного руководства.",
+        "original": "33 1/3; 45,11 об/мин",
+        "source": "sheet4",
+        "value": [
+          "100/3",
+          "4511/100"
+        ]
+      }
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "industry",
+        "value": "direct"
+      },
+      "factory": {
+        "source": "history",
+        "value": "Казанское НПО «Элекон»"
+      },
+      "manufacturer": "Электроника",
+      "model": "Электроника ЭП-017-стерео",
+      "model_id": "elektronika-0003",
+      "product_standard": {
+        "source": "identity",
+        "value": "ГОСТ 24470-80"
+      },
+      "production_evidence": {
+        "country": "USSR",
+        "source": "sheet7",
+        "year": 1985
+      },
+      "sources": [
+        {
+          "key": "identity",
+          "page": 2,
+          "title": "Электроника ЭП-017-стерео — руководство по эксплуатации",
+          "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/elektronika_ep017.djvu"
+        },
+        {
+          "key": "history",
+          "title": "Отечественная радиотехника XX века — Электроника ЭП-017-стерео",
+          "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/elektronika_ep017.html"
+        },
+        {
+          "key": "sheet7",
+          "page": 7,
+          "title": "Электроника ЭП-017-стерео — руководство по эксплуатации",
+          "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/elektronika_ep017.djvu"
+        },
+        {
+          "key": "sheet4",
+          "page": 4,
+          "title": "Электроника ЭП-017-стерео — руководство по эксплуатации",
+          "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/elektronika_ep017.djvu"
+        },
+        {
+          "key": "industry",
+          "page": 115,
+          "title": "Электронная промышленность, 1990, № 3 — Товары и услуги населению",
+          "url": "https://oldpc.su/lib/magaz/elecprom/1990-03.pdf"
+        }
+      ],
+      "specifications": [
+        {
+          "name": "wow_and_flutter",
+          "original": "Коэффициент детонации воспроизводимого звука, не более 0,1%",
+          "source": "sheet4",
+          "unit": "%",
+          "value": "≤ 0.1"
+        }
+      ],
+      "speeds_rpm": {
+        "original": "33,33; 45,11 об/мин",
+        "source": "sheet4",
+        "value": [
+          "3333/100",
+          "4511/100"
+        ]
+      }
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "sheet7",
+        "value": "direct"
+      },
+      "factory": {
+        "source": "history",
+        "value": "Московское ПО «Торий»"
+      },
+      "manufacturer": "Электроника",
+      "model": "Электроника ЭП-060 стерео",
+      "model_id": "elektronika-0005",
+      "product_standard": {
+        "source": "sheet6",
+        "value": "ГОСТ 24470-80"
+      },
+      "production_evidence": {
+        "country": "USSR",
+        "source": "history",
+        "year": 1985
+      },
+      "sources": [
+        {
+          "key": "identity",
+          "page": 5,
+          "title": "Электроника ЭП-060 стерео — руководство по эксплуатации",
+          "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/elektronika_ep060in.djvu"
+        },
+        {
+          "key": "history",
+          "title": "Отечественная радиотехника XX века — Электроника ЭП-060 стерео",
+          "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/elektronika_ep060s.html"
+        },
+        {
+          "key": "sheet7",
+          "page": 7,
+          "title": "Электроника ЭП-060 стерео — руководство по эксплуатации",
+          "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/elektronika_ep060in.djvu"
+        },
+        {
+          "key": "sheet6",
+          "page": 6,
+          "title": "Электроника ЭП-060 стерео — руководство по эксплуатации",
+          "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/elektronika_ep060in.djvu"
+        }
+      ],
+      "specifications": [
+        {
+          "name": "wow_and_flutter",
+          "original": "Коэффициент детонаций, %, не более — 0,08",
+          "source": "identity",
+          "unit": "%",
+          "value": "≤ 0.08"
+        }
+      ],
+      "speeds_rpm": {
+        "original": "33,33; 45,11 об/мин",
+        "source": "identity",
+        "value": [
+          "3333/100",
+          "4511/100"
+        ]
+      }
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "sheet4",
+        "value": "direct"
+      },
+      "factory": {
+        "source": "history",
+        "value": "Таллинский завод Пунане-РЭТ"
+      },
+      "manufacturer": "Эстония",
+      "model": "Эстония-010-стерео",
+      "model_id": "estoniya-0001",
+      "product_standard": {
+        "source": "sheet4",
+        "value": "ГОСТ 24470-80"
+      },
+      "production_evidence": {
+        "country": "USSR",
+        "source": "history",
+        "year": 1983
+      },
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Эстония-010-стерео — руководство по эксплуатации",
+          "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/estonija010in.djvu"
+        },
+        {
+          "key": "history",
+          "title": "Отечественная радиотехника XX века — Эстония-010-стерео",
+          "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/estonija010ep.html"
+        },
+        {
+          "key": "sheet4",
+          "page": 4,
+          "title": "Эстония-010-стерео — руководство по эксплуатации",
+          "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/estonija010in.djvu"
+        },
+        {
+          "key": "sheet3",
+          "page": 3,
+          "title": "Эстония-010-стерео — руководство по эксплуатации",
+          "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/estonija010in.djvu"
+        }
+      ],
+      "specifications": [
+        {
+          "name": "wow_and_flutter",
+          "original": "Коэффициент детонации, не более 0,08%.",
+          "source": "sheet3",
+          "unit": "%",
+          "value": "≤ 0.08"
+        }
+      ],
+      "speeds_rpm": {
+        "original": "33,33; 45,11 об/мин",
+        "source": "sheet3",
+        "value": [
+          "3333/100",
+          "4511/100"
+        ]
+      }
     }
   ],
-  "schema_version": 2
+  "schema_version": 3
 }

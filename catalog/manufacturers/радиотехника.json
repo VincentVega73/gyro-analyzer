@@ -1,0 +1,101 @@
+[
+  {
+    "model_id": "radiotehnika-0001",
+    "manufacturer": "Радиотехника",
+    "model": "Радиотехника-001-стерео",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/radiotehnika001instr.djvu",
+        "title": "Радиотехника-001-стерео — руководство по эксплуатации",
+        "page": 2
+      },
+      {
+        "key": "history",
+        "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/radiotehnika001.html",
+        "title": "Отечественная радиотехника XX века — Радиотехника-001-стерео"
+      },
+      {
+        "key": "sheet5",
+        "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/radiotehnika001instr.djvu",
+        "title": "Радиотехника-001-стерео — руководство по эксплуатации",
+        "page": 5
+      }
+    ],
+    "production_evidence": {
+      "country": "USSR",
+      "year": 1980,
+      "source": "history"
+    },
+    "factory": {
+      "value": "Рижский завод имени А. С. Попова",
+      "source": "history"
+    },
+    "speeds_rpm": {
+      "value": [
+        "100/3",
+        "4511/100"
+      ],
+      "source": "sheet5",
+      "original": "33 1/3; 45,11 об/мин"
+    },
+    "specifications": [
+      {
+        "name": "wow_and_flutter",
+        "original": "Коэффициент детонации (абсолютная величина) 0,1 (+0,05)%.",
+        "value": "0.1 (+0.05)",
+        "unit": "%",
+        "source": "sheet5",
+        "method": "абсолютная величина"
+      }
+    ]
+  },
+  {
+    "model_id": "radiotehnika-0002",
+    "manufacturer": "Радиотехника",
+    "model": "Радиотехника-ЭП-101-стерео",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/radiotehnika_ep101in.djvu",
+        "title": "Радиотехника-ЭП-101-стерео — руководство по эксплуатации",
+        "page": 3
+      },
+      {
+        "key": "history",
+        "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/radiotehnika_ep101.html",
+        "title": "Отечественная радиотехника XX века — Радиотехника-ЭП-101-стерео"
+      }
+    ],
+    "production_evidence": {
+      "country": "USSR",
+      "year": 1983,
+      "source": "history"
+    },
+    "factory": {
+      "value": "Рижский радиозавод имени А. С. Попова",
+      "source": "history"
+    },
+    "speeds_rpm": {
+      "value": [
+        "3333/100",
+        "4511/100"
+      ],
+      "source": "identity",
+      "original": "33,33; 45,11 об/мин"
+    },
+    "specifications": [
+      {
+        "name": "wow_and_flutter",
+        "original": "Коэффициент детонации (абсолютная величина), не более, 0,15%, при частотах вращения 33,33 и 45,11 об/мин.",
+        "value": "≤ 0.15",
+        "unit": "%",
+        "source": "identity",
+        "method": "абсолютная величина",
+        "condition": "33,33 и 45,11 об/мин"
+      }
+    ]
+  }
+]

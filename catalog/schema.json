@@ -5,7 +5,7 @@
   "additionalProperties": false,
   "properties": {
     "schema_version": {
-      "const": 2
+      "const": 3
     },
     "catalog_version": {
       "type": "string",
@@ -126,6 +126,16 @@
             "source": {
               "type": "string",
               "pattern": "^[a-z][a-z0-9_-]*$"
+            },
+            "original": {
+              "type": "string",
+              "minLength": 1,
+              "pattern": "\\S"
+            },
+            "condition": {
+              "type": "string",
+              "minLength": 1,
+              "pattern": "\\S"
             }
           },
           "required": [
@@ -225,6 +235,68 @@
               "source"
             ]
           }
+        },
+        "factory": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "value": {
+              "type": "string",
+              "minLength": 1,
+              "pattern": "\\S"
+            },
+            "source": {
+              "type": "string",
+              "pattern": "^[a-z][a-z0-9_-]*$"
+            }
+          },
+          "required": [
+            "value",
+            "source"
+          ]
+        },
+        "production_evidence": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "country": {
+              "type": "string",
+              "minLength": 1,
+              "pattern": "\\S"
+            },
+            "year": {
+              "type": "integer",
+              "minimum": 1877
+            },
+            "source": {
+              "type": "string",
+              "pattern": "^[a-z][a-z0-9_-]*$"
+            }
+          },
+          "required": [
+            "country",
+            "year",
+            "source"
+          ]
+        },
+        "product_standard": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "value": {
+              "type": "string",
+              "minLength": 1,
+              "pattern": "\\S"
+            },
+            "source": {
+              "type": "string",
+              "pattern": "^[a-z][a-z0-9_-]*$"
+            }
+          },
+          "required": [
+            "value",
+            "source"
+          ]
         }
       },
       "required": [

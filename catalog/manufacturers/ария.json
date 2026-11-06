@@ -1,0 +1,75 @@
+[
+  {
+    "model_id": "aria-0001",
+    "manufacturer": "Ария",
+    "model": "Ария-102-стерео",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/arija102instr.djvu",
+        "title": "Ария-102-стерео — руководство по эксплуатации",
+        "page": 5
+      },
+      {
+        "key": "history",
+        "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/arija102.html",
+        "title": "Отечественная радиотехника XX века — Ария-102-стерео"
+      },
+      {
+        "key": "sheet3",
+        "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/arija102instr.djvu",
+        "title": "Ария-102-стерео — руководство по эксплуатации",
+        "page": 3
+      },
+      {
+        "key": "sheet4",
+        "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/arija102instr.djvu",
+        "title": "Ария-102-стерео — руководство по эксплуатации",
+        "page": 4
+      },
+      {
+        "key": "warranty",
+        "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/arija102instr.djvu",
+        "title": "Ария-102-стерео — руководство по эксплуатации",
+        "page": 10
+      }
+    ],
+    "production_evidence": {
+      "country": "USSR",
+      "year": 1986,
+      "source": "history"
+    },
+    "factory": {
+      "value": "Рижский электромеханический завод ПО «Радиотехника»",
+      "source": "warranty"
+    },
+    "drive_type": {
+      "value": "direct",
+      "source": "identity"
+    },
+    "speeds_rpm": {
+      "value": [
+        "3333/100",
+        "4511/100"
+      ],
+      "source": "sheet3",
+      "original": "33,33; 45,11 об/мин"
+    },
+    "specifications": [
+      {
+        "name": "wow_and_flutter",
+        "original": "Коэффициент детонации воспроизводимого звука на частоте вращения 33,33 мин⁻¹ (абсолютная величина), %, не более 0,12",
+        "value": "≤ 0.12",
+        "unit": "%",
+        "source": "sheet4",
+        "method": "абсолютная величина",
+        "condition": "33,33 мин⁻¹"
+      }
+    ],
+    "product_standard": {
+      "value": "ГОСТ 24470-80",
+      "source": "identity"
+    }
+  }
+]

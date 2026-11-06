@@ -1,0 +1,67 @@
+[
+  {
+    "model_id": "estoniya-0001",
+    "manufacturer": "Эстония",
+    "model": "Эстония-010-стерео",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/estonija010in.djvu",
+        "title": "Эстония-010-стерео — руководство по эксплуатации",
+        "page": 1
+      },
+      {
+        "key": "history",
+        "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/estonija010ep.html",
+        "title": "Отечественная радиотехника XX века — Эстония-010-стерео"
+      },
+      {
+        "key": "sheet4",
+        "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/estonija010in.djvu",
+        "title": "Эстония-010-стерео — руководство по эксплуатации",
+        "page": 4
+      },
+      {
+        "key": "sheet3",
+        "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/estonija010in.djvu",
+        "title": "Эстония-010-стерео — руководство по эксплуатации",
+        "page": 3
+      }
+    ],
+    "production_evidence": {
+      "country": "USSR",
+      "year": 1983,
+      "source": "history"
+    },
+    "factory": {
+      "value": "Таллинский завод Пунане-РЭТ",
+      "source": "history"
+    },
+    "drive_type": {
+      "value": "direct",
+      "source": "sheet4"
+    },
+    "speeds_rpm": {
+      "value": [
+        "3333/100",
+        "4511/100"
+      ],
+      "source": "sheet3",
+      "original": "33,33; 45,11 об/мин"
+    },
+    "specifications": [
+      {
+        "name": "wow_and_flutter",
+        "original": "Коэффициент детонации, не более 0,08%.",
+        "value": "≤ 0.08",
+        "unit": "%",
+        "source": "sheet3"
+      }
+    ],
+    "product_standard": {
+      "value": "ГОСТ 24470-80",
+      "source": "sheet4"
+    }
+  }
+]

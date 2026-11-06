@@ -86,6 +86,33 @@ class CatalogTests(unittest.TestCase):
         hit, = lookup_matches([base, foreign], "Other", "SL-1210GR2")
         self.assertEqual(hit["match_type"], "alias")
 
+    def test_owner_queries_in_packaged_catalog(self):
+        rows = read(OUTPUT)["models"]
+        for brand, index, expected in [
+            ("Арктур", "006", "Арктур-006-стерео"),
+            ("электроника", "эп017", "Электроника ЭП-017-стерео"),
+            ("Вега", "106", "Вега-106-стерео"),
+        ]:
+            with self.subTest(brand=brand):
+                hit, = lookup_matches(rows, brand, index)
+                self.assertEqual((hit["base_model"], hit["match_type"]), (expected, "short_name"))
+                self.assertEqual([hit], lookup_matches(rows, brand, brand + " " + index))
+                full, = lookup_matches(rows, brand, expected)
+                self.assertEqual((full["model_id"], full["match_type"]), (hit["model_id"], "name"))
+        for brand, query in [("Вега", "G-602"), ("Арктур", "G-2021"),
+                             ("Электроника", "эф017"), ("Феникс", "эп008"),
+                             ("Вега", "ЭП122М"), ("Электроника", "ep017")]:
+            self.assertEqual(lookup_matches(rows, brand, query), [])
+
+    def test_ambiguous_short_name_lists_all_candidates(self):
+        data = copy.deepcopy(self.data)
+        row, = lookup(data["models"], "Арктур", "Арктур-006-стерео")
+        other = dict(row, model_id="another", model="Арктур-006")
+        data["models"].append(other)
+        validate(data)
+        result = lookup_matches(data["models"], "Арктур", "006")
+        self.assertCountEqual([r["model_id"] for r in result], [row["model_id"], "another"])
+
     def test_release_scope(self):
         brands = {"Audio-Technica", "Dual", "Michell", "Pioneer", "Rega", "Sony", "Technics", "Thorens"}
         self.assertTrue(brands <= {r["manufacturer"] for r in self.data["models"]})

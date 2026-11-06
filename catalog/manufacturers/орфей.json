@@ -1,0 +1,59 @@
+[
+  {
+    "model_id": "orfey-0001",
+    "manufacturer": "Орфей",
+    "model": "Орфей-101-стерео",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/orfey101s_in.djvu",
+        "title": "Орфей-101-стерео — руководство по эксплуатации",
+        "page": 2
+      },
+      {
+        "key": "history",
+        "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/orfey101s.html",
+        "title": "Отечественная радиотехника XX века — Орфей-101-стерео"
+      },
+      {
+        "key": "sheet3",
+        "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/orfey101s_in.djvu",
+        "title": "Орфей-101-стерео — руководство по эксплуатации",
+        "page": 3
+      }
+    ],
+    "production_evidence": {
+      "country": "USSR",
+      "year": 1981,
+      "source": "history"
+    },
+    "factory": {
+      "value": "Ижевский ЭМЗ",
+      "source": "history"
+    },
+    "speeds_rpm": {
+      "value": [
+        "3333/100",
+        "4511/100"
+      ],
+      "source": "sheet3",
+      "original": "33,33; 45,11 об/мин"
+    },
+    "specifications": [
+      {
+        "name": "wow_and_flutter",
+        "original": "Коэффициент детонации, абсолютная величина; %, не более 0,15",
+        "value": "≤ 0.15",
+        "unit": "%",
+        "source": "sheet3",
+        "method": "абсолютная величина",
+        "standard": "ГОСТ 24470-80"
+      }
+    ],
+    "product_standard": {
+      "value": "ГОСТ 24470-80",
+      "source": "sheet3"
+    }
+  }
+]

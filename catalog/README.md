@@ -1,6 +1,6 @@
 # Gyro Pro turntable library
 
-Edition 1.1.0 identifies 134 turntables and one related factory designation. Every record has model evidence; technical fields are optional. Factory specifications describe a model, not an owner's measurements.
+Edition 1.2.0 identifies 154 turntables and one related factory designation. Every record has model evidence; technical fields are optional. Factory specifications describe a model, not an owner's measurements.
 
 | Manufacturer | Models |
 | --- | ---: |
@@ -12,7 +12,17 @@ Edition 1.1.0 identifies 134 turntables and one related factory designation. Eve
 | Sony | 5 |
 | Technics | 11 |
 | Thorens | 12 |
-| **Total** | **134** |
+| Ария | 1 |
+| Арктур | 1 |
+| Вега | 4 |
+| Импульс | 1 |
+| Корвет | 2 |
+| Орфей | 1 |
+| Радиотехника | 2 |
+| Феникс | 2 |
+| Электроника | 5 |
+| Эстония | 1 |
+| **Total** | **154** |
 
 ## Build and verify
 
@@ -93,6 +103,39 @@ python catalog/catalog.py lookup Technics SL-1210GR2
   }
 ]
 ```
+
+## Soviet domestic turntables
+
+Edition 1.2.0 adds 20 models across ten marques. Each record cites a leaf of the manufacturer's manual for the complete Cyrillic designation. The production year has a separate local source: a dated factory sheet or the model history in the radio museum. It documents Soviet production and need not be the year of the first unit. Leaf numbers count from the beginning of the scan, including covers. A single leaf may contain two printed pages.
+
+The existing `manufacturer` field is the marque used for selection. `factory.value` names the enterprise and `factory.source` identifies its evidence. `production_evidence` gives the country, year and source. Source documents identify the finished product; an EPU code identifies an installed mechanism. Search keys comprise the original designations, verified aliases and relationships. Schema 3 adds the optional factory, production, product conformity and speed transcription fields to the closed schema.
+
+For Soviet cards the detailed lookup also accepts the index within the selected marque, optionally with the word «стерео» omitted. It returns every candidate with a matching short name. Letter suffixes, including С, and leading zeroes stay significant. Search preserves the distinction between Cyrillic and Latin characters. Examples from the bundled artifact:
+
+| Command (from repository root) | Result | ID |
+| --- | --- | --- |
+| `python catalog/catalog.py lookup Арктур 006` | Арктур-006-стерео | arktur-0001 |
+| `python catalog/catalog.py lookup электроника эп017` | Электроника ЭП-017-стерео | elektronika-0003 |
+| `python catalog/catalog.py lookup Вега 106` | Вега-106-стерео | vega-0001 |
+
+The three results have `match_type: short_name`. Factory speed limits and tests apply to the edition cited. A published 33.33 rpm is stored as `3333/100`; an explicit 33⅓ rpm is `100/3`. Vega-106 speeds describe the two-speed manual. Preserve the scope of the general `product_standard` separately from any standard explicitly named for determining a specification.
+
+| Verified field | New cards / 20 |
+| --- | ---: |
+| Drive type | 10 |
+| Speeds | 20 |
+| Factory wow and flutter rating | 16 |
+| Rating explicitly described as an absolute value | 7 |
+| Standard explicitly referenced for determining the characteristics | 1 |
+
+Two examples trace the rating from the document to the data:
+
+- Арктур-006-стерео: scan leaf 3, printed page 5, gives an absolute upper bound of 0.10% at 33.33 rpm. The field `specifications[0]` stores `value = "≤ 0.10"`, unit `%`, the absolute-value qualifier and the speed condition. [Operating manual](https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/arktur006in.djvu)
+- Орфей-101-стерео: scan leaf 3, printed page 4, section 3.2 gives an absolute upper bound of 0.15%. The footnote explicitly names ГОСТ 24470-80 for determination of the characteristics. The field stores `value = "≤ 0.15"` and `standard = "ГОСТ 24470-80"`. [Operating manual](https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/orfey101s_in.djvu)
+
+Absolute-value qualifiers describe the published rating. The last row counts only explicit standards for determination. Missing measurement procedures remain unknown. The upper bounds retain their published meaning, including the indicated unilateral tolerance where present.
+
+Электроника Б1-01 was deferred: material on the electrophone set needs separate primary identification of the standalone player. The early Вега-110-стерео and post-Soviet or alternate spellings were not added as extra models. This edition identifies the documented Вега-ЭП-110-стерео. There are no new aliases or export relationships in this batch.
 
 ## Exclusions and identity decisions
 

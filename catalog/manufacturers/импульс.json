@@ -1,0 +1,53 @@
+[
+  {
+    "model_id": "impuls-0001",
+    "manufacturer": "Импульс",
+    "model": "Импульс-201-стерео",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/impuls201instr.djvu",
+        "title": "Импульс-201-стерео — руководство по эксплуатации",
+        "page": 2
+      },
+      {
+        "key": "history",
+        "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/impuls201s.html",
+        "title": "Отечественная радиотехника XX века — Импульс-201-стерео"
+      },
+      {
+        "key": "sheet5",
+        "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/impuls201instr.djvu",
+        "title": "Импульс-201-стерео — руководство по эксплуатации",
+        "page": 5
+      }
+    ],
+    "production_evidence": {
+      "country": "USSR",
+      "year": 1982,
+      "source": "history"
+    },
+    "factory": {
+      "value": "Ярославский радиозавод",
+      "source": "history"
+    },
+    "speeds_rpm": {
+      "value": [
+        "3333/100",
+        "4511/100"
+      ],
+      "source": "sheet5",
+      "original": "33,33; 45,11 об/мин"
+    },
+    "specifications": [
+      {
+        "name": "wow_and_flutter",
+        "original": "Коэффициент детонации, %, не более 0,20",
+        "value": "≤ 0.20",
+        "unit": "%",
+        "source": "sheet5"
+      }
+    ]
+  }
+]

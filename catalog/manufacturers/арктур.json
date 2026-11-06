@@ -1,0 +1,61 @@
+[
+  {
+    "model_id": "arktur-0001",
+    "manufacturer": "Арктур",
+    "model": "Арктур-006-стерео",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/arktur006in.djvu",
+        "title": "Арктур-006-стерео — руководство по эксплуатации",
+        "page": 1
+      },
+      {
+        "key": "history",
+        "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/arktur006s.html",
+        "title": "Отечественная радиотехника XX века — Арктур-006-стерео"
+      },
+      {
+        "key": "sheet4",
+        "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/arktur006in.djvu",
+        "title": "Арктур-006-стерео — руководство по эксплуатации",
+        "page": 4
+      },
+      {
+        "key": "sheet3",
+        "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/arktur006in.djvu",
+        "title": "Арктур-006-стерео — руководство по эксплуатации",
+        "page": 3
+      }
+    ],
+    "production_evidence": {
+      "country": "USSR",
+      "year": 1983,
+      "source": "history"
+    },
+    "factory": {
+      "value": "Бердский радиозавод",
+      "source": "history"
+    },
+    "speeds_rpm": {
+      "value": [
+        "100/3",
+        "4511/100"
+      ],
+      "source": "sheet4",
+      "original": "33 1/3; 45,11 об/мин"
+    },
+    "specifications": [
+      {
+        "name": "wow_and_flutter",
+        "original": "Коэффициент детонации (абсолютная величина) на частоте вращения 33,33 об/мин не более 0,10%.",
+        "value": "≤ 0.10",
+        "unit": "%",
+        "source": "sheet3",
+        "method": "абсолютная величина",
+        "condition": "33,33 об/мин"
+      }
+    ]
+  }
+]
