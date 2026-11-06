@@ -1,0 +1,230 @@
+[
+  {
+    "model_id": "yamaha-0001",
+    "manufacturer": "Yamaha",
+    "model": "P-750",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Yamaha P-750 Owner's Manual",
+        "url": "https://www.manualslib.com/manual/4267523/Yamaha-P-750.html"
+      }
+    ],
+    "drive_type": {
+      "value": "direct",
+      "source": "identity"
+    }
+  },
+  {
+    "model_id": "yamaha-0002",
+    "manufacturer": "Yamaha",
+    "model": "P-751",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Yamaha P-751 Service Manual",
+        "url": "https://www.manualslib.com/manual/4224624/Yamaha-P-751.html"
+      }
+    ]
+  },
+  {
+    "model_id": "yamaha-0003",
+    "manufacturer": "Yamaha",
+    "model": "PF-1000",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Yamaha PF-1000 Service Manual",
+        "url": "https://www.manualslib.com/manual/888394/Yamaha-Pf-1000.html"
+      }
+    ]
+  },
+  {
+    "model_id": "yamaha-0004",
+    "manufacturer": "Yamaha",
+    "model": "PF-800",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Yamaha PF-800 Owner's Manual",
+        "url": "https://www.manualslib.com/manual/778055/Yamaha-Pf-800.html"
+      }
+    ],
+    "drive_type": {
+      "value": "belt",
+      "source": "identity"
+    }
+  },
+  {
+    "model_id": "yamaha-0005",
+    "manufacturer": "Yamaha",
+    "model": "PX-2",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Yamaha PX-2 Service Manual",
+        "url": "https://www.manualslib.com/manual/1308742/Yamaha-Px-2.html"
+      }
+    ]
+  },
+  {
+    "model_id": "yamaha-0006",
+    "manufacturer": "Yamaha",
+    "model": "PF-50",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Yamaha PF-50 Service Manual",
+        "url": "https://www.manualslib.com/manual/4266752/Yamaha-Pf-50.html"
+      }
+    ]
+  },
+  {
+    "model_id": "yamaha-0007",
+    "manufacturer": "Yamaha",
+    "model": "PX-3",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Yamaha PX-3 Service Manual",
+        "url": "https://www.manualslib.com/manual/978601/Yamaha-Px-3.html"
+      }
+    ]
+  },
+  {
+    "model_id": "yamaha-0008",
+    "manufacturer": "Yamaha",
+    "model": "YP-700",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Yamaha YP-700 Owner's Manual",
+        "url": "https://www.manualslib.com/manual/341592/Yamaha-Yp-700.html"
+      }
+    ]
+  },
+  {
+    "model_id": "yamaha-0009",
+    "manufacturer": "Yamaha",
+    "model": "YP-701",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Yamaha YP-701 Owner's Manual",
+        "url": "https://www.manualslib.com/manual/3482257/Yamaha-Yp-701.html"
+      }
+    ]
+  },
+  {
+    "model_id": "yamaha-0010",
+    "manufacturer": "Yamaha",
+    "model": "TT-400",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Yamaha TT-400 Owner's Manual",
+        "url": "https://www.manualslib.com/manual/341536/Yamaha-Tt-400.html"
+      }
+    ],
+    "drive_type": {
+      "value": "belt",
+      "source": "identity"
+    }
+  },
+  {
+    "model_id": "yamaha-0011",
+    "manufacturer": "Yamaha",
+    "model": "YP211",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Yamaha YP211 Owner's Manual",
+        "url": "https://www.manualslib.com/manual/341594/Yamaha-Yp211.html"
+      }
+    ],
+    "drive_type": {
+      "value": "belt",
+      "source": "identity"
+    }
+  },
+  {
+    "model_id": "yamaha-0012",
+    "manufacturer": "Yamaha",
+    "model": "YP-800",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Yamaha YP-800 Service Manual",
+        "url": "https://www.manualslib.com/manual/987461/Yamaha-Yp-800.html"
+      }
+    ]
+  },
+  {
+    "model_id": "yamaha-0013",
+    "manufacturer": "Yamaha",
+    "model": "YP-D6",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Yamaha YP-D6 Owner's Manual",
+        "url": "https://www.manualslib.com/manual/1475745/Yamaha-Yp-D6.html"
+      }
+    ]
+  },
+  {
+    "model_id": "yamaha-0014",
+    "manufacturer": "Yamaha",
+    "model": "YP-D10",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Yamaha YP-D10 Service Manual",
+        "url": "https://www.manualslib.com/manual/4265848/Yamaha-Yp-D10.html"
+      }
+    ]
+  },
+  {
+    "model_id": "yamaha-0015",
+    "manufacturer": "Yamaha",
+    "model": "YP-D4",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Yamaha YP-D4 Service Manual",
+        "url": "https://www.manualslib.com/manual/4175075/Yamaha-Yp-D4.html"
+      }
+    ]
+  },
+  {
+    "model_id": "yamaha-0016",
+    "manufacturer": "Yamaha",
+    "model": "YP-D71",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Yamaha YP-D71 Owner's Manual",
+        "url": "https://www.manualslib.com/manual/794116/Yamaha-Yp-D71.html"
+      }
+    ],
+    "drive_type": {
+      "value": "direct",
+      "source": "identity"
+    }
+  }
+]

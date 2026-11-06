@@ -1,0 +1,1789 @@
+[
+  {
+    "model_id": "pro-ject-0001",
+    "manufacturer": "Pro-Ject",
+    "model": "Debut RecordMaster II",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Debut RecordMaster II – Pro-Ject Audio Systems",
+        "url": "https://www.project-audio.com/en/product/debut-recordmaster-ii/"
+      }
+    ],
+    "drive_type": {
+      "value": "belt",
+      "source": "identity"
+    },
+    "speeds_rpm": {
+      "value": [
+        "100/3",
+        "45",
+        "78"
+      ],
+      "source": "identity",
+      "original": "33, 45 (electronic speed change), 78 (manual speed change)"
+    },
+    "specifications": [
+      {
+        "value": "±0.19",
+        "condition": "33 RPM",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "33: ±0.19% 45: ±0.17%",
+        "source": "identity"
+      },
+      {
+        "value": "±0.17",
+        "condition": "45 RPM",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "33: ±0.19% 45: ±0.17%",
+        "source": "identity"
+      }
+    ]
+  },
+  {
+    "model_id": "pro-ject-0002",
+    "manufacturer": "Pro-Ject",
+    "model": "Debut PRO B",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Debut PRO B – Pro-Ject Audio Systems",
+        "url": "https://www.project-audio.com/en/product/debut-pro-b/"
+      }
+    ],
+    "drive_type": {
+      "value": "belt",
+      "source": "identity"
+    },
+    "speeds_rpm": {
+      "value": [
+        "100/3",
+        "45",
+        "78"
+      ],
+      "source": "identity",
+      "original": "33, 45/(78) (electronic speed change)"
+    },
+    "specifications": [
+      {
+        "value": "±0.16",
+        "condition": "33 RPM",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "33: +/-0,16%; 45: +/-0,14%",
+        "source": "identity"
+      },
+      {
+        "value": "±0.14",
+        "condition": "45 RPM",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "33: +/-0,16%; 45: +/-0,14%",
+        "source": "identity"
+      }
+    ]
+  },
+  {
+    "model_id": "pro-ject-0003",
+    "manufacturer": "Pro-Ject",
+    "model": "Debut PRO S Balanced",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Debut PRO S Balanced – Pro-Ject Audio Systems",
+        "url": "https://www.project-audio.com/en/product/debut-pro-s-balanced/"
+      }
+    ],
+    "drive_type": {
+      "value": "belt",
+      "source": "identity"
+    },
+    "speeds_rpm": {
+      "value": [
+        "100/3",
+        "45",
+        "78"
+      ],
+      "source": "identity",
+      "original": "33, 45/(78) (electronic speed change)"
+    },
+    "specifications": [
+      {
+        "value": "±0.16",
+        "condition": "33 RPM",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "33: +/-0,16%; 45: +/-0,14%",
+        "source": "identity"
+      },
+      {
+        "value": "±0.14",
+        "condition": "45 RPM",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "33: +/-0,16%; 45: +/-0,14%",
+        "source": "identity"
+      }
+    ]
+  },
+  {
+    "model_id": "pro-ject-0004",
+    "manufacturer": "Pro-Ject",
+    "model": "Debut Reference 10",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Debut Reference 10 – Pro-Ject Audio Systems",
+        "url": "https://www.project-audio.com/en/product/debut-reference-10/"
+      }
+    ],
+    "drive_type": {
+      "value": "belt",
+      "source": "identity"
+    },
+    "speeds_rpm": {
+      "value": [
+        "100/3",
+        "45",
+        "78"
+      ],
+      "source": "identity",
+      "original": "33, 45/(78) (electronic speed change)"
+    },
+    "specifications": [
+      {
+        "value": "±0.16",
+        "condition": "33 RPM",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "33: +/-0,16%; 45: +/-0,14%",
+        "source": "identity"
+      },
+      {
+        "value": "±0.14",
+        "condition": "45 RPM",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "33: +/-0,16%; 45: +/-0,14%",
+        "source": "identity"
+      }
+    ]
+  },
+  {
+    "model_id": "pro-ject-0005",
+    "manufacturer": "Pro-Ject",
+    "model": "E1 BT",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "E1 BT – Pro-Ject Audio Systems",
+        "url": "https://www.project-audio.com/en/product/e1-bt/"
+      }
+    ],
+    "drive_type": {
+      "value": "belt",
+      "source": "identity"
+    },
+    "speeds_rpm": {
+      "value": [
+        "100/3",
+        "45"
+      ],
+      "source": "identity",
+      "original": "33, 45 (electronic speed change)"
+    },
+    "specifications": [
+      {
+        "value": "0.25",
+        "condition": "33 RPM",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "33: 0.25% 45: 0.23%",
+        "source": "identity"
+      },
+      {
+        "value": "0.23",
+        "condition": "45 RPM",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "33: 0.25% 45: 0.23%",
+        "source": "identity"
+      }
+    ]
+  },
+  {
+    "model_id": "pro-ject-0006",
+    "manufacturer": "Pro-Ject",
+    "model": "E1 Phono",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "E1 Phono – Pro-Ject Audio Systems",
+        "url": "https://www.project-audio.com/en/product/e1-phono/"
+      }
+    ],
+    "drive_type": {
+      "value": "belt",
+      "source": "identity"
+    },
+    "speeds_rpm": {
+      "value": [
+        "100/3",
+        "45"
+      ],
+      "source": "identity",
+      "original": "33, 45 (electronic speed change)"
+    },
+    "specifications": [
+      {
+        "value": "0.25",
+        "condition": "33 RPM",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "33: 0.25% 45: 0.23%",
+        "source": "identity"
+      },
+      {
+        "value": "0.23",
+        "condition": "45 RPM",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "33: 0.25% 45: 0.23%",
+        "source": "identity"
+      }
+    ]
+  },
+  {
+    "model_id": "pro-ject-0007",
+    "manufacturer": "Pro-Ject",
+    "model": "RPM 1 Carbon",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "RPM 1 Carbon – Pro-Ject Audio Systems",
+        "url": "https://www.project-audio.com/en/product/rpm-1-carbon/"
+      }
+    ],
+    "drive_type": {
+      "value": "belt",
+      "source": "identity"
+    },
+    "speeds_rpm": {
+      "value": [
+        "100/3",
+        "45"
+      ],
+      "source": "identity",
+      "original": "33, 45 (manual speed change)"
+    },
+    "specifications": [
+      {
+        "value": "±0.27",
+        "condition": "33 RPM",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "33: +/- 0.27% I 45: +/- 0.1%",
+        "source": "identity"
+      },
+      {
+        "value": "±0.1",
+        "condition": "45 RPM",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "33: +/- 0.27% I 45: +/- 0.1%",
+        "source": "identity"
+      }
+    ]
+  },
+  {
+    "model_id": "pro-ject-0008",
+    "manufacturer": "Pro-Ject",
+    "model": "RPM 10 Carbon",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "RPM 10 Carbon – Pro-Ject Audio Systems",
+        "url": "https://www.project-audio.com/en/product/rpm-10-carbon/"
+      }
+    ],
+    "drive_type": {
+      "value": "belt",
+      "source": "identity"
+    },
+    "speeds_rpm": {
+      "value": [
+        "100/3",
+        "45"
+      ],
+      "source": "identity",
+      "original": "33, 45 (electronic speed change)"
+    },
+    "specifications": [
+      {
+        "value": "±0.01",
+        "condition": "33 RPM",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "33: +/- 0.01% I 45: +/- 0.01%",
+        "source": "identity"
+      },
+      {
+        "value": "±0.01",
+        "condition": "45 RPM",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "33: +/- 0.01% I 45: +/- 0.01%",
+        "source": "identity"
+      }
+    ]
+  },
+  {
+    "model_id": "pro-ject-0009",
+    "manufacturer": "Pro-Ject",
+    "model": "RPM 5 Carbon",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "RPM 5 Carbon – Pro-Ject Audio Systems",
+        "url": "https://www.project-audio.com/en/product/rpm-5-carbon/"
+      }
+    ],
+    "drive_type": {
+      "value": "belt",
+      "source": "identity"
+    },
+    "speeds_rpm": {
+      "value": [
+        "100/3",
+        "45"
+      ],
+      "source": "identity",
+      "original": "33, 45 (manual speed change)"
+    },
+    "specifications": [
+      {
+        "value": "±0.17",
+        "condition": "33 RPM",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "33: +/- 0.17% I 45: +/- 0.08%",
+        "source": "identity"
+      },
+      {
+        "value": "±0.08",
+        "condition": "45 RPM",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "33: +/- 0.17% I 45: +/- 0.08%",
+        "source": "identity"
+      }
+    ]
+  },
+  {
+    "model_id": "pro-ject-0010",
+    "manufacturer": "Pro-Ject",
+    "model": "RPM 9 Carbon",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "RPM 9 Carbon – Pro-Ject Audio Systems",
+        "url": "https://www.project-audio.com/en/product/rpm-9-carbon/"
+      }
+    ],
+    "drive_type": {
+      "value": "belt",
+      "source": "identity"
+    },
+    "speeds_rpm": {
+      "value": [
+        "100/3",
+        "45"
+      ],
+      "source": "identity",
+      "original": "33, 45 (electronic speed change)"
+    },
+    "specifications": [
+      {
+        "value": "±0.60",
+        "condition": "33 RPM",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "33: +/- 0.60% I 45: +/- 0.60%",
+        "source": "identity"
+      },
+      {
+        "value": "±0.60",
+        "condition": "45 RPM",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "33: +/- 0.60% I 45: +/- 0.60%",
+        "source": "identity"
+      }
+    ]
+  },
+  {
+    "model_id": "pro-ject-0011",
+    "manufacturer": "Pro-Ject",
+    "model": "T1 EVO Standard",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "T1 EVO Standard – Pro-Ject Audio Systems",
+        "url": "https://www.project-audio.com/en/product/t1-evo-standard/"
+      }
+    ],
+    "drive_type": {
+      "value": "belt",
+      "source": "identity"
+    },
+    "speeds_rpm": {
+      "value": [
+        "100/3",
+        "45"
+      ],
+      "source": "identity",
+      "original": "33, 45 (electronic speed change)"
+    },
+    "specifications": [
+      {
+        "value": "0.25",
+        "condition": "33 RPM",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "33: 0.25% 45: 0.23%",
+        "source": "identity"
+      },
+      {
+        "value": "0.23",
+        "condition": "45 RPM",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "33: 0.25% 45: 0.23%",
+        "source": "identity"
+      }
+    ]
+  },
+  {
+    "model_id": "pro-ject-0012",
+    "manufacturer": "Pro-Ject",
+    "model": "X1 B",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "X1 B – Pro-Ject Audio Systems",
+        "url": "https://www.project-audio.com/en/product/x1-b/"
+      }
+    ],
+    "drive_type": {
+      "value": "belt",
+      "source": "identity"
+    },
+    "speeds_rpm": {
+      "value": [
+        "100/3",
+        "45",
+        "78"
+      ],
+      "source": "identity",
+      "original": "33, 45, 78 (electronic speed change)"
+    },
+    "specifications": [
+      {
+        "value": "0.15",
+        "condition": "33 RPM",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "33: 0.15% 45: 0.13%",
+        "source": "identity"
+      },
+      {
+        "value": "0.13",
+        "condition": "45 RPM",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "33: 0.15% 45: 0.13%",
+        "source": "identity"
+      }
+    ]
+  },
+  {
+    "model_id": "pro-ject-0013",
+    "manufacturer": "Pro-Ject",
+    "model": "X2 B",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "X2 B – Pro-Ject Audio Systems",
+        "url": "https://www.project-audio.com/en/product/x2-b/"
+      }
+    ],
+    "drive_type": {
+      "value": "belt",
+      "source": "identity"
+    },
+    "speeds_rpm": {
+      "value": [
+        "100/3",
+        "45",
+        "78"
+      ],
+      "source": "identity",
+      "original": "33, 45, 78 (electronic speed change)"
+    },
+    "specifications": [
+      {
+        "value": "0.12",
+        "condition": "33 RPM",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "33: 0.12% 45: 0.10%",
+        "source": "identity"
+      },
+      {
+        "value": "0.10",
+        "condition": "45 RPM",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "33: 0.12% 45: 0.10%",
+        "source": "identity"
+      }
+    ]
+  },
+  {
+    "model_id": "pro-ject-0014",
+    "manufacturer": "Pro-Ject",
+    "model": "A1.2",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "A1.2 – Pro-Ject Audio Systems",
+        "url": "https://www.project-audio.com/en/product/a1-2/"
+      }
+    ],
+    "drive_type": {
+      "value": "belt",
+      "source": "identity"
+    },
+    "speeds_rpm": {
+      "value": [
+        "100/3",
+        "45"
+      ],
+      "source": "identity",
+      "original": "33, 45 (electronic speed change)"
+    },
+    "specifications": [
+      {
+        "value": "±0.27",
+        "condition": "33 RPM",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "33: +/-0,27%; 45: +/-0,25%",
+        "source": "identity"
+      },
+      {
+        "value": "±0.25",
+        "condition": "45 RPM",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "33: +/-0,27%; 45: +/-0,25%",
+        "source": "identity"
+      }
+    ]
+  },
+  {
+    "model_id": "pro-ject-0015",
+    "manufacturer": "Pro-Ject",
+    "model": "A2",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "A2 – Pro-Ject Audio Systems",
+        "url": "https://www.project-audio.com/en/product/a2/"
+      }
+    ],
+    "drive_type": {
+      "value": "belt",
+      "source": "identity"
+    },
+    "speeds_rpm": {
+      "value": [
+        "100/3",
+        "45",
+        "78"
+      ],
+      "source": "identity",
+      "original": "33, 45, 78 (electronic speed change)"
+    },
+    "specifications": [
+      {
+        "value": "±0.14",
+        "condition": "33 RPM",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "33: +/-0,14%; 45: +/-0,12%",
+        "source": "identity"
+      },
+      {
+        "value": "±0.12",
+        "condition": "45 RPM",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "33: +/-0,14%; 45: +/-0,12%",
+        "source": "identity"
+      }
+    ]
+  },
+  {
+    "model_id": "pro-ject-0016",
+    "manufacturer": "Pro-Ject",
+    "model": "RPM 3 Carbon",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "RPM 3 Carbon – Pro-Ject Audio Systems",
+        "url": "https://www.project-audio.com/en/product/rpm-3-carbon-2/"
+      }
+    ],
+    "drive_type": {
+      "value": "belt",
+      "source": "identity"
+    },
+    "speeds_rpm": {
+      "value": [
+        "100/3",
+        "45"
+      ],
+      "source": "identity",
+      "original": "33, 45 (manual speed change)"
+    },
+    "specifications": [
+      {
+        "value": "±0.19",
+        "condition": "33 RPM",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "33: +/- 0.19% I 45: +/- 0.08%",
+        "source": "identity"
+      },
+      {
+        "value": "±0.08",
+        "condition": "45 RPM",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "33: +/- 0.19% I 45: +/- 0.08%",
+        "source": "identity"
+      }
+    ]
+  },
+  {
+    "model_id": "pro-ject-0017",
+    "manufacturer": "Pro-Ject",
+    "model": "Signature 10",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Signature 10 – Pro-Ject Audio Systems",
+        "url": "https://www.project-audio.com/en/product/signature-10/"
+      }
+    ],
+    "speeds_rpm": {
+      "value": [
+        "100/3",
+        "45"
+      ],
+      "source": "identity",
+      "original": "33, 45 (electronic speed change)"
+    }
+  },
+  {
+    "model_id": "pro-ject-0018",
+    "manufacturer": "Pro-Ject",
+    "model": "T2",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "T2 – Pro-Ject Audio Systems",
+        "url": "https://www.project-audio.com/en/product/t2/"
+      }
+    ],
+    "drive_type": {
+      "value": "belt",
+      "source": "identity"
+    },
+    "speeds_rpm": {
+      "value": [
+        "100/3",
+        "45"
+      ],
+      "source": "identity",
+      "original": "33,45 RPM (electronic speed change)"
+    },
+    "specifications": [
+      {
+        "value": "0.19",
+        "condition": "33 RPM",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "33: 0,19% 45: 0,17%",
+        "source": "identity"
+      },
+      {
+        "value": "0.17",
+        "condition": "45 RPM",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "33: 0,19% 45: 0,17%",
+        "source": "identity"
+      }
+    ]
+  },
+  {
+    "model_id": "pro-ject-0019",
+    "manufacturer": "Pro-Ject",
+    "model": "T2 Super Phono",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "T2 Super Phono – Pro-Ject Audio Systems",
+        "url": "https://www.project-audio.com/en/product/t2-super-phono/"
+      }
+    ],
+    "drive_type": {
+      "value": "belt",
+      "source": "identity"
+    },
+    "speeds_rpm": {
+      "value": [
+        "100/3",
+        "45"
+      ],
+      "source": "identity",
+      "original": "33,45 RPM (electronic speed change)"
+    },
+    "specifications": [
+      {
+        "value": "0.19",
+        "condition": "33 RPM",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "33: 0,19% 45: 0,17%",
+        "source": "identity"
+      },
+      {
+        "value": "0.17",
+        "condition": "45 RPM",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "33: 0,19% 45: 0,17%",
+        "source": "identity"
+      }
+    ]
+  },
+  {
+    "model_id": "pro-ject-0020",
+    "manufacturer": "Pro-Ject",
+    "model": "T2 W",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "T2 W – Pro-Ject Audio Systems",
+        "url": "https://www.project-audio.com/en/product/t2w/"
+      }
+    ],
+    "drive_type": {
+      "value": "belt",
+      "source": "identity"
+    },
+    "speeds_rpm": {
+      "value": [
+        "100/3",
+        "45"
+      ],
+      "source": "identity",
+      "original": "33,45 RPM (electronic speed change)"
+    },
+    "specifications": [
+      {
+        "value": "0.19",
+        "condition": "33 RPM",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "33: 0,19% 45: 0,17%",
+        "source": "identity"
+      },
+      {
+        "value": "0.17",
+        "condition": "45 RPM",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "33: 0,19% 45: 0,17%",
+        "source": "identity"
+      }
+    ]
+  },
+  {
+    "model_id": "pro-ject-0021",
+    "manufacturer": "Pro-Ject",
+    "model": "VT-E BT",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "VT-E BT – Pro-Ject Audio Systems",
+        "url": "https://www.project-audio.com/en/product/vt-e-bt/"
+      }
+    ],
+    "drive_type": {
+      "value": "belt",
+      "source": "identity"
+    },
+    "speeds_rpm": {
+      "value": [
+        "100/3",
+        "45"
+      ],
+      "source": "identity",
+      "original": "33, 45 (manual speed change)"
+    },
+    "specifications": [
+      {
+        "value": "0.29",
+        "condition": "33 RPM",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "33: 0.29% 45: 0.27%",
+        "source": "identity"
+      },
+      {
+        "value": "0.27",
+        "condition": "45 RPM",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "33: 0.29% 45: 0.27%",
+        "source": "identity"
+      }
+    ]
+  },
+  {
+    "model_id": "pro-ject-0022",
+    "manufacturer": "Pro-Ject",
+    "model": "X8 B",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "X8 B – Pro-Ject Audio Systems",
+        "url": "https://www.project-audio.com/en/product/x8/"
+      }
+    ],
+    "drive_type": {
+      "value": "belt",
+      "source": "identity"
+    },
+    "speeds_rpm": {
+      "value": [
+        "100/3",
+        "45"
+      ],
+      "source": "identity",
+      "original": "33, 45 (electronic speed change)"
+    },
+    "specifications": [
+      {
+        "value": "±0.11",
+        "condition": "33 RPM",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "33: ±0,11%; 45: ± 0,10%",
+        "source": "identity"
+      },
+      {
+        "value": "±0.10",
+        "condition": "45 RPM",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "33: ±0,11%; 45: ± 0,10%",
+        "source": "identity"
+      }
+    ]
+  },
+  {
+    "model_id": "pro-ject-0023",
+    "manufacturer": "Pro-Ject",
+    "model": "XA B",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "XA B – Pro-Ject Audio Systems",
+        "url": "https://www.project-audio.com/en/product/xa-b/"
+      }
+    ],
+    "drive_type": {
+      "value": "belt",
+      "source": "identity"
+    },
+    "speeds_rpm": {
+      "value": [
+        "100/3",
+        "45"
+      ],
+      "source": "identity",
+      "original": "33, 45 (electronic speed change)"
+    },
+    "specifications": [
+      {
+        "value": "0.13",
+        "condition": "33 RPM",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "33: 0.13% 45: 0.12%",
+        "source": "identity"
+      },
+      {
+        "value": "0.12",
+        "condition": "45 RPM",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "33: 0.13% 45: 0.12%",
+        "source": "identity"
+      }
+    ]
+  },
+  {
+    "model_id": "pro-ject-0024",
+    "manufacturer": "Pro-Ject",
+    "model": "Xtension 10 Evolution",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Xtension 10 Evolution – Pro-Ject Audio Systems",
+        "url": "https://www.project-audio.com/en/product/xtension-10-evolution/"
+      }
+    ],
+    "drive_type": {
+      "value": "belt",
+      "source": "identity"
+    },
+    "speeds_rpm": {
+      "value": [
+        "100/3",
+        "45",
+        "78"
+      ],
+      "source": "identity",
+      "original": "33, 45, 78 (electronic speed change)"
+    },
+    "specifications": [
+      {
+        "value": "±0.01",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "± 0.01% (max)",
+        "source": "identity"
+      }
+    ]
+  },
+  {
+    "model_id": "pro-ject-0025",
+    "manufacturer": "Pro-Ject",
+    "model": "Xtension 12 Evolution",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Xtension 12 Evolution – Pro-Ject Audio Systems",
+        "url": "https://www.project-audio.com/en/product/xtension-12-evolution/"
+      }
+    ],
+    "drive_type": {
+      "value": "belt",
+      "source": "identity"
+    },
+    "speeds_rpm": {
+      "value": [
+        "100/3",
+        "45",
+        "78"
+      ],
+      "source": "identity",
+      "original": "33 / 45 / 78 RPM"
+    },
+    "specifications": [
+      {
+        "value": "±0.01",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "± 0,01% max.",
+        "source": "identity"
+      }
+    ]
+  },
+  {
+    "model_id": "pro-ject-0026",
+    "manufacturer": "Pro-Ject",
+    "model": "Xtension 9 Evolution",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Xtension 9 Evolution – Pro-Ject Audio Systems",
+        "url": "https://www.project-audio.com/en/product/xtension-9-evolution/"
+      }
+    ],
+    "drive_type": {
+      "value": "belt",
+      "source": "identity"
+    },
+    "speeds_rpm": {
+      "value": [
+        "100/3",
+        "45"
+      ],
+      "source": "identity",
+      "original": "33 / 45 rpm (electronic speed change)"
+    },
+    "specifications": [
+      {
+        "value": "±0.1",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "± 0,1%",
+        "source": "identity"
+      }
+    ]
+  },
+  {
+    "model_id": "pro-ject-0027",
+    "manufacturer": "Pro-Ject",
+    "model": "E1.2",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "E1.2 – Pro-Ject Audio Systems",
+        "url": "https://www.project-audio.com/en/product/e1-2/"
+      }
+    ],
+    "drive_type": {
+      "value": "belt",
+      "source": "identity"
+    },
+    "speeds_rpm": {
+      "value": [
+        "100/3",
+        "45"
+      ],
+      "source": "identity",
+      "original": "33, 45 (electronic speed change)"
+    },
+    "specifications": [
+      {
+        "value": "±0.23",
+        "condition": "33 RPM",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "33: +/-0,23%; 45: +/-0,21%",
+        "source": "identity"
+      },
+      {
+        "value": "±0.21",
+        "condition": "45 RPM",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "33: +/-0,23%; 45: +/-0,21%",
+        "source": "identity"
+      }
+    ]
+  },
+  {
+    "model_id": "pro-ject-0028",
+    "manufacturer": "Pro-Ject",
+    "model": "T1 EVO Phono",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "T1 EVO Phono – Pro-Ject Audio Systems",
+        "url": "https://www.project-audio.com/en/product/t1-evo-phono/"
+      }
+    ],
+    "drive_type": {
+      "value": "belt",
+      "source": "identity"
+    },
+    "speeds_rpm": {
+      "value": [
+        "100/3",
+        "45"
+      ],
+      "source": "identity",
+      "original": "33, 45 (electronic speed change)"
+    },
+    "specifications": [
+      {
+        "value": "0.25",
+        "condition": "33 RPM",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "33: 0.25% 45: 0.23%",
+        "source": "identity"
+      },
+      {
+        "value": "0.23",
+        "condition": "45 RPM",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "33: 0.25% 45: 0.23%",
+        "source": "identity"
+      }
+    ]
+  },
+  {
+    "model_id": "pro-ject-0029",
+    "manufacturer": "Pro-Ject",
+    "model": "VT-E",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "VT-E – Pro-Ject Audio Systems",
+        "url": "https://www.project-audio.com/en/product/vt-e/"
+      }
+    ],
+    "drive_type": {
+      "value": "belt",
+      "source": "identity"
+    },
+    "speeds_rpm": {
+      "value": [
+        "100/3",
+        "45"
+      ],
+      "source": "identity",
+      "original": "33, 45 (manual speed change)"
+    },
+    "specifications": [
+      {
+        "value": "0.29",
+        "condition": "33 RPM",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "33: 0.29% 45: 0.27%",
+        "source": "identity"
+      },
+      {
+        "value": "0.27",
+        "condition": "45 RPM",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "33: 0.29% 45: 0.27%",
+        "source": "identity"
+      }
+    ]
+  },
+  {
+    "model_id": "pro-ject-0030",
+    "manufacturer": "Pro-Ject",
+    "model": "Debut Carbon",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Debut Carbon – The Original – Pro-Ject Audio Systems",
+        "url": "https://www.project-audio.com/en/product/debut-carbon-the-original/"
+      }
+    ],
+    "drive_type": {
+      "value": "belt",
+      "source": "identity"
+    },
+    "speeds_rpm": {
+      "value": [
+        "100/3",
+        "45"
+      ],
+      "source": "identity",
+      "original": "33, 45 (manual speed change)"
+    },
+    "specifications": [
+      {
+        "value": "±0.17",
+        "condition": "33 RPM",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "33: +/-0,17%; 45: +/-0,15%",
+        "source": "identity"
+      },
+      {
+        "value": "±0.15",
+        "condition": "45 RPM",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "33: +/-0,17%; 45: +/-0,15%",
+        "source": "identity"
+      }
+    ]
+  },
+  {
+    "model_id": "pro-ject-0031",
+    "manufacturer": "Pro-Ject",
+    "model": "Debut EVO 2",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Debut EVO 2 – Pro-Ject Audio Systems",
+        "url": "https://www.project-audio.com/en/product/debut-evo-2/"
+      }
+    ],
+    "drive_type": {
+      "value": "belt",
+      "source": "identity"
+    },
+    "speeds_rpm": {
+      "value": [
+        "100/3",
+        "45"
+      ],
+      "source": "identity",
+      "original": "33, 45 (electronic speed change)"
+    },
+    "specifications": [
+      {
+        "value": "±0.16",
+        "condition": "33 RPM",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "33: +/-0,16%; 45: +/-0,14%",
+        "source": "identity"
+      },
+      {
+        "value": "±0.14",
+        "condition": "45 RPM",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "33: +/-0,16%; 45: +/-0,14%",
+        "source": "identity"
+      }
+    ]
+  },
+  {
+    "model_id": "pro-ject-0032",
+    "manufacturer": "Pro-Ject",
+    "model": "6PerspeX Balanced",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "6PerspeX Balanced – Pro-Ject Audio Systems",
+        "url": "https://www.project-audio.com/en/product/6perspex-balanced/"
+      }
+    ],
+    "drive_type": {
+      "value": "belt",
+      "source": "identity"
+    },
+    "speeds_rpm": {
+      "value": [
+        "100/3",
+        "45"
+      ],
+      "source": "identity",
+      "original": "33, 45 (electronic speed change)"
+    },
+    "specifications": [
+      {
+        "value": "±0.1",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "+/-0,1%",
+        "source": "identity"
+      }
+    ]
+  },
+  {
+    "model_id": "pro-ject-0033",
+    "manufacturer": "Pro-Ject",
+    "model": "Debut E HP",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Debut E HP – Pro-Ject Audio Systems",
+        "url": "https://www.project-audio.com/en/product/debut-e-hp/"
+      }
+    ],
+    "drive_type": {
+      "value": "belt",
+      "source": "identity"
+    },
+    "speeds_rpm": {
+      "value": [
+        "100/3",
+        "45",
+        "78"
+      ],
+      "source": "identity",
+      "original": "33, 45/(78) (electronic speed change)"
+    },
+    "specifications": [
+      {
+        "value": "±0.22",
+        "condition": "33 RPM",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "33: +/-0,22%; 45: +/-0,21%",
+        "source": "identity"
+      },
+      {
+        "value": "±0.21",
+        "condition": "45 RPM",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "33: +/-0,22%; 45: +/-0,21%",
+        "source": "identity"
+      }
+    ]
+  },
+  {
+    "model_id": "pro-ject-0034",
+    "manufacturer": "Pro-Ject",
+    "model": "1Xpression Carbon",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Pro-Ject Archive — Turntables — 1Xpression Carbon",
+        "url": "https://www.project-audio.com/en/archive/"
+      }
+    ]
+  },
+  {
+    "model_id": "pro-ject-0035",
+    "manufacturer": "Pro-Ject",
+    "model": "1Xpression Carbon Classic",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Pro-Ject Archive — Turntables — 1Xpression Carbon Classic",
+        "url": "https://www.project-audio.com/en/archive/"
+      }
+    ]
+  },
+  {
+    "model_id": "pro-ject-0036",
+    "manufacturer": "Pro-Ject",
+    "model": "1Xpression III",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Pro-Ject Archive — Turntables — 1Xpression III",
+        "url": "https://www.project-audio.com/en/archive/"
+      }
+    ]
+  },
+  {
+    "model_id": "pro-ject-0037",
+    "manufacturer": "Pro-Ject",
+    "model": "1Xpression III Comfort",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Pro-Ject Archive — Turntables — 1Xpression III Comfort",
+        "url": "https://www.project-audio.com/en/archive/"
+      }
+    ]
+  },
+  {
+    "model_id": "pro-ject-0038",
+    "manufacturer": "Pro-Ject",
+    "model": "2Xperience",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Pro-Ject Archive — Turntables — 2Xperience",
+        "url": "https://www.project-audio.com/en/archive/"
+      }
+    ]
+  },
+  {
+    "model_id": "pro-ject-0039",
+    "manufacturer": "Pro-Ject",
+    "model": "2Xperience Basic+",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Pro-Ject Archive — Turntables — 2Xperience Basic+",
+        "url": "https://www.project-audio.com/en/archive/"
+      }
+    ]
+  },
+  {
+    "model_id": "pro-ject-0040",
+    "manufacturer": "Pro-Ject",
+    "model": "2Xperience Classic",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Pro-Ject Archive — Turntables — 2Xperience Classic",
+        "url": "https://www.project-audio.com/en/archive/"
+      }
+    ]
+  },
+  {
+    "model_id": "pro-ject-0041",
+    "manufacturer": "Pro-Ject",
+    "model": "Debut Carbon (DC)",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Pro-Ject Archive — Turntables — Debut Carbon (DC)",
+        "url": "https://www.project-audio.com/en/archive/"
+      }
+    ]
+  },
+  {
+    "model_id": "pro-ject-0042",
+    "manufacturer": "Pro-Ject",
+    "model": "Debut Carbon EVO",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Pro-Ject Archive — Turntables — Debut Carbon EVO",
+        "url": "https://www.project-audio.com/en/archive/"
+      }
+    ]
+  },
+  {
+    "model_id": "pro-ject-0043",
+    "manufacturer": "Pro-Ject",
+    "model": "Debut Carbon RecordMaster HiRes",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Pro-Ject Archive — Turntables — Debut Carbon RecordMaster HiRes",
+        "url": "https://www.project-audio.com/en/archive/"
+      }
+    ]
+  },
+  {
+    "model_id": "pro-ject-0044",
+    "manufacturer": "Pro-Ject",
+    "model": "Debut III",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Pro-Ject Archive — Turntables — Debut III",
+        "url": "https://www.project-audio.com/en/archive/"
+      }
+    ]
+  },
+  {
+    "model_id": "pro-ject-0045",
+    "manufacturer": "Pro-Ject",
+    "model": "Debut PRO",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Pro-Ject Archive — Turntables — Debut PRO",
+        "url": "https://www.project-audio.com/en/archive/"
+      }
+    ]
+  },
+  {
+    "model_id": "pro-ject-0046",
+    "manufacturer": "Pro-Ject",
+    "model": "Debut PRO S",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Pro-Ject Archive — Turntables — Debut PRO S",
+        "url": "https://www.project-audio.com/en/archive/"
+      }
+    ]
+  },
+  {
+    "model_id": "pro-ject-0047",
+    "manufacturer": "Pro-Ject",
+    "model": "Elemental",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Pro-Ject Archive — Turntables — Elemental",
+        "url": "https://www.project-audio.com/en/archive/"
+      }
+    ]
+  },
+  {
+    "model_id": "pro-ject-0048",
+    "manufacturer": "Pro-Ject",
+    "model": "Essential",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Pro-Ject Archive — Turntables — Essential",
+        "url": "https://www.project-audio.com/en/archive/"
+      }
+    ]
+  },
+  {
+    "model_id": "pro-ject-0049",
+    "manufacturer": "Pro-Ject",
+    "model": "Essential II",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Pro-Ject Archive — Turntables — Essential II",
+        "url": "https://www.project-audio.com/en/archive/"
+      }
+    ]
+  },
+  {
+    "model_id": "pro-ject-0050",
+    "manufacturer": "Pro-Ject",
+    "model": "Essential III",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Pro-Ject Archive — Turntables — Essential III",
+        "url": "https://www.project-audio.com/en/archive/"
+      }
+    ]
+  },
+  {
+    "model_id": "pro-ject-0051",
+    "manufacturer": "Pro-Ject",
+    "model": "Essential III Digital",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Pro-Ject Archive — Turntables — Essential III Digital",
+        "url": "https://www.project-audio.com/en/archive/"
+      }
+    ]
+  },
+  {
+    "model_id": "pro-ject-0052",
+    "manufacturer": "Pro-Ject",
+    "model": "Essential III Phono",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Pro-Ject Archive — Turntables — Essential III Phono",
+        "url": "https://www.project-audio.com/en/archive/"
+      }
+    ]
+  },
+  {
+    "model_id": "pro-ject-0053",
+    "manufacturer": "Pro-Ject",
+    "model": "Essential III RecordMaster",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Pro-Ject Archive — Turntables — Essential III RecordMaster",
+        "url": "https://www.project-audio.com/en/archive/"
+      }
+    ]
+  },
+  {
+    "model_id": "pro-ject-0054",
+    "manufacturer": "Pro-Ject",
+    "model": "Essential III SB",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Pro-Ject Archive — Turntables — Essential III SB",
+        "url": "https://www.project-audio.com/en/archive/"
+      }
+    ]
+  },
+  {
+    "model_id": "pro-ject-0055",
+    "manufacturer": "Pro-Ject",
+    "model": "Primary",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Pro-Ject Archive — Turntables — Primary",
+        "url": "https://www.project-audio.com/en/archive/"
+      }
+    ]
+  },
+  {
+    "model_id": "pro-ject-0056",
+    "manufacturer": "Pro-Ject",
+    "model": "Primary E",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Pro-Ject Archive — Turntables — Primary E",
+        "url": "https://www.project-audio.com/en/archive/"
+      }
+    ]
+  },
+  {
+    "model_id": "pro-ject-0057",
+    "manufacturer": "Pro-Ject",
+    "model": "Primary E Phono",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Pro-Ject Archive — Turntables — Primary E Phono",
+        "url": "https://www.project-audio.com/en/archive/"
+      }
+    ]
+  },
+  {
+    "model_id": "pro-ject-0058",
+    "manufacturer": "Pro-Ject",
+    "model": "RPM 1.3 Genie",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Pro-Ject Archive — Turntables — RPM 1.3 Genie",
+        "url": "https://www.project-audio.com/en/archive/"
+      }
+    ]
+  },
+  {
+    "model_id": "pro-ject-0059",
+    "manufacturer": "Pro-Ject",
+    "model": "RPM 10.1 Evolution",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Pro-Ject Archive — Turntables — RPM 10.1 Evolution",
+        "url": "https://www.project-audio.com/en/archive/"
+      }
+    ]
+  },
+  {
+    "model_id": "pro-ject-0060",
+    "manufacturer": "Pro-Ject",
+    "model": "RPM 5.1",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Pro-Ject Archive — Turntables — RPM 5.1",
+        "url": "https://www.project-audio.com/en/archive/"
+      }
+    ]
+  },
+  {
+    "model_id": "pro-ject-0061",
+    "manufacturer": "Pro-Ject",
+    "model": "RPM 9.1 Acryl",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Pro-Ject Archive — Turntables — RPM 9.1 Acryl",
+        "url": "https://www.project-audio.com/en/archive/"
+      }
+    ]
+  },
+  {
+    "model_id": "pro-ject-0062",
+    "manufacturer": "Pro-Ject",
+    "model": "Signature 12",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Pro-Ject Archive — Turntables — Signature 12",
+        "url": "https://www.project-audio.com/en/archive/"
+      }
+    ]
+  },
+  {
+    "model_id": "pro-ject-0063",
+    "manufacturer": "Pro-Ject",
+    "model": "T1 BT",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Pro-Ject Archive — Turntables — T1 BT",
+        "url": "https://www.project-audio.com/en/archive/"
+      }
+    ]
+  },
+  {
+    "model_id": "pro-ject-0064",
+    "manufacturer": "Pro-Ject",
+    "model": "T1 Phono SB",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Pro-Ject Archive — Turntables — T1 Phono SB",
+        "url": "https://www.project-audio.com/en/archive/"
+      }
+    ]
+  },
+  {
+    "model_id": "pro-ject-0065",
+    "manufacturer": "Pro-Ject",
+    "model": "The Classic",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Pro-Ject Archive — Turntables — The Classic",
+        "url": "https://www.project-audio.com/en/archive/"
+      }
+    ]
+  }
+]

@@ -9,6 +9,35 @@
         "key": "identity",
         "url": "https://support.audio-technica.co.jp/answer/69cf8bc7f2038ba609331918",
         "title": "How to set up a record player (turntable) — Audio-Technica Japan FAQ (translated title)"
+      },
+      {
+        "key": "specs",
+        "title": "AT-LP60X | Fully Automatic Belt-Drive Stereo Turntable | Audio-Technica",
+        "url": "https://www.audio-technica.com/en-gb/at-lp60x"
+      }
+    ],
+    "drive_type": {
+      "value": "belt",
+      "source": "specs"
+    },
+    "speeds_rpm": {
+      "value": [
+        "100/3",
+        "45"
+      ],
+      "source": "specs",
+      "original": "33-1/3 RPM, 45 RPM"
+    },
+    "specifications": [
+      {
+        "value": "<0.25",
+        "weighting": "WTD",
+        "standard": "JIS",
+        "condition": "3 kHz",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "Less than 0.25% (WTD) @ 3 kHz (JIS)",
+        "source": "specs"
       }
     ]
   },
@@ -22,6 +51,35 @@
         "key": "identity",
         "url": "https://support.audio-technica.co.jp/answer/69cf8bc7f2038ba609331918",
         "title": "How to set up a record player (turntable) — Audio-Technica Japan FAQ (translated title)"
+      },
+      {
+        "key": "specs",
+        "title": "AT-LP60XBT | Fully Automatic Wireless Belt-Drive Turntable | Audio-Technica",
+        "url": "https://www.audio-technica.com/en-gb/at-lp60xbt"
+      }
+    ],
+    "drive_type": {
+      "value": "belt",
+      "source": "specs"
+    },
+    "speeds_rpm": {
+      "value": [
+        "100/3",
+        "45"
+      ],
+      "source": "specs",
+      "original": "33-1/3 RPM, 45 RPM"
+    },
+    "specifications": [
+      {
+        "value": "<0.25",
+        "weighting": "WTD",
+        "standard": "JIS",
+        "condition": "3 kHz",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "Less than 0.25% (WTD) @ 3 kHz (JIS)",
+        "source": "specs"
       }
     ]
   },
@@ -104,6 +162,36 @@
         "key": "identity",
         "url": "https://www.audio-technica.co.jp/always-listening/articles/about-spec-03/",
         "title": "Reading record player specifications, part 1 — Always Listening (translated title)"
+      },
+      {
+        "key": "specs",
+        "title": "AT-LP120XBT-USB | Direct-Drive Turntable | Audio-Technica | Audio-Technica",
+        "url": "https://www.audio-technica.com/en-gb/at-lp120xbt-usb"
+      }
+    ],
+    "drive_type": {
+      "value": "direct",
+      "source": "specs"
+    },
+    "speeds_rpm": {
+      "value": [
+        "100/3",
+        "45",
+        "78"
+      ],
+      "source": "specs",
+      "original": "33-1/3 RPM, 45 RPM, 78 RPM"
+    },
+    "specifications": [
+      {
+        "value": "<0.2",
+        "weighting": "WTD",
+        "standard": "JIS",
+        "condition": "3 kHz",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "<0.2% (WTD) @ 3 kHz (JIS)",
+        "source": "specs"
       }
     ]
   },
@@ -130,6 +218,34 @@
         "key": "identity",
         "url": "https://www.audio-technica.co.jp/always-listening/articles/about-spec-03/",
         "title": "Reading record player specifications, part 1 — Always Listening (translated title)"
+      },
+      {
+        "key": "specs",
+        "title": "Fully Manual Belt-Drive Turntable| AT-LP2022 | Audio-Technica | Audio-Technica",
+        "url": "https://www.audio-technica.com/en-gb/at-lp2022"
+      }
+    ],
+    "drive_type": {
+      "value": "belt",
+      "source": "specs"
+    },
+    "speeds_rpm": {
+      "value": [
+        "100/3",
+        "45"
+      ],
+      "source": "specs",
+      "original": "33-1/3 RPM, 45 RPM"
+    },
+    "specifications": [
+      {
+        "value": "<0.15",
+        "method": "WRMS",
+        "condition": "3 kHz",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "< 0.15 % WRMS (33 RPM) at 3 kHz",
+        "source": "specs"
       }
     ]
   },
@@ -148,6 +264,475 @@
     "drive_type": {
       "value": "belt",
       "source": "identity"
+    }
+  },
+  {
+    "model_id": "audio-technica-0012",
+    "manufacturer": "Audio-Technica",
+    "model": "AT-LP2X",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Audio Technica AT-LP2X User Manual",
+        "url": "https://www.manualslib.com/manual/1944092/Audio-Technica-At-Lp2x.html"
+      }
+    ],
+    "drive_type": {
+      "value": "belt",
+      "source": "identity"
+    }
+  },
+  {
+    "model_id": "audio-technica-0013",
+    "manufacturer": "Audio-Technica",
+    "model": "AT-LP120XUSB",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "AT-LP120XUSB | Direct-Drive Fully Manual Turntable | Audio-Technica",
+        "url": "https://www.audio-technica.com/en-gb/at-lp120xusb"
+      }
+    ],
+    "drive_type": {
+      "source": "identity",
+      "value": "direct"
+    },
+    "speeds_rpm": {
+      "source": "identity",
+      "original": "33-1/3 RPM, 45 RPM, 78 RPM",
+      "value": [
+        "100/3",
+        "45",
+        "78"
+      ]
+    },
+    "specifications": [
+      {
+        "value": "<0.2",
+        "weighting": "WTD",
+        "standard": "JIS",
+        "condition": "3 kHz",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "<0.2% (WTD) @ 3 kHz (JIS)",
+        "source": "identity"
+      }
+    ]
+  },
+  {
+    "model_id": "audio-technica-0014",
+    "manufacturer": "Audio-Technica",
+    "model": "AT-LP3XBT",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "AT-LP3XBT - Bluetooth® Automatic Belt-Drive Turntable | Audio-Technica | Audio-Technica",
+        "url": "https://www.audio-technica.com/en-gb/at-lp3xbt"
+      }
+    ],
+    "drive_type": {
+      "source": "identity",
+      "value": "belt"
+    },
+    "speeds_rpm": {
+      "source": "identity",
+      "original": "33-1/3 RPM, 45 RPM",
+      "value": [
+        "100/3",
+        "45"
+      ]
+    },
+    "specifications": [
+      {
+        "value": "<0.2",
+        "method": "WRMS",
+        "condition": "3 kHz",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "< 0.2 % WRMS (33 RPM) at 3 kHz",
+        "source": "identity"
+      }
+    ]
+  },
+  {
+    "model_id": "audio-technica-0015",
+    "manufacturer": "Audio-Technica",
+    "model": "AT-LP60XUSB",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "AT-LP60XUSB | Fully Automatic Belt-Drive Turntable (Analog & USB) | Audio-Technica",
+        "url": "https://www.audio-technica.com/en-gb/at-lp60xusb"
+      }
+    ],
+    "drive_type": {
+      "source": "identity",
+      "value": "belt"
+    },
+    "speeds_rpm": {
+      "source": "identity",
+      "original": "33-1/3 RPM, 45 RPM",
+      "value": [
+        "100/3",
+        "45"
+      ]
+    },
+    "specifications": [
+      {
+        "value": "<0.25",
+        "weighting": "WTD",
+        "standard": "JIS",
+        "condition": "3 kHz",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "Less than 0.25% (WTD) @ 3 kHz (JIS)",
+        "source": "identity"
+      }
+    ]
+  },
+  {
+    "model_id": "audio-technica-0016",
+    "manufacturer": "Audio-Technica",
+    "model": "AT-LP70XBT",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "AT-LP70XBT | Automatic Wireless Turntable | Audio-Technica",
+        "url": "https://www.audio-technica.com/en-gb/at-lp70xbt"
+      }
+    ],
+    "drive_type": {
+      "source": "identity",
+      "value": "belt"
+    },
+    "speeds_rpm": {
+      "source": "identity",
+      "original": "33-1/3 RPM, 45 RPM",
+      "value": [
+        "100/3",
+        "45"
+      ]
+    },
+    "specifications": [
+      {
+        "value": "<0.25",
+        "weighting": "WTD",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "< 0.25% (WTD)",
+        "source": "identity"
+      }
+    ]
+  },
+  {
+    "model_id": "audio-technica-0017",
+    "manufacturer": "Audio-Technica",
+    "model": "AT-LP140XP",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "AT-LP140XP | Professional Direct Drive Manual Turntable | Audio-Technica",
+        "url": "https://www.audio-technica.com/en-gb/at-lp140xp"
+      }
+    ],
+    "drive_type": {
+      "source": "identity",
+      "value": "direct"
+    },
+    "speeds_rpm": {
+      "source": "identity",
+      "original": "33-1/3 RPM, 45 RPM, 78 RPM",
+      "value": [
+        "100/3",
+        "45",
+        "78"
+      ]
+    },
+    "specifications": [
+      {
+        "value": "<0.2",
+        "method": "WRMS",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "<0.2% WRMS (33 RPM)",
+        "source": "identity"
+      }
+    ]
+  },
+  {
+    "model_id": "audio-technica-0018",
+    "manufacturer": "Audio-Technica",
+    "model": "AT-LP5X",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "AT-LP5X | Fully Manual Direct Drive Turntable | Audio-Technica",
+        "url": "https://www.audio-technica.com/en-gb/at-lp5x"
+      }
+    ],
+    "drive_type": {
+      "source": "identity",
+      "value": "direct"
+    },
+    "speeds_rpm": {
+      "source": "identity",
+      "original": "33-1/3 RPM, 45 RPM, 78 RPM",
+      "value": [
+        "100/3",
+        "45",
+        "78"
+      ]
+    },
+    "specifications": [
+      {
+        "value": "<0.2",
+        "method": "WRMS",
+        "condition": "3 kHz",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "<0.2% WRMS (33 RPM) at 3 KHz",
+        "source": "identity"
+      }
+    ]
+  },
+  {
+    "model_id": "audio-technica-0019",
+    "manufacturer": "Audio-Technica",
+    "model": "AT-LPW30BK",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "AT-LPW30BK Fully Manual Belt-Drive Turntable | Audio-Technica | Audio-Technica",
+        "url": "https://www.audio-technica.com/en-gb/at-lpw30bk"
+      }
+    ],
+    "drive_type": {
+      "source": "identity",
+      "value": "belt"
+    },
+    "speeds_rpm": {
+      "source": "identity",
+      "original": "331/3 RPM, 45 RPM",
+      "value": [
+        "100/3",
+        "45"
+      ]
+    },
+    "specifications": [
+      {
+        "value": "<0.15",
+        "method": "WRMS",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "< 0.15% WRMS (33RPM) at 3kHz",
+        "source": "identity"
+      }
+    ]
+  },
+  {
+    "model_id": "audio-technica-0020",
+    "manufacturer": "Audio-Technica",
+    "model": "AT-LPW40WN",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "AT-LPW40WNManual Belt Drive Wood Base Turntable | Audio-Technica",
+        "url": "https://www.audio-technica.com/en-gb/at-lpw40wn"
+      }
+    ],
+    "drive_type": {
+      "source": "identity",
+      "value": "belt"
+    },
+    "speeds_rpm": {
+      "source": "identity",
+      "original": "33-1/3 RPM, 45 RPM",
+      "value": [
+        "100/3",
+        "45"
+      ]
+    },
+    "specifications": [
+      {
+        "value": "<0.15",
+        "method": "WRMS",
+        "condition": "3 kHz",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "< 0.15 % WRMS (33 RPM) at 3 kHz",
+        "source": "identity"
+      }
+    ]
+  },
+  {
+    "model_id": "audio-technica-0021",
+    "manufacturer": "Audio-Technica",
+    "model": "AT-LPW50BTRW",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "AT-LPW50BT-RW Bluetooth® Manual Belt-Drive Turntable | Audio-Technica | Audio-Technica",
+        "url": "https://www.audio-technica.com/en-gb/at-lpw50bt"
+      }
+    ],
+    "drive_type": {
+      "source": "identity",
+      "value": "belt"
+    },
+    "speeds_rpm": {
+      "source": "identity",
+      "original": "33-1/3 RPM, 45 RPM",
+      "value": [
+        "100/3",
+        "45"
+      ]
+    },
+    "specifications": [
+      {
+        "value": "<0.15",
+        "method": "WRMS",
+        "condition": "3 kHz",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "< 0.15 % WRMS (33 RPM) at 3 kHz",
+        "source": "identity"
+      }
+    ]
+  },
+  {
+    "model_id": "audio-technica-0022",
+    "manufacturer": "Audio-Technica",
+    "model": "AT-LPW50PB",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "AT-LPW50PB | Fully Manual Belt-Drive Turntable | Audio-Technica",
+        "url": "https://www.audio-technica.com/en-gb/at-lpw50pb"
+      }
+    ],
+    "drive_type": {
+      "source": "identity",
+      "value": "belt"
+    },
+    "speeds_rpm": {
+      "source": "identity",
+      "original": "33-1/3 RPM, 45 RPM",
+      "value": [
+        "100/3",
+        "45"
+      ]
+    },
+    "specifications": [
+      {
+        "value": "<0.15",
+        "method": "WRMS",
+        "condition": "3 kHz",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "< 0.15% WRMS (33 RPM) at 3 kHz",
+        "source": "identity"
+      }
+    ]
+  },
+  {
+    "model_id": "audio-technica-0023",
+    "manufacturer": "Audio-Technica",
+    "model": "AT-SB727",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Portable Bluetooth Turntable | AT-SB727 | Audio-Technica | Audio-Technica",
+        "url": "https://www.audio-technica.com/en-us/at-sb727"
+      }
+    ],
+    "drive_type": {
+      "source": "identity",
+      "value": "belt"
+    },
+    "speeds_rpm": {
+      "source": "identity",
+      "original": "33-1/3 RPM, 45 RPM",
+      "value": [
+        "100/3",
+        "45"
+      ]
+    },
+    "specifications": [
+      {
+        "value": "<0.25",
+        "weighting": "WTD",
+        "condition": "3 kHz",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "< 0.25 % (WTD) at 3 kHz",
+        "source": "identity"
+      }
+    ]
+  },
+  {
+    "model_id": "audio-technica-0024",
+    "manufacturer": "Audio-Technica",
+    "model": "AT-LP60XBT-USB",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "catalog",
+        "title": "Giradiscos Profesional — Catálogo Octubre 2024 — América Latina",
+        "page": 8,
+        "url": "https://docs.audio-technica.com/all/Vol8.Giradiscos_2024-octubre2.pdf"
+      }
+    ],
+    "drive_type": {
+      "source": "catalog",
+      "value": "belt"
+    }
+  },
+  {
+    "model_id": "audio-technica-0025",
+    "manufacturer": "Audio-Technica",
+    "model": "AT-LP70X",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "catalog",
+        "title": "Giradiscos Profesional — Catálogo Octubre 2024 — América Latina",
+        "page": 12,
+        "url": "https://docs.audio-technica.com/all/Vol8.Giradiscos_2024-octubre2.pdf"
+      }
+    ],
+    "drive_type": {
+      "source": "catalog",
+      "value": "belt"
+    }
+  },
+  {
+    "model_id": "audio-technica-0026",
+    "manufacturer": "Audio-Technica",
+    "model": "AT-LP1240-USBXP",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "catalog",
+        "title": "Giradiscos Profesional — Catálogo Octubre 2024 — América Latina",
+        "page": 26,
+        "url": "https://docs.audio-technica.com/all/Vol8.Giradiscos_2024-octubre2.pdf"
+      }
+    ],
+    "drive_type": {
+      "source": "catalog",
+      "value": "direct"
     }
   }
 ]

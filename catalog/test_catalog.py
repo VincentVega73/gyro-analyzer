@@ -1,7 +1,7 @@
 import copy
 import unittest
 
-from catalog import OUTPUT, collect, lookup, lookup_matches, read, validate
+from catalog import OUTPUT, collect, lookup, lookup_matches, norm, read, validate
 
 
 class CatalogTests(unittest.TestCase):
@@ -18,6 +18,16 @@ class CatalogTests(unittest.TestCase):
         se, = lookup(rows, "Michell", "Gyro SE")
         dec, = lookup(rows, "Michell", "GyroDec")
         self.assertNotEqual(se["model_id"], dec["model_id"])
+
+    def test_significant_designation_punctuation(self):
+        rows = self.data["models"]
+        plain, = lookup(rows, "Fluance", "RT81")
+        plus, = lookup(rows, "Fluance", "RT 81+")
+        self.assertNotEqual(plain["model_id"], plus["model_id"])
+        self.assertTrue(lookup(rows, "Pro-Ject", "A1.2"))
+        self.assertFalse(lookup(rows, "Pro-Ject", "A12"))
+        self.assertEqual(norm("Series ½"), norm("Series 1/2"))
+        self.assertNotEqual(norm("Series 1/2"), norm("Series 12"))
 
     def test_rename_preserves_id(self):
         data = copy.deepcopy(self.data)

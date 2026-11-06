@@ -1,0 +1,169 @@
+[
+  {
+    "model_id": "denon-0001",
+    "manufacturer": "Denon",
+    "model": "DP-200USB",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Denon DP-200USB Service Manual",
+        "url": "https://www.manualslib.com/manual/796196/Denon-Dp-200usb.html"
+      }
+    ]
+  },
+  {
+    "model_id": "denon-0002",
+    "manufacturer": "Denon",
+    "model": "DP-35F",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Denon DP-35F Instruction Manual",
+        "url": "https://www.manualslib.com/manual/938961/Denon-Dp-35f.html"
+      }
+    ],
+    "drive_type": {
+      "value": "direct",
+      "source": "identity"
+    }
+  },
+  {
+    "model_id": "denon-0003",
+    "manufacturer": "Denon",
+    "model": "DP-23F",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Denon DP-23F Operating Instructions Manual",
+        "url": "https://www.manualslib.com/manual/352423/Denon-Dp-23f.html"
+      }
+    ],
+    "drive_type": {
+      "value": "direct",
+      "source": "identity"
+    }
+  },
+  {
+    "model_id": "denon-0004",
+    "manufacturer": "Denon",
+    "model": "DP-47F",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Denon DP-47F Operating Instructions Manual",
+        "url": "https://www.manualslib.com/manual/352421/Denon-Dp-47f.html"
+      }
+    ],
+    "drive_type": {
+      "value": "direct",
+      "source": "identity"
+    }
+  },
+  {
+    "model_id": "denon-0005",
+    "manufacturer": "Denon",
+    "model": "DP-3700F",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Denon DP-3700F Operating Instructions Manual",
+        "url": "https://www.manualslib.com/manual/4370368/Denon-Dp-3700f.html"
+      }
+    ]
+  },
+  {
+    "model_id": "denon-0006",
+    "manufacturer": "Denon",
+    "model": "DP-51F",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Denon DP-51F Service Manual",
+        "url": "https://www.manualslib.com/manual/4370986/Denon-Dp-51f.html"
+      }
+    ],
+    "drive_type": {
+      "value": "direct",
+      "source": "identity"
+    }
+  },
+  {
+    "model_id": "denon-0007",
+    "manufacturer": "Denon",
+    "model": "DP-60L",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Denon DP-60L Service Manual",
+        "url": "https://www.manualslib.com/manual/3440345/Denon-Dp-60l.html"
+      }
+    ],
+    "drive_type": {
+      "value": "direct",
+      "source": "identity"
+    }
+  },
+  {
+    "model_id": "denon-0008",
+    "manufacturer": "Denon",
+    "model": "DP-59L",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Denon DP-59L Service Manual",
+        "url": "https://www.manualslib.com/manual/3397474/Denon-Dp-59l.html"
+      }
+    ],
+    "drive_type": {
+      "value": "direct",
+      "source": "identity"
+    }
+  },
+  {
+    "model_id": "denon-0009",
+    "manufacturer": "Denon",
+    "model": "DP-29F",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "DP-29F - Belt-driven analogue Turntable | Denon - Great Britain",
+        "url": "https://www.denon.com/en-gb/product/turntables/dp-29f/DP29FGB.html"
+      }
+    ]
+  },
+  {
+    "model_id": "denon-0010",
+    "manufacturer": "Denon",
+    "model": "DP-300F",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "DP-300F - Fully automatic analogue Turntable | Denon - Great Britain",
+        "url": "https://www.denon.com/en-gb/product/turntables/dp-300f/DP300FGB.html"
+      }
+    ]
+  },
+  {
+    "model_id": "denon-0011",
+    "manufacturer": "Denon",
+    "model": "DP-450USB",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "DP-450USB - Premium belt-driven Hi-Fi Turntable with USB | Denon - Great Britain",
+        "url": "https://www.denon.com/en-gb/product/turntables/dp-450usb/DP450USB.html"
+      }
+    ]
+  }
+]

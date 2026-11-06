@@ -63,5 +63,111 @@
         "title": "Support for PS-LX300USB | Sony USA"
       }
     ]
+  },
+  {
+    "model_id": "sony-0006",
+    "manufacturer": "Sony",
+    "model": "PS-LX56",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Sony Support — Turntables — PS-LX56",
+        "url": "https://www.sony.com/electronics/support/audio-components-turntables"
+      }
+    ]
+  },
+  {
+    "model_id": "sony-0007",
+    "manufacturer": "Sony",
+    "model": "PS-LX520",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Sony Support — Turntables — PS-LX520",
+        "url": "https://www.sony.com/electronics/support/audio-components-turntables"
+      }
+    ]
+  },
+  {
+    "model_id": "sony-0008",
+    "manufacturer": "Sony",
+    "model": "PS-LX300H",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Sony Support — Turntables — PS-LX300H",
+        "url": "https://www.sony.com/electronics/support/audio-components-turntables"
+      }
+    ]
+  },
+  {
+    "model_id": "sony-0009",
+    "manufacturer": "Sony",
+    "model": "PS-LX150H",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Sony Support — Turntables — PS-LX150H",
+        "url": "https://www.sony.com/electronics/support/audio-components-turntables"
+      }
+    ]
+  },
+  {
+    "model_id": "sony-0010",
+    "manufacturer": "Sony",
+    "model": "PS-LX250H",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Sony Support — Turntables — PS-LX250H",
+        "url": "https://www.sony.com/electronics/support/audio-components-turntables"
+      }
+    ]
+  },
+  {
+    "model_id": "sony-0011",
+    "manufacturer": "Sony",
+    "model": "PS-LX350H",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Sony Support — Turntables — PS-LX350H",
+        "url": "https://www.sony.com/electronics/support/audio-components-turntables"
+      }
+    ]
+  },
+  {
+    "model_id": "sony-0012",
+    "manufacturer": "Sony",
+    "model": "PS-6750",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Sony PS-6750 — Service Manual",
+        "url": "https://audiocircuit.dk/downloads/sony/Sony-PS6750-tt-sm.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "model_id": "sony-0013",
+    "manufacturer": "Sony",
+    "model": "PS-X600",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Sony PS-X600 — Service Manual",
+        "url": "https://retronik.silicium.org/DOCUMENTS/Audiovideo/Sony/Sony-PS-X600-Service-Manual.pdf",
+        "page": 1
+      }
+    ]
   }
 ]

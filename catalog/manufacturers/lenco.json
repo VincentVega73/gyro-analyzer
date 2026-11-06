@@ -1,0 +1,93 @@
+[
+  {
+    "model_id": "lenco-0001",
+    "manufacturer": "Lenco",
+    "model": "L 75",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "LENCO L 75 Operating Instructions Manual",
+        "url": "https://www.manualslib.com/manual/3286959/Lenco-L-75.html"
+      }
+    ]
+  },
+  {
+    "model_id": "lenco-0002",
+    "manufacturer": "Lenco",
+    "model": "LS-5000K",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "LENCO LS-5000K User Manual",
+        "url": "https://www.manualslib.com/manual/2746125/Lenco-Ls-5000k.html"
+      }
+    ]
+  },
+  {
+    "model_id": "lenco-0003",
+    "manufacturer": "Lenco",
+    "model": "L-3866 USB",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "LENCO L-3866 USB Instruction Manual",
+        "url": "https://www.manualslib.com/manual/362620/Lenco-L-3866-Usb.html"
+      }
+    ]
+  },
+  {
+    "model_id": "lenco-0004",
+    "manufacturer": "Lenco",
+    "model": "LS-500",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "LENCO LS-500 User Manual",
+        "url": "https://www.manualslib.com/manual/2058785/Lenco-Ls-500.html"
+      }
+    ]
+  },
+  {
+    "model_id": "lenco-0005",
+    "manufacturer": "Lenco",
+    "model": "L78",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "LENCO L78 Operating Instructions",
+        "url": "https://www.manualslib.com/manual/3383649/Lenco-L78.html"
+      }
+    ]
+  },
+  {
+    "model_id": "lenco-0006",
+    "manufacturer": "Lenco",
+    "model": "LS-570",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "LENCO LS-570 User Manual",
+        "url": "https://www.manualslib.com/manual/3624181/Lenco-Ls-570.html"
+      }
+    ]
+  },
+  {
+    "model_id": "lenco-0007",
+    "manufacturer": "Lenco",
+    "model": "LS-700",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "LENCO LS-700 User Manual",
+        "url": "https://www.manualslib.com/manual/4536865/Lenco-Ls-700.html"
+      }
+    ]
+  }
+]

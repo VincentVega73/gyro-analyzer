@@ -158,5 +158,31 @@
       "value": "belt",
       "source": "identity"
     }
+  },
+  {
+    "model_id": "thorens-0013",
+    "manufacturer": "Thorens",
+    "model": "TD 160",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Thorens History — TD 160",
+        "url": "https://www.thorens.com/en/history.html"
+      }
+    ]
+  },
+  {
+    "model_id": "thorens-0014",
+    "manufacturer": "Thorens",
+    "model": "TD 126",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Thorens History — TD 126",
+        "url": "https://www.thorens.com/en/history.html"
+      }
+    ]
   }
 ]

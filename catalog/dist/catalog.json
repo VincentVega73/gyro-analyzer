@@ -1,8 +1,12 @@
 {
-  "catalog_version": "1.2.0",
+  "catalog_version": "1.3.0",
   "models": [
     {
       "aliases": [],
+      "drive_type": {
+        "source": "specs",
+        "value": "direct"
+      },
       "manufacturer": "Audio-Technica",
       "model": "AT-LP120XBT-USB",
       "model_id": "audio-technica-0008",
@@ -11,11 +15,133 @@
           "key": "identity",
           "title": "Reading record player specifications, part 1 — Always Listening (translated title)",
           "url": "https://www.audio-technica.co.jp/always-listening/articles/about-spec-03/"
+        },
+        {
+          "key": "specs",
+          "title": "AT-LP120XBT-USB | Direct-Drive Turntable | Audio-Technica | Audio-Technica",
+          "url": "https://www.audio-technica.com/en-gb/at-lp120xbt-usb"
+        }
+      ],
+      "specifications": [
+        {
+          "condition": "3 kHz",
+          "name": "wow_and_flutter",
+          "original": "<0.2% (WTD) @ 3 kHz (JIS)",
+          "source": "specs",
+          "standard": "JIS",
+          "unit": "%",
+          "value": "<0.2",
+          "weighting": "WTD"
+        }
+      ],
+      "speeds_rpm": {
+        "original": "33-1/3 RPM, 45 RPM, 78 RPM",
+        "source": "specs",
+        "value": [
+          "100/3",
+          "45",
+          "78"
+        ]
+      }
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "direct"
+      },
+      "manufacturer": "Audio-Technica",
+      "model": "AT-LP120XUSB",
+      "model_id": "audio-technica-0013",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "AT-LP120XUSB | Direct-Drive Fully Manual Turntable | Audio-Technica",
+          "url": "https://www.audio-technica.com/en-gb/at-lp120xusb"
+        }
+      ],
+      "specifications": [
+        {
+          "condition": "3 kHz",
+          "name": "wow_and_flutter",
+          "original": "<0.2% (WTD) @ 3 kHz (JIS)",
+          "source": "identity",
+          "standard": "JIS",
+          "unit": "%",
+          "value": "<0.2",
+          "weighting": "WTD"
+        }
+      ],
+      "speeds_rpm": {
+        "original": "33-1/3 RPM, 45 RPM, 78 RPM",
+        "source": "identity",
+        "value": [
+          "100/3",
+          "45",
+          "78"
+        ]
+      }
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "catalog",
+        "value": "direct"
+      },
+      "manufacturer": "Audio-Technica",
+      "model": "AT-LP1240-USBXP",
+      "model_id": "audio-technica-0026",
+      "sources": [
+        {
+          "key": "catalog",
+          "page": 26,
+          "title": "Giradiscos Profesional — Catálogo Octubre 2024 — América Latina",
+          "url": "https://docs.audio-technica.com/all/Vol8.Giradiscos_2024-octubre2.pdf"
         }
       ]
     },
     {
       "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "direct"
+      },
+      "manufacturer": "Audio-Technica",
+      "model": "AT-LP140XP",
+      "model_id": "audio-technica-0017",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "AT-LP140XP | Professional Direct Drive Manual Turntable | Audio-Technica",
+          "url": "https://www.audio-technica.com/en-gb/at-lp140xp"
+        }
+      ],
+      "specifications": [
+        {
+          "method": "WRMS",
+          "name": "wow_and_flutter",
+          "original": "<0.2% WRMS (33 RPM)",
+          "source": "identity",
+          "unit": "%",
+          "value": "<0.2"
+        }
+      ],
+      "speeds_rpm": {
+        "original": "33-1/3 RPM, 45 RPM, 78 RPM",
+        "source": "identity",
+        "value": [
+          "100/3",
+          "45",
+          "78"
+        ]
+      }
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "specs",
+        "value": "belt"
+      },
       "manufacturer": "Audio-Technica",
       "model": "AT-LP2022",
       "model_id": "audio-technica-0010",
@@ -24,11 +150,129 @@
           "key": "identity",
           "title": "Reading record player specifications, part 1 — Always Listening (translated title)",
           "url": "https://www.audio-technica.co.jp/always-listening/articles/about-spec-03/"
+        },
+        {
+          "key": "specs",
+          "title": "Fully Manual Belt-Drive Turntable| AT-LP2022 | Audio-Technica | Audio-Technica",
+          "url": "https://www.audio-technica.com/en-gb/at-lp2022"
+        }
+      ],
+      "specifications": [
+        {
+          "condition": "3 kHz",
+          "method": "WRMS",
+          "name": "wow_and_flutter",
+          "original": "< 0.15 % WRMS (33 RPM) at 3 kHz",
+          "source": "specs",
+          "unit": "%",
+          "value": "<0.15"
+        }
+      ],
+      "speeds_rpm": {
+        "original": "33-1/3 RPM, 45 RPM",
+        "source": "specs",
+        "value": [
+          "100/3",
+          "45"
+        ]
+      }
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "belt"
+      },
+      "manufacturer": "Audio-Technica",
+      "model": "AT-LP2X",
+      "model_id": "audio-technica-0012",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Audio Technica AT-LP2X User Manual",
+          "url": "https://www.manualslib.com/manual/1944092/Audio-Technica-At-Lp2x.html"
         }
       ]
     },
     {
       "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "belt"
+      },
+      "manufacturer": "Audio-Technica",
+      "model": "AT-LP3XBT",
+      "model_id": "audio-technica-0014",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "AT-LP3XBT - Bluetooth® Automatic Belt-Drive Turntable | Audio-Technica | Audio-Technica",
+          "url": "https://www.audio-technica.com/en-gb/at-lp3xbt"
+        }
+      ],
+      "specifications": [
+        {
+          "condition": "3 kHz",
+          "method": "WRMS",
+          "name": "wow_and_flutter",
+          "original": "< 0.2 % WRMS (33 RPM) at 3 kHz",
+          "source": "identity",
+          "unit": "%",
+          "value": "<0.2"
+        }
+      ],
+      "speeds_rpm": {
+        "original": "33-1/3 RPM, 45 RPM",
+        "source": "identity",
+        "value": [
+          "100/3",
+          "45"
+        ]
+      }
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "direct"
+      },
+      "manufacturer": "Audio-Technica",
+      "model": "AT-LP5X",
+      "model_id": "audio-technica-0018",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "AT-LP5X | Fully Manual Direct Drive Turntable | Audio-Technica",
+          "url": "https://www.audio-technica.com/en-gb/at-lp5x"
+        }
+      ],
+      "specifications": [
+        {
+          "condition": "3 kHz",
+          "method": "WRMS",
+          "name": "wow_and_flutter",
+          "original": "<0.2% WRMS (33 RPM) at 3 KHz",
+          "source": "identity",
+          "unit": "%",
+          "value": "<0.2"
+        }
+      ],
+      "speeds_rpm": {
+        "original": "33-1/3 RPM, 45 RPM, 78 RPM",
+        "source": "identity",
+        "value": [
+          "100/3",
+          "45",
+          "78"
+        ]
+      }
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "specs",
+        "value": "belt"
+      },
       "manufacturer": "Audio-Technica",
       "model": "AT-LP60X",
       "model_id": "audio-technica-0001",
@@ -37,11 +281,40 @@
           "key": "identity",
           "title": "How to set up a record player (turntable) — Audio-Technica Japan FAQ (translated title)",
           "url": "https://support.audio-technica.co.jp/answer/69cf8bc7f2038ba609331918"
+        },
+        {
+          "key": "specs",
+          "title": "AT-LP60X | Fully Automatic Belt-Drive Stereo Turntable | Audio-Technica",
+          "url": "https://www.audio-technica.com/en-gb/at-lp60x"
         }
-      ]
+      ],
+      "specifications": [
+        {
+          "condition": "3 kHz",
+          "name": "wow_and_flutter",
+          "original": "Less than 0.25% (WTD) @ 3 kHz (JIS)",
+          "source": "specs",
+          "standard": "JIS",
+          "unit": "%",
+          "value": "<0.25",
+          "weighting": "WTD"
+        }
+      ],
+      "speeds_rpm": {
+        "original": "33-1/3 RPM, 45 RPM",
+        "source": "specs",
+        "value": [
+          "100/3",
+          "45"
+        ]
+      }
     },
     {
       "aliases": [],
+      "drive_type": {
+        "source": "specs",
+        "value": "belt"
+      },
       "manufacturer": "Audio-Technica",
       "model": "AT-LP60XBT",
       "model_id": "audio-technica-0002",
@@ -50,8 +323,88 @@
           "key": "identity",
           "title": "How to set up a record player (turntable) — Audio-Technica Japan FAQ (translated title)",
           "url": "https://support.audio-technica.co.jp/answer/69cf8bc7f2038ba609331918"
+        },
+        {
+          "key": "specs",
+          "title": "AT-LP60XBT | Fully Automatic Wireless Belt-Drive Turntable | Audio-Technica",
+          "url": "https://www.audio-technica.com/en-gb/at-lp60xbt"
+        }
+      ],
+      "specifications": [
+        {
+          "condition": "3 kHz",
+          "name": "wow_and_flutter",
+          "original": "Less than 0.25% (WTD) @ 3 kHz (JIS)",
+          "source": "specs",
+          "standard": "JIS",
+          "unit": "%",
+          "value": "<0.25",
+          "weighting": "WTD"
+        }
+      ],
+      "speeds_rpm": {
+        "original": "33-1/3 RPM, 45 RPM",
+        "source": "specs",
+        "value": [
+          "100/3",
+          "45"
+        ]
+      }
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "catalog",
+        "value": "belt"
+      },
+      "manufacturer": "Audio-Technica",
+      "model": "AT-LP60XBT-USB",
+      "model_id": "audio-technica-0024",
+      "sources": [
+        {
+          "key": "catalog",
+          "page": 8,
+          "title": "Giradiscos Profesional — Catálogo Octubre 2024 — América Latina",
+          "url": "https://docs.audio-technica.com/all/Vol8.Giradiscos_2024-octubre2.pdf"
         }
       ]
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "belt"
+      },
+      "manufacturer": "Audio-Technica",
+      "model": "AT-LP60XUSB",
+      "model_id": "audio-technica-0015",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "AT-LP60XUSB | Fully Automatic Belt-Drive Turntable (Analog & USB) | Audio-Technica",
+          "url": "https://www.audio-technica.com/en-gb/at-lp60xusb"
+        }
+      ],
+      "specifications": [
+        {
+          "condition": "3 kHz",
+          "name": "wow_and_flutter",
+          "original": "Less than 0.25% (WTD) @ 3 kHz (JIS)",
+          "source": "identity",
+          "standard": "JIS",
+          "unit": "%",
+          "value": "<0.25",
+          "weighting": "WTD"
+        }
+      ],
+      "speeds_rpm": {
+        "original": "33-1/3 RPM, 45 RPM",
+        "source": "identity",
+        "value": [
+          "100/3",
+          "45"
+        ]
+      }
     },
     {
       "aliases": [],
@@ -69,6 +422,59 @@
           "url": "https://www.audio-technica.co.jp/always-listening/articles/about-spec-03/"
         }
       ]
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "catalog",
+        "value": "belt"
+      },
+      "manufacturer": "Audio-Technica",
+      "model": "AT-LP70X",
+      "model_id": "audio-technica-0025",
+      "sources": [
+        {
+          "key": "catalog",
+          "page": 12,
+          "title": "Giradiscos Profesional — Catálogo Octubre 2024 — América Latina",
+          "url": "https://docs.audio-technica.com/all/Vol8.Giradiscos_2024-octubre2.pdf"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "belt"
+      },
+      "manufacturer": "Audio-Technica",
+      "model": "AT-LP70XBT",
+      "model_id": "audio-technica-0016",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "AT-LP70XBT | Automatic Wireless Turntable | Audio-Technica",
+          "url": "https://www.audio-technica.com/en-gb/at-lp70xbt"
+        }
+      ],
+      "specifications": [
+        {
+          "name": "wow_and_flutter",
+          "original": "< 0.25% (WTD)",
+          "source": "identity",
+          "unit": "%",
+          "value": "<0.25",
+          "weighting": "WTD"
+        }
+      ],
+      "speeds_rpm": {
+        "original": "33-1/3 RPM, 45 RPM",
+        "source": "identity",
+        "value": [
+          "100/3",
+          "45"
+        ]
+      }
     },
     {
       "aliases": [],
@@ -99,6 +505,149 @@
           "url": "https://www.audio-technica.co.jp/always-listening/articles/about-spec-03/"
         }
       ]
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "belt"
+      },
+      "manufacturer": "Audio-Technica",
+      "model": "AT-LPW30BK",
+      "model_id": "audio-technica-0019",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "AT-LPW30BK Fully Manual Belt-Drive Turntable | Audio-Technica | Audio-Technica",
+          "url": "https://www.audio-technica.com/en-gb/at-lpw30bk"
+        }
+      ],
+      "specifications": [
+        {
+          "method": "WRMS",
+          "name": "wow_and_flutter",
+          "original": "< 0.15% WRMS (33RPM) at 3kHz",
+          "source": "identity",
+          "unit": "%",
+          "value": "<0.15"
+        }
+      ],
+      "speeds_rpm": {
+        "original": "331/3 RPM, 45 RPM",
+        "source": "identity",
+        "value": [
+          "100/3",
+          "45"
+        ]
+      }
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "belt"
+      },
+      "manufacturer": "Audio-Technica",
+      "model": "AT-LPW40WN",
+      "model_id": "audio-technica-0020",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "AT-LPW40WNManual Belt Drive Wood Base Turntable | Audio-Technica",
+          "url": "https://www.audio-technica.com/en-gb/at-lpw40wn"
+        }
+      ],
+      "specifications": [
+        {
+          "condition": "3 kHz",
+          "method": "WRMS",
+          "name": "wow_and_flutter",
+          "original": "< 0.15 % WRMS (33 RPM) at 3 kHz",
+          "source": "identity",
+          "unit": "%",
+          "value": "<0.15"
+        }
+      ],
+      "speeds_rpm": {
+        "original": "33-1/3 RPM, 45 RPM",
+        "source": "identity",
+        "value": [
+          "100/3",
+          "45"
+        ]
+      }
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "belt"
+      },
+      "manufacturer": "Audio-Technica",
+      "model": "AT-LPW50BTRW",
+      "model_id": "audio-technica-0021",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "AT-LPW50BT-RW Bluetooth® Manual Belt-Drive Turntable | Audio-Technica | Audio-Technica",
+          "url": "https://www.audio-technica.com/en-gb/at-lpw50bt"
+        }
+      ],
+      "specifications": [
+        {
+          "condition": "3 kHz",
+          "method": "WRMS",
+          "name": "wow_and_flutter",
+          "original": "< 0.15 % WRMS (33 RPM) at 3 kHz",
+          "source": "identity",
+          "unit": "%",
+          "value": "<0.15"
+        }
+      ],
+      "speeds_rpm": {
+        "original": "33-1/3 RPM, 45 RPM",
+        "source": "identity",
+        "value": [
+          "100/3",
+          "45"
+        ]
+      }
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "belt"
+      },
+      "manufacturer": "Audio-Technica",
+      "model": "AT-LPW50PB",
+      "model_id": "audio-technica-0022",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "AT-LPW50PB | Fully Manual Belt-Drive Turntable | Audio-Technica",
+          "url": "https://www.audio-technica.com/en-gb/at-lpw50pb"
+        }
+      ],
+      "specifications": [
+        {
+          "condition": "3 kHz",
+          "method": "WRMS",
+          "name": "wow_and_flutter",
+          "original": "< 0.15% WRMS (33 RPM) at 3 kHz",
+          "source": "identity",
+          "unit": "%",
+          "value": "<0.15"
+        }
+      ],
+      "speeds_rpm": {
+        "original": "33-1/3 RPM, 45 RPM",
+        "source": "identity",
+        "value": [
+          "100/3",
+          "45"
+        ]
+      }
     },
     {
       "aliases": [],
@@ -149,6 +698,209 @@
           "key": "identity",
           "title": "How to set up a record player (turntable) — Audio-Technica Japan FAQ (translated title)",
           "url": "https://support.audio-technica.co.jp/answer/69cf8bc7f2038ba609331918"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "belt"
+      },
+      "manufacturer": "Audio-Technica",
+      "model": "AT-SB727",
+      "model_id": "audio-technica-0023",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Portable Bluetooth Turntable | AT-SB727 | Audio-Technica | Audio-Technica",
+          "url": "https://www.audio-technica.com/en-us/at-sb727"
+        }
+      ],
+      "specifications": [
+        {
+          "condition": "3 kHz",
+          "name": "wow_and_flutter",
+          "original": "< 0.25 % (WTD) at 3 kHz",
+          "source": "identity",
+          "unit": "%",
+          "value": "<0.25",
+          "weighting": "WTD"
+        }
+      ],
+      "speeds_rpm": {
+        "original": "33-1/3 RPM, 45 RPM",
+        "source": "identity",
+        "value": [
+          "100/3",
+          "45"
+        ]
+      }
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Denon",
+      "model": "DP-200USB",
+      "model_id": "denon-0001",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Denon DP-200USB Service Manual",
+          "url": "https://www.manualslib.com/manual/796196/Denon-Dp-200usb.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "direct"
+      },
+      "manufacturer": "Denon",
+      "model": "DP-23F",
+      "model_id": "denon-0003",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Denon DP-23F Operating Instructions Manual",
+          "url": "https://www.manualslib.com/manual/352423/Denon-Dp-23f.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Denon",
+      "model": "DP-29F",
+      "model_id": "denon-0009",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "DP-29F - Belt-driven analogue Turntable | Denon - Great Britain",
+          "url": "https://www.denon.com/en-gb/product/turntables/dp-29f/DP29FGB.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Denon",
+      "model": "DP-300F",
+      "model_id": "denon-0010",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "DP-300F - Fully automatic analogue Turntable | Denon - Great Britain",
+          "url": "https://www.denon.com/en-gb/product/turntables/dp-300f/DP300FGB.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "direct"
+      },
+      "manufacturer": "Denon",
+      "model": "DP-35F",
+      "model_id": "denon-0002",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Denon DP-35F Instruction Manual",
+          "url": "https://www.manualslib.com/manual/938961/Denon-Dp-35f.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Denon",
+      "model": "DP-3700F",
+      "model_id": "denon-0005",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Denon DP-3700F Operating Instructions Manual",
+          "url": "https://www.manualslib.com/manual/4370368/Denon-Dp-3700f.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Denon",
+      "model": "DP-450USB",
+      "model_id": "denon-0011",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "DP-450USB - Premium belt-driven Hi-Fi Turntable with USB | Denon - Great Britain",
+          "url": "https://www.denon.com/en-gb/product/turntables/dp-450usb/DP450USB.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "direct"
+      },
+      "manufacturer": "Denon",
+      "model": "DP-47F",
+      "model_id": "denon-0004",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Denon DP-47F Operating Instructions Manual",
+          "url": "https://www.manualslib.com/manual/352421/Denon-Dp-47f.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "direct"
+      },
+      "manufacturer": "Denon",
+      "model": "DP-51F",
+      "model_id": "denon-0006",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Denon DP-51F Service Manual",
+          "url": "https://www.manualslib.com/manual/4370986/Denon-Dp-51f.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "direct"
+      },
+      "manufacturer": "Denon",
+      "model": "DP-59L",
+      "model_id": "denon-0008",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Denon DP-59L Service Manual",
+          "url": "https://www.manualslib.com/manual/3397474/Denon-Dp-59l.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "direct"
+      },
+      "manufacturer": "Denon",
+      "model": "DP-60L",
+      "model_id": "denon-0007",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Denon DP-60L Service Manual",
+          "url": "https://www.manualslib.com/manual/3440345/Denon-Dp-60l.html"
         }
       ]
     },
@@ -209,6 +961,76 @@
     {
       "aliases": [],
       "manufacturer": "Dual",
+      "model": "1010 A",
+      "model_id": "dual-0044",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Dual 1010 A — Service Manual",
+          "url": "https://dual.de/wp-content/uploads/ServiceManual_1010A.pdf"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Dual",
+      "model": "1010 F",
+      "model_id": "dual-0043",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Dual 1010 F — Service Manual",
+          "url": "https://dual.de/wp-content/uploads/ServiceManual_1010F.pdf"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Dual",
+      "model": "1011",
+      "model_id": "dual-0042",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Dual 1011 — Service Manual",
+          "url": "https://dual.de/wp-content/uploads/ServiceManual_1011.pdf"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Dual",
+      "model": "1015",
+      "model_id": "dual-0041",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Dual 1015 — Service Manual",
+          "url": "https://dual.de/wp-content/uploads/ServiceManual_1015.pdf"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Dual",
+      "model": "1015 F",
+      "model_id": "dual-0040",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Dual 1015 F — Service Manual",
+          "url": "https://dual.de/wp-content/uploads/ServiceManual_1015F.pdf"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Dual",
       "model": "1019",
       "model_id": "dual-0012",
       "sources": [
@@ -251,6 +1073,34 @@
     {
       "aliases": [],
       "manufacturer": "Dual",
+      "model": "1211",
+      "model_id": "dual-0039",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Dual 1211 — Service Manual",
+          "url": "https://dual.de/wp-content/uploads/ServiceManual_1211.pdf"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Dual",
+      "model": "1212",
+      "model_id": "dual-0038",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Dual 1212 — Service Manual",
+          "url": "https://dual.de/wp-content/uploads/ServiceManual_1212.pdf"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Dual",
       "model": "1214",
       "model_id": "dual-0015",
       "sources": [
@@ -259,6 +1109,20 @@
           "page": 1,
           "title": "Dual 1214 — Service Manual",
           "url": "https://dual.de/wp-content/uploads/ServiceManual_1214.pdf"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Dual",
+      "model": "1215",
+      "model_id": "dual-0037",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Dual 1215 — Service Manual",
+          "url": "https://dual.de/wp-content/uploads/ServiceManual_1215.pdf"
         }
       ]
     },
@@ -307,6 +1171,33 @@
     {
       "aliases": [],
       "manufacturer": "Dual",
+      "model": "1224",
+      "model_id": "dual-0063",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Dual 1224 Service Manual",
+          "url": "https://www.manualslib.com/manual/3344906/Dual-1224.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Dual",
+      "model": "1226",
+      "model_id": "dual-0036",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Dual 1226 — Service Manual",
+          "url": "https://dual.de/wp-content/uploads/ServiceManual_1226.pdf"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Dual",
       "model": "1228",
       "model_id": "dual-0019",
       "sources": [
@@ -335,6 +1226,19 @@
     {
       "aliases": [],
       "manufacturer": "Dual",
+      "model": "1229 Q",
+      "model_id": "dual-0062",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Dual 1229 Q Service Manual",
+          "url": "https://www.manualslib.com/manual/2796324/Dual-1229-Q.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Dual",
       "model": "1236",
       "model_id": "dual-0021",
       "sources": [
@@ -349,6 +1253,34 @@
     {
       "aliases": [],
       "manufacturer": "Dual",
+      "model": "1237",
+      "model_id": "dual-0034",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Dual 1237 — Service Manual",
+          "url": "https://dual.de/wp-content/uploads/ServiceManual_1237.pdf"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Dual",
+      "model": "1237 A",
+      "model_id": "dual-0035",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Dual 1237 A — Service Manual",
+          "url": "https://dual.de/wp-content/uploads/ServiceManual_1237A.pdf"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Dual",
       "model": "1239",
       "model_id": "dual-0022",
       "sources": [
@@ -357,6 +1289,20 @@
           "page": 1,
           "title": "Dual 1239 — Service Manual",
           "url": "https://dual.de/wp-content/uploads/ServiceManual_1239.pdf"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Dual",
+      "model": "1239 A",
+      "model_id": "dual-0033",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Dual 1239 A — Service Manual",
+          "url": "https://dual.de/wp-content/uploads/ServiceManual_1239A.pdf"
         }
       ]
     },
@@ -419,6 +1365,201 @@
     {
       "aliases": [],
       "manufacturer": "Dual",
+      "model": "1256",
+      "model_id": "dual-0064",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Dual 1256 Service Manual",
+          "url": "https://www.manualslib.com/manual/4327861/Dual-1256.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Dual",
+      "model": "1264",
+      "model_id": "dual-0032",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Dual 1264 — Service Manual",
+          "url": "https://dual.de/wp-content/uploads/ServiceManual_1264.pdf"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Dual",
+      "model": "420",
+      "model_id": "dual-0060",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Dual 420 — Service Manual",
+          "url": "https://dual.de/wp-content/uploads/ServiceManual_420_.pdf"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Dual",
+      "model": "421",
+      "model_id": "dual-0059",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Dual 421 — Service Manual",
+          "url": "https://dual.de/wp-content/uploads/ServiceManual_421.pdf"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Dual",
+      "model": "430",
+      "model_id": "dual-0058",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Dual 430 — Service Manual",
+          "url": "https://dual.de/wp-content/uploads/ServiceManual_430.pdf"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Dual",
+      "model": "481 A",
+      "model_id": "dual-0057",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Dual 481 A — Service Manual",
+          "url": "https://dual.de/wp-content/uploads/ServiceManual_481A.pdf"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Dual",
+      "model": "491",
+      "model_id": "dual-0056",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Dual 491 — Service Manual",
+          "url": "https://dual.de/wp-content/uploads/ServiceManual_491.pdf"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Dual",
+      "model": "496",
+      "model_id": "dual-0055",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Dual 496 — Service Manual",
+          "url": "https://dual.de/wp-content/uploads/ServiceManual_496.pdf"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Dual",
+      "model": "502",
+      "model_id": "dual-0054",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Dual 502 — Service Manual",
+          "url": "https://dual.de/wp-content/uploads/ServiceManual_502.pdf"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Dual",
+      "model": "504",
+      "model_id": "dual-0053",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Dual 504 — Service Manual",
+          "url": "https://dual.de/wp-content/uploads/ServiceManual_504.pdf"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Dual",
+      "model": "506",
+      "model_id": "dual-0052",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Dual 506 — Service Manual",
+          "url": "https://dual.de/wp-content/uploads/ServiceManual_506.pdf"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Dual",
+      "model": "510",
+      "model_id": "dual-0051",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Dual 510 — Service Manual",
+          "url": "https://dual.de/wp-content/uploads/ServiceManual_510.pdf"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Dual",
+      "model": "521",
+      "model_id": "dual-0050",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Dual 521 — Service Manual",
+          "url": "https://dual.de/wp-content/uploads/ServiceManual_521.pdf"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Dual",
+      "model": "522",
+      "model_id": "dual-0049",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Dual 522 — Service Manual",
+          "url": "https://dual.de/wp-content/uploads/ServiceManual_522.pdf"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Dual",
       "model": "601",
       "model_id": "dual-0027",
       "sources": [
@@ -433,6 +1574,34 @@
     {
       "aliases": [],
       "manufacturer": "Dual",
+      "model": "604",
+      "model_id": "dual-0048",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Dual 604 — Service Manual",
+          "url": "https://dual.de/wp-content/uploads/ServiceManual_604.pdf"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Dual",
+      "model": "606",
+      "model_id": "dual-0047",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Dual 606 — Service Manual",
+          "url": "https://dual.de/wp-content/uploads/ServiceManual_606.pdf"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Dual",
       "model": "621",
       "model_id": "dual-0028",
       "sources": [
@@ -441,6 +1610,20 @@
           "page": 1,
           "title": "Dual 621 — Service Manual",
           "url": "https://dual.de/wp-content/uploads/ServiceManual_621.pdf"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Dual",
+      "model": "622",
+      "model_id": "dual-0046",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Dual 622 — Service Manual",
+          "url": "https://dual.de/wp-content/uploads/ServiceManual_622.pdf"
         }
       ]
     },
@@ -489,6 +1672,19 @@
     {
       "aliases": [],
       "manufacturer": "Dual",
+      "model": "CS 2110",
+      "model_id": "dual-0066",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Dual CS 2110 Service Manual",
+          "url": "https://www.manualslib.com/manual/3390179/Dual-Cs-2110.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Dual",
       "model": "CS 329",
       "model_id": "dual-0001",
       "sources": [
@@ -496,6 +1692,20 @@
           "key": "identity",
           "title": "Produkte – DUAL",
           "url": "https://dual.de/produkte/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Dual",
+      "model": "CS 410",
+      "model_id": "dual-0061",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Dual CS 410 — Service Manual",
+          "url": "https://dual.de/wp-content/uploads/ServiceManual_410.pdf"
         }
       ]
     },
@@ -526,6 +1736,45 @@
           "key": "identity",
           "title": "Produkte – DUAL",
           "url": "https://dual.de/produkte/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Dual",
+      "model": "CS 5000",
+      "model_id": "dual-0065",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Dual CS 5000 Operating Instructions Manual",
+          "url": "https://www.manualslib.com/manual/3323514/Dual-Cs-5000.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Dual",
+      "model": "CS 503-1",
+      "model_id": "dual-0067",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Dual CS 503-1 Operating Instructions Manual",
+          "url": "https://www.manualslib.com/manual/3415086/Dual-Cs-503-1.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Dual",
+      "model": "CS 505-3",
+      "model_id": "dual-0068",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Dual CS 505-3 Operating Instructions Manual",
+          "url": "https://www.manualslib.com/manual/3524145/Dual-Cs-505-3.html"
         }
       ]
     },
@@ -592,6 +1841,20 @@
     {
       "aliases": [],
       "manufacturer": "Dual",
+      "model": "CS 714 Q",
+      "model_id": "dual-0045",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Dual CS 714 Q — Service Manual",
+          "url": "https://dual.de/wp-content/uploads/ServiceManual_714Q.pdf"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Dual",
       "model": "CS 718Q",
       "model_id": "dual-0008",
       "sources": [
@@ -599,6 +1862,548 @@
           "key": "identity",
           "title": "Manual – DUAL",
           "url": "https://dual.de/en/category/manual/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "belt"
+      },
+      "manufacturer": "Fluance",
+      "model": "RT80",
+      "model_id": "fluance-0001",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "RT80 Classic High Fidelity Vinyl Turntable - Black",
+          "url": "https://www.fluance.com/rt80-high-fidelity-vinyl-turntable-record-player-with-premium-cartridge-diamond-needle"
+        }
+      ],
+      "specifications": [
+        {
+          "name": "wow_and_flutter",
+          "original": "0.2%",
+          "source": "identity",
+          "unit": "%",
+          "value": "0.2"
+        }
+      ],
+      "speeds_rpm": {
+        "original": "33 1/3 RPM, 45 RPM (78 RPM - No)",
+        "source": "identity",
+        "value": [
+          "100/3",
+          "45"
+        ]
+      }
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "belt"
+      },
+      "manufacturer": "Fluance",
+      "model": "RT81",
+      "model_id": "fluance-0002",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "RT81 Hi-Fi Vinyl Turntable Record Player with Diamond Needle - Walnut",
+          "url": "https://www.fluance.com/rt81-high-fidelity-vinyl-turntable-record-player-with-premium-cartridge-diamond-needle"
+        }
+      ],
+      "specifications": [
+        {
+          "name": "wow_and_flutter",
+          "original": "0.2%",
+          "source": "identity",
+          "unit": "%",
+          "value": "0.2"
+        }
+      ],
+      "speeds_rpm": {
+        "original": "33 1/3 RPM, 45 RPM (78 RPM - No)",
+        "source": "identity",
+        "value": [
+          "100/3",
+          "45"
+        ]
+      }
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "belt"
+      },
+      "manufacturer": "Fluance",
+      "model": "RT81+",
+      "model_id": "fluance-0003",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "RT81+ Elite High Fidelity Vinyl Turntable - Walnut",
+          "url": "https://www.fluance.com/rt81-plus-elite-high-fidelity-vinyl-turntable"
+        }
+      ],
+      "specifications": [
+        {
+          "name": "wow_and_flutter",
+          "original": "0.2%",
+          "source": "identity",
+          "unit": "%",
+          "value": "0.2"
+        }
+      ],
+      "speeds_rpm": {
+        "original": "33 1/3 RPM, 45 RPM (78 RPM – No)",
+        "source": "identity",
+        "value": [
+          "100/3",
+          "45"
+        ]
+      }
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "belt"
+      },
+      "manufacturer": "Fluance",
+      "model": "RT82",
+      "model_id": "fluance-0004",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "RT82 Reference Turntable with Ortofon OM10 Cartridge - Walnut",
+          "url": "https://www.fluance.com/rt82w-reference-high-fidelity-vinyl-turntable-natural-walnut"
+        }
+      ],
+      "specifications": [
+        {
+          "name": "wow_and_flutter",
+          "original": "0.07%",
+          "source": "identity",
+          "unit": "%",
+          "value": "0.07"
+        }
+      ],
+      "speeds_rpm": {
+        "original": "33 1/3 RPM, 45 RPM (78 RPM - No)",
+        "source": "identity",
+        "value": [
+          "100/3",
+          "45"
+        ]
+      }
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "belt"
+      },
+      "manufacturer": "Fluance",
+      "model": "RT85",
+      "model_id": "fluance-0005",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "RT85 Turntable, Ortofon 2M Blue Cartridge, Acrylic Platter - Walnut",
+          "url": "https://www.fluance.com/rt85w-reference-high-fidelity-vinyl-turntable-natural-walnut"
+        }
+      ],
+      "specifications": [
+        {
+          "name": "wow_and_flutter",
+          "original": "0.07%",
+          "source": "identity",
+          "unit": "%",
+          "value": "0.07"
+        }
+      ],
+      "speeds_rpm": {
+        "original": "33 1/3 RPM, 45 RPM (78 RPM - No)",
+        "source": "identity",
+        "value": [
+          "100/3",
+          "45"
+        ]
+      }
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "belt"
+      },
+      "manufacturer": "Kenwood",
+      "model": "KD-2055",
+      "model_id": "kenwood-0001",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Kenwood KD-2055 Instruction Manual",
+          "url": "https://www.manualslib.com/manual/899687/Kenwood-Kd-2055.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Kenwood",
+      "model": "KD-2077",
+      "model_id": "kenwood-0002",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Kenwood KD-2077 Instruction Manual",
+          "url": "https://www.manualslib.com/manual/1001397/Kenwood-Kd-2077.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Kenwood",
+      "model": "KD-291R",
+      "model_id": "kenwood-0003",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Kenwood KD-291R Instruction Manual",
+          "url": "https://www.manualslib.com/manual/287123/Kenwood-Kd-291r.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Kenwood",
+      "model": "KD-3070",
+      "model_id": "kenwood-0004",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Kenwood KD-3070 Service Manual",
+          "url": "https://www.manualslib.com/manual/899550/Kenwood-Kd-3070.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Kenwood",
+      "model": "KD-47F",
+      "model_id": "kenwood-0006",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Kenwood KD-47F Instruction Manual",
+          "url": "https://www.manualslib.com/manual/3287122/Kenwood-Kd-47f.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Kenwood",
+      "model": "KD-491F",
+      "model_id": "kenwood-0005",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Kenwood KD-491F Instruction Manual",
+          "url": "https://www.manualslib.com/manual/287125/Kenwood-Kd-491f.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Kenwood",
+      "model": "KD-5070",
+      "model_id": "kenwood-0009",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Kenwood KD-5070 Instruction Manual",
+          "url": "https://www.manualslib.com/manual/1016043/Kenwood-Kd-5070.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "direct"
+      },
+      "manufacturer": "Kenwood",
+      "model": "KD-5100",
+      "model_id": "kenwood-0008",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Kenwood KD-5100 Instruction Manual",
+          "url": "https://www.manualslib.com/manual/3326777/Kenwood-Kd-5100.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "direct"
+      },
+      "manufacturer": "Kenwood",
+      "model": "KD-550",
+      "model_id": "kenwood-0007",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Kenwood KD-550 Instruction Manual",
+          "url": "https://www.manualslib.com/manual/3633980/Kenwood-Kd-550.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "direct"
+      },
+      "manufacturer": "Kenwood",
+      "model": "KD-600",
+      "model_id": "kenwood-0014",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Kenwood KD-600 Service Manual",
+          "url": "https://www.manualslib.com/manual/3313973/Kenwood-Kd-600.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "direct"
+      },
+      "manufacturer": "Kenwood",
+      "model": "KD-650",
+      "model_id": "kenwood-0013",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Kenwood KD-650 Instruction Manual",
+          "url": "https://www.manualslib.com/manual/777041/Kenwood-Kd-650.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Kenwood",
+      "model": "KD-7010",
+      "model_id": "kenwood-0012",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Kenwood KD-7010 Service Manual",
+          "url": "https://www.manualslib.com/manual/4126383/Kenwood-Kd-7010.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Kenwood",
+      "model": "KD-770D",
+      "model_id": "kenwood-0010",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Kenwood KD-770D Instruction Manual",
+          "url": "https://www.manualslib.com/manual/3450592/Kenwood-Kd-770d.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Kenwood",
+      "model": "KD-8030",
+      "model_id": "kenwood-0011",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Kenwood KD-8030 Service Manual",
+          "url": "https://www.manualslib.com/manual/4355817/Kenwood-Kd-8030.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Kenwood",
+      "model": "KD-990",
+      "model_id": "kenwood-0015",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Kenwood KD-990 Service Manual",
+          "url": "https://www.manualslib.com/manual/4341182/Kenwood-Kd-990.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Kenwood",
+      "model": "KD-9X",
+      "model_id": "kenwood-0016",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Kenwood KD-9X Instruction Manual",
+          "url": "https://www.manualslib.com/manual/3374366/Kenwood-Kd-9x.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Kenwood",
+      "model": "P-100",
+      "model_id": "kenwood-0017",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Kenwood P-100 Instruction Manual",
+          "url": "https://www.manualslib.com/manual/287127/Kenwood-P-100.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Kenwood",
+      "model": "P-26",
+      "model_id": "kenwood-0019",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Kenwood P-26 Instruction Manual",
+          "url": "https://www.manualslib.com/manual/203903/Kenwood-P-26.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Kenwood",
+      "model": "P-66",
+      "model_id": "kenwood-0018",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Kenwood P-66 Instruction Manual",
+          "url": "https://www.manualslib.com/manual/3293013/Kenwood-P-66.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Lenco",
+      "model": "L-3866 USB",
+      "model_id": "lenco-0003",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "LENCO L-3866 USB Instruction Manual",
+          "url": "https://www.manualslib.com/manual/362620/Lenco-L-3866-Usb.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Lenco",
+      "model": "L 75",
+      "model_id": "lenco-0001",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "LENCO L 75 Operating Instructions Manual",
+          "url": "https://www.manualslib.com/manual/3286959/Lenco-L-75.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Lenco",
+      "model": "L78",
+      "model_id": "lenco-0005",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "LENCO L78 Operating Instructions",
+          "url": "https://www.manualslib.com/manual/3383649/Lenco-L78.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Lenco",
+      "model": "LS-500",
+      "model_id": "lenco-0004",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "LENCO LS-500 User Manual",
+          "url": "https://www.manualslib.com/manual/2058785/Lenco-Ls-500.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Lenco",
+      "model": "LS-5000K",
+      "model_id": "lenco-0002",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "LENCO LS-5000K User Manual",
+          "url": "https://www.manualslib.com/manual/2746125/Lenco-Ls-5000k.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Lenco",
+      "model": "LS-570",
+      "model_id": "lenco-0006",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "LENCO LS-570 User Manual",
+          "url": "https://www.manualslib.com/manual/3624181/Lenco-Ls-570.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Lenco",
+      "model": "LS-700",
+      "model_id": "lenco-0007",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "LENCO LS-700 User Manual",
+          "url": "https://www.manualslib.com/manual/4536865/Lenco-Ls-700.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Linn",
+      "model": "Sondek LP12",
+      "model_id": "linn-0001",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Linn Sondek LP12 — Product Information",
+          "url": "https://small.linncdn.com/product-catalogue/documents/Linn_Sondek_LP12_Product_Information.pdf"
         }
       ]
     },
@@ -1186,6 +2991,1806 @@
     },
     {
       "aliases": [],
+      "manufacturer": "Pro-Ject",
+      "model": "1Xpression Carbon",
+      "model_id": "pro-ject-0034",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Pro-Ject Archive — Turntables — 1Xpression Carbon",
+          "url": "https://www.project-audio.com/en/archive/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Pro-Ject",
+      "model": "1Xpression Carbon Classic",
+      "model_id": "pro-ject-0035",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Pro-Ject Archive — Turntables — 1Xpression Carbon Classic",
+          "url": "https://www.project-audio.com/en/archive/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Pro-Ject",
+      "model": "1Xpression III",
+      "model_id": "pro-ject-0036",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Pro-Ject Archive — Turntables — 1Xpression III",
+          "url": "https://www.project-audio.com/en/archive/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Pro-Ject",
+      "model": "1Xpression III Comfort",
+      "model_id": "pro-ject-0037",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Pro-Ject Archive — Turntables — 1Xpression III Comfort",
+          "url": "https://www.project-audio.com/en/archive/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Pro-Ject",
+      "model": "2Xperience",
+      "model_id": "pro-ject-0038",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Pro-Ject Archive — Turntables — 2Xperience",
+          "url": "https://www.project-audio.com/en/archive/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Pro-Ject",
+      "model": "2Xperience Basic+",
+      "model_id": "pro-ject-0039",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Pro-Ject Archive — Turntables — 2Xperience Basic+",
+          "url": "https://www.project-audio.com/en/archive/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Pro-Ject",
+      "model": "2Xperience Classic",
+      "model_id": "pro-ject-0040",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Pro-Ject Archive — Turntables — 2Xperience Classic",
+          "url": "https://www.project-audio.com/en/archive/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "belt"
+      },
+      "manufacturer": "Pro-Ject",
+      "model": "6PerspeX Balanced",
+      "model_id": "pro-ject-0032",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "6PerspeX Balanced – Pro-Ject Audio Systems",
+          "url": "https://www.project-audio.com/en/product/6perspex-balanced/"
+        }
+      ],
+      "specifications": [
+        {
+          "name": "wow_and_flutter",
+          "original": "+/-0,1%",
+          "source": "identity",
+          "unit": "%",
+          "value": "±0.1"
+        }
+      ],
+      "speeds_rpm": {
+        "original": "33, 45 (electronic speed change)",
+        "source": "identity",
+        "value": [
+          "100/3",
+          "45"
+        ]
+      }
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "belt"
+      },
+      "manufacturer": "Pro-Ject",
+      "model": "A1.2",
+      "model_id": "pro-ject-0014",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "A1.2 – Pro-Ject Audio Systems",
+          "url": "https://www.project-audio.com/en/product/a1-2/"
+        }
+      ],
+      "specifications": [
+        {
+          "condition": "33 RPM",
+          "name": "wow_and_flutter",
+          "original": "33: +/-0,27%; 45: +/-0,25%",
+          "source": "identity",
+          "unit": "%",
+          "value": "±0.27"
+        },
+        {
+          "condition": "45 RPM",
+          "name": "wow_and_flutter",
+          "original": "33: +/-0,27%; 45: +/-0,25%",
+          "source": "identity",
+          "unit": "%",
+          "value": "±0.25"
+        }
+      ],
+      "speeds_rpm": {
+        "original": "33, 45 (electronic speed change)",
+        "source": "identity",
+        "value": [
+          "100/3",
+          "45"
+        ]
+      }
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "belt"
+      },
+      "manufacturer": "Pro-Ject",
+      "model": "A2",
+      "model_id": "pro-ject-0015",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "A2 – Pro-Ject Audio Systems",
+          "url": "https://www.project-audio.com/en/product/a2/"
+        }
+      ],
+      "specifications": [
+        {
+          "condition": "33 RPM",
+          "name": "wow_and_flutter",
+          "original": "33: +/-0,14%; 45: +/-0,12%",
+          "source": "identity",
+          "unit": "%",
+          "value": "±0.14"
+        },
+        {
+          "condition": "45 RPM",
+          "name": "wow_and_flutter",
+          "original": "33: +/-0,14%; 45: +/-0,12%",
+          "source": "identity",
+          "unit": "%",
+          "value": "±0.12"
+        }
+      ],
+      "speeds_rpm": {
+        "original": "33, 45, 78 (electronic speed change)",
+        "source": "identity",
+        "value": [
+          "100/3",
+          "45",
+          "78"
+        ]
+      }
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "belt"
+      },
+      "manufacturer": "Pro-Ject",
+      "model": "Debut Carbon",
+      "model_id": "pro-ject-0030",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Debut Carbon – The Original – Pro-Ject Audio Systems",
+          "url": "https://www.project-audio.com/en/product/debut-carbon-the-original/"
+        }
+      ],
+      "specifications": [
+        {
+          "condition": "33 RPM",
+          "name": "wow_and_flutter",
+          "original": "33: +/-0,17%; 45: +/-0,15%",
+          "source": "identity",
+          "unit": "%",
+          "value": "±0.17"
+        },
+        {
+          "condition": "45 RPM",
+          "name": "wow_and_flutter",
+          "original": "33: +/-0,17%; 45: +/-0,15%",
+          "source": "identity",
+          "unit": "%",
+          "value": "±0.15"
+        }
+      ],
+      "speeds_rpm": {
+        "original": "33, 45 (manual speed change)",
+        "source": "identity",
+        "value": [
+          "100/3",
+          "45"
+        ]
+      }
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Pro-Ject",
+      "model": "Debut Carbon (DC)",
+      "model_id": "pro-ject-0041",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Pro-Ject Archive — Turntables — Debut Carbon (DC)",
+          "url": "https://www.project-audio.com/en/archive/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Pro-Ject",
+      "model": "Debut Carbon EVO",
+      "model_id": "pro-ject-0042",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Pro-Ject Archive — Turntables — Debut Carbon EVO",
+          "url": "https://www.project-audio.com/en/archive/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Pro-Ject",
+      "model": "Debut Carbon RecordMaster HiRes",
+      "model_id": "pro-ject-0043",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Pro-Ject Archive — Turntables — Debut Carbon RecordMaster HiRes",
+          "url": "https://www.project-audio.com/en/archive/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "belt"
+      },
+      "manufacturer": "Pro-Ject",
+      "model": "Debut E HP",
+      "model_id": "pro-ject-0033",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Debut E HP – Pro-Ject Audio Systems",
+          "url": "https://www.project-audio.com/en/product/debut-e-hp/"
+        }
+      ],
+      "specifications": [
+        {
+          "condition": "33 RPM",
+          "name": "wow_and_flutter",
+          "original": "33: +/-0,22%; 45: +/-0,21%",
+          "source": "identity",
+          "unit": "%",
+          "value": "±0.22"
+        },
+        {
+          "condition": "45 RPM",
+          "name": "wow_and_flutter",
+          "original": "33: +/-0,22%; 45: +/-0,21%",
+          "source": "identity",
+          "unit": "%",
+          "value": "±0.21"
+        }
+      ],
+      "speeds_rpm": {
+        "original": "33, 45/(78) (electronic speed change)",
+        "source": "identity",
+        "value": [
+          "100/3",
+          "45",
+          "78"
+        ]
+      }
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "belt"
+      },
+      "manufacturer": "Pro-Ject",
+      "model": "Debut EVO 2",
+      "model_id": "pro-ject-0031",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Debut EVO 2 – Pro-Ject Audio Systems",
+          "url": "https://www.project-audio.com/en/product/debut-evo-2/"
+        }
+      ],
+      "specifications": [
+        {
+          "condition": "33 RPM",
+          "name": "wow_and_flutter",
+          "original": "33: +/-0,16%; 45: +/-0,14%",
+          "source": "identity",
+          "unit": "%",
+          "value": "±0.16"
+        },
+        {
+          "condition": "45 RPM",
+          "name": "wow_and_flutter",
+          "original": "33: +/-0,16%; 45: +/-0,14%",
+          "source": "identity",
+          "unit": "%",
+          "value": "±0.14"
+        }
+      ],
+      "speeds_rpm": {
+        "original": "33, 45 (electronic speed change)",
+        "source": "identity",
+        "value": [
+          "100/3",
+          "45"
+        ]
+      }
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Pro-Ject",
+      "model": "Debut III",
+      "model_id": "pro-ject-0044",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Pro-Ject Archive — Turntables — Debut III",
+          "url": "https://www.project-audio.com/en/archive/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Pro-Ject",
+      "model": "Debut PRO",
+      "model_id": "pro-ject-0045",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Pro-Ject Archive — Turntables — Debut PRO",
+          "url": "https://www.project-audio.com/en/archive/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "belt"
+      },
+      "manufacturer": "Pro-Ject",
+      "model": "Debut PRO B",
+      "model_id": "pro-ject-0002",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Debut PRO B – Pro-Ject Audio Systems",
+          "url": "https://www.project-audio.com/en/product/debut-pro-b/"
+        }
+      ],
+      "specifications": [
+        {
+          "condition": "33 RPM",
+          "name": "wow_and_flutter",
+          "original": "33: +/-0,16%; 45: +/-0,14%",
+          "source": "identity",
+          "unit": "%",
+          "value": "±0.16"
+        },
+        {
+          "condition": "45 RPM",
+          "name": "wow_and_flutter",
+          "original": "33: +/-0,16%; 45: +/-0,14%",
+          "source": "identity",
+          "unit": "%",
+          "value": "±0.14"
+        }
+      ],
+      "speeds_rpm": {
+        "original": "33, 45/(78) (electronic speed change)",
+        "source": "identity",
+        "value": [
+          "100/3",
+          "45",
+          "78"
+        ]
+      }
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Pro-Ject",
+      "model": "Debut PRO S",
+      "model_id": "pro-ject-0046",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Pro-Ject Archive — Turntables — Debut PRO S",
+          "url": "https://www.project-audio.com/en/archive/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "belt"
+      },
+      "manufacturer": "Pro-Ject",
+      "model": "Debut PRO S Balanced",
+      "model_id": "pro-ject-0003",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Debut PRO S Balanced – Pro-Ject Audio Systems",
+          "url": "https://www.project-audio.com/en/product/debut-pro-s-balanced/"
+        }
+      ],
+      "specifications": [
+        {
+          "condition": "33 RPM",
+          "name": "wow_and_flutter",
+          "original": "33: +/-0,16%; 45: +/-0,14%",
+          "source": "identity",
+          "unit": "%",
+          "value": "±0.16"
+        },
+        {
+          "condition": "45 RPM",
+          "name": "wow_and_flutter",
+          "original": "33: +/-0,16%; 45: +/-0,14%",
+          "source": "identity",
+          "unit": "%",
+          "value": "±0.14"
+        }
+      ],
+      "speeds_rpm": {
+        "original": "33, 45/(78) (electronic speed change)",
+        "source": "identity",
+        "value": [
+          "100/3",
+          "45",
+          "78"
+        ]
+      }
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "belt"
+      },
+      "manufacturer": "Pro-Ject",
+      "model": "Debut RecordMaster II",
+      "model_id": "pro-ject-0001",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Debut RecordMaster II – Pro-Ject Audio Systems",
+          "url": "https://www.project-audio.com/en/product/debut-recordmaster-ii/"
+        }
+      ],
+      "specifications": [
+        {
+          "condition": "33 RPM",
+          "name": "wow_and_flutter",
+          "original": "33: ±0.19% 45: ±0.17%",
+          "source": "identity",
+          "unit": "%",
+          "value": "±0.19"
+        },
+        {
+          "condition": "45 RPM",
+          "name": "wow_and_flutter",
+          "original": "33: ±0.19% 45: ±0.17%",
+          "source": "identity",
+          "unit": "%",
+          "value": "±0.17"
+        }
+      ],
+      "speeds_rpm": {
+        "original": "33, 45 (electronic speed change), 78 (manual speed change)",
+        "source": "identity",
+        "value": [
+          "100/3",
+          "45",
+          "78"
+        ]
+      }
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "belt"
+      },
+      "manufacturer": "Pro-Ject",
+      "model": "Debut Reference 10",
+      "model_id": "pro-ject-0004",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Debut Reference 10 – Pro-Ject Audio Systems",
+          "url": "https://www.project-audio.com/en/product/debut-reference-10/"
+        }
+      ],
+      "specifications": [
+        {
+          "condition": "33 RPM",
+          "name": "wow_and_flutter",
+          "original": "33: +/-0,16%; 45: +/-0,14%",
+          "source": "identity",
+          "unit": "%",
+          "value": "±0.16"
+        },
+        {
+          "condition": "45 RPM",
+          "name": "wow_and_flutter",
+          "original": "33: +/-0,16%; 45: +/-0,14%",
+          "source": "identity",
+          "unit": "%",
+          "value": "±0.14"
+        }
+      ],
+      "speeds_rpm": {
+        "original": "33, 45/(78) (electronic speed change)",
+        "source": "identity",
+        "value": [
+          "100/3",
+          "45",
+          "78"
+        ]
+      }
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "belt"
+      },
+      "manufacturer": "Pro-Ject",
+      "model": "E1.2",
+      "model_id": "pro-ject-0027",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "E1.2 – Pro-Ject Audio Systems",
+          "url": "https://www.project-audio.com/en/product/e1-2/"
+        }
+      ],
+      "specifications": [
+        {
+          "condition": "33 RPM",
+          "name": "wow_and_flutter",
+          "original": "33: +/-0,23%; 45: +/-0,21%",
+          "source": "identity",
+          "unit": "%",
+          "value": "±0.23"
+        },
+        {
+          "condition": "45 RPM",
+          "name": "wow_and_flutter",
+          "original": "33: +/-0,23%; 45: +/-0,21%",
+          "source": "identity",
+          "unit": "%",
+          "value": "±0.21"
+        }
+      ],
+      "speeds_rpm": {
+        "original": "33, 45 (electronic speed change)",
+        "source": "identity",
+        "value": [
+          "100/3",
+          "45"
+        ]
+      }
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "belt"
+      },
+      "manufacturer": "Pro-Ject",
+      "model": "E1 BT",
+      "model_id": "pro-ject-0005",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "E1 BT – Pro-Ject Audio Systems",
+          "url": "https://www.project-audio.com/en/product/e1-bt/"
+        }
+      ],
+      "specifications": [
+        {
+          "condition": "33 RPM",
+          "name": "wow_and_flutter",
+          "original": "33: 0.25% 45: 0.23%",
+          "source": "identity",
+          "unit": "%",
+          "value": "0.25"
+        },
+        {
+          "condition": "45 RPM",
+          "name": "wow_and_flutter",
+          "original": "33: 0.25% 45: 0.23%",
+          "source": "identity",
+          "unit": "%",
+          "value": "0.23"
+        }
+      ],
+      "speeds_rpm": {
+        "original": "33, 45 (electronic speed change)",
+        "source": "identity",
+        "value": [
+          "100/3",
+          "45"
+        ]
+      }
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "belt"
+      },
+      "manufacturer": "Pro-Ject",
+      "model": "E1 Phono",
+      "model_id": "pro-ject-0006",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "E1 Phono – Pro-Ject Audio Systems",
+          "url": "https://www.project-audio.com/en/product/e1-phono/"
+        }
+      ],
+      "specifications": [
+        {
+          "condition": "33 RPM",
+          "name": "wow_and_flutter",
+          "original": "33: 0.25% 45: 0.23%",
+          "source": "identity",
+          "unit": "%",
+          "value": "0.25"
+        },
+        {
+          "condition": "45 RPM",
+          "name": "wow_and_flutter",
+          "original": "33: 0.25% 45: 0.23%",
+          "source": "identity",
+          "unit": "%",
+          "value": "0.23"
+        }
+      ],
+      "speeds_rpm": {
+        "original": "33, 45 (electronic speed change)",
+        "source": "identity",
+        "value": [
+          "100/3",
+          "45"
+        ]
+      }
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Pro-Ject",
+      "model": "Elemental",
+      "model_id": "pro-ject-0047",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Pro-Ject Archive — Turntables — Elemental",
+          "url": "https://www.project-audio.com/en/archive/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Pro-Ject",
+      "model": "Essential",
+      "model_id": "pro-ject-0048",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Pro-Ject Archive — Turntables — Essential",
+          "url": "https://www.project-audio.com/en/archive/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Pro-Ject",
+      "model": "Essential II",
+      "model_id": "pro-ject-0049",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Pro-Ject Archive — Turntables — Essential II",
+          "url": "https://www.project-audio.com/en/archive/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Pro-Ject",
+      "model": "Essential III",
+      "model_id": "pro-ject-0050",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Pro-Ject Archive — Turntables — Essential III",
+          "url": "https://www.project-audio.com/en/archive/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Pro-Ject",
+      "model": "Essential III Digital",
+      "model_id": "pro-ject-0051",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Pro-Ject Archive — Turntables — Essential III Digital",
+          "url": "https://www.project-audio.com/en/archive/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Pro-Ject",
+      "model": "Essential III Phono",
+      "model_id": "pro-ject-0052",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Pro-Ject Archive — Turntables — Essential III Phono",
+          "url": "https://www.project-audio.com/en/archive/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Pro-Ject",
+      "model": "Essential III RecordMaster",
+      "model_id": "pro-ject-0053",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Pro-Ject Archive — Turntables — Essential III RecordMaster",
+          "url": "https://www.project-audio.com/en/archive/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Pro-Ject",
+      "model": "Essential III SB",
+      "model_id": "pro-ject-0054",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Pro-Ject Archive — Turntables — Essential III SB",
+          "url": "https://www.project-audio.com/en/archive/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Pro-Ject",
+      "model": "Primary",
+      "model_id": "pro-ject-0055",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Pro-Ject Archive — Turntables — Primary",
+          "url": "https://www.project-audio.com/en/archive/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Pro-Ject",
+      "model": "Primary E",
+      "model_id": "pro-ject-0056",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Pro-Ject Archive — Turntables — Primary E",
+          "url": "https://www.project-audio.com/en/archive/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Pro-Ject",
+      "model": "Primary E Phono",
+      "model_id": "pro-ject-0057",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Pro-Ject Archive — Turntables — Primary E Phono",
+          "url": "https://www.project-audio.com/en/archive/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Pro-Ject",
+      "model": "RPM 1.3 Genie",
+      "model_id": "pro-ject-0058",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Pro-Ject Archive — Turntables — RPM 1.3 Genie",
+          "url": "https://www.project-audio.com/en/archive/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Pro-Ject",
+      "model": "RPM 10.1 Evolution",
+      "model_id": "pro-ject-0059",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Pro-Ject Archive — Turntables — RPM 10.1 Evolution",
+          "url": "https://www.project-audio.com/en/archive/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "belt"
+      },
+      "manufacturer": "Pro-Ject",
+      "model": "RPM 10 Carbon",
+      "model_id": "pro-ject-0008",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "RPM 10 Carbon – Pro-Ject Audio Systems",
+          "url": "https://www.project-audio.com/en/product/rpm-10-carbon/"
+        }
+      ],
+      "specifications": [
+        {
+          "condition": "33 RPM",
+          "name": "wow_and_flutter",
+          "original": "33: +/- 0.01% I 45: +/- 0.01%",
+          "source": "identity",
+          "unit": "%",
+          "value": "±0.01"
+        },
+        {
+          "condition": "45 RPM",
+          "name": "wow_and_flutter",
+          "original": "33: +/- 0.01% I 45: +/- 0.01%",
+          "source": "identity",
+          "unit": "%",
+          "value": "±0.01"
+        }
+      ],
+      "speeds_rpm": {
+        "original": "33, 45 (electronic speed change)",
+        "source": "identity",
+        "value": [
+          "100/3",
+          "45"
+        ]
+      }
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "belt"
+      },
+      "manufacturer": "Pro-Ject",
+      "model": "RPM 1 Carbon",
+      "model_id": "pro-ject-0007",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "RPM 1 Carbon – Pro-Ject Audio Systems",
+          "url": "https://www.project-audio.com/en/product/rpm-1-carbon/"
+        }
+      ],
+      "specifications": [
+        {
+          "condition": "33 RPM",
+          "name": "wow_and_flutter",
+          "original": "33: +/- 0.27% I 45: +/- 0.1%",
+          "source": "identity",
+          "unit": "%",
+          "value": "±0.27"
+        },
+        {
+          "condition": "45 RPM",
+          "name": "wow_and_flutter",
+          "original": "33: +/- 0.27% I 45: +/- 0.1%",
+          "source": "identity",
+          "unit": "%",
+          "value": "±0.1"
+        }
+      ],
+      "speeds_rpm": {
+        "original": "33, 45 (manual speed change)",
+        "source": "identity",
+        "value": [
+          "100/3",
+          "45"
+        ]
+      }
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "belt"
+      },
+      "manufacturer": "Pro-Ject",
+      "model": "RPM 3 Carbon",
+      "model_id": "pro-ject-0016",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "RPM 3 Carbon – Pro-Ject Audio Systems",
+          "url": "https://www.project-audio.com/en/product/rpm-3-carbon-2/"
+        }
+      ],
+      "specifications": [
+        {
+          "condition": "33 RPM",
+          "name": "wow_and_flutter",
+          "original": "33: +/- 0.19% I 45: +/- 0.08%",
+          "source": "identity",
+          "unit": "%",
+          "value": "±0.19"
+        },
+        {
+          "condition": "45 RPM",
+          "name": "wow_and_flutter",
+          "original": "33: +/- 0.19% I 45: +/- 0.08%",
+          "source": "identity",
+          "unit": "%",
+          "value": "±0.08"
+        }
+      ],
+      "speeds_rpm": {
+        "original": "33, 45 (manual speed change)",
+        "source": "identity",
+        "value": [
+          "100/3",
+          "45"
+        ]
+      }
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Pro-Ject",
+      "model": "RPM 5.1",
+      "model_id": "pro-ject-0060",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Pro-Ject Archive — Turntables — RPM 5.1",
+          "url": "https://www.project-audio.com/en/archive/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "belt"
+      },
+      "manufacturer": "Pro-Ject",
+      "model": "RPM 5 Carbon",
+      "model_id": "pro-ject-0009",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "RPM 5 Carbon – Pro-Ject Audio Systems",
+          "url": "https://www.project-audio.com/en/product/rpm-5-carbon/"
+        }
+      ],
+      "specifications": [
+        {
+          "condition": "33 RPM",
+          "name": "wow_and_flutter",
+          "original": "33: +/- 0.17% I 45: +/- 0.08%",
+          "source": "identity",
+          "unit": "%",
+          "value": "±0.17"
+        },
+        {
+          "condition": "45 RPM",
+          "name": "wow_and_flutter",
+          "original": "33: +/- 0.17% I 45: +/- 0.08%",
+          "source": "identity",
+          "unit": "%",
+          "value": "±0.08"
+        }
+      ],
+      "speeds_rpm": {
+        "original": "33, 45 (manual speed change)",
+        "source": "identity",
+        "value": [
+          "100/3",
+          "45"
+        ]
+      }
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Pro-Ject",
+      "model": "RPM 9.1 Acryl",
+      "model_id": "pro-ject-0061",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Pro-Ject Archive — Turntables — RPM 9.1 Acryl",
+          "url": "https://www.project-audio.com/en/archive/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "belt"
+      },
+      "manufacturer": "Pro-Ject",
+      "model": "RPM 9 Carbon",
+      "model_id": "pro-ject-0010",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "RPM 9 Carbon – Pro-Ject Audio Systems",
+          "url": "https://www.project-audio.com/en/product/rpm-9-carbon/"
+        }
+      ],
+      "specifications": [
+        {
+          "condition": "33 RPM",
+          "name": "wow_and_flutter",
+          "original": "33: +/- 0.60% I 45: +/- 0.60%",
+          "source": "identity",
+          "unit": "%",
+          "value": "±0.60"
+        },
+        {
+          "condition": "45 RPM",
+          "name": "wow_and_flutter",
+          "original": "33: +/- 0.60% I 45: +/- 0.60%",
+          "source": "identity",
+          "unit": "%",
+          "value": "±0.60"
+        }
+      ],
+      "speeds_rpm": {
+        "original": "33, 45 (electronic speed change)",
+        "source": "identity",
+        "value": [
+          "100/3",
+          "45"
+        ]
+      }
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Pro-Ject",
+      "model": "Signature 10",
+      "model_id": "pro-ject-0017",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Signature 10 – Pro-Ject Audio Systems",
+          "url": "https://www.project-audio.com/en/product/signature-10/"
+        }
+      ],
+      "speeds_rpm": {
+        "original": "33, 45 (electronic speed change)",
+        "source": "identity",
+        "value": [
+          "100/3",
+          "45"
+        ]
+      }
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Pro-Ject",
+      "model": "Signature 12",
+      "model_id": "pro-ject-0062",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Pro-Ject Archive — Turntables — Signature 12",
+          "url": "https://www.project-audio.com/en/archive/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Pro-Ject",
+      "model": "T1 BT",
+      "model_id": "pro-ject-0063",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Pro-Ject Archive — Turntables — T1 BT",
+          "url": "https://www.project-audio.com/en/archive/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "belt"
+      },
+      "manufacturer": "Pro-Ject",
+      "model": "T1 EVO Phono",
+      "model_id": "pro-ject-0028",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "T1 EVO Phono – Pro-Ject Audio Systems",
+          "url": "https://www.project-audio.com/en/product/t1-evo-phono/"
+        }
+      ],
+      "specifications": [
+        {
+          "condition": "33 RPM",
+          "name": "wow_and_flutter",
+          "original": "33: 0.25% 45: 0.23%",
+          "source": "identity",
+          "unit": "%",
+          "value": "0.25"
+        },
+        {
+          "condition": "45 RPM",
+          "name": "wow_and_flutter",
+          "original": "33: 0.25% 45: 0.23%",
+          "source": "identity",
+          "unit": "%",
+          "value": "0.23"
+        }
+      ],
+      "speeds_rpm": {
+        "original": "33, 45 (electronic speed change)",
+        "source": "identity",
+        "value": [
+          "100/3",
+          "45"
+        ]
+      }
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "belt"
+      },
+      "manufacturer": "Pro-Ject",
+      "model": "T1 EVO Standard",
+      "model_id": "pro-ject-0011",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "T1 EVO Standard – Pro-Ject Audio Systems",
+          "url": "https://www.project-audio.com/en/product/t1-evo-standard/"
+        }
+      ],
+      "specifications": [
+        {
+          "condition": "33 RPM",
+          "name": "wow_and_flutter",
+          "original": "33: 0.25% 45: 0.23%",
+          "source": "identity",
+          "unit": "%",
+          "value": "0.25"
+        },
+        {
+          "condition": "45 RPM",
+          "name": "wow_and_flutter",
+          "original": "33: 0.25% 45: 0.23%",
+          "source": "identity",
+          "unit": "%",
+          "value": "0.23"
+        }
+      ],
+      "speeds_rpm": {
+        "original": "33, 45 (electronic speed change)",
+        "source": "identity",
+        "value": [
+          "100/3",
+          "45"
+        ]
+      }
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Pro-Ject",
+      "model": "T1 Phono SB",
+      "model_id": "pro-ject-0064",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Pro-Ject Archive — Turntables — T1 Phono SB",
+          "url": "https://www.project-audio.com/en/archive/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "belt"
+      },
+      "manufacturer": "Pro-Ject",
+      "model": "T2",
+      "model_id": "pro-ject-0018",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "T2 – Pro-Ject Audio Systems",
+          "url": "https://www.project-audio.com/en/product/t2/"
+        }
+      ],
+      "specifications": [
+        {
+          "condition": "33 RPM",
+          "name": "wow_and_flutter",
+          "original": "33: 0,19% 45: 0,17%",
+          "source": "identity",
+          "unit": "%",
+          "value": "0.19"
+        },
+        {
+          "condition": "45 RPM",
+          "name": "wow_and_flutter",
+          "original": "33: 0,19% 45: 0,17%",
+          "source": "identity",
+          "unit": "%",
+          "value": "0.17"
+        }
+      ],
+      "speeds_rpm": {
+        "original": "33,45 RPM (electronic speed change)",
+        "source": "identity",
+        "value": [
+          "100/3",
+          "45"
+        ]
+      }
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "belt"
+      },
+      "manufacturer": "Pro-Ject",
+      "model": "T2 Super Phono",
+      "model_id": "pro-ject-0019",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "T2 Super Phono – Pro-Ject Audio Systems",
+          "url": "https://www.project-audio.com/en/product/t2-super-phono/"
+        }
+      ],
+      "specifications": [
+        {
+          "condition": "33 RPM",
+          "name": "wow_and_flutter",
+          "original": "33: 0,19% 45: 0,17%",
+          "source": "identity",
+          "unit": "%",
+          "value": "0.19"
+        },
+        {
+          "condition": "45 RPM",
+          "name": "wow_and_flutter",
+          "original": "33: 0,19% 45: 0,17%",
+          "source": "identity",
+          "unit": "%",
+          "value": "0.17"
+        }
+      ],
+      "speeds_rpm": {
+        "original": "33,45 RPM (electronic speed change)",
+        "source": "identity",
+        "value": [
+          "100/3",
+          "45"
+        ]
+      }
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "belt"
+      },
+      "manufacturer": "Pro-Ject",
+      "model": "T2 W",
+      "model_id": "pro-ject-0020",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "T2 W – Pro-Ject Audio Systems",
+          "url": "https://www.project-audio.com/en/product/t2w/"
+        }
+      ],
+      "specifications": [
+        {
+          "condition": "33 RPM",
+          "name": "wow_and_flutter",
+          "original": "33: 0,19% 45: 0,17%",
+          "source": "identity",
+          "unit": "%",
+          "value": "0.19"
+        },
+        {
+          "condition": "45 RPM",
+          "name": "wow_and_flutter",
+          "original": "33: 0,19% 45: 0,17%",
+          "source": "identity",
+          "unit": "%",
+          "value": "0.17"
+        }
+      ],
+      "speeds_rpm": {
+        "original": "33,45 RPM (electronic speed change)",
+        "source": "identity",
+        "value": [
+          "100/3",
+          "45"
+        ]
+      }
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Pro-Ject",
+      "model": "The Classic",
+      "model_id": "pro-ject-0065",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Pro-Ject Archive — Turntables — The Classic",
+          "url": "https://www.project-audio.com/en/archive/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "belt"
+      },
+      "manufacturer": "Pro-Ject",
+      "model": "VT-E",
+      "model_id": "pro-ject-0029",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "VT-E – Pro-Ject Audio Systems",
+          "url": "https://www.project-audio.com/en/product/vt-e/"
+        }
+      ],
+      "specifications": [
+        {
+          "condition": "33 RPM",
+          "name": "wow_and_flutter",
+          "original": "33: 0.29% 45: 0.27%",
+          "source": "identity",
+          "unit": "%",
+          "value": "0.29"
+        },
+        {
+          "condition": "45 RPM",
+          "name": "wow_and_flutter",
+          "original": "33: 0.29% 45: 0.27%",
+          "source": "identity",
+          "unit": "%",
+          "value": "0.27"
+        }
+      ],
+      "speeds_rpm": {
+        "original": "33, 45 (manual speed change)",
+        "source": "identity",
+        "value": [
+          "100/3",
+          "45"
+        ]
+      }
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "belt"
+      },
+      "manufacturer": "Pro-Ject",
+      "model": "VT-E BT",
+      "model_id": "pro-ject-0021",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "VT-E BT – Pro-Ject Audio Systems",
+          "url": "https://www.project-audio.com/en/product/vt-e-bt/"
+        }
+      ],
+      "specifications": [
+        {
+          "condition": "33 RPM",
+          "name": "wow_and_flutter",
+          "original": "33: 0.29% 45: 0.27%",
+          "source": "identity",
+          "unit": "%",
+          "value": "0.29"
+        },
+        {
+          "condition": "45 RPM",
+          "name": "wow_and_flutter",
+          "original": "33: 0.29% 45: 0.27%",
+          "source": "identity",
+          "unit": "%",
+          "value": "0.27"
+        }
+      ],
+      "speeds_rpm": {
+        "original": "33, 45 (manual speed change)",
+        "source": "identity",
+        "value": [
+          "100/3",
+          "45"
+        ]
+      }
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "belt"
+      },
+      "manufacturer": "Pro-Ject",
+      "model": "X1 B",
+      "model_id": "pro-ject-0012",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "X1 B – Pro-Ject Audio Systems",
+          "url": "https://www.project-audio.com/en/product/x1-b/"
+        }
+      ],
+      "specifications": [
+        {
+          "condition": "33 RPM",
+          "name": "wow_and_flutter",
+          "original": "33: 0.15% 45: 0.13%",
+          "source": "identity",
+          "unit": "%",
+          "value": "0.15"
+        },
+        {
+          "condition": "45 RPM",
+          "name": "wow_and_flutter",
+          "original": "33: 0.15% 45: 0.13%",
+          "source": "identity",
+          "unit": "%",
+          "value": "0.13"
+        }
+      ],
+      "speeds_rpm": {
+        "original": "33, 45, 78 (electronic speed change)",
+        "source": "identity",
+        "value": [
+          "100/3",
+          "45",
+          "78"
+        ]
+      }
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "belt"
+      },
+      "manufacturer": "Pro-Ject",
+      "model": "X2 B",
+      "model_id": "pro-ject-0013",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "X2 B – Pro-Ject Audio Systems",
+          "url": "https://www.project-audio.com/en/product/x2-b/"
+        }
+      ],
+      "specifications": [
+        {
+          "condition": "33 RPM",
+          "name": "wow_and_flutter",
+          "original": "33: 0.12% 45: 0.10%",
+          "source": "identity",
+          "unit": "%",
+          "value": "0.12"
+        },
+        {
+          "condition": "45 RPM",
+          "name": "wow_and_flutter",
+          "original": "33: 0.12% 45: 0.10%",
+          "source": "identity",
+          "unit": "%",
+          "value": "0.10"
+        }
+      ],
+      "speeds_rpm": {
+        "original": "33, 45, 78 (electronic speed change)",
+        "source": "identity",
+        "value": [
+          "100/3",
+          "45",
+          "78"
+        ]
+      }
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "belt"
+      },
+      "manufacturer": "Pro-Ject",
+      "model": "X8 B",
+      "model_id": "pro-ject-0022",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "X8 B – Pro-Ject Audio Systems",
+          "url": "https://www.project-audio.com/en/product/x8/"
+        }
+      ],
+      "specifications": [
+        {
+          "condition": "33 RPM",
+          "name": "wow_and_flutter",
+          "original": "33: ±0,11%; 45: ± 0,10%",
+          "source": "identity",
+          "unit": "%",
+          "value": "±0.11"
+        },
+        {
+          "condition": "45 RPM",
+          "name": "wow_and_flutter",
+          "original": "33: ±0,11%; 45: ± 0,10%",
+          "source": "identity",
+          "unit": "%",
+          "value": "±0.10"
+        }
+      ],
+      "speeds_rpm": {
+        "original": "33, 45 (electronic speed change)",
+        "source": "identity",
+        "value": [
+          "100/3",
+          "45"
+        ]
+      }
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "belt"
+      },
+      "manufacturer": "Pro-Ject",
+      "model": "XA B",
+      "model_id": "pro-ject-0023",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "XA B – Pro-Ject Audio Systems",
+          "url": "https://www.project-audio.com/en/product/xa-b/"
+        }
+      ],
+      "specifications": [
+        {
+          "condition": "33 RPM",
+          "name": "wow_and_flutter",
+          "original": "33: 0.13% 45: 0.12%",
+          "source": "identity",
+          "unit": "%",
+          "value": "0.13"
+        },
+        {
+          "condition": "45 RPM",
+          "name": "wow_and_flutter",
+          "original": "33: 0.13% 45: 0.12%",
+          "source": "identity",
+          "unit": "%",
+          "value": "0.12"
+        }
+      ],
+      "speeds_rpm": {
+        "original": "33, 45 (electronic speed change)",
+        "source": "identity",
+        "value": [
+          "100/3",
+          "45"
+        ]
+      }
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "belt"
+      },
+      "manufacturer": "Pro-Ject",
+      "model": "Xtension 10 Evolution",
+      "model_id": "pro-ject-0024",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Xtension 10 Evolution – Pro-Ject Audio Systems",
+          "url": "https://www.project-audio.com/en/product/xtension-10-evolution/"
+        }
+      ],
+      "specifications": [
+        {
+          "name": "wow_and_flutter",
+          "original": "± 0.01% (max)",
+          "source": "identity",
+          "unit": "%",
+          "value": "±0.01"
+        }
+      ],
+      "speeds_rpm": {
+        "original": "33, 45, 78 (electronic speed change)",
+        "source": "identity",
+        "value": [
+          "100/3",
+          "45",
+          "78"
+        ]
+      }
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "belt"
+      },
+      "manufacturer": "Pro-Ject",
+      "model": "Xtension 12 Evolution",
+      "model_id": "pro-ject-0025",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Xtension 12 Evolution – Pro-Ject Audio Systems",
+          "url": "https://www.project-audio.com/en/product/xtension-12-evolution/"
+        }
+      ],
+      "specifications": [
+        {
+          "name": "wow_and_flutter",
+          "original": "± 0,01% max.",
+          "source": "identity",
+          "unit": "%",
+          "value": "±0.01"
+        }
+      ],
+      "speeds_rpm": {
+        "original": "33 / 45 / 78 RPM",
+        "source": "identity",
+        "value": [
+          "100/3",
+          "45",
+          "78"
+        ]
+      }
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "belt"
+      },
+      "manufacturer": "Pro-Ject",
+      "model": "Xtension 9 Evolution",
+      "model_id": "pro-ject-0026",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Xtension 9 Evolution – Pro-Ject Audio Systems",
+          "url": "https://www.project-audio.com/en/product/xtension-9-evolution/"
+        }
+      ],
+      "specifications": [
+        {
+          "name": "wow_and_flutter",
+          "original": "± 0,1%",
+          "source": "identity",
+          "unit": "%",
+          "value": "±0.1"
+        }
+      ],
+      "speeds_rpm": {
+        "original": "33 / 45 rpm (electronic speed change)",
+        "source": "identity",
+        "value": [
+          "100/3",
+          "45"
+        ]
+      }
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Rega",
+      "model": "Naia",
+      "model_id": "rega-0023",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Rega Turntables — Naia",
+          "url": "https://www.rega.co.uk/products/turntables"
+        }
+      ]
+    },
+    {
+      "aliases": [],
       "manufacturer": "Rega",
       "model": "Naiad",
       "model_id": "rega-0009",
@@ -1356,6 +4961,19 @@
     {
       "aliases": [],
       "manufacturer": "Rega",
+      "model": "Planar 3 RS Edition",
+      "model_id": "rega-0024",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Rega Turntables — Planar 3 RS Edition",
+          "url": "https://www.rega.co.uk/products/turntables"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Rega",
       "model": "Planar 6",
       "model_id": "rega-0005",
       "sources": [
@@ -1363,6 +4981,19 @@
           "key": "identity",
           "title": "Rega Product Timeline",
           "url": "https://www.rega.co.uk/about/timeline"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Rega",
+      "model": "Planar 6 RS Edition",
+      "model_id": "rega-0025",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Rega Turntables — Planar 6 RS Edition",
+          "url": "https://www.rega.co.uk/products/turntables"
         }
       ]
     },
@@ -1473,6 +5104,20 @@
     {
       "aliases": [],
       "manufacturer": "Sony",
+      "model": "PS-6750",
+      "model_id": "sony-0012",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Sony PS-6750 — Service Manual",
+          "url": "https://audiocircuit.dk/downloads/sony/Sony-PS6750-tt-sm.pdf"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Sony",
       "model": "PS-HX500",
       "model_id": "sony-0004",
       "sources": [
@@ -1480,6 +5125,45 @@
           "key": "identity",
           "title": "Support for PS-HX500 | Sony USA",
           "url": "https://www.sony.com/electronics/support/audio-components-turntables/ps-hx500"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Sony",
+      "model": "PS-LX150H",
+      "model_id": "sony-0009",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Sony Support — Turntables — PS-LX150H",
+          "url": "https://www.sony.com/electronics/support/audio-components-turntables"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Sony",
+      "model": "PS-LX250H",
+      "model_id": "sony-0010",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Sony Support — Turntables — PS-LX250H",
+          "url": "https://www.sony.com/electronics/support/audio-components-turntables"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Sony",
+      "model": "PS-LX300H",
+      "model_id": "sony-0008",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Sony Support — Turntables — PS-LX300H",
+          "url": "https://www.sony.com/electronics/support/audio-components-turntables"
         }
       ]
     },
@@ -1512,6 +5196,19 @@
     {
       "aliases": [],
       "manufacturer": "Sony",
+      "model": "PS-LX350H",
+      "model_id": "sony-0011",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Sony Support — Turntables — PS-LX350H",
+          "url": "https://www.sony.com/electronics/support/audio-components-turntables"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Sony",
       "model": "PS-LX3BT",
       "model_id": "sony-0002",
       "sources": [
@@ -1525,6 +5222,32 @@
     {
       "aliases": [],
       "manufacturer": "Sony",
+      "model": "PS-LX520",
+      "model_id": "sony-0007",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Sony Support — Turntables — PS-LX520",
+          "url": "https://www.sony.com/electronics/support/audio-components-turntables"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Sony",
+      "model": "PS-LX56",
+      "model_id": "sony-0006",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Sony Support — Turntables — PS-LX56",
+          "url": "https://www.sony.com/electronics/support/audio-components-turntables"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Sony",
       "model": "PS-LX5BT",
       "model_id": "sony-0003",
       "sources": [
@@ -1532,6 +5255,193 @@
           "key": "identity",
           "title": "PS-LX5BT | Component Audio | Sony Japan (translated title)",
           "url": "https://www.sony.jp/audio/products/PS-LX5BT/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Sony",
+      "model": "PS-X600",
+      "model_id": "sony-0013",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Sony PS-X600 — Service Manual",
+          "url": "https://retronik.silicium.org/DOCUMENTS/Audiovideo/Sony/Sony-PS-X600-Service-Manual.pdf"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "TEAC",
+      "model": "P-717",
+      "model_id": "teac-0003",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Teac P-717 Service Manual",
+          "url": "https://www.manualslib.com/manual/4349217/Teac-P-717.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "TEAC",
+      "model": "TN-100",
+      "model_id": "teac-0001",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Teac TN-100 Owner's Manual",
+          "url": "https://www.manualslib.com/manual/1543317/Teac-Tn-100.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "TEAC",
+      "model": "TN-175",
+      "model_id": "teac-0002",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Teac TN-175 Owner's Manual",
+          "url": "https://www.manualslib.com/manual/2058386/Teac-Tn-175.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "TEAC",
+      "model": "TN-180BT-A3",
+      "model_id": "teac-0004",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Teac TN-180BT-A3 Owner's Manual",
+          "url": "https://www.manualslib.com/manual/4336228/Teac-Tn-180bt-A3.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "TEAC",
+      "model": "TN-280BT",
+      "model_id": "teac-0008",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Teac TN-280BT Owner's Manual",
+          "url": "https://www.manualslib.com/manual/2628361/Teac-Tn-280bt.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "TEAC",
+      "model": "TN-300",
+      "model_id": "teac-0007",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Teac TN-300 Owner's Manual",
+          "url": "https://www.manualslib.com/manual/883963/Teac-Tn-300.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "TEAC",
+      "model": "TN-350",
+      "model_id": "teac-0005",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Teac TN-350 Owner's Manual",
+          "url": "https://www.manualslib.com/manual/1459896/Teac-Tn-350.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "TEAC",
+      "model": "TN-400BT",
+      "model_id": "teac-0006",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Teac TN-400BT Owner's Manual",
+          "url": "https://www.manualslib.com/manual/1209234/Teac-Tn-400bt.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "TEAC",
+      "model": "TN-400BT-X",
+      "model_id": "teac-0010",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Teac TN-400BT-X Owner's Manual",
+          "url": "https://www.manualslib.com/manual/3298343/Teac-Tn-400bt-X.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "TEAC",
+      "model": "TN-400S",
+      "model_id": "teac-0009",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Teac TN-400S Owner's Manual",
+          "url": "https://www.manualslib.com/manual/1230705/Teac-Tn-400s.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "TEAC",
+      "model": "TN-4D-SE",
+      "model_id": "teac-0011",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Teac TN-4D-SE Owner's Manual",
+          "url": "https://www.manualslib.com/manual/2577171/Teac-Tn-4d-Se.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "TEAC",
+      "model": "TN-570",
+      "model_id": "teac-0012",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Teac TN-570 Owner's Manual",
+          "url": "https://www.manualslib.com/manual/2256203/Teac-Tn-570.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "direct"
+      },
+      "manufacturer": "Technics",
+      "model": "SL-10",
+      "model_id": "technics-0015",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Technics SL-10 Service Manual",
+          "url": "https://www.manualslib.com/manual/3489847/Technics-Sl-10.html"
         }
       ]
     },
@@ -1727,6 +5637,169 @@
     {
       "aliases": [],
       "manufacturer": "Technics",
+      "model": "SL-1500",
+      "model_id": "technics-0012",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Technics SL-1500 Service Manual",
+          "url": "https://www.manualslib.com/manual/688244/Technics-Sl-1500.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "direct"
+      },
+      "manufacturer": "Technics",
+      "model": "SL-1900",
+      "model_id": "technics-0014",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Technics SL-1900 Operating Instructions Manual",
+          "url": "https://www.manualslib.com/manual/946446/Technics-Sl-1900.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "direct"
+      },
+      "manufacturer": "Technics",
+      "model": "SL-3300",
+      "model_id": "technics-0013",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Technics SL-3300 Operating Instructions Manual",
+          "url": "https://www.manualslib.com/manual/387777/Technics-Sl-3300.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "direct"
+      },
+      "manufacturer": "Technics",
+      "model": "SL-5",
+      "model_id": "technics-0016",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Technics SL-5 Service Manual",
+          "url": "https://www.manualslib.com/manual/4144647/Technics-Sl-5.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Technics",
+      "model": "SL-B2",
+      "model_id": "technics-0017",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Technics SL-B2 Operating Instructions Manual",
+          "url": "https://www.manualslib.com/manual/940095/Technics-Sl-B2.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Technics",
+      "model": "SL-BD20D",
+      "model_id": "technics-0018",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Technics SL-BD20D Service Manual",
+          "url": "https://www.manualslib.com/manual/376637/Technics-Sl-Bd20d.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Technics",
+      "model": "SL-BD22",
+      "model_id": "technics-0020",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Technics SL-BD22 Operating Instructions Manual",
+          "url": "https://www.manualslib.com/manual/793649/Technics-Sl-Bd22.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Technics",
+      "model": "SL-D2",
+      "model_id": "technics-0019",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Technics SL-D2 Service Manual",
+          "url": "https://www.manualslib.com/manual/3357572/Technics-Sl-D2.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "direct"
+      },
+      "manufacturer": "Technics",
+      "model": "SL-DL1",
+      "model_id": "technics-0021",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Technics SL-DL1 Service Manual",
+          "url": "https://www.manualslib.com/manual/3353180/Technics-Sl-Dl1.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Technics",
+      "model": "SL-L3",
+      "model_id": "technics-0022",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Technics SL-L3 Operating Instructions Manual",
+          "url": "https://www.manualslib.com/manual/3324405/Technics-Sl-L3.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "direct"
+      },
+      "manufacturer": "Technics",
+      "model": "SL-QD33",
+      "model_id": "technics-0023",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Technics SL-QD33 Service Manual",
+          "url": "https://www.manualslib.com/manual/887942/Technics-Sl-Qd33.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Technics",
       "model": "SP-10",
       "model_id": "technics-0008",
       "sources": [
@@ -1791,6 +5864,19 @@
     },
     {
       "aliases": [],
+      "manufacturer": "Thorens",
+      "model": "TD 126",
+      "model_id": "thorens-0014",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Thorens History — TD 126",
+          "url": "https://www.thorens.com/en/history.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
       "drive_type": {
         "source": "identity",
         "value": "belt"
@@ -1816,6 +5902,19 @@
           "key": "identity",
           "title": "Thorens — Turntables",
           "url": "https://www.thorens.com/en/items/products/turntables.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Thorens",
+      "model": "TD 160",
+      "model_id": "thorens-0013",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Thorens History — TD 160",
+          "url": "https://www.thorens.com/en/history.html"
         }
       ]
     },
@@ -1894,6 +5993,234 @@
           "key": "identity",
           "title": "Thorens — Turntables",
           "url": "https://www.thorens.com/en/items/products/turntables.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "direct"
+      },
+      "manufacturer": "Yamaha",
+      "model": "P-750",
+      "model_id": "yamaha-0001",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Yamaha P-750 Owner's Manual",
+          "url": "https://www.manualslib.com/manual/4267523/Yamaha-P-750.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Yamaha",
+      "model": "P-751",
+      "model_id": "yamaha-0002",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Yamaha P-751 Service Manual",
+          "url": "https://www.manualslib.com/manual/4224624/Yamaha-P-751.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Yamaha",
+      "model": "PF-1000",
+      "model_id": "yamaha-0003",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Yamaha PF-1000 Service Manual",
+          "url": "https://www.manualslib.com/manual/888394/Yamaha-Pf-1000.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Yamaha",
+      "model": "PF-50",
+      "model_id": "yamaha-0006",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Yamaha PF-50 Service Manual",
+          "url": "https://www.manualslib.com/manual/4266752/Yamaha-Pf-50.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "belt"
+      },
+      "manufacturer": "Yamaha",
+      "model": "PF-800",
+      "model_id": "yamaha-0004",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Yamaha PF-800 Owner's Manual",
+          "url": "https://www.manualslib.com/manual/778055/Yamaha-Pf-800.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Yamaha",
+      "model": "PX-2",
+      "model_id": "yamaha-0005",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Yamaha PX-2 Service Manual",
+          "url": "https://www.manualslib.com/manual/1308742/Yamaha-Px-2.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Yamaha",
+      "model": "PX-3",
+      "model_id": "yamaha-0007",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Yamaha PX-3 Service Manual",
+          "url": "https://www.manualslib.com/manual/978601/Yamaha-Px-3.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "belt"
+      },
+      "manufacturer": "Yamaha",
+      "model": "TT-400",
+      "model_id": "yamaha-0010",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Yamaha TT-400 Owner's Manual",
+          "url": "https://www.manualslib.com/manual/341536/Yamaha-Tt-400.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "belt"
+      },
+      "manufacturer": "Yamaha",
+      "model": "YP211",
+      "model_id": "yamaha-0011",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Yamaha YP211 Owner's Manual",
+          "url": "https://www.manualslib.com/manual/341594/Yamaha-Yp211.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Yamaha",
+      "model": "YP-700",
+      "model_id": "yamaha-0008",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Yamaha YP-700 Owner's Manual",
+          "url": "https://www.manualslib.com/manual/341592/Yamaha-Yp-700.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Yamaha",
+      "model": "YP-701",
+      "model_id": "yamaha-0009",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Yamaha YP-701 Owner's Manual",
+          "url": "https://www.manualslib.com/manual/3482257/Yamaha-Yp-701.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Yamaha",
+      "model": "YP-800",
+      "model_id": "yamaha-0012",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Yamaha YP-800 Service Manual",
+          "url": "https://www.manualslib.com/manual/987461/Yamaha-Yp-800.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Yamaha",
+      "model": "YP-D10",
+      "model_id": "yamaha-0014",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Yamaha YP-D10 Service Manual",
+          "url": "https://www.manualslib.com/manual/4265848/Yamaha-Yp-D10.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Yamaha",
+      "model": "YP-D4",
+      "model_id": "yamaha-0015",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Yamaha YP-D4 Service Manual",
+          "url": "https://www.manualslib.com/manual/4175075/Yamaha-Yp-D4.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Yamaha",
+      "model": "YP-D6",
+      "model_id": "yamaha-0013",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Yamaha YP-D6 Owner's Manual",
+          "url": "https://www.manualslib.com/manual/1475745/Yamaha-Yp-D6.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "direct"
+      },
+      "manufacturer": "Yamaha",
+      "model": "YP-D71",
+      "model_id": "yamaha-0016",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Yamaha YP-D71 Owner's Manual",
+          "url": "https://www.manualslib.com/manual/794116/Yamaha-Yp-D71.html"
         }
       ]
     },

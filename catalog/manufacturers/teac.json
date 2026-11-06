@@ -1,0 +1,158 @@
+[
+  {
+    "model_id": "teac-0001",
+    "manufacturer": "TEAC",
+    "model": "TN-100",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Teac TN-100 Owner's Manual",
+        "url": "https://www.manualslib.com/manual/1543317/Teac-Tn-100.html"
+      }
+    ]
+  },
+  {
+    "model_id": "teac-0002",
+    "manufacturer": "TEAC",
+    "model": "TN-175",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Teac TN-175 Owner's Manual",
+        "url": "https://www.manualslib.com/manual/2058386/Teac-Tn-175.html"
+      }
+    ]
+  },
+  {
+    "model_id": "teac-0003",
+    "manufacturer": "TEAC",
+    "model": "P-717",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Teac P-717 Service Manual",
+        "url": "https://www.manualslib.com/manual/4349217/Teac-P-717.html"
+      }
+    ]
+  },
+  {
+    "model_id": "teac-0004",
+    "manufacturer": "TEAC",
+    "model": "TN-180BT-A3",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Teac TN-180BT-A3 Owner's Manual",
+        "url": "https://www.manualslib.com/manual/4336228/Teac-Tn-180bt-A3.html"
+      }
+    ]
+  },
+  {
+    "model_id": "teac-0005",
+    "manufacturer": "TEAC",
+    "model": "TN-350",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Teac TN-350 Owner's Manual",
+        "url": "https://www.manualslib.com/manual/1459896/Teac-Tn-350.html"
+      }
+    ]
+  },
+  {
+    "model_id": "teac-0006",
+    "manufacturer": "TEAC",
+    "model": "TN-400BT",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Teac TN-400BT Owner's Manual",
+        "url": "https://www.manualslib.com/manual/1209234/Teac-Tn-400bt.html"
+      }
+    ]
+  },
+  {
+    "model_id": "teac-0007",
+    "manufacturer": "TEAC",
+    "model": "TN-300",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Teac TN-300 Owner's Manual",
+        "url": "https://www.manualslib.com/manual/883963/Teac-Tn-300.html"
+      }
+    ]
+  },
+  {
+    "model_id": "teac-0008",
+    "manufacturer": "TEAC",
+    "model": "TN-280BT",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Teac TN-280BT Owner's Manual",
+        "url": "https://www.manualslib.com/manual/2628361/Teac-Tn-280bt.html"
+      }
+    ]
+  },
+  {
+    "model_id": "teac-0009",
+    "manufacturer": "TEAC",
+    "model": "TN-400S",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Teac TN-400S Owner's Manual",
+        "url": "https://www.manualslib.com/manual/1230705/Teac-Tn-400s.html"
+      }
+    ]
+  },
+  {
+    "model_id": "teac-0010",
+    "manufacturer": "TEAC",
+    "model": "TN-400BT-X",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Teac TN-400BT-X Owner's Manual",
+        "url": "https://www.manualslib.com/manual/3298343/Teac-Tn-400bt-X.html"
+      }
+    ]
+  },
+  {
+    "model_id": "teac-0011",
+    "manufacturer": "TEAC",
+    "model": "TN-4D-SE",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Teac TN-4D-SE Owner's Manual",
+        "url": "https://www.manualslib.com/manual/2577171/Teac-Tn-4d-Se.html"
+      }
+    ]
+  },
+  {
+    "model_id": "teac-0012",
+    "manufacturer": "TEAC",
+    "model": "TN-570",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Teac TN-570 Owner's Manual",
+        "url": "https://www.manualslib.com/manual/2256203/Teac-Tn-570.html"
+      }
+    ]
+  }
+]

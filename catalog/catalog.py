@@ -31,7 +31,13 @@ def read(path):
 
 
 def norm(name):
-    return "".join(c for c in unicodedata.normalize("NFKC", name).casefold() if c.isalnum())
+    value = unicodedata.normalize("NFKC", name).casefold().replace("⁄", "/")
+    return "".join(
+        c for i, c in enumerate(value)
+        if c.isalnum() or c in "+/"
+        or (c == "." and i > 0 and i + 1 < len(value)
+            and value[i - 1].isdigit() and value[i + 1].isdigit())
+    )
 
 
 def designations(row):

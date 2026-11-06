@@ -1,0 +1,16 @@
+[
+  {
+    "model_id": "linn-0001",
+    "manufacturer": "Linn",
+    "model": "Sondek LP12",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Linn Sondek LP12 — Product Information",
+        "url": "https://small.linncdn.com/product-catalogue/documents/Linn_Sondek_LP12_Product_Information.pdf",
+        "page": 1
+      }
+    ]
+  }
+]

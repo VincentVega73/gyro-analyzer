@@ -1,0 +1,172 @@
+[
+  {
+    "model_id": "fluance-0001",
+    "manufacturer": "Fluance",
+    "model": "RT80",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "RT80 Classic High Fidelity Vinyl Turntable - Black",
+        "url": "https://www.fluance.com/rt80-high-fidelity-vinyl-turntable-record-player-with-premium-cartridge-diamond-needle"
+      }
+    ],
+    "specifications": [
+      {
+        "value": "0.2",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "0.2%",
+        "source": "identity"
+      }
+    ],
+    "drive_type": {
+      "value": "belt",
+      "source": "identity"
+    },
+    "speeds_rpm": {
+      "value": [
+        "100/3",
+        "45"
+      ],
+      "source": "identity",
+      "original": "33 1/3 RPM, 45 RPM (78 RPM - No)"
+    }
+  },
+  {
+    "model_id": "fluance-0002",
+    "manufacturer": "Fluance",
+    "model": "RT81",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "RT81 Hi-Fi Vinyl Turntable Record Player with Diamond Needle - Walnut",
+        "url": "https://www.fluance.com/rt81-high-fidelity-vinyl-turntable-record-player-with-premium-cartridge-diamond-needle"
+      }
+    ],
+    "specifications": [
+      {
+        "value": "0.2",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "0.2%",
+        "source": "identity"
+      }
+    ],
+    "drive_type": {
+      "value": "belt",
+      "source": "identity"
+    },
+    "speeds_rpm": {
+      "value": [
+        "100/3",
+        "45"
+      ],
+      "source": "identity",
+      "original": "33 1/3 RPM, 45 RPM (78 RPM - No)"
+    }
+  },
+  {
+    "model_id": "fluance-0003",
+    "manufacturer": "Fluance",
+    "model": "RT81+",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "RT81+ Elite High Fidelity Vinyl Turntable - Walnut",
+        "url": "https://www.fluance.com/rt81-plus-elite-high-fidelity-vinyl-turntable"
+      }
+    ],
+    "specifications": [
+      {
+        "value": "0.2",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "0.2%",
+        "source": "identity"
+      }
+    ],
+    "drive_type": {
+      "value": "belt",
+      "source": "identity"
+    },
+    "speeds_rpm": {
+      "value": [
+        "100/3",
+        "45"
+      ],
+      "source": "identity",
+      "original": "33 1/3 RPM, 45 RPM (78 RPM – No)"
+    }
+  },
+  {
+    "model_id": "fluance-0004",
+    "manufacturer": "Fluance",
+    "model": "RT82",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "RT82 Reference Turntable with Ortofon OM10 Cartridge - Walnut",
+        "url": "https://www.fluance.com/rt82w-reference-high-fidelity-vinyl-turntable-natural-walnut"
+      }
+    ],
+    "specifications": [
+      {
+        "value": "0.07",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "0.07%",
+        "source": "identity"
+      }
+    ],
+    "drive_type": {
+      "value": "belt",
+      "source": "identity"
+    },
+    "speeds_rpm": {
+      "value": [
+        "100/3",
+        "45"
+      ],
+      "source": "identity",
+      "original": "33 1/3 RPM, 45 RPM (78 RPM - No)"
+    }
+  },
+  {
+    "model_id": "fluance-0005",
+    "manufacturer": "Fluance",
+    "model": "RT85",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "RT85 Turntable, Ortofon 2M Blue Cartridge, Acrylic Platter - Walnut",
+        "url": "https://www.fluance.com/rt85w-reference-high-fidelity-vinyl-turntable-natural-walnut"
+      }
+    ],
+    "specifications": [
+      {
+        "value": "0.07",
+        "name": "wow_and_flutter",
+        "unit": "%",
+        "original": "0.07%",
+        "source": "identity"
+      }
+    ],
+    "drive_type": {
+      "value": "belt",
+      "source": "identity"
+    },
+    "speeds_rpm": {
+      "value": [
+        "100/3",
+        "45"
+      ],
+      "source": "identity",
+      "original": "33 1/3 RPM, 45 RPM (78 RPM - No)"
+    }
+  }
+]

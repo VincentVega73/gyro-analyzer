@@ -1,17 +1,25 @@
 # Gyro Pro turntable library
 
-Edition 1.2.0 identifies 154 turntables and one related factory designation. Every record has model evidence; technical fields are optional. Factory specifications describe a model, not an owner's measurements.
+Edition 1.3.0 identifies 367 turntables and one related factory designation. Every record has model evidence; technical fields are optional. Factory specifications describe a model, not an owner's measurements.
 
 | Manufacturer | Models |
 | --- | ---: |
-| Audio-Technica | 11 |
-| Dual | 31 |
+| Audio-Technica | 26 |
+| Denon | 11 |
+| Dual | 68 |
+| Fluance | 5 |
+| Kenwood | 19 |
+| Lenco | 7 |
+| Linn | 1 |
 | Michell | 8 |
 | Pioneer | 34 |
-| Rega | 22 |
-| Sony | 5 |
-| Technics | 11 |
-| Thorens | 12 |
+| Pro-Ject | 65 |
+| Rega | 25 |
+| Sony | 13 |
+| TEAC | 12 |
+| Technics | 23 |
+| Thorens | 14 |
+| Yamaha | 16 |
 | Ария | 1 |
 | Арктур | 1 |
 | Вега | 4 |
@@ -22,7 +30,11 @@ Edition 1.2.0 identifies 154 turntables and one related factory designation. Eve
 | Феникс | 2 |
 | Электроника | 5 |
 | Эстония | 1 |
-| **Total** | **154** |
+| **Total** | **367** |
+
+## Research import
+
+Edition 1.3.0 adds 213 model IDs. The [row-by-row comparison](review/research-import.csv) links archive designations to catalog IDs and records the remaining candidates. Of 3,689 main rows, 108 match prior IDs, 216 map to the 213 additions and 3,365 await verification. The separate 1,254 review-only rows remain quarantined. Candidate spellings can converge on one factory designation. Only verified factory information is used for technical fields.
 
 ## Build and verify
 
@@ -43,7 +55,7 @@ From the repository root, run `python catalog/catalog.py bundle ../gyro-turntabl
 
 Manifest version 2 distinguishes licensed redraws from independent studies. For the latter, `artwork_credit` applies to the new illustration, while `construction_sources` identifies the factory manual and photographic views consulted to check the construction. The manifest also carries per-image attribution, source and license links and the visual review notes. Keep it with the images. Four original generic plates are stored once and referenced by multiple rows. The catalog validator checks every assignment and decodes all WebP files during both check and build. Adding a model requires a media assignment in the same change.
 
-[Coverage, source credits and review notes](media/REPORT.md) · [All 154 thumbnails](review/catalog-overview.png) · [Per-model research log](media/research.json)
+[Coverage, source credits and review notes](media/REPORT.md) · [All 367 thumbnails](review/catalog-overview.png) · [Per-model research log](media/research.json)
 
 ## Editing the data
 
@@ -56,7 +68,7 @@ Manifest version 2 distinguishes licensed redraws from independent studies. For 
 
 ## Searching by the designation on the turntable
 
-Use an alias for a documented second name of the same model. For a separately labelled finish, use a related designation when the manufacturer explicitly identifies the color pairing. Give a technically distinct revision its own model ID. Ignore punctuation, spaces and case in all three cases. All normalized labels must be unique within each manufacturer.
+Use an alias for a documented second name of the same model. For a separately labelled finish, use a related designation when the manufacturer explicitly identifies the color pairing. Give a technically distinct revision its own model ID. Ignore case, spacing and hyphens. Preserve +, / and decimal points between digits. All normalized labels must be unique within each manufacturer.
 
 Schema 2 adds an optional field. Schema 1 rejected additional model properties, so strict version 1 readers need an update. Existing individual records remain valid without the field. The legacy Python function `lookup` still returns full records for names and aliases. Use `lookup_matches` or the CLI for designation-aware results. The CLI requires a manufacturer and reads the built asset. An empty result is `[]`. Specifications accessed later by model ID describe the base record. Only the facts in the relation itself are attributed to the matched finish.
 
@@ -150,7 +162,7 @@ Absolute-value qualifiers describe the published rating. The last row counts onl
 - Michell Gyro SE, GyroDec and the new Gyro are separate records. A Gyro SE MK II setup guide does not establish equivalence with every Gyro SE. Its revision-specific parameters were not copied into the family record.
 - SL-1210GR2 is the black counterpart to the silver SL-1200GR2. Both names resolve to technics-0011. See the [Technics joint announcement](https://www.technics.com/se/news/0024.html). SL-1200LTD was retained because Technics identifies a pitch reset function as well as a different finish.
 - Rega Record Store Day 2016 RP1 and Thorens TD 124 DD 140th Anniversary were not counted on the basis of artwork or a commemorative bundle. See the [Rega timeline](https://www.rega.co.uk/about/timeline) and [Thorens lineup](https://www.thorens.com/en/items/products/turntables.html). TD 1600 TP 160 and TD 1601 TP 160 were deferred until the base model and tonearm configurations can be documented separately.
-- Sony PS-LX150H and PS-LX350H were deferred because the individual support pages could not be verified for this edition.
+- Sony PS-LX150H and PS-LX350H are included in edition 1.3.0 with Sony support references.
 
 ## Two complete records
 

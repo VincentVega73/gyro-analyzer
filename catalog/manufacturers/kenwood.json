@@ -1,0 +1,269 @@
+[
+  {
+    "model_id": "kenwood-0001",
+    "manufacturer": "Kenwood",
+    "model": "KD-2055",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Kenwood KD-2055 Instruction Manual",
+        "url": "https://www.manualslib.com/manual/899687/Kenwood-Kd-2055.html"
+      }
+    ],
+    "drive_type": {
+      "value": "belt",
+      "source": "identity"
+    }
+  },
+  {
+    "model_id": "kenwood-0002",
+    "manufacturer": "Kenwood",
+    "model": "KD-2077",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Kenwood KD-2077 Instruction Manual",
+        "url": "https://www.manualslib.com/manual/1001397/Kenwood-Kd-2077.html"
+      }
+    ]
+  },
+  {
+    "model_id": "kenwood-0003",
+    "manufacturer": "Kenwood",
+    "model": "KD-291R",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Kenwood KD-291R Instruction Manual",
+        "url": "https://www.manualslib.com/manual/287123/Kenwood-Kd-291r.html"
+      }
+    ]
+  },
+  {
+    "model_id": "kenwood-0004",
+    "manufacturer": "Kenwood",
+    "model": "KD-3070",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Kenwood KD-3070 Service Manual",
+        "url": "https://www.manualslib.com/manual/899550/Kenwood-Kd-3070.html"
+      }
+    ]
+  },
+  {
+    "model_id": "kenwood-0005",
+    "manufacturer": "Kenwood",
+    "model": "KD-491F",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Kenwood KD-491F Instruction Manual",
+        "url": "https://www.manualslib.com/manual/287125/Kenwood-Kd-491f.html"
+      }
+    ]
+  },
+  {
+    "model_id": "kenwood-0006",
+    "manufacturer": "Kenwood",
+    "model": "KD-47F",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Kenwood KD-47F Instruction Manual",
+        "url": "https://www.manualslib.com/manual/3287122/Kenwood-Kd-47f.html"
+      }
+    ]
+  },
+  {
+    "model_id": "kenwood-0007",
+    "manufacturer": "Kenwood",
+    "model": "KD-550",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Kenwood KD-550 Instruction Manual",
+        "url": "https://www.manualslib.com/manual/3633980/Kenwood-Kd-550.html"
+      }
+    ],
+    "drive_type": {
+      "value": "direct",
+      "source": "identity"
+    }
+  },
+  {
+    "model_id": "kenwood-0008",
+    "manufacturer": "Kenwood",
+    "model": "KD-5100",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Kenwood KD-5100 Instruction Manual",
+        "url": "https://www.manualslib.com/manual/3326777/Kenwood-Kd-5100.html"
+      }
+    ],
+    "drive_type": {
+      "value": "direct",
+      "source": "identity"
+    }
+  },
+  {
+    "model_id": "kenwood-0009",
+    "manufacturer": "Kenwood",
+    "model": "KD-5070",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Kenwood KD-5070 Instruction Manual",
+        "url": "https://www.manualslib.com/manual/1016043/Kenwood-Kd-5070.html"
+      }
+    ]
+  },
+  {
+    "model_id": "kenwood-0010",
+    "manufacturer": "Kenwood",
+    "model": "KD-770D",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Kenwood KD-770D Instruction Manual",
+        "url": "https://www.manualslib.com/manual/3450592/Kenwood-Kd-770d.html"
+      }
+    ]
+  },
+  {
+    "model_id": "kenwood-0011",
+    "manufacturer": "Kenwood",
+    "model": "KD-8030",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Kenwood KD-8030 Service Manual",
+        "url": "https://www.manualslib.com/manual/4355817/Kenwood-Kd-8030.html"
+      }
+    ]
+  },
+  {
+    "model_id": "kenwood-0012",
+    "manufacturer": "Kenwood",
+    "model": "KD-7010",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Kenwood KD-7010 Service Manual",
+        "url": "https://www.manualslib.com/manual/4126383/Kenwood-Kd-7010.html"
+      }
+    ]
+  },
+  {
+    "model_id": "kenwood-0013",
+    "manufacturer": "Kenwood",
+    "model": "KD-650",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Kenwood KD-650 Instruction Manual",
+        "url": "https://www.manualslib.com/manual/777041/Kenwood-Kd-650.html"
+      }
+    ],
+    "drive_type": {
+      "value": "direct",
+      "source": "identity"
+    }
+  },
+  {
+    "model_id": "kenwood-0014",
+    "manufacturer": "Kenwood",
+    "model": "KD-600",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Kenwood KD-600 Service Manual",
+        "url": "https://www.manualslib.com/manual/3313973/Kenwood-Kd-600.html"
+      }
+    ],
+    "drive_type": {
+      "value": "direct",
+      "source": "identity"
+    }
+  },
+  {
+    "model_id": "kenwood-0015",
+    "manufacturer": "Kenwood",
+    "model": "KD-990",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Kenwood KD-990 Service Manual",
+        "url": "https://www.manualslib.com/manual/4341182/Kenwood-Kd-990.html"
+      }
+    ]
+  },
+  {
+    "model_id": "kenwood-0016",
+    "manufacturer": "Kenwood",
+    "model": "KD-9X",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Kenwood KD-9X Instruction Manual",
+        "url": "https://www.manualslib.com/manual/3374366/Kenwood-Kd-9x.html"
+      }
+    ]
+  },
+  {
+    "model_id": "kenwood-0017",
+    "manufacturer": "Kenwood",
+    "model": "P-100",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Kenwood P-100 Instruction Manual",
+        "url": "https://www.manualslib.com/manual/287127/Kenwood-P-100.html"
+      }
+    ]
+  },
+  {
+    "model_id": "kenwood-0018",
+    "manufacturer": "Kenwood",
+    "model": "P-66",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Kenwood P-66 Instruction Manual",
+        "url": "https://www.manualslib.com/manual/3293013/Kenwood-P-66.html"
+      }
+    ]
+  },
+  {
+    "model_id": "kenwood-0019",
+    "manufacturer": "Kenwood",
+    "model": "P-26",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Kenwood P-26 Instruction Manual",
+        "url": "https://www.manualslib.com/manual/203903/Kenwood-P-26.html"
+      }
+    ]
+  }
+]

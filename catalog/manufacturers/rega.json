@@ -284,5 +284,44 @@
         "title": "Rega Product Timeline"
       }
     ]
+  },
+  {
+    "model_id": "rega-0023",
+    "manufacturer": "Rega",
+    "model": "Naia",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Rega Turntables — Naia",
+        "url": "https://www.rega.co.uk/products/turntables"
+      }
+    ]
+  },
+  {
+    "model_id": "rega-0024",
+    "manufacturer": "Rega",
+    "model": "Planar 3 RS Edition",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Rega Turntables — Planar 3 RS Edition",
+        "url": "https://www.rega.co.uk/products/turntables"
+      }
+    ]
+  },
+  {
+    "model_id": "rega-0025",
+    "manufacturer": "Rega",
+    "model": "Planar 6 RS Edition",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Rega Turntables — Planar 6 RS Edition",
+        "url": "https://www.rega.co.uk/products/turntables"
+      }
+    ]
   }
 ]
