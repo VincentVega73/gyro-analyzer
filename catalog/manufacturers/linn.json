@@ -10,8 +10,26 @@
         "title": "Linn Sondek LP12 — Product Information",
         "url": "https://small.linncdn.com/product-catalogue/documents/Linn_Sondek_LP12_Product_Information.pdf",
         "page": 1
+      },
+      {
+        "key": "audit2",
+        "url": "https://small.linncdn.com/product-catalogue/documents/Linn_Sondek_LP12_Product_Information.pdf",
+        "title": "Linn Sondek LP12 — технические характеристики",
+        "page": 2
       }
-    ]
+    ],
+    "drive_type": {
+      "value": "belt",
+      "source": "audit2"
+    },
+    "speeds_rpm": {
+      "value": [
+        "100/3",
+        "45"
+      ],
+      "source": "audit2",
+      "condition": "С внешним блоком питания Lingo в указанной заводской конфигурации."
+    }
   },
   {
     "manufacturer": "Linn",

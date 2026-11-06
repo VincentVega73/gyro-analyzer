@@ -96,6 +96,53 @@
         "key": "identity",
         "url": "https://www.technics.com/global/home/sl1200/heritage.html",
         "title": "SL-1200 — Heritage"
+      },
+      {
+        "key": "audit2",
+        "url": "https://panasonic.jp/manualdl/p-db/sl/sl_1200mk3d.pdf",
+        "title": "Technics SL-1200MK3D — технические характеристики",
+        "page": 16
+      }
+    ],
+    "drive_type": {
+      "value": "direct",
+      "source": "audit2"
+    },
+    "speeds_rpm": {
+      "value": [
+        "100/3",
+        "45"
+      ],
+      "source": "audit2"
+    },
+    "specifications": [
+      {
+        "name": "wow_and_flutter",
+        "value": "0.01",
+        "original": "0.01% WRMS*",
+        "unit": "%",
+        "source": "audit2",
+        "method": "WRMS",
+        "condition": "Только диск и узел вращения; сигнал двигателя, без пластинки, головки и тонарма."
+      },
+      {
+        "name": "wow_and_flutter",
+        "value": "0.025",
+        "original": "0.025% WRMS (JIS C5521)",
+        "unit": "%",
+        "source": "audit2",
+        "method": "WRMS",
+        "standard": "JIS C5521"
+      },
+      {
+        "name": "wow_and_flutter",
+        "value": "±0.035",
+        "original": "±0.035% peak (IEC 98A Weighted)",
+        "unit": "%",
+        "source": "audit2",
+        "method": "peak",
+        "standard": "IEC 98A",
+        "weighting": "IEC 98A Weighted"
       }
     ]
   },
@@ -109,6 +156,53 @@
         "key": "identity",
         "url": "https://www.technics.com/global/home/sl1200/heritage.html",
         "title": "SL-1200 — Heritage"
+      },
+      {
+        "key": "audit2",
+        "url": "https://kabusa.com/SL1200MK5.pdf",
+        "title": "Technics SL-1200MK5 — технические характеристики",
+        "page": 11
+      }
+    ],
+    "drive_type": {
+      "value": "direct",
+      "source": "audit2"
+    },
+    "speeds_rpm": {
+      "value": [
+        "100/3",
+        "45"
+      ],
+      "source": "audit2"
+    },
+    "specifications": [
+      {
+        "name": "wow_and_flutter",
+        "value": "0.01",
+        "original": "0.01% WRMS*",
+        "unit": "%",
+        "source": "audit2",
+        "method": "WRMS",
+        "condition": "Только диск и узел вращения; сигнал двигателя, без пластинки, головки и тонарма."
+      },
+      {
+        "name": "wow_and_flutter",
+        "value": "0.025",
+        "original": "0.025% WRMS (JIS C5521)",
+        "unit": "%",
+        "source": "audit2",
+        "method": "WRMS",
+        "standard": "JIS C5521"
+      },
+      {
+        "name": "wow_and_flutter",
+        "value": "±0.035",
+        "original": "±0.035% peak (IEC 98A Weighted)",
+        "unit": "%",
+        "source": "audit2",
+        "method": "peak",
+        "standard": "IEC 98A",
+        "weighting": "IEC 98A Weighted"
       }
     ]
   },
@@ -187,6 +281,35 @@
         "key": "identity",
         "url": "https://www.technics.com/global/home/sl1200/heritage.html",
         "title": "SL-1200 — Heritage"
+      },
+      {
+        "key": "audit2",
+        "url": "https://help.na.panasonic.com/wp-content/uploads/2024/11/SL1200MK7_Specifications_US_1.pdf",
+        "title": "Technics SL-1200MK7 — технические характеристики",
+        "page": 2
+      }
+    ],
+    "drive_type": {
+      "value": "direct",
+      "source": "audit2"
+    },
+    "speeds_rpm": {
+      "value": [
+        "100/3",
+        "45",
+        "78"
+      ],
+      "source": "audit2",
+      "condition": "78 RPM включается переключателем."
+    },
+    "specifications": [
+      {
+        "name": "wow_and_flutter",
+        "value": "0.025",
+        "original": "0.025% WRMS",
+        "unit": "%",
+        "source": "audit2",
+        "method": "WRMS"
       }
     ]
   },
@@ -332,6 +455,53 @@
         "key": "identity",
         "title": "Technics SL-D2 Service Manual",
         "url": "https://www.manualslib.com/manual/3357572/Technics-Sl-D2.html"
+      },
+      {
+        "key": "audit2",
+        "url": "https://www.manualslib.com/manual/3434897/Technics-Sl-D2.html",
+        "title": "Technics SL-D2 — технические характеристики",
+        "page": 1
+      }
+    ],
+    "drive_type": {
+      "value": "direct",
+      "source": "audit2"
+    },
+    "speeds_rpm": {
+      "value": [
+        "100/3",
+        "45"
+      ],
+      "source": "audit2"
+    },
+    "specifications": [
+      {
+        "name": "wow_and_flutter",
+        "value": "0.014",
+        "original": "0.014% WRMS*",
+        "unit": "%",
+        "source": "audit2",
+        "method": "WRMS",
+        "condition": "Только диск и узел вращения; сигнал двигателя, без пластинки, головки и тонарма."
+      },
+      {
+        "name": "wow_and_flutter",
+        "value": "0.03",
+        "original": "0.03% WRMS (JIS C5521)",
+        "unit": "%",
+        "source": "audit2",
+        "method": "WRMS",
+        "standard": "JIS C5521"
+      },
+      {
+        "name": "wow_and_flutter",
+        "value": "±0.042",
+        "original": "±0.042% peak (IEC 98A Weighted)",
+        "unit": "%",
+        "source": "audit2",
+        "method": "peak",
+        "standard": "IEC 98A",
+        "weighting": "IEC 98A Weighted"
       }
     ]
   },
@@ -495,9 +665,37 @@
         "key": "identity",
         "url": "https://www.technics.com/nz/products/premium-class/premium-class-turntables/sl-1500c.html",
         "title": "Technics — SL-1500C"
+      },
+      {
+        "key": "audit2",
+        "url": "https://www.omera.nl/wp-content/uploads/2024/10/SL-1500C-user-manual.pdf",
+        "title": "Technics SL-1500C — технические характеристики",
+        "page": 23
       }
     ],
-    "aliases": []
+    "aliases": [],
+    "drive_type": {
+      "value": "direct",
+      "source": "audit2"
+    },
+    "speeds_rpm": {
+      "value": [
+        "100/3",
+        "45",
+        "78"
+      ],
+      "source": "audit2"
+    },
+    "specifications": [
+      {
+        "name": "wow_and_flutter",
+        "value": "0.025",
+        "original": "0.025% WRMS",
+        "unit": "%",
+        "source": "audit2",
+        "method": "WRMS"
+      }
+    ]
   },
   {
     "manufacturer": "Technics",
@@ -1223,9 +1421,54 @@
         "key": "identity",
         "url": "https://www.manualslib.com/manual/3316594/Technics-Sl-Q2.html",
         "title": "Technics SL-Q2 Operating Instructions Manual"
+      },
+      {
+        "key": "audit2",
+        "url": "https://www.manualslib.com/guide/4234774/technics-sl-q2-turntable-installation-and-operation-manual.html",
+        "title": "Technics SL-Q2 — технические характеристики"
       }
     ],
-    "aliases": []
+    "aliases": [],
+    "drive_type": {
+      "value": "direct",
+      "source": "audit2"
+    },
+    "speeds_rpm": {
+      "value": [
+        "100/3",
+        "45"
+      ],
+      "source": "audit2"
+    },
+    "specifications": [
+      {
+        "name": "wow_and_flutter",
+        "value": "0.012",
+        "original": "0.012% WRMS*",
+        "unit": "%",
+        "source": "audit2",
+        "method": "WRMS",
+        "condition": "Сигнал генератора частоты двигателя; измерение только самого узла вращения."
+      },
+      {
+        "name": "wow_and_flutter",
+        "value": "0.025",
+        "original": "0.025% WRMS (JIS C5521)",
+        "unit": "%",
+        "source": "audit2",
+        "method": "WRMS",
+        "standard": "JIS C5521"
+      },
+      {
+        "name": "wow_and_flutter",
+        "value": "±0.032",
+        "original": "±0.032% (IEC98A Weighted)",
+        "unit": "%",
+        "source": "audit2",
+        "standard": "IEC 98A",
+        "weighting": "IEC 98A Weighted"
+      }
+    ]
   },
   {
     "manufacturer": "Technics",

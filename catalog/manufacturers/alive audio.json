@@ -1,0 +1,39 @@
+[
+  {
+    "model_id": "alive-audio-0001",
+    "manufacturer": "Alive Audio",
+    "model": "MIM-01",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Alive Audio MIM-01 — документация производителя",
+        "url": "https://drv.dns-shop.ru/drivers/Manuals/A/alive-audio-vibe_instrukcia_232109_04032025.pdf",
+        "page": 1
+      },
+      {
+        "key": "audit2",
+        "url": "https://aliveaudio.ru/articles/blog/vk-post-28186/",
+        "title": "Alive Audio Vibe — ссылка производителя на исполнение MIM-01-BK"
+      },
+      {
+        "key": "audit3",
+        "url": "https://drv.dns-shop.ru/drivers/Manuals/A/alive-audio-vibe_instrukcia_232109_04032025.pdf",
+        "title": "Alive Audio MIM-01 — технические характеристики",
+        "page": 11
+      }
+    ],
+    "drive_type": {
+      "value": "belt",
+      "source": "audit3"
+    },
+    "speeds_rpm": {
+      "value": [
+        "100/3",
+        "45",
+        "78"
+      ],
+      "source": "audit3"
+    }
+  }
+]

@@ -733,5 +733,47 @@
       }
     ],
     "aliases": []
+  },
+  {
+    "model_id": "kenwood-0056",
+    "manufacturer": "Kenwood",
+    "model": "KD-21R",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Kenwood KD-21R — документация производителя",
+        "url": "https://archive.org/download/manual_KD21R_OM_KENWOOD_DE/KD21R_OM_KENWOOD_DE.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "model_id": "kenwood-0057",
+    "manufacturer": "Kenwood",
+    "model": "KD-75F",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Kenwood KD-75F — документация производителя",
+        "url": "https://www.manualslib.com/manual/3342608/Kenwood-Kd-75f.html?page=7",
+        "page": 7
+      }
+    ]
+  },
+  {
+    "model_id": "kenwood-0058",
+    "manufacturer": "Kenwood",
+    "model": "KP-2022",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Kenwood KP-2022 — документация производителя",
+        "url": "https://manualmachine.com/kenwood/kp2022/2320940-brochure/",
+        "page": 1
+      }
+    ]
   }
 ]

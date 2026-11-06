@@ -169,6 +169,34 @@
         "key": "identity",
         "title": "Thorens History — TD 160",
         "url": "https://www.thorens.com/en/history.html"
+      },
+      {
+        "key": "audit2",
+        "url": "https://www.wegavision.eu/HiFi-Archiv/Thorens/Thorens-TD-160-flyer.pdf",
+        "title": "Thorens TD 160 — технические характеристики",
+        "page": 3
+      }
+    ],
+    "drive_type": {
+      "value": "belt",
+      "source": "audit2"
+    },
+    "speeds_rpm": {
+      "value": [
+        "100/3",
+        "45"
+      ],
+      "source": "audit2"
+    },
+    "specifications": [
+      {
+        "name": "wow_and_flutter",
+        "value": "0.06",
+        "original": "0,06 % according to DIN 45507, weighted",
+        "unit": "%",
+        "source": "audit2",
+        "standard": "DIN 45507",
+        "weighting": "weighted"
       }
     ]
   },
@@ -769,5 +797,75 @@
       }
     ],
     "aliases": []
+  },
+  {
+    "model_id": "thorens-0060",
+    "manufacturer": "Thorens",
+    "model": "TD 1601",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Thorens TD 1601 — документация производителя",
+        "url": "https://www.thorens.com/assets/downloads/TD%201601/en/td1601.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "model_id": "thorens-0061",
+    "manufacturer": "Thorens",
+    "model": "TD 209",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Thorens TD 209 — документация производителя",
+        "url": "https://www.studio-22.com/pdf/specifications_td206209_en.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "model_id": "thorens-0062",
+    "manufacturer": "Thorens",
+    "model": "TD 905",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Thorens TD 905 — документация производителя",
+        "url": "https://audio.vn/wp-content/uploads/2017/12/thorens-900-serie-EN.pdf",
+        "page": 4
+      }
+    ]
+  },
+  {
+    "model_id": "thorens-0063",
+    "manufacturer": "Thorens",
+    "model": "TD 907",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Thorens TD 907 — документация производителя",
+        "url": "https://audio.vn/wp-content/uploads/2017/12/thorens-900-serie-EN.pdf",
+        "page": 4
+      }
+    ]
+  },
+  {
+    "model_id": "thorens-0064",
+    "manufacturer": "Thorens",
+    "model": "TD 2035",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Thorens TD 2035 — документация производителя",
+        "url": "https://aaav.gr/img/pdf/THORENS%20Product%20Information%20RRP%20May%202019.pdf",
+        "page": 4
+      }
+    ]
   }
 ]

@@ -9,6 +9,33 @@
         "key": "identity",
         "url": "https://www.sony.jp/audio/products/PS-LX310BT/",
         "title": "PS-LX310BT | Component Audio | Sony Japan (translated title)"
+      },
+      {
+        "key": "audit2",
+        "url": "https://resources.sevenoakssoundandvision.co.uk/images/manuals/PS-LX310BT.pdf",
+        "title": "Sony PS-LX310BT — технические характеристики",
+        "page": 22
+      }
+    ],
+    "drive_type": {
+      "value": "belt",
+      "source": "audit2"
+    },
+    "speeds_rpm": {
+      "value": [
+        "100/3",
+        "45"
+      ],
+      "source": "audit2"
+    },
+    "specifications": [
+      {
+        "name": "wow_and_flutter",
+        "value": "0.1",
+        "original": "0.1% (WRMS)",
+        "unit": "%",
+        "source": "audit2",
+        "method": "WRMS"
       }
     ]
   },
@@ -113,8 +140,25 @@
         "key": "identity",
         "title": "Sony Support — Turntables — PS-LX150H",
         "url": "https://www.sony.com/electronics/support/audio-components-turntables"
+      },
+      {
+        "key": "audit2",
+        "url": "https://www.manualslib.com/manual/4047660/Sony-Ps-Lx150h.html",
+        "title": "Sony PS-LX150H — технические характеристики",
+        "page": 1
       }
-    ]
+    ],
+    "drive_type": {
+      "value": "belt",
+      "source": "audit2"
+    },
+    "speeds_rpm": {
+      "value": [
+        "100/3",
+        "45"
+      ],
+      "source": "audit2"
+    }
   },
   {
     "model_id": "sony-0010",
@@ -126,6 +170,33 @@
         "key": "identity",
         "title": "Sony Support — Turntables — PS-LX250H",
         "url": "https://www.sony.com/electronics/support/audio-components-turntables"
+      },
+      {
+        "key": "audit2",
+        "url": "https://www.sony.com/electronics/support/res/manuals/W000/W0009081M.pdf",
+        "title": "Sony PS-LX250H — технические характеристики",
+        "page": 7
+      }
+    ],
+    "drive_type": {
+      "value": "belt",
+      "source": "audit2"
+    },
+    "speeds_rpm": {
+      "value": [
+        "100/3",
+        "45"
+      ],
+      "source": "audit2"
+    },
+    "specifications": [
+      {
+        "name": "wow_and_flutter",
+        "value": "<0.25",
+        "original": "Less than 0.25% (WRMS)",
+        "unit": "%",
+        "source": "audit2",
+        "method": "WRMS"
       }
     ]
   },
@@ -139,6 +210,33 @@
         "key": "identity",
         "title": "Sony Support — Turntables — PS-LX350H",
         "url": "https://www.sony.com/electronics/support/audio-components-turntables"
+      },
+      {
+        "key": "audit2",
+        "url": "https://www.sony.com/electronics/support/res/manuals/W000/W0009083M.pdf",
+        "title": "Sony PS-LX350H — технические характеристики",
+        "page": 9
+      }
+    ],
+    "drive_type": {
+      "value": "belt",
+      "source": "audit2"
+    },
+    "speeds_rpm": {
+      "value": [
+        "100/3",
+        "45"
+      ],
+      "source": "audit2"
+    },
+    "specifications": [
+      {
+        "name": "wow_and_flutter",
+        "value": "<0.25",
+        "original": "Less than 0.25% (WRMS)",
+        "unit": "%",
+        "source": "audit2",
+        "method": "WRMS"
       }
     ]
   },
@@ -154,6 +252,28 @@
         "url": "https://audiocircuit.dk/downloads/sony/Sony-PS6750-tt-sm.pdf",
         "page": 1
       }
+    ],
+    "drive_type": {
+      "value": "direct",
+      "source": "identity"
+    },
+    "speeds_rpm": {
+      "value": [
+        "100/3",
+        "45"
+      ],
+      "source": "identity"
+    },
+    "specifications": [
+      {
+        "name": "wow_and_flutter",
+        "value": "<±0.045",
+        "original": "Less than ±0.045% (DIN 45 507 weighted)",
+        "unit": "%",
+        "source": "identity",
+        "standard": "DIN 45 507",
+        "weighting": "weighted"
+      }
     ]
   },
   {
@@ -167,6 +287,44 @@
         "title": "Sony PS-X600 — Service Manual",
         "url": "https://retronik.silicium.org/DOCUMENTS/Audiovideo/Sony/Sony-PS-X600-Service-Manual.pdf",
         "page": 1
+      }
+    ],
+    "drive_type": {
+      "value": "direct",
+      "source": "identity"
+    },
+    "speeds_rpm": {
+      "value": [
+        "100/3",
+        "45"
+      ],
+      "source": "identity"
+    },
+    "specifications": [
+      {
+        "name": "wow_and_flutter",
+        "value": "0.015",
+        "original": "0.015 (WRMS)*",
+        "unit": "%",
+        "source": "identity",
+        "method": "WRMS",
+        "condition": "Сигнал с магнитной головки датчика; только узел вращения, включая диск. Знак % для этой строки на обложке опущен."
+      },
+      {
+        "name": "wow_and_flutter",
+        "value": "0.025",
+        "original": "0.025% (WRMS)",
+        "unit": "%",
+        "source": "identity",
+        "method": "WRMS"
+      },
+      {
+        "name": "wow_and_flutter",
+        "value": "±0.03",
+        "original": "±0.03% (DIN)",
+        "unit": "%",
+        "source": "identity",
+        "standard": "DIN"
       }
     ]
   },
@@ -1431,5 +1589,33 @@
       }
     ],
     "aliases": []
+  },
+  {
+    "model_id": "sony-0111",
+    "manufacturer": "Sony",
+    "model": "PS-LX51",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Sony PS-LX51 — документация производителя",
+        "url": "https://www.manualslib.com/manual/4170040/Sony-Ps-Lx51.html",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "model_id": "sony-0112",
+    "manufacturer": "Sony",
+    "model": "PS-LX150",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Sony PS-LX150 — документация производителя",
+        "url": "https://manualmachine.com/sony/pslx150/3242396-service-manual/",
+        "page": 1
+      }
+    ]
   }
 ]

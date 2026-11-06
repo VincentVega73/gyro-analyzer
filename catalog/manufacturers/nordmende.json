@@ -50,5 +50,19 @@
       }
     ],
     "aliases": []
+  },
+  {
+    "model_id": "nordmende-0005",
+    "manufacturer": "Nordmende",
+    "model": "RP 1651",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Nordmende RP 1651 — документация производителя",
+        "url": "https://www.manualslib.de/manual/1131840/Nordmende-Rp-1651.html",
+        "page": 1
+      }
+    ]
   }
 ]

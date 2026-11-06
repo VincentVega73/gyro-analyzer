@@ -50,5 +50,33 @@
       }
     ],
     "aliases": []
+  },
+  {
+    "model_id": "scott-0005",
+    "manufacturer": "Scott",
+    "model": "PS76",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Scott PS76 — документация производителя",
+        "url": "https://www.manualslib.com/manual/3948575/Scott-Ps76.html",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "model_id": "scott-0006",
+    "manufacturer": "Scott",
+    "model": "PS-57",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Scott PS-57 — документация производителя",
+        "url": "https://retronik.silicium.org/DOCUMENTS/Audiovideo/Scott/Scott-PS-17-PS-47-PS-57-PS-67-PS-76-PS-87-Service-Manual.pdf",
+        "page": 4
+      }
+    ]
   }
 ]

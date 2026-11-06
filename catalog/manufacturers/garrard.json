@@ -297,5 +297,61 @@
       }
     ],
     "aliases": []
+  },
+  {
+    "model_id": "garrard-0024",
+    "manufacturer": "Garrard",
+    "model": "GT55",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Garrard GT55 — документация производителя",
+        "url": "https://www.manualslib.com/manual/4344679/Garrard-Gt55.html?page=5",
+        "page": 5
+      }
+    ]
+  },
+  {
+    "model_id": "garrard-0025",
+    "manufacturer": "Garrard",
+    "model": "D-25",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Garrard D-25 — документация производителя",
+        "url": "https://relikon.com/vinil/assets/files/Garrard-D20-D25-D30-D35-Owners-Manual.pdf",
+        "page": 2
+      }
+    ]
+  },
+  {
+    "model_id": "garrard-0026",
+    "manufacturer": "Garrard",
+    "model": "D-30",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Garrard D-30 — документация производителя",
+        "url": "https://relikon.com/vinil/assets/files/Garrard-D20-D25-D30-D35-Owners-Manual.pdf",
+        "page": 2
+      }
+    ]
+  },
+  {
+    "model_id": "garrard-0027",
+    "manufacturer": "Garrard",
+    "model": "D-35",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Garrard D-35 — документация производителя",
+        "url": "https://relikon.com/vinil/assets/files/Garrard-D20-D25-D30-D35-Owners-Manual.pdf",
+        "page": 2
+      }
+    ]
   }
 ]

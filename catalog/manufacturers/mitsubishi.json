@@ -115,5 +115,19 @@
       }
     ],
     "aliases": []
+  },
+  {
+    "model_id": "mitsubishi-0010",
+    "manufacturer": "Mitsubishi",
+    "model": "DP-84DA",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Mitsubishi DP-84DA — документация производителя",
+        "url": "https://archive.org/download/manual_DP84DA_SM_MITSUBISHI_DE/DP84DA_SM_MITSUBISHI_DE.pdf",
+        "page": 1
+      }
+    ]
   }
 ]

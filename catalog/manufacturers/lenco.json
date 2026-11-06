@@ -541,9 +541,26 @@
         "key": "identity",
         "url": "https://www.manualslib.com/manual/2330133/Lenco-Ls-101.html",
         "title": "LENCO LS-101 User Manual"
+      },
+      {
+        "key": "audit2",
+        "url": "https://lenco.uk/products/lenco-ls-101bk-belt-drive-wooden-turntable",
+        "title": "Lenco LS-101 — технические характеристики"
       }
     ],
-    "aliases": []
+    "aliases": [],
+    "drive_type": {
+      "value": "belt",
+      "source": "audit2"
+    },
+    "speeds_rpm": {
+      "value": [
+        "100/3",
+        "45",
+        "78"
+      ],
+      "source": "audit2"
+    }
   },
   {
     "manufacturer": "Lenco",
@@ -671,9 +688,36 @@
         "key": "identity",
         "url": "https://www.manualslib.com/manual/1243233/Lenco-Ls-50.html",
         "title": "LENCO LS-50 User Manual"
+      },
+      {
+        "key": "audit2",
+        "url": "https://cdn.nedis.com/datasheets/LS-50WD_MAN_COMP.PDF",
+        "title": "Lenco LS-50 — технические характеристики",
+        "page": 8
       }
     ],
-    "aliases": []
+    "aliases": [],
+    "drive_type": {
+      "value": "belt",
+      "source": "audit2"
+    },
+    "speeds_rpm": {
+      "value": [
+        "100/3",
+        "45",
+        "78"
+      ],
+      "source": "audit2"
+    },
+    "specifications": [
+      {
+        "name": "wow_and_flutter",
+        "value": "<0.35",
+        "original": "<0.35%",
+        "unit": "%",
+        "source": "audit2"
+      }
+    ]
   },
   {
     "manufacturer": "Lenco",
@@ -817,5 +861,60 @@
       }
     ],
     "aliases": []
+  },
+  {
+    "model_id": "lenco-0064",
+    "manufacturer": "Lenco",
+    "model": "L-69",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Lenco L-69 — документация производителя",
+        "url": "https://www.manualslib.com/manual/362621/Lenco-L-69.html",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "model_id": "lenco-0065",
+    "manufacturer": "Lenco",
+    "model": "Classic Phono TT-43",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Lenco Classic Phono TT-43 — документация производителя",
+        "url": "https://catalog.lenco.com/products/classic-phono-tt-43wa-retro-turntable-with-built-in-speakers-walnut"
+      }
+    ]
+  },
+  {
+    "model_id": "lenco-0066",
+    "manufacturer": "Lenco",
+    "model": "L-101",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Lenco L-101 — документация производителя",
+        "url": "https://www.manualslib.mx/manual/808879/Lenco-L-101.html",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "model_id": "lenco-0067",
+    "manufacturer": "Lenco",
+    "model": "LBT-345",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Lenco LBT-345 — документация производителя",
+        "url": "https://www.manualslib.de/manual/1247804/Lenco-Lbt-345.html",
+        "page": 1
+      }
+    ]
   }
 ]

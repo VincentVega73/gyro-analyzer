@@ -503,5 +503,47 @@
       }
     ],
     "aliases": []
+  },
+  {
+    "model_id": "denon-0038",
+    "manufacturer": "Denon",
+    "model": "DP-75M",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Denon DP-75M — заводской лист",
+        "url": "https://www.hifi-wiki.de/images/0/01/Denon_DP-75_M-Prospekt-1.jpg",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "model_id": "denon-0039",
+    "manufacturer": "Denon",
+    "model": "DP-33F",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Denon DP-33F — документация производителя",
+        "url": "https://archive.org/download/manual_DP33F_SERIES_DENON/DP33F_SERIES_DENON.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "model_id": "denon-0040",
+    "manufacturer": "Denon",
+    "model": "DP-21F",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Denon DP-21F — документация производителя",
+        "url": "https://manuals.plus/m/e7e3c68840a50a10367463cd9cac76813455e2aeb3297794ae134d539156b0cb.pdf",
+        "page": 16
+      }
+    ]
   }
 ]

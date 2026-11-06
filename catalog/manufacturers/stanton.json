@@ -219,5 +219,33 @@
       }
     ],
     "aliases": []
+  },
+  {
+    "model_id": "stanton-0018",
+    "manufacturer": "Stanton",
+    "model": "T.50",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Stanton T.50 — документация производителя",
+        "url": "https://m.media-amazon.com/images/I/A17trkVZLGL.pdf",
+        "page": 6
+      }
+    ]
+  },
+  {
+    "model_id": "stanton-0019",
+    "manufacturer": "Stanton",
+    "model": "ST.150 M2",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Stanton ST.150 M2 — документация производителя",
+        "url": "https://trimacppl.com/admin/data/brands/pdf/1526030657044.pdf",
+        "page": 1
+      }
+    ]
   }
 ]

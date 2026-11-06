@@ -1,6 +1,6 @@
 {
   "baseline_commit": "63a19cde1e7d079ae48176f50c1e00960753da09",
-  "catalog_version": "1.4.0",
+  "catalog_version": "1.5.0",
   "models_reviewed": 154,
   "generator": "Built-in ImageGen",
   "generic_prompts": {
@@ -31647,7 +31647,1106 @@
         "status": "queued",
         "basis": "visual_review_pending"
       }
+    },
+    {
+      "model_id": "dual-0125",
+      "manufacturer": "Dual",
+      "model": "CS 2235 Q",
+      "primary_sources": [
+        {
+          "key": "identity",
+          "title": "Dual CS 2235 Q — документация производителя",
+          "url": "https://dual.de/wp-content/uploads/ServiceManual_2235Q.pdf",
+          "page": 1
+        }
+      ],
+      "outcome": "generic",
+      "reason": "visual_review_pending",
+      "independent_study": {
+        "status": "queued",
+        "basis": "visual_review_pending"
+      }
+    },
+    {
+      "model_id": "dual-0126",
+      "manufacturer": "Dual",
+      "model": "SP 85",
+      "primary_sources": [
+        {
+          "key": "identity",
+          "title": "Dual SP 85 — документация производителя",
+          "url": "https://dual.de/wp-content/uploads/ServiceManual_SP85.pdf",
+          "page": 1
+        }
+      ],
+      "outcome": "generic",
+      "reason": "visual_review_pending",
+      "independent_study": {
+        "status": "queued",
+        "basis": "visual_review_pending"
+      }
+    },
+    {
+      "model_id": "thorens-0060",
+      "manufacturer": "Thorens",
+      "model": "TD 1601",
+      "primary_sources": [
+        {
+          "key": "identity",
+          "title": "Thorens TD 1601 — документация производителя",
+          "url": "https://www.thorens.com/assets/downloads/TD%201601/en/td1601.pdf",
+          "page": 1
+        }
+      ],
+      "outcome": "generic",
+      "reason": "visual_review_pending",
+      "independent_study": {
+        "status": "queued",
+        "basis": "visual_review_pending"
+      }
+    },
+    {
+      "model_id": "thorens-0061",
+      "manufacturer": "Thorens",
+      "model": "TD 209",
+      "primary_sources": [
+        {
+          "key": "identity",
+          "title": "Thorens TD 209 — документация производителя",
+          "url": "https://www.studio-22.com/pdf/specifications_td206209_en.pdf",
+          "page": 1
+        }
+      ],
+      "outcome": "generic",
+      "reason": "visual_review_pending",
+      "independent_study": {
+        "status": "queued",
+        "basis": "visual_review_pending"
+      }
+    },
+    {
+      "model_id": "crosley-0045",
+      "manufacturer": "Crosley",
+      "model": "CR6037BT",
+      "primary_sources": [
+        {
+          "key": "identity",
+          "title": "Crosley CR6037BT — документация производителя",
+          "url": "https://fccid.io/m/0e6075f5b8ab8c7d5fc366fe2623d6a0fbafddc51c0afb89de389ccabe703e19.pdf",
+          "page": 1
+        }
+      ],
+      "outcome": "generic",
+      "reason": "visual_review_pending",
+      "independent_study": {
+        "status": "queued",
+        "basis": "visual_review_pending"
+      }
+    },
+    {
+      "model_id": "crosley-0046",
+      "manufacturer": "Crosley",
+      "model": "CR6249A",
+      "primary_sources": [
+        {
+          "key": "identity",
+          "title": "Crosley CR6249A — документация производителя",
+          "url": "https://images.restorationhardware.com/content/catalog/product/pdfs/prod4640177_info.pdf",
+          "page": 4
+        }
+      ],
+      "outcome": "generic",
+      "reason": "visual_review_pending",
+      "independent_study": {
+        "status": "queued",
+        "basis": "visual_review_pending"
+      }
+    },
+    {
+      "model_id": "thorens-0062",
+      "manufacturer": "Thorens",
+      "model": "TD 905",
+      "primary_sources": [
+        {
+          "key": "identity",
+          "title": "Thorens TD 905 — документация производителя",
+          "url": "https://audio.vn/wp-content/uploads/2017/12/thorens-900-serie-EN.pdf",
+          "page": 4
+        }
+      ],
+      "outcome": "generic",
+      "reason": "visual_review_pending",
+      "independent_study": {
+        "status": "queued",
+        "basis": "visual_review_pending"
+      }
+    },
+    {
+      "model_id": "thorens-0063",
+      "manufacturer": "Thorens",
+      "model": "TD 907",
+      "primary_sources": [
+        {
+          "key": "identity",
+          "title": "Thorens TD 907 — документация производителя",
+          "url": "https://audio.vn/wp-content/uploads/2017/12/thorens-900-serie-EN.pdf",
+          "page": 4
+        }
+      ],
+      "outcome": "generic",
+      "reason": "visual_review_pending",
+      "independent_study": {
+        "status": "queued",
+        "basis": "visual_review_pending"
+      }
+    },
+    {
+      "model_id": "dual-0127",
+      "manufacturer": "Dual",
+      "model": "CS 431",
+      "primary_sources": [
+        {
+          "key": "identity",
+          "title": "Dual CS 431 — документация производителя",
+          "url": "https://www.manualslib.com/manual/4506319/Dual-Cs-431.html",
+          "page": 1
+        }
+      ],
+      "outcome": "generic",
+      "reason": "visual_review_pending",
+      "independent_study": {
+        "status": "queued",
+        "basis": "visual_review_pending"
+      }
+    },
+    {
+      "model_id": "lenco-0064",
+      "manufacturer": "Lenco",
+      "model": "L-69",
+      "primary_sources": [
+        {
+          "key": "identity",
+          "title": "Lenco L-69 — документация производителя",
+          "url": "https://www.manualslib.com/manual/362621/Lenco-L-69.html",
+          "page": 1
+        }
+      ],
+      "outcome": "generic",
+      "reason": "visual_review_pending",
+      "independent_study": {
+        "status": "queued",
+        "basis": "visual_review_pending"
+      }
+    },
+    {
+      "model_id": "sony-0111",
+      "manufacturer": "Sony",
+      "model": "PS-LX51",
+      "primary_sources": [
+        {
+          "key": "identity",
+          "title": "Sony PS-LX51 — документация производителя",
+          "url": "https://www.manualslib.com/manual/4170040/Sony-Ps-Lx51.html",
+          "page": 1
+        }
+      ],
+      "outcome": "generic",
+      "reason": "visual_review_pending",
+      "independent_study": {
+        "status": "queued",
+        "basis": "visual_review_pending"
+      }
+    },
+    {
+      "model_id": "numark-0018",
+      "manufacturer": "Numark",
+      "model": "TTX1",
+      "primary_sources": [
+        {
+          "key": "identity",
+          "title": "Numark TTX1 — документация производителя",
+          "url": "https://www.manualslib.com/manual/300909/Numark-Ttx1.html",
+          "page": 1
+        }
+      ],
+      "outcome": "generic",
+      "reason": "visual_review_pending",
+      "independent_study": {
+        "status": "queued",
+        "basis": "visual_review_pending"
+      }
+    },
+    {
+      "model_id": "rotel-0023",
+      "manufacturer": "Rotel",
+      "model": "RP-300",
+      "primary_sources": [
+        {
+          "key": "identity",
+          "title": "Rotel RP-300 — документация производителя",
+          "url": "https://www.manualslib.com/manual/4372678/Rotel-Rp-300.html",
+          "page": 1
+        }
+      ],
+      "outcome": "generic",
+      "reason": "visual_review_pending",
+      "independent_study": {
+        "status": "queued",
+        "basis": "visual_review_pending"
+      }
+    },
+    {
+      "model_id": "rotel-0024",
+      "manufacturer": "Rotel",
+      "model": "RP-510",
+      "primary_sources": [
+        {
+          "key": "identity",
+          "title": "Rotel RP-510 — документация производителя",
+          "url": "https://www.manualslib.com/manual/895778/Rotel-Rp-510.html",
+          "page": 1
+        }
+      ],
+      "outcome": "generic",
+      "reason": "visual_review_pending",
+      "independent_study": {
+        "status": "queued",
+        "basis": "visual_review_pending"
+      }
+    },
+    {
+      "model_id": "sansui-0047",
+      "manufacturer": "Sansui",
+      "model": "P-M55",
+      "primary_sources": [
+        {
+          "key": "identity",
+          "title": "Sansui P-M55 — документация производителя",
+          "url": "https://www.manualslib.com/manual/4371973/Sansui-P-M55.html",
+          "page": 1
+        }
+      ],
+      "outcome": "generic",
+      "reason": "visual_review_pending",
+      "independent_study": {
+        "status": "queued",
+        "basis": "visual_review_pending"
+      }
+    },
+    {
+      "model_id": "scott-0005",
+      "manufacturer": "Scott",
+      "model": "PS76",
+      "primary_sources": [
+        {
+          "key": "identity",
+          "title": "Scott PS76 — документация производителя",
+          "url": "https://www.manualslib.com/manual/3948575/Scott-Ps76.html",
+          "page": 1
+        }
+      ],
+      "outcome": "generic",
+      "reason": "visual_review_pending",
+      "independent_study": {
+        "status": "queued",
+        "basis": "visual_review_pending"
+      }
+    },
+    {
+      "model_id": "denon-0038",
+      "manufacturer": "Denon",
+      "model": "DP-75M",
+      "primary_sources": [
+        {
+          "key": "identity",
+          "title": "Denon DP-75M — заводской лист",
+          "url": "https://www.hifi-wiki.de/images/0/01/Denon_DP-75_M-Prospekt-1.jpg",
+          "page": 1
+        }
+      ],
+      "outcome": "generic",
+      "reason": "visual_review_pending",
+      "independent_study": {
+        "status": "queued",
+        "basis": "visual_review_pending"
+      }
+    },
+    {
+      "model_id": "pioneer-0125",
+      "manufacturer": "Pioneer",
+      "model": "PL-L5",
+      "primary_sources": [
+        {
+          "key": "identity",
+          "title": "Pioneer PL-L5 — заводской лист",
+          "url": "https://www.hifi-wiki.de/images/c/ca/Pioneer_PL-L_5-1979.jpg",
+          "page": 1
+        }
+      ],
+      "outcome": "generic",
+      "reason": "visual_review_pending",
+      "independent_study": {
+        "status": "queued",
+        "basis": "visual_review_pending"
+      }
+    },
+    {
+      "model_id": "victor-0001",
+      "manufacturer": "Victor",
+      "model": "QL-A95",
+      "primary_sources": [
+        {
+          "key": "identity",
+          "title": "Victor QL-A95 — заводской лист",
+          "url": "https://www.hifi-wiki.de/images/f/fd/JVC_QL-A_95-1982.jpg",
+          "page": 1
+        }
+      ],
+      "outcome": "generic",
+      "reason": "visual_review_pending",
+      "independent_study": {
+        "status": "queued",
+        "basis": "visual_review_pending"
+      }
+    },
+    {
+      "model_id": "reloop-0015",
+      "manufacturer": "Reloop",
+      "model": "RP-7000",
+      "primary_sources": [
+        {
+          "key": "identity",
+          "title": "Reloop RP-7000 — документация производителя",
+          "url": "https://www.reloop.com/reloop-rp-7000"
+        }
+      ],
+      "outcome": "generic",
+      "reason": "visual_review_pending",
+      "independent_study": {
+        "status": "queued",
+        "basis": "visual_review_pending"
+      }
+    },
+    {
+      "model_id": "rotel-0025",
+      "manufacturer": "Rotel",
+      "model": "RP-900",
+      "primary_sources": [
+        {
+          "key": "identity",
+          "title": "Rotel RP-900 — документация производителя",
+          "url": "https://www.rotel.com/en-gb/product/rp-900"
+        }
+      ],
+      "outcome": "generic",
+      "reason": "visual_review_pending",
+      "independent_study": {
+        "status": "queued",
+        "basis": "visual_review_pending"
+      }
+    },
+    {
+      "model_id": "philips-0028",
+      "manufacturer": "Philips",
+      "model": "GA 207",
+      "primary_sources": [
+        {
+          "key": "identity",
+          "title": "Philips GA 207 — документация производителя",
+          "url": "https://www.manualslib.com/manual/4341211/Philips-Ga-207.html",
+          "page": 1
+        }
+      ],
+      "outcome": "generic",
+      "reason": "visual_review_pending",
+      "independent_study": {
+        "status": "queued",
+        "basis": "visual_review_pending"
+      }
+    },
+    {
+      "model_id": "lenco-0065",
+      "manufacturer": "Lenco",
+      "model": "Classic Phono TT-43",
+      "primary_sources": [
+        {
+          "key": "identity",
+          "title": "Lenco Classic Phono TT-43 — документация производителя",
+          "url": "https://catalog.lenco.com/products/classic-phono-tt-43wa-retro-turntable-with-built-in-speakers-walnut"
+        }
+      ],
+      "outcome": "generic",
+      "reason": "visual_review_pending",
+      "independent_study": {
+        "status": "queued",
+        "basis": "visual_review_pending"
+      }
+    },
+    {
+      "model_id": "braun-0011",
+      "manufacturer": "Braun",
+      "model": "PS 420",
+      "primary_sources": [
+        {
+          "key": "identity",
+          "title": "Braun PS 420 — документация производителя",
+          "url": "https://archive.org/download/manual_PS420_SM_BRAUN_DE/PS420_SM_BRAUN_DE_text.pdf",
+          "page": 1
+        }
+      ],
+      "outcome": "generic",
+      "reason": "visual_review_pending",
+      "independent_study": {
+        "status": "queued",
+        "basis": "visual_review_pending"
+      }
+    },
+    {
+      "model_id": "denon-0039",
+      "manufacturer": "Denon",
+      "model": "DP-33F",
+      "primary_sources": [
+        {
+          "key": "identity",
+          "title": "Denon DP-33F — документация производителя",
+          "url": "https://archive.org/download/manual_DP33F_SERIES_DENON/DP33F_SERIES_DENON.pdf",
+          "page": 1
+        }
+      ],
+      "outcome": "generic",
+      "reason": "visual_review_pending",
+      "independent_study": {
+        "status": "queued",
+        "basis": "visual_review_pending"
+      }
+    },
+    {
+      "model_id": "hitachi-0040",
+      "manufacturer": "Hitachi",
+      "model": "HT-202",
+      "primary_sources": [
+        {
+          "key": "identity",
+          "title": "Hitachi HT-202 — документация производителя",
+          "url": "https://archive.org/download/manual_HT202_OM_HITACHI_DE/HT202_OM_HITACHI_DE.pdf",
+          "page": 1
+        }
+      ],
+      "outcome": "generic",
+      "reason": "visual_review_pending",
+      "independent_study": {
+        "status": "queued",
+        "basis": "visual_review_pending"
+      }
+    },
+    {
+      "model_id": "kenwood-0056",
+      "manufacturer": "Kenwood",
+      "model": "KD-21R",
+      "primary_sources": [
+        {
+          "key": "identity",
+          "title": "Kenwood KD-21R — документация производителя",
+          "url": "https://archive.org/download/manual_KD21R_OM_KENWOOD_DE/KD21R_OM_KENWOOD_DE.pdf",
+          "page": 1
+        }
+      ],
+      "outcome": "generic",
+      "reason": "visual_review_pending",
+      "independent_study": {
+        "status": "queued",
+        "basis": "visual_review_pending"
+      }
+    },
+    {
+      "model_id": "mitsubishi-0010",
+      "manufacturer": "Mitsubishi",
+      "model": "DP-84DA",
+      "primary_sources": [
+        {
+          "key": "identity",
+          "title": "Mitsubishi DP-84DA — документация производителя",
+          "url": "https://archive.org/download/manual_DP84DA_SM_MITSUBISHI_DE/DP84DA_SM_MITSUBISHI_DE.pdf",
+          "page": 1
+        }
+      ],
+      "outcome": "generic",
+      "reason": "visual_review_pending",
+      "independent_study": {
+        "status": "queued",
+        "basis": "visual_review_pending"
+      }
+    },
+    {
+      "model_id": "philips-0029",
+      "manufacturer": "Philips",
+      "model": "AF 887",
+      "primary_sources": [
+        {
+          "key": "identity",
+          "title": "Philips AF 887 — документация производителя",
+          "url": "https://archive.org/download/manual_AF887_OM_PHILIPS_EN_FR_DE_NL_ES_IT_DA_NO_SV_FI/AF887_OM_PHILIPS_EN_FR_DE_NL_ES_IT_DA_NO_SV_FI.pdf",
+          "page": 1
+        }
+      ],
+      "outcome": "generic",
+      "reason": "visual_review_pending",
+      "independent_study": {
+        "status": "queued",
+        "basis": "visual_review_pending"
+      }
+    },
+    {
+      "model_id": "philips-0030",
+      "manufacturer": "Philips",
+      "model": "F7112",
+      "primary_sources": [
+        {
+          "key": "identity",
+          "title": "Philips F7112 — документация производителя",
+          "url": "https://archive.org/download/manual_F7112_SM_PHILIPS_EN_DE/F7112_SM_PHILIPS_EN_DE.pdf",
+          "page": 1
+        }
+      ],
+      "outcome": "generic",
+      "reason": "visual_review_pending",
+      "independent_study": {
+        "status": "queued",
+        "basis": "visual_review_pending"
+      }
+    },
+    {
+      "model_id": "saba-0006",
+      "manufacturer": "Saba",
+      "model": "PSP 450",
+      "primary_sources": [
+        {
+          "key": "identity",
+          "title": "Saba PSP 450 — документация производителя",
+          "url": "https://archive.org/download/manual_PSP450_SM_SABA_DE_FR_EN_IT/PSP450_SM_SABA_DE_FR_EN_IT.pdf",
+          "page": 1
+        }
+      ],
+      "outcome": "generic",
+      "reason": "visual_review_pending",
+      "independent_study": {
+        "status": "queued",
+        "basis": "visual_review_pending"
+      }
+    },
+    {
+      "model_id": "lenco-0066",
+      "manufacturer": "Lenco",
+      "model": "L-101",
+      "primary_sources": [
+        {
+          "key": "identity",
+          "title": "Lenco L-101 — документация производителя",
+          "url": "https://www.manualslib.mx/manual/808879/Lenco-L-101.html",
+          "page": 1
+        }
+      ],
+      "outcome": "generic",
+      "reason": "visual_review_pending",
+      "independent_study": {
+        "status": "queued",
+        "basis": "visual_review_pending"
+      }
+    },
+    {
+      "model_id": "lenco-0067",
+      "manufacturer": "Lenco",
+      "model": "LBT-345",
+      "primary_sources": [
+        {
+          "key": "identity",
+          "title": "Lenco LBT-345 — документация производителя",
+          "url": "https://www.manualslib.de/manual/1247804/Lenco-Lbt-345.html",
+          "page": 1
+        }
+      ],
+      "outcome": "generic",
+      "reason": "visual_review_pending",
+      "independent_study": {
+        "status": "queued",
+        "basis": "visual_review_pending"
+      }
+    },
+    {
+      "model_id": "dual-0128",
+      "manufacturer": "Dual",
+      "model": "1006",
+      "primary_sources": [
+        {
+          "key": "identity",
+          "title": "Dual 1006 — документация производителя",
+          "url": "https://www.manualslib.com/manual/4371917/Dual-1006.html",
+          "page": 1
+        }
+      ],
+      "outcome": "generic",
+      "reason": "visual_review_pending",
+      "independent_study": {
+        "status": "queued",
+        "basis": "visual_review_pending"
+      }
+    },
+    {
+      "model_id": "dual-0129",
+      "manufacturer": "Dual",
+      "model": "1008",
+      "primary_sources": [
+        {
+          "key": "identity",
+          "title": "Dual 1008 — документация производителя",
+          "url": "https://www.manualslib.de/manual/1185752/Dual-1008.html",
+          "page": 1
+        }
+      ],
+      "outcome": "generic",
+      "reason": "visual_review_pending",
+      "independent_study": {
+        "status": "queued",
+        "basis": "visual_review_pending"
+      }
+    },
+    {
+      "model_id": "garrard-0024",
+      "manufacturer": "Garrard",
+      "model": "GT55",
+      "primary_sources": [
+        {
+          "key": "identity",
+          "title": "Garrard GT55 — документация производителя",
+          "url": "https://www.manualslib.com/manual/4344679/Garrard-Gt55.html?page=5",
+          "page": 5
+        }
+      ],
+      "outcome": "generic",
+      "reason": "visual_review_pending",
+      "independent_study": {
+        "status": "queued",
+        "basis": "visual_review_pending"
+      }
+    },
+    {
+      "model_id": "kenwood-0057",
+      "manufacturer": "Kenwood",
+      "model": "KD-75F",
+      "primary_sources": [
+        {
+          "key": "identity",
+          "title": "Kenwood KD-75F — документация производителя",
+          "url": "https://www.manualslib.com/manual/3342608/Kenwood-Kd-75f.html?page=7",
+          "page": 7
+        }
+      ],
+      "outcome": "generic",
+      "reason": "visual_review_pending",
+      "independent_study": {
+        "status": "queued",
+        "basis": "visual_review_pending"
+      }
+    },
+    {
+      "model_id": "micro-seiki-0018",
+      "manufacturer": "Micro Seiki",
+      "model": "MR-611",
+      "primary_sources": [
+        {
+          "key": "identity",
+          "title": "Micro Seiki MR-611 — документация производителя",
+          "url": "https://www.manualslib.com/manual/4342248/Micro-Mr-611.html",
+          "page": 1
+        }
+      ],
+      "outcome": "generic",
+      "reason": "visual_review_pending",
+      "independent_study": {
+        "status": "queued",
+        "basis": "visual_review_pending"
+      }
+    },
+    {
+      "model_id": "nordmende-0005",
+      "manufacturer": "Nordmende",
+      "model": "RP 1651",
+      "primary_sources": [
+        {
+          "key": "identity",
+          "title": "Nordmende RP 1651 — документация производителя",
+          "url": "https://www.manualslib.de/manual/1131840/Nordmende-Rp-1651.html",
+          "page": 1
+        }
+      ],
+      "outcome": "generic",
+      "reason": "visual_review_pending",
+      "independent_study": {
+        "status": "queued",
+        "basis": "visual_review_pending"
+      }
+    },
+    {
+      "model_id": "rotel-0026",
+      "manufacturer": "Rotel",
+      "model": "RP-850",
+      "primary_sources": [
+        {
+          "key": "identity",
+          "title": "Rotel RP-850 — документация производителя",
+          "url": "https://www.manualslib.com/manual/142567/Rotel-Rp-850.html",
+          "page": 1
+        }
+      ],
+      "outcome": "generic",
+      "reason": "visual_review_pending",
+      "independent_study": {
+        "status": "queued",
+        "basis": "visual_review_pending"
+      }
+    },
+    {
+      "model_id": "stanton-0018",
+      "manufacturer": "Stanton",
+      "model": "T.50",
+      "primary_sources": [
+        {
+          "key": "identity",
+          "title": "Stanton T.50 — документация производителя",
+          "url": "https://m.media-amazon.com/images/I/A17trkVZLGL.pdf",
+          "page": 6
+        }
+      ],
+      "outcome": "generic",
+      "reason": "visual_review_pending",
+      "independent_study": {
+        "status": "queued",
+        "basis": "visual_review_pending"
+      }
+    },
+    {
+      "model_id": "scott-0006",
+      "manufacturer": "Scott",
+      "model": "PS-57",
+      "primary_sources": [
+        {
+          "key": "identity",
+          "title": "Scott PS-57 — документация производителя",
+          "url": "https://retronik.silicium.org/DOCUMENTS/Audiovideo/Scott/Scott-PS-17-PS-47-PS-57-PS-67-PS-76-PS-87-Service-Manual.pdf",
+          "page": 4
+        }
+      ],
+      "outcome": "generic",
+      "reason": "visual_review_pending",
+      "independent_study": {
+        "status": "queued",
+        "basis": "visual_review_pending"
+      }
+    },
+    {
+      "model_id": "philips-0031",
+      "manufacturer": "Philips",
+      "model": "AG 9147",
+      "primary_sources": [
+        {
+          "key": "identity",
+          "title": "Philips AG 9147 — документация производителя",
+          "url": "https://www.manualslib.com/manual/4572593/Philips-Ag-9147.html",
+          "page": 1
+        }
+      ],
+      "outcome": "generic",
+      "reason": "visual_review_pending",
+      "independent_study": {
+        "status": "queued",
+        "basis": "visual_review_pending"
+      }
+    },
+    {
+      "model_id": "denon-0040",
+      "manufacturer": "Denon",
+      "model": "DP-21F",
+      "primary_sources": [
+        {
+          "key": "identity",
+          "title": "Denon DP-21F — документация производителя",
+          "url": "https://manuals.plus/m/e7e3c68840a50a10367463cd9cac76813455e2aeb3297794ae134d539156b0cb.pdf",
+          "page": 16
+        }
+      ],
+      "outcome": "generic",
+      "reason": "visual_review_pending",
+      "independent_study": {
+        "status": "queued",
+        "basis": "visual_review_pending"
+      }
+    },
+    {
+      "model_id": "numark-0019",
+      "manufacturer": "Numark",
+      "model": "TT1610",
+      "primary_sources": [
+        {
+          "key": "identity",
+          "title": "Numark TT1610 — документация производителя",
+          "url": "https://www.recordcase.de/shop/default/artikelpdf/0020101811_en.pdf",
+          "page": 1
+        }
+      ],
+      "outcome": "generic",
+      "reason": "visual_review_pending",
+      "independent_study": {
+        "status": "queued",
+        "basis": "visual_review_pending"
+      }
+    },
+    {
+      "model_id": "numark-0020",
+      "manufacturer": "Numark",
+      "model": "TT1600 MKII",
+      "primary_sources": [
+        {
+          "key": "identity",
+          "title": "Numark TT1600 MKII — документация производителя",
+          "url": "https://www.recordcase.de/shop/default/artikelpdf/0020101811_en.pdf",
+          "page": 1
+        }
+      ],
+      "outcome": "generic",
+      "reason": "visual_review_pending",
+      "independent_study": {
+        "status": "queued",
+        "basis": "visual_review_pending"
+      }
+    },
+    {
+      "model_id": "garrard-0025",
+      "manufacturer": "Garrard",
+      "model": "D-25",
+      "primary_sources": [
+        {
+          "key": "identity",
+          "title": "Garrard D-25 — документация производителя",
+          "url": "https://relikon.com/vinil/assets/files/Garrard-D20-D25-D30-D35-Owners-Manual.pdf",
+          "page": 2
+        }
+      ],
+      "outcome": "generic",
+      "reason": "visual_review_pending",
+      "independent_study": {
+        "status": "queued",
+        "basis": "visual_review_pending"
+      }
+    },
+    {
+      "model_id": "garrard-0026",
+      "manufacturer": "Garrard",
+      "model": "D-30",
+      "primary_sources": [
+        {
+          "key": "identity",
+          "title": "Garrard D-30 — документация производителя",
+          "url": "https://relikon.com/vinil/assets/files/Garrard-D20-D25-D30-D35-Owners-Manual.pdf",
+          "page": 2
+        }
+      ],
+      "outcome": "generic",
+      "reason": "visual_review_pending",
+      "independent_study": {
+        "status": "queued",
+        "basis": "visual_review_pending"
+      }
+    },
+    {
+      "model_id": "garrard-0027",
+      "manufacturer": "Garrard",
+      "model": "D-35",
+      "primary_sources": [
+        {
+          "key": "identity",
+          "title": "Garrard D-35 — документация производителя",
+          "url": "https://relikon.com/vinil/assets/files/Garrard-D20-D25-D30-D35-Owners-Manual.pdf",
+          "page": 2
+        }
+      ],
+      "outcome": "generic",
+      "reason": "visual_review_pending",
+      "independent_study": {
+        "status": "queued",
+        "basis": "visual_review_pending"
+      }
+    },
+    {
+      "model_id": "reloop-0016",
+      "manufacturer": "Reloop",
+      "model": "TURN 3 MK2",
+      "primary_sources": [
+        {
+          "key": "identity",
+          "title": "Reloop TURN 3 MK2 — документация производителя",
+          "url": "https://www.reloop-hifi.com/media/productattach/t/u/turn3mk2_im.pdf",
+          "page": 1
+        }
+      ],
+      "outcome": "generic",
+      "reason": "visual_review_pending",
+      "independent_study": {
+        "status": "queued",
+        "basis": "visual_review_pending"
+      }
+    },
+    {
+      "model_id": "stanton-0019",
+      "manufacturer": "Stanton",
+      "model": "ST.150 M2",
+      "primary_sources": [
+        {
+          "key": "identity",
+          "title": "Stanton ST.150 M2 — документация производителя",
+          "url": "https://trimacppl.com/admin/data/brands/pdf/1526030657044.pdf",
+          "page": 1
+        }
+      ],
+      "outcome": "generic",
+      "reason": "visual_review_pending",
+      "independent_study": {
+        "status": "queued",
+        "basis": "visual_review_pending"
+      }
+    },
+    {
+      "model_id": "thorens-0064",
+      "manufacturer": "Thorens",
+      "model": "TD 2035",
+      "primary_sources": [
+        {
+          "key": "identity",
+          "title": "Thorens TD 2035 — документация производителя",
+          "url": "https://aaav.gr/img/pdf/THORENS%20Product%20Information%20RRP%20May%202019.pdf",
+          "page": 4
+        }
+      ],
+      "outcome": "generic",
+      "reason": "visual_review_pending",
+      "independent_study": {
+        "status": "queued",
+        "basis": "visual_review_pending"
+      }
+    },
+    {
+      "model_id": "sony-0112",
+      "manufacturer": "Sony",
+      "model": "PS-LX150",
+      "primary_sources": [
+        {
+          "key": "identity",
+          "title": "Sony PS-LX150 — документация производителя",
+          "url": "https://manualmachine.com/sony/pslx150/3242396-service-manual/",
+          "page": 1
+        }
+      ],
+      "outcome": "generic",
+      "reason": "visual_review_pending",
+      "independent_study": {
+        "status": "queued",
+        "basis": "visual_review_pending"
+      }
+    },
+    {
+      "model_id": "kenwood-0058",
+      "manufacturer": "Kenwood",
+      "model": "KP-2022",
+      "primary_sources": [
+        {
+          "key": "identity",
+          "title": "Kenwood KP-2022 — документация производителя",
+          "url": "https://manualmachine.com/kenwood/kp2022/2320940-brochure/",
+          "page": 1
+        }
+      ],
+      "outcome": "generic",
+      "reason": "visual_review_pending",
+      "independent_study": {
+        "status": "queued",
+        "basis": "visual_review_pending"
+      }
+    },
+    {
+      "model_id": "luxman-0018",
+      "manufacturer": "Luxman",
+      "model": "PD-310",
+      "primary_sources": [
+        {
+          "key": "identity",
+          "title": "Luxman PD-310 — документация производителя",
+          "url": "https://manualmachine.com/luxman/pd310/2372127-service-manual/",
+          "page": 1
+        }
+      ],
+      "outcome": "generic",
+      "reason": "visual_review_pending",
+      "independent_study": {
+        "status": "queued",
+        "basis": "visual_review_pending"
+      }
+    },
+    {
+      "model_id": "micro-seiki-0019",
+      "manufacturer": "Micro Seiki",
+      "model": "MR-122",
+      "primary_sources": [
+        {
+          "key": "identity",
+          "title": "Micro Seiki MR-122 — документация производителя",
+          "url": "https://manualmachine.com/microseiki/mr122/2366117-owners-manual/",
+          "page": 1
+        }
+      ],
+      "outcome": "generic",
+      "reason": "visual_review_pending",
+      "independent_study": {
+        "status": "queued",
+        "basis": "visual_review_pending"
+      }
+    },
+    {
+      "model_id": "micro-seiki-0020",
+      "manufacturer": "Micro Seiki",
+      "model": "MR-711",
+      "primary_sources": [
+        {
+          "key": "identity",
+          "title": "Micro Seiki MR-711 — документация производителя",
+          "url": "https://www.manualslib.com/manual/3992383/Micro-Seiki-Mr-711.html",
+          "page": 1
+        }
+      ],
+      "outcome": "generic",
+      "reason": "visual_review_pending",
+      "independent_study": {
+        "status": "queued",
+        "basis": "visual_review_pending"
+      }
+    },
+    {
+      "model_id": "alive-audio-0001",
+      "manufacturer": "Alive Audio",
+      "model": "MIM-01",
+      "primary_sources": [
+        {
+          "key": "identity",
+          "title": "Alive Audio MIM-01 — документация производителя",
+          "url": "https://drv.dns-shop.ru/drivers/Manuals/A/alive-audio-vibe_instrukcia_232109_04032025.pdf",
+          "page": 1
+        }
+      ],
+      "outcome": "generic",
+      "reason": "visual_review_pending",
+      "independent_study": {
+        "status": "queued",
+        "basis": "visual_review_pending"
+      }
     }
   ],
-  "models_in_catalog": 1581
+  "models_in_catalog": 1639
 }

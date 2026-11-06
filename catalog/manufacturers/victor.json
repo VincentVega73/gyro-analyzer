@@ -1,0 +1,16 @@
+[
+  {
+    "model_id": "victor-0001",
+    "manufacturer": "Victor",
+    "model": "QL-A95",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Victor QL-A95 — заводской лист",
+        "url": "https://www.hifi-wiki.de/images/f/fd/JVC_QL-A_95-1982.jpg",
+        "page": 1
+      }
+    ]
+  }
+]

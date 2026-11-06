@@ -596,5 +596,19 @@
       }
     ],
     "aliases": []
+  },
+  {
+    "model_id": "sansui-0047",
+    "manufacturer": "Sansui",
+    "model": "P-M55",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Sansui P-M55 — документация производителя",
+        "url": "https://www.manualslib.com/manual/4371973/Sansui-P-M55.html",
+        "page": 1
+      }
+    ]
   }
 ]

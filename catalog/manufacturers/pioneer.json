@@ -436,12 +436,36 @@
         "key": "identity",
         "url": "https://www.pioneerdj.com/en/product/dj-players-turntables/",
         "title": "Pioneer DJ — DJ players / Turntables"
+      },
+      {
+        "key": "audit2",
+        "url": "https://www.winnings.com.au/public/manuals/PLX500W-Pioneer-User-Manual.pdf",
+        "title": "Pioneer PLX-500 — технические характеристики",
+        "page": 17
       }
     ],
     "drive_type": {
       "value": "direct",
       "source": "identity"
-    }
+    },
+    "speeds_rpm": {
+      "value": [
+        "100/3",
+        "45",
+        "78"
+      ],
+      "source": "audit2"
+    },
+    "specifications": [
+      {
+        "name": "wow_and_flutter",
+        "value": "≤0.15",
+        "original": "0.15 % or less WRMS",
+        "unit": "%",
+        "source": "audit2",
+        "method": "WRMS"
+      }
+    ]
   },
   {
     "model_id": "pioneer-0033",
@@ -577,9 +601,36 @@
         "key": "identity",
         "url": "https://www.manualslib.com/manual/852304/Pioneer-Pl-12d.html",
         "title": "Pioneer PL-12D Operating Instructions Manual"
+      },
+      {
+        "key": "audit2",
+        "url": "https://www.manualslib.com/manual/852304/Pioneer-Pl-12d.html?page=9",
+        "title": "Pioneer PL-12D — технические характеристики",
+        "page": 9
       }
     ],
-    "aliases": []
+    "aliases": [],
+    "drive_type": {
+      "value": "belt",
+      "source": "audit2"
+    },
+    "speeds_rpm": {
+      "value": [
+        "100/3",
+        "45"
+      ],
+      "source": "audit2"
+    },
+    "specifications": [
+      {
+        "name": "wow_and_flutter",
+        "value": "≤0.1",
+        "original": "0.1% (WRMS) or less",
+        "unit": "%",
+        "source": "audit2",
+        "method": "WRMS"
+      }
+    ]
   },
   {
     "manufacturer": "Pioneer",
@@ -1646,5 +1697,19 @@
       }
     ],
     "aliases": []
+  },
+  {
+    "model_id": "pioneer-0125",
+    "manufacturer": "Pioneer",
+    "model": "PL-L5",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Pioneer PL-L5 — заводской лист",
+        "url": "https://www.hifi-wiki.de/images/c/ca/Pioneer_PL-L_5-1979.jpg",
+        "page": 1
+      }
+    ]
   }
 ]

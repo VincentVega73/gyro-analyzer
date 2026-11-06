@@ -9712,6 +9712,354 @@
       "kind": "generic",
       "caption": "Условное изображение",
       "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "dual-0125",
+      "kind": "generic",
+      "path": "fallbacks/neutral.webp",
+      "caption": "Условное изображение"
+    },
+    {
+      "model_id": "dual-0126",
+      "kind": "generic",
+      "path": "fallbacks/neutral.webp",
+      "caption": "Условное изображение"
+    },
+    {
+      "model_id": "thorens-0060",
+      "kind": "generic",
+      "path": "fallbacks/neutral.webp",
+      "caption": "Условное изображение"
+    },
+    {
+      "model_id": "thorens-0061",
+      "kind": "generic",
+      "path": "fallbacks/neutral.webp",
+      "caption": "Условное изображение"
+    },
+    {
+      "model_id": "crosley-0045",
+      "kind": "generic",
+      "path": "fallbacks/neutral.webp",
+      "caption": "Условное изображение"
+    },
+    {
+      "model_id": "crosley-0046",
+      "kind": "generic",
+      "path": "fallbacks/neutral.webp",
+      "caption": "Условное изображение"
+    },
+    {
+      "model_id": "thorens-0062",
+      "kind": "generic",
+      "path": "fallbacks/neutral.webp",
+      "caption": "Условное изображение"
+    },
+    {
+      "model_id": "thorens-0063",
+      "kind": "generic",
+      "path": "fallbacks/neutral.webp",
+      "caption": "Условное изображение"
+    },
+    {
+      "model_id": "dual-0127",
+      "kind": "generic",
+      "path": "fallbacks/neutral.webp",
+      "caption": "Условное изображение"
+    },
+    {
+      "model_id": "lenco-0064",
+      "kind": "generic",
+      "path": "fallbacks/neutral.webp",
+      "caption": "Условное изображение"
+    },
+    {
+      "model_id": "sony-0111",
+      "kind": "generic",
+      "path": "fallbacks/neutral.webp",
+      "caption": "Условное изображение"
+    },
+    {
+      "model_id": "numark-0018",
+      "kind": "generic",
+      "path": "fallbacks/neutral.webp",
+      "caption": "Условное изображение"
+    },
+    {
+      "model_id": "rotel-0023",
+      "kind": "generic",
+      "path": "fallbacks/neutral.webp",
+      "caption": "Условное изображение"
+    },
+    {
+      "model_id": "rotel-0024",
+      "kind": "generic",
+      "path": "fallbacks/neutral.webp",
+      "caption": "Условное изображение"
+    },
+    {
+      "model_id": "sansui-0047",
+      "kind": "generic",
+      "path": "fallbacks/neutral.webp",
+      "caption": "Условное изображение"
+    },
+    {
+      "model_id": "scott-0005",
+      "kind": "generic",
+      "path": "fallbacks/neutral.webp",
+      "caption": "Условное изображение"
+    },
+    {
+      "model_id": "denon-0038",
+      "kind": "generic",
+      "path": "fallbacks/neutral.webp",
+      "caption": "Условное изображение"
+    },
+    {
+      "model_id": "pioneer-0125",
+      "kind": "generic",
+      "path": "fallbacks/neutral.webp",
+      "caption": "Условное изображение"
+    },
+    {
+      "model_id": "victor-0001",
+      "kind": "generic",
+      "path": "fallbacks/neutral.webp",
+      "caption": "Условное изображение"
+    },
+    {
+      "model_id": "reloop-0015",
+      "kind": "generic",
+      "path": "fallbacks/neutral.webp",
+      "caption": "Условное изображение"
+    },
+    {
+      "model_id": "rotel-0025",
+      "kind": "generic",
+      "path": "fallbacks/neutral.webp",
+      "caption": "Условное изображение"
+    },
+    {
+      "model_id": "philips-0028",
+      "kind": "generic",
+      "path": "fallbacks/neutral.webp",
+      "caption": "Условное изображение"
+    },
+    {
+      "model_id": "lenco-0065",
+      "kind": "generic",
+      "path": "fallbacks/neutral.webp",
+      "caption": "Условное изображение"
+    },
+    {
+      "model_id": "braun-0011",
+      "kind": "generic",
+      "path": "fallbacks/neutral.webp",
+      "caption": "Условное изображение"
+    },
+    {
+      "model_id": "denon-0039",
+      "kind": "generic",
+      "path": "fallbacks/neutral.webp",
+      "caption": "Условное изображение"
+    },
+    {
+      "model_id": "hitachi-0040",
+      "kind": "generic",
+      "path": "fallbacks/neutral.webp",
+      "caption": "Условное изображение"
+    },
+    {
+      "model_id": "kenwood-0056",
+      "kind": "generic",
+      "path": "fallbacks/neutral.webp",
+      "caption": "Условное изображение"
+    },
+    {
+      "model_id": "mitsubishi-0010",
+      "kind": "generic",
+      "path": "fallbacks/neutral.webp",
+      "caption": "Условное изображение"
+    },
+    {
+      "model_id": "philips-0029",
+      "kind": "generic",
+      "path": "fallbacks/neutral.webp",
+      "caption": "Условное изображение"
+    },
+    {
+      "model_id": "philips-0030",
+      "kind": "generic",
+      "path": "fallbacks/neutral.webp",
+      "caption": "Условное изображение"
+    },
+    {
+      "model_id": "saba-0006",
+      "kind": "generic",
+      "path": "fallbacks/neutral.webp",
+      "caption": "Условное изображение"
+    },
+    {
+      "model_id": "lenco-0066",
+      "kind": "generic",
+      "path": "fallbacks/neutral.webp",
+      "caption": "Условное изображение"
+    },
+    {
+      "model_id": "lenco-0067",
+      "kind": "generic",
+      "path": "fallbacks/neutral.webp",
+      "caption": "Условное изображение"
+    },
+    {
+      "model_id": "dual-0128",
+      "kind": "generic",
+      "path": "fallbacks/neutral.webp",
+      "caption": "Условное изображение"
+    },
+    {
+      "model_id": "dual-0129",
+      "kind": "generic",
+      "path": "fallbacks/neutral.webp",
+      "caption": "Условное изображение"
+    },
+    {
+      "model_id": "garrard-0024",
+      "kind": "generic",
+      "path": "fallbacks/neutral.webp",
+      "caption": "Условное изображение"
+    },
+    {
+      "model_id": "kenwood-0057",
+      "kind": "generic",
+      "path": "fallbacks/neutral.webp",
+      "caption": "Условное изображение"
+    },
+    {
+      "model_id": "micro-seiki-0018",
+      "kind": "generic",
+      "path": "fallbacks/neutral.webp",
+      "caption": "Условное изображение"
+    },
+    {
+      "model_id": "nordmende-0005",
+      "kind": "generic",
+      "path": "fallbacks/neutral.webp",
+      "caption": "Условное изображение"
+    },
+    {
+      "model_id": "rotel-0026",
+      "kind": "generic",
+      "path": "fallbacks/neutral.webp",
+      "caption": "Условное изображение"
+    },
+    {
+      "model_id": "stanton-0018",
+      "kind": "generic",
+      "path": "fallbacks/neutral.webp",
+      "caption": "Условное изображение"
+    },
+    {
+      "model_id": "scott-0006",
+      "kind": "generic",
+      "path": "fallbacks/neutral.webp",
+      "caption": "Условное изображение"
+    },
+    {
+      "model_id": "philips-0031",
+      "kind": "generic",
+      "path": "fallbacks/neutral.webp",
+      "caption": "Условное изображение"
+    },
+    {
+      "model_id": "denon-0040",
+      "kind": "generic",
+      "path": "fallbacks/neutral.webp",
+      "caption": "Условное изображение"
+    },
+    {
+      "model_id": "numark-0019",
+      "kind": "generic",
+      "path": "fallbacks/neutral.webp",
+      "caption": "Условное изображение"
+    },
+    {
+      "model_id": "numark-0020",
+      "kind": "generic",
+      "path": "fallbacks/neutral.webp",
+      "caption": "Условное изображение"
+    },
+    {
+      "model_id": "garrard-0025",
+      "kind": "generic",
+      "path": "fallbacks/neutral.webp",
+      "caption": "Условное изображение"
+    },
+    {
+      "model_id": "garrard-0026",
+      "kind": "generic",
+      "path": "fallbacks/neutral.webp",
+      "caption": "Условное изображение"
+    },
+    {
+      "model_id": "garrard-0027",
+      "kind": "generic",
+      "path": "fallbacks/neutral.webp",
+      "caption": "Условное изображение"
+    },
+    {
+      "model_id": "reloop-0016",
+      "kind": "generic",
+      "path": "fallbacks/neutral.webp",
+      "caption": "Условное изображение"
+    },
+    {
+      "model_id": "stanton-0019",
+      "kind": "generic",
+      "path": "fallbacks/neutral.webp",
+      "caption": "Условное изображение"
+    },
+    {
+      "model_id": "thorens-0064",
+      "kind": "generic",
+      "path": "fallbacks/neutral.webp",
+      "caption": "Условное изображение"
+    },
+    {
+      "model_id": "sony-0112",
+      "kind": "generic",
+      "path": "fallbacks/neutral.webp",
+      "caption": "Условное изображение"
+    },
+    {
+      "model_id": "kenwood-0058",
+      "kind": "generic",
+      "path": "fallbacks/neutral.webp",
+      "caption": "Условное изображение"
+    },
+    {
+      "model_id": "luxman-0018",
+      "kind": "generic",
+      "path": "fallbacks/neutral.webp",
+      "caption": "Условное изображение"
+    },
+    {
+      "model_id": "micro-seiki-0019",
+      "kind": "generic",
+      "path": "fallbacks/neutral.webp",
+      "caption": "Условное изображение"
+    },
+    {
+      "model_id": "micro-seiki-0020",
+      "kind": "generic",
+      "path": "fallbacks/neutral.webp",
+      "caption": "Условное изображение"
+    },
+    {
+      "model_id": "alive-audio-0001",
+      "kind": "generic",
+      "path": "fallbacks/neutral.webp",
+      "caption": "Условное изображение"
     }
   ],
   "related_designations": [
@@ -9728,6 +10076,20 @@
       "kind": "generic",
       "caption": "Условное изображение",
       "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "audio-technica-0001",
+      "designation": "AT-LP60X-BW",
+      "kind": "generic",
+      "path": "fallbacks/neutral.webp",
+      "caption": "Условное изображение"
+    },
+    {
+      "model_id": "audio-technica-0023",
+      "designation": "AT-SB2022",
+      "kind": "generic",
+      "path": "fallbacks/neutral.webp",
+      "caption": "Условное изображение"
     }
   ],
   "generic_credit": {

@@ -9,8 +9,25 @@
         "key": "identity",
         "url": "https://www.rega.co.uk/about/timeline",
         "title": "Rega Product Timeline"
+      },
+      {
+        "key": "audit2",
+        "url": "https://www.rega.co.uk/download/planar-1-user-manual-ml-07.pdf",
+        "title": "Rega Planar 1 — технические характеристики",
+        "page": 1
       }
-    ]
+    ],
+    "drive_type": {
+      "value": "belt",
+      "source": "audit2"
+    },
+    "speeds_rpm": {
+      "value": [
+        "100/3",
+        "45"
+      ],
+      "source": "audit2"
+    }
   },
   {
     "model_id": "rega-0002",
@@ -35,8 +52,25 @@
         "key": "identity",
         "url": "https://www.rega.co.uk/about/timeline",
         "title": "Rega Product Timeline"
+      },
+      {
+        "key": "audit2",
+        "url": "https://www.rega.co.uk/download/D2002MAN-A00-5.pdf",
+        "title": "Rega Planar 2 — технические характеристики",
+        "page": 4
       }
-    ]
+    ],
+    "drive_type": {
+      "value": "belt",
+      "source": "audit2"
+    },
+    "speeds_rpm": {
+      "value": [
+        "100/3",
+        "45"
+      ],
+      "source": "audit2"
+    }
   },
   {
     "model_id": "rega-0004",
@@ -48,8 +82,25 @@
         "key": "identity",
         "url": "https://www.rega.co.uk/about/timeline",
         "title": "Rega Product Timeline"
+      },
+      {
+        "key": "audit2",
+        "url": "https://www.rega.co.uk/download/planar-3-qsg-final.pdf",
+        "title": "Rega Planar 3 — технические характеристики",
+        "page": 3
       }
-    ]
+    ],
+    "drive_type": {
+      "value": "belt",
+      "source": "audit2"
+    },
+    "speeds_rpm": {
+      "value": [
+        "100/3",
+        "45"
+      ],
+      "source": "audit2"
+    }
   },
   {
     "model_id": "rega-0005",
@@ -61,8 +112,25 @@
         "key": "identity",
         "url": "https://www.rega.co.uk/about/timeline",
         "title": "Rega Product Timeline"
+      },
+      {
+        "key": "audit2",
+        "url": "https://www.rega.co.uk/download/planar-6-user-manual-ml-07.pdf",
+        "title": "Rega Planar 6 — технические характеристики",
+        "page": 4
       }
-    ]
+    ],
+    "drive_type": {
+      "value": "belt",
+      "source": "audit2"
+    },
+    "speeds_rpm": {
+      "value": [
+        "100/3",
+        "45"
+      ],
+      "source": "audit2"
+    }
   },
   {
     "model_id": "rega-0006",

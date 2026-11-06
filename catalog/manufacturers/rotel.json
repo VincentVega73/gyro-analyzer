@@ -284,5 +284,60 @@
       }
     ],
     "aliases": []
+  },
+  {
+    "model_id": "rotel-0023",
+    "manufacturer": "Rotel",
+    "model": "RP-300",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Rotel RP-300 — документация производителя",
+        "url": "https://www.manualslib.com/manual/4372678/Rotel-Rp-300.html",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "model_id": "rotel-0024",
+    "manufacturer": "Rotel",
+    "model": "RP-510",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Rotel RP-510 — документация производителя",
+        "url": "https://www.manualslib.com/manual/895778/Rotel-Rp-510.html",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "model_id": "rotel-0025",
+    "manufacturer": "Rotel",
+    "model": "RP-900",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Rotel RP-900 — документация производителя",
+        "url": "https://www.rotel.com/en-gb/product/rp-900"
+      }
+    ]
+  },
+  {
+    "model_id": "rotel-0026",
+    "manufacturer": "Rotel",
+    "model": "RP-850",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Rotel RP-850 — документация производителя",
+        "url": "https://www.manualslib.com/manual/142567/Rotel-Rp-850.html",
+        "page": 1
+      }
+    ]
   }
 ]

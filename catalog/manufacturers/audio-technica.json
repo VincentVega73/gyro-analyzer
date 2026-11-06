@@ -14,6 +14,12 @@
         "key": "specs",
         "title": "AT-LP60X | Fully Automatic Belt-Drive Stereo Turntable | Audio-Technica",
         "url": "https://www.audio-technica.com/en-gb/at-lp60x"
+      },
+      {
+        "key": "audit3",
+        "url": "https://docs.audio-technica.com/all/Vol8.Giradiscos_2024-octubre2.pdf",
+        "title": "Audio-Technica — AT-LP60X-BW",
+        "page": 4
       }
     ],
     "drive_type": {
@@ -38,6 +44,14 @@
         "unit": "%",
         "original": "Less than 0.25% (WTD) @ 3 kHz (JIS)",
         "source": "specs"
+      }
+    ],
+    "related_designations": [
+      {
+        "designation": "AT-LP60X-BW",
+        "type": "color_variant",
+        "source": "audit3",
+        "color": "brown/black"
       }
     ]
   },
@@ -349,7 +363,7 @@
       {
         "value": "<0.2",
         "method": "WRMS",
-        "condition": "3 kHz",
+        "condition": "33 RPM, 3 kHz",
         "name": "wow_and_flutter",
         "unit": "%",
         "original": "< 0.2 % WRMS (33 RPM) at 3 kHz",
@@ -494,7 +508,7 @@
       {
         "value": "<0.2",
         "method": "WRMS",
-        "condition": "3 kHz",
+        "condition": "33 RPM, 3 kHz",
         "name": "wow_and_flutter",
         "unit": "%",
         "original": "<0.2% WRMS (33 RPM) at 3 KHz",
@@ -655,6 +669,11 @@
         "key": "identity",
         "title": "Portable Bluetooth Turntable | AT-SB727 | Audio-Technica | Audio-Technica",
         "url": "https://www.audio-technica.com/en-us/at-sb727"
+      },
+      {
+        "key": "audit2",
+        "url": "https://www.audio-technica.co.jp/product/AT-SB727",
+        "title": "Audio-Technica — AT-SB 2022"
       }
     ],
     "drive_type": {
@@ -678,6 +697,14 @@
         "unit": "%",
         "original": "< 0.25 % (WTD) at 3 kHz",
         "source": "identity"
+      }
+    ],
+    "related_designations": [
+      {
+        "designation": "AT-SB2022",
+        "type": "color_variant",
+        "source": "audit2",
+        "color": "red"
       }
     ]
   },

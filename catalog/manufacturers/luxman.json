@@ -219,5 +219,19 @@
       }
     ],
     "aliases": []
+  },
+  {
+    "model_id": "luxman-0018",
+    "manufacturer": "Luxman",
+    "model": "PD-310",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Luxman PD-310 — документация производителя",
+        "url": "https://manualmachine.com/luxman/pd310/2372127-service-manual/",
+        "page": 1
+      }
+    ]
   }
 ]

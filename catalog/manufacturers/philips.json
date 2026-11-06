@@ -349,5 +349,61 @@
       }
     ],
     "aliases": []
+  },
+  {
+    "model_id": "philips-0028",
+    "manufacturer": "Philips",
+    "model": "GA 207",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Philips GA 207 — документация производителя",
+        "url": "https://www.manualslib.com/manual/4341211/Philips-Ga-207.html",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "model_id": "philips-0029",
+    "manufacturer": "Philips",
+    "model": "AF 887",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Philips AF 887 — документация производителя",
+        "url": "https://archive.org/download/manual_AF887_OM_PHILIPS_EN_FR_DE_NL_ES_IT_DA_NO_SV_FI/AF887_OM_PHILIPS_EN_FR_DE_NL_ES_IT_DA_NO_SV_FI.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "model_id": "philips-0030",
+    "manufacturer": "Philips",
+    "model": "F7112",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Philips F7112 — документация производителя",
+        "url": "https://archive.org/download/manual_F7112_SM_PHILIPS_EN_DE/F7112_SM_PHILIPS_EN_DE.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "model_id": "philips-0031",
+    "manufacturer": "Philips",
+    "model": "AG 9147",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Philips AG 9147 — документация производителя",
+        "url": "https://www.manualslib.com/manual/4572593/Philips-Ag-9147.html",
+        "page": 1
+      }
+    ]
   }
 ]

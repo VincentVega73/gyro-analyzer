@@ -264,6 +264,35 @@
         "url": "https://dual.de/wp-content/uploads/ServiceManual_1219.pdf",
         "title": "Dual 1219 — Service Manual",
         "page": 1
+      },
+      {
+        "key": "audit2",
+        "url": "https://dual.de/wp-content/uploads/ServiceManual_1219.pdf",
+        "title": "Dual 1219 — технические характеристики",
+        "page": 3
+      }
+    ],
+    "drive_type": {
+      "value": "idler",
+      "source": "audit2"
+    },
+    "speeds_rpm": {
+      "value": [
+        "100/3",
+        "45",
+        "78"
+      ],
+      "source": "audit2"
+    },
+    "specifications": [
+      {
+        "name": "wow_and_flutter",
+        "value": "≤±0.06",
+        "original": "≤ ± 0,06 %, bewertet nach DIN 45 507",
+        "unit": "%",
+        "source": "audit2",
+        "standard": "DIN 45 507",
+        "weighting": "bewertet"
       }
     ]
   },
@@ -292,6 +321,29 @@
         "url": "https://dual.de/wp-content/uploads/ServiceManual_1229.pdf",
         "title": "Dual 1229 — Service Manual",
         "page": 1
+      }
+    ],
+    "drive_type": {
+      "value": "idler",
+      "source": "identity"
+    },
+    "speeds_rpm": {
+      "value": [
+        "100/3",
+        "45",
+        "78"
+      ],
+      "source": "identity"
+    },
+    "specifications": [
+      {
+        "name": "wow_and_flutter",
+        "value": "<±0.06",
+        "original": "< ± 0,06 %, bewertet nach DIN 45 507",
+        "unit": "%",
+        "source": "identity",
+        "standard": "DIN 45 507",
+        "weighting": "bewertet"
       }
     ]
   },
@@ -1687,5 +1739,75 @@
       }
     ],
     "aliases": []
+  },
+  {
+    "model_id": "dual-0125",
+    "manufacturer": "Dual",
+    "model": "CS 2235 Q",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Dual CS 2235 Q — документация производителя",
+        "url": "https://dual.de/wp-content/uploads/ServiceManual_2235Q.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "model_id": "dual-0126",
+    "manufacturer": "Dual",
+    "model": "SP 85",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Dual SP 85 — документация производителя",
+        "url": "https://dual.de/wp-content/uploads/ServiceManual_SP85.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "model_id": "dual-0127",
+    "manufacturer": "Dual",
+    "model": "CS 431",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Dual CS 431 — документация производителя",
+        "url": "https://www.manualslib.com/manual/4506319/Dual-Cs-431.html",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "model_id": "dual-0128",
+    "manufacturer": "Dual",
+    "model": "1006",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Dual 1006 — документация производителя",
+        "url": "https://www.manualslib.com/manual/4371917/Dual-1006.html",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "model_id": "dual-0129",
+    "manufacturer": "Dual",
+    "model": "1008",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Dual 1008 — документация производителя",
+        "url": "https://www.manualslib.de/manual/1185752/Dual-1008.html",
+        "page": 1
+      }
+    ]
   }
 ]

@@ -181,5 +181,32 @@
       }
     ],
     "aliases": []
+  },
+  {
+    "model_id": "reloop-0015",
+    "manufacturer": "Reloop",
+    "model": "RP-7000",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Reloop RP-7000 — документация производителя",
+        "url": "https://www.reloop.com/reloop-rp-7000"
+      }
+    ]
+  },
+  {
+    "model_id": "reloop-0016",
+    "manufacturer": "Reloop",
+    "model": "TURN 3 MK2",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Reloop TURN 3 MK2 — документация производителя",
+        "url": "https://www.reloop-hifi.com/media/productattach/t/u/turn3mk2_im.pdf",
+        "page": 1
+      }
+    ]
   }
 ]

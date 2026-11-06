@@ -573,5 +573,33 @@
       }
     ],
     "aliases": []
+  },
+  {
+    "model_id": "crosley-0045",
+    "manufacturer": "Crosley",
+    "model": "CR6037BT",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Crosley CR6037BT — документация производителя",
+        "url": "https://fccid.io/m/0e6075f5b8ab8c7d5fc366fe2623d6a0fbafddc51c0afb89de389ccabe703e19.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "model_id": "crosley-0046",
+    "manufacturer": "Crosley",
+    "model": "CR6249A",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Crosley CR6249A — документация производителя",
+        "url": "https://images.restorationhardware.com/content/catalog/product/pdfs/prod4640177_info.pdf",
+        "page": 4
+      }
+    ]
   }
 ]

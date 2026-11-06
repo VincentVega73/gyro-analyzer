@@ -219,5 +219,47 @@
       }
     ],
     "aliases": []
+  },
+  {
+    "model_id": "numark-0018",
+    "manufacturer": "Numark",
+    "model": "TTX1",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Numark TTX1 — документация производителя",
+        "url": "https://www.manualslib.com/manual/300909/Numark-Ttx1.html",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "model_id": "numark-0019",
+    "manufacturer": "Numark",
+    "model": "TT1610",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Numark TT1610 — документация производителя",
+        "url": "https://www.recordcase.de/shop/default/artikelpdf/0020101811_en.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "model_id": "numark-0020",
+    "manufacturer": "Numark",
+    "model": "TT1600 MKII",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Numark TT1600 MKII — документация производителя",
+        "url": "https://www.recordcase.de/shop/default/artikelpdf/0020101811_en.pdf",
+        "page": 1
+      }
+    ]
   }
 ]

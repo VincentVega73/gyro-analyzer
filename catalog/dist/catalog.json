@@ -1,5 +1,5 @@
 {
-  "catalog_version": "1.4.0",
+  "catalog_version": "1.5.0",
   "models": [
     {
       "aliases": [],
@@ -706,6 +706,43 @@
     },
     {
       "aliases": [],
+      "drive_type": {
+        "source": "audit3",
+        "value": "belt"
+      },
+      "manufacturer": "Alive Audio",
+      "model": "MIM-01",
+      "model_id": "alive-audio-0001",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Alive Audio MIM-01 — документация производителя",
+          "url": "https://drv.dns-shop.ru/drivers/Manuals/A/alive-audio-vibe_instrukcia_232109_04032025.pdf"
+        },
+        {
+          "key": "audit2",
+          "title": "Alive Audio Vibe — ссылка производителя на исполнение MIM-01-BK",
+          "url": "https://aliveaudio.ru/articles/blog/vk-post-28186/"
+        },
+        {
+          "key": "audit3",
+          "page": 11,
+          "title": "Alive Audio MIM-01 — технические характеристики",
+          "url": "https://drv.dns-shop.ru/drivers/Manuals/A/alive-audio-vibe_instrukcia_232109_04032025.pdf"
+        }
+      ],
+      "speeds_rpm": {
+        "source": "audit3",
+        "value": [
+          "100/3",
+          "45",
+          "78"
+        ]
+      }
+    },
+    {
+      "aliases": [],
       "manufacturer": "American Audio",
       "model": "TTD-2400",
       "model_id": "american-audio-0001",
@@ -994,7 +1031,7 @@
       ],
       "specifications": [
         {
-          "condition": "3 kHz",
+          "condition": "33 RPM, 3 kHz",
           "method": "WRMS",
           "name": "wow_and_flutter",
           "original": "< 0.2 % WRMS (33 RPM) at 3 kHz",
@@ -1030,7 +1067,7 @@
       ],
       "specifications": [
         {
-          "condition": "3 kHz",
+          "condition": "33 RPM, 3 kHz",
           "method": "WRMS",
           "name": "wow_and_flutter",
           "original": "<0.2% WRMS (33 RPM) at 3 KHz",
@@ -1058,6 +1095,14 @@
       "manufacturer": "Audio-Technica",
       "model": "AT-LP60X",
       "model_id": "audio-technica-0001",
+      "related_designations": [
+        {
+          "color": "brown/black",
+          "designation": "AT-LP60X-BW",
+          "source": "audit3",
+          "type": "color_variant"
+        }
+      ],
       "sources": [
         {
           "key": "identity",
@@ -1068,6 +1113,12 @@
           "key": "specs",
           "title": "AT-LP60X | Fully Automatic Belt-Drive Stereo Turntable | Audio-Technica",
           "url": "https://www.audio-technica.com/en-gb/at-lp60x"
+        },
+        {
+          "key": "audit3",
+          "page": 4,
+          "title": "Audio-Technica — AT-LP60X-BW",
+          "url": "https://docs.audio-technica.com/all/Vol8.Giradiscos_2024-octubre2.pdf"
         }
       ],
       "specifications": [
@@ -1505,11 +1556,24 @@
       "manufacturer": "Audio-Technica",
       "model": "AT-SB727",
       "model_id": "audio-technica-0023",
+      "related_designations": [
+        {
+          "color": "red",
+          "designation": "AT-SB2022",
+          "source": "audit2",
+          "type": "color_variant"
+        }
+      ],
       "sources": [
         {
           "key": "identity",
           "title": "Portable Bluetooth Turntable | AT-SB727 | Audio-Technica | Audio-Technica",
           "url": "https://www.audio-technica.com/en-us/at-sb727"
+        },
+        {
+          "key": "audit2",
+          "title": "Audio-Technica — AT-SB 2022",
+          "url": "https://www.audio-technica.co.jp/product/AT-SB727"
         }
       ],
       "specifications": [
@@ -1672,6 +1736,20 @@
           "key": "identity",
           "title": "Braun PS 358 — Service manual",
           "url": "https://archive.org/details/manual_PS358_SM_BRAUN_DE"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Braun",
+      "model": "PS 420",
+      "model_id": "braun-0011",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Braun PS 420 — документация производителя",
+          "url": "https://archive.org/download/manual_PS420_SM_BRAUN_DE/PS420_SM_BRAUN_DE_text.pdf"
         }
       ]
     },
@@ -2175,6 +2253,20 @@
     {
       "aliases": [],
       "manufacturer": "Crosley",
+      "model": "CR6037BT",
+      "model_id": "crosley-0045",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Crosley CR6037BT — документация производителя",
+          "url": "https://fccid.io/m/0e6075f5b8ab8c7d5fc366fe2623d6a0fbafddc51c0afb89de389ccabe703e19.pdf"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Crosley",
       "model": "CR6038A",
       "model_id": "crosley-0026",
       "sources": [
@@ -2273,6 +2365,20 @@
           "key": "identity",
           "title": "Crosley CR6236A Instruction Manual",
           "url": "https://www.manualslib.com/manual/2899805/Crosley-Cr6236a.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Crosley",
+      "model": "CR6249A",
+      "model_id": "crosley-0046",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 4,
+          "title": "Crosley CR6249A — документация производителя",
+          "url": "https://images.restorationhardware.com/content/catalog/product/pdfs/prod4640177_info.pdf"
         }
       ]
     },
@@ -2486,6 +2592,20 @@
     },
     {
       "aliases": [],
+      "manufacturer": "Denon",
+      "model": "DP-21F",
+      "model_id": "denon-0040",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 16,
+          "title": "Denon DP-21F — документация производителя",
+          "url": "https://manuals.plus/m/e7e3c68840a50a10367463cd9cac76813455e2aeb3297794ae134d539156b0cb.pdf"
+        }
+      ]
+    },
+    {
+      "aliases": [],
       "drive_type": {
         "source": "identity",
         "value": "direct"
@@ -2589,6 +2709,20 @@
           "key": "identity",
           "title": "Denon DP-31L Service Manual",
           "url": "https://www.manualslib.com/manual/4363257/Denon-Dp-31l.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Denon",
+      "model": "DP-33F",
+      "model_id": "denon-0039",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Denon DP-33F — документация производителя",
+          "url": "https://archive.org/download/manual_DP33F_SERIES_DENON/DP33F_SERIES_DENON.pdf"
         }
       ]
     },
@@ -2849,6 +2983,20 @@
     {
       "aliases": [],
       "manufacturer": "Denon",
+      "model": "DP-75M",
+      "model_id": "denon-0038",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Denon DP-75M — заводской лист",
+          "url": "https://www.hifi-wiki.de/images/0/01/Denon_DP-75_M-Prospekt-1.jpg"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Denon",
       "model": "DP-A100",
       "model_id": "denon-0032",
       "sources": [
@@ -2973,6 +3121,34 @@
           "key": "identity",
           "title": "Dr. Feickert Analogue — Turntables",
           "url": "https://feickert.de/en/turntables.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Dual",
+      "model": "1006",
+      "model_id": "dual-0128",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Dual 1006 — документация производителя",
+          "url": "https://www.manualslib.com/manual/4371917/Dual-1006.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Dual",
+      "model": "1008",
+      "model_id": "dual-0129",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Dual 1008 — документация производителя",
+          "url": "https://www.manualslib.de/manual/1185752/Dual-1008.html"
         }
       ]
     },
@@ -3228,6 +3404,10 @@
     },
     {
       "aliases": [],
+      "drive_type": {
+        "source": "audit2",
+        "value": "idler"
+      },
       "manufacturer": "Dual",
       "model": "1219",
       "model_id": "dual-0018",
@@ -3237,8 +3417,33 @@
           "page": 1,
           "title": "Dual 1219 — Service Manual",
           "url": "https://dual.de/wp-content/uploads/ServiceManual_1219.pdf"
+        },
+        {
+          "key": "audit2",
+          "page": 3,
+          "title": "Dual 1219 — технические характеристики",
+          "url": "https://dual.de/wp-content/uploads/ServiceManual_1219.pdf"
         }
-      ]
+      ],
+      "specifications": [
+        {
+          "name": "wow_and_flutter",
+          "original": "≤ ± 0,06 %, bewertet nach DIN 45 507",
+          "source": "audit2",
+          "standard": "DIN 45 507",
+          "unit": "%",
+          "value": "≤±0.06",
+          "weighting": "bewertet"
+        }
+      ],
+      "speeds_rpm": {
+        "source": "audit2",
+        "value": [
+          "100/3",
+          "45",
+          "78"
+        ]
+      }
     },
     {
       "aliases": [],
@@ -3296,6 +3501,10 @@
     },
     {
       "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "idler"
+      },
       "manufacturer": "Dual",
       "model": "1229",
       "model_id": "dual-0020",
@@ -3306,7 +3515,26 @@
           "title": "Dual 1229 — Service Manual",
           "url": "https://dual.de/wp-content/uploads/ServiceManual_1229.pdf"
         }
-      ]
+      ],
+      "specifications": [
+        {
+          "name": "wow_and_flutter",
+          "original": "< ± 0,06 %, bewertet nach DIN 45 507",
+          "source": "identity",
+          "standard": "DIN 45 507",
+          "unit": "%",
+          "value": "<±0.06",
+          "weighting": "bewertet"
+        }
+      ],
+      "speeds_rpm": {
+        "source": "identity",
+        "value": [
+          "100/3",
+          "45",
+          "78"
+        ]
+      }
     },
     {
       "aliases": [],
@@ -3861,6 +4089,20 @@
     {
       "aliases": [],
       "manufacturer": "Dual",
+      "model": "CS 2235 Q",
+      "model_id": "dual-0125",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Dual CS 2235 Q — документация производителя",
+          "url": "https://dual.de/wp-content/uploads/ServiceManual_2235Q.pdf"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Dual",
       "model": "CS 329",
       "model_id": "dual-0001",
       "sources": [
@@ -4003,6 +4245,20 @@
           "key": "identity",
           "title": "Produkte – DUAL",
           "url": "https://dual.de/produkte/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Dual",
+      "model": "CS 431",
+      "model_id": "dual-0127",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Dual CS 431 — документация производителя",
+          "url": "https://www.manualslib.com/manual/4506319/Dual-Cs-431.html"
         }
       ]
     },
@@ -4662,6 +4918,20 @@
           "key": "identity",
           "title": "Dual Primus Maximus Owner's Manual",
           "url": "https://www.manualslib.com/manual/2297532/Dual-Primus-Maximus.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Dual",
+      "model": "SP 85",
+      "model_id": "dual-0126",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Dual SP 85 — документация производителя",
+          "url": "https://dual.de/wp-content/uploads/ServiceManual_SP85.pdf"
         }
       ]
     },
@@ -5436,6 +5706,48 @@
     {
       "aliases": [],
       "manufacturer": "Garrard",
+      "model": "D-25",
+      "model_id": "garrard-0025",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 2,
+          "title": "Garrard D-25 — документация производителя",
+          "url": "https://relikon.com/vinil/assets/files/Garrard-D20-D25-D30-D35-Owners-Manual.pdf"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Garrard",
+      "model": "D-30",
+      "model_id": "garrard-0026",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 2,
+          "title": "Garrard D-30 — документация производителя",
+          "url": "https://relikon.com/vinil/assets/files/Garrard-D20-D25-D30-D35-Owners-Manual.pdf"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Garrard",
+      "model": "D-35",
+      "model_id": "garrard-0027",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 2,
+          "title": "Garrard D-35 — документация производителя",
+          "url": "https://relikon.com/vinil/assets/files/Garrard-D20-D25-D30-D35-Owners-Manual.pdf"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Garrard",
       "model": "DD75",
       "model_id": "garrard-0015",
       "sources": [
@@ -5443,6 +5755,20 @@
           "key": "identity",
           "title": "Garrard DD75 Instruction Manual",
           "url": "https://www.manualslib.com/manual/4062592/Garrard-Dd75.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Garrard",
+      "model": "GT55",
+      "model_id": "garrard-0024",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 5,
+          "title": "Garrard GT55 — документация производителя",
+          "url": "https://www.manualslib.com/manual/4344679/Garrard-Gt55.html?page=5"
         }
       ]
     },
@@ -5924,6 +6250,20 @@
           "key": "identity",
           "title": "Heco — 2001 (factory brochure, reproduced sheet)",
           "url": "https://www.hifi-wiki.de/images/7/7b/Heco_2001-Prospekt-1977.jpg"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Hitachi",
+      "model": "HT-202",
+      "model_id": "hitachi-0040",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Hitachi HT-202 — документация производителя",
+          "url": "https://archive.org/download/manual_HT202_OM_HITACHI_DE/HT202_OM_HITACHI_DE.pdf"
         }
       ]
     },
@@ -7325,6 +7665,20 @@
     {
       "aliases": [],
       "manufacturer": "Kenwood",
+      "model": "KD-21R",
+      "model_id": "kenwood-0056",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Kenwood KD-21R — документация производителя",
+          "url": "https://archive.org/download/manual_KD21R_OM_KENWOOD_DE/KD21R_OM_KENWOOD_DE.pdf"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Kenwood",
       "model": "KD-26 R",
       "model_id": "kenwood-0025",
       "sources": [
@@ -7757,6 +8111,20 @@
     {
       "aliases": [],
       "manufacturer": "Kenwood",
+      "model": "KD-75F",
+      "model_id": "kenwood-0057",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 7,
+          "title": "Kenwood KD-75F — документация производителя",
+          "url": "https://www.manualslib.com/manual/3342608/Kenwood-Kd-75f.html?page=7"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Kenwood",
       "model": "KD-76F",
       "model_id": "kenwood-0047",
       "sources": [
@@ -7842,6 +8210,20 @@
           "key": "identity",
           "title": "Kenwood KD-9X Instruction Manual",
           "url": "https://www.manualslib.com/manual/3374366/Kenwood-Kd-9x.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Kenwood",
+      "model": "KP-2022",
+      "model_id": "kenwood-0058",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Kenwood KP-2022 — документация производителя",
+          "url": "https://manualmachine.com/kenwood/kp2022/2320940-brochure/"
         }
       ]
     },
@@ -8082,6 +8464,33 @@
     {
       "aliases": [],
       "manufacturer": "Lenco",
+      "model": "Classic Phono TT-43",
+      "model_id": "lenco-0065",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Lenco Classic Phono TT-43 — документация производителя",
+          "url": "https://catalog.lenco.com/products/classic-phono-tt-43wa-retro-turntable-with-built-in-speakers-walnut"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Lenco",
+      "model": "L-101",
+      "model_id": "lenco-0066",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Lenco L-101 — документация производителя",
+          "url": "https://www.manualslib.mx/manual/808879/Lenco-L-101.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Lenco",
       "model": "L 133",
       "model_id": "lenco-0010",
       "sources": [
@@ -8271,6 +8680,20 @@
           "key": "identity",
           "title": "LENCO L-455 User Manual",
           "url": "https://www.manualslib.com/manual/3633459/Lenco-L-455.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Lenco",
+      "model": "L-69",
+      "model_id": "lenco-0064",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Lenco L-69 — документация производителя",
+          "url": "https://www.manualslib.com/manual/362621/Lenco-L-69.html"
         }
       ]
     },
@@ -8498,6 +8921,20 @@
     {
       "aliases": [],
       "manufacturer": "Lenco",
+      "model": "LBT-345",
+      "model_id": "lenco-0067",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Lenco LBT-345 — документация производителя",
+          "url": "https://www.manualslib.de/manual/1247804/Lenco-Lbt-345.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Lenco",
       "model": "LBTA-165",
       "model_id": "lenco-0039",
       "sources": [
@@ -8536,6 +8973,10 @@
     },
     {
       "aliases": [],
+      "drive_type": {
+        "source": "audit2",
+        "value": "belt"
+      },
       "manufacturer": "Lenco",
       "model": "LS-101",
       "model_id": "lenco-0042",
@@ -8544,8 +8985,21 @@
           "key": "identity",
           "title": "LENCO LS-101 User Manual",
           "url": "https://www.manualslib.com/manual/2330133/Lenco-Ls-101.html"
+        },
+        {
+          "key": "audit2",
+          "title": "Lenco LS-101 — технические характеристики",
+          "url": "https://lenco.uk/products/lenco-ls-101bk-belt-drive-wooden-turntable"
         }
-      ]
+      ],
+      "speeds_rpm": {
+        "source": "audit2",
+        "value": [
+          "100/3",
+          "45",
+          "78"
+        ]
+      }
     },
     {
       "aliases": [],
@@ -8666,6 +9120,10 @@
     },
     {
       "aliases": [],
+      "drive_type": {
+        "source": "audit2",
+        "value": "belt"
+      },
       "manufacturer": "Lenco",
       "model": "LS-50",
       "model_id": "lenco-0052",
@@ -8674,8 +9132,31 @@
           "key": "identity",
           "title": "LENCO LS-50 User Manual",
           "url": "https://www.manualslib.com/manual/1243233/Lenco-Ls-50.html"
+        },
+        {
+          "key": "audit2",
+          "page": 8,
+          "title": "Lenco LS-50 — технические характеристики",
+          "url": "https://cdn.nedis.com/datasheets/LS-50WD_MAN_COMP.PDF"
         }
-      ]
+      ],
+      "specifications": [
+        {
+          "name": "wow_and_flutter",
+          "original": "<0.35%",
+          "source": "audit2",
+          "unit": "%",
+          "value": "<0.35"
+        }
+      ],
+      "speeds_rpm": {
+        "source": "audit2",
+        "value": [
+          "100/3",
+          "45",
+          "78"
+        ]
+      }
     },
     {
       "aliases": [],
@@ -8835,6 +9316,10 @@
     },
     {
       "aliases": [],
+      "drive_type": {
+        "source": "audit2",
+        "value": "belt"
+      },
       "manufacturer": "Linn",
       "model": "Sondek LP12",
       "model_id": "linn-0001",
@@ -8844,8 +9329,22 @@
           "page": 1,
           "title": "Linn Sondek LP12 — Product Information",
           "url": "https://small.linncdn.com/product-catalogue/documents/Linn_Sondek_LP12_Product_Information.pdf"
+        },
+        {
+          "key": "audit2",
+          "page": 2,
+          "title": "Linn Sondek LP12 — технические характеристики",
+          "url": "https://small.linncdn.com/product-catalogue/documents/Linn_Sondek_LP12_Product_Information.pdf"
         }
-      ]
+      ],
+      "speeds_rpm": {
+        "condition": "С внешним блоком питания Lingo в указанной заводской конфигурации.",
+        "source": "audit2",
+        "value": [
+          "100/3",
+          "45"
+        ]
+      }
     },
     {
       "aliases": [],
@@ -9026,6 +9525,20 @@
           "key": "identity",
           "title": "Luxman PD300 Owner's Manual",
           "url": "https://www.manualslib.com/manual/4373633/Luxman-Pd300.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Luxman",
+      "model": "PD-310",
+      "model_id": "luxman-0018",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Luxman PD-310 — документация производителя",
+          "url": "https://manualmachine.com/luxman/pd310/2372127-service-manual/"
         }
       ]
     },
@@ -9421,6 +9934,10 @@
     },
     {
       "aliases": [],
+      "drive_type": {
+        "source": "audit2",
+        "value": "belt"
+      },
       "manufacturer": "MAX",
       "model": "VP-100",
       "model_id": "max-0001",
@@ -9430,8 +9947,22 @@
           "page": 1,
           "title": "MAX VP-100 — factory documentation",
           "url": "https://storage.yandexcloud.net/technopark.instructions/730600/instruction/instrukciya-proigryvatel-vinilovyh-plastinok-max-vp-100-blue.pdf"
+        },
+        {
+          "key": "audit2",
+          "page": 4,
+          "title": "MAX VP-100 — технические характеристики",
+          "url": "https://storage.yandexcloud.net/technopark.instructions/730600/instruction/instrukciya-proigryvatel-vinilovyh-plastinok-max-vp-100-blue.pdf"
         }
-      ]
+      ],
+      "speeds_rpm": {
+        "source": "audit2",
+        "value": [
+          "100/3",
+          "45",
+          "78"
+        ]
+      }
     },
     {
       "aliases": [],
@@ -9748,6 +10279,20 @@
     {
       "aliases": [],
       "manufacturer": "Micro Seiki",
+      "model": "MR-122",
+      "model_id": "micro-seiki-0019",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Micro Seiki MR-122 — документация производителя",
+          "url": "https://manualmachine.com/microseiki/mr122/2366117-owners-manual/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Micro Seiki",
       "model": "MR-322",
       "model_id": "micro-seiki-0014",
       "sources": [
@@ -9761,6 +10306,20 @@
     {
       "aliases": [],
       "manufacturer": "Micro Seiki",
+      "model": "MR-611",
+      "model_id": "micro-seiki-0018",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Micro Seiki MR-611 — документация производителя",
+          "url": "https://www.manualslib.com/manual/4342248/Micro-Mr-611.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Micro Seiki",
       "model": "MR-622",
       "model_id": "micro-seiki-0015",
       "sources": [
@@ -9768,6 +10327,20 @@
           "key": "identity",
           "title": "Micro Seiki — MR-622 (factory brochure, reproduced sheet)",
           "url": "https://www.hifi-wiki.de/images/c/c7/Micro_Seiki_MR-622-Prospekt-1.jpg"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Micro Seiki",
+      "model": "MR-711",
+      "model_id": "micro-seiki-0020",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Micro Seiki MR-711 — документация производителя",
+          "url": "https://www.manualslib.com/manual/3992383/Micro-Seiki-Mr-711.html"
         }
       ]
     },
@@ -9820,6 +10393,20 @@
           "key": "identity",
           "title": "Mitsubishi DP-630 Service Manual",
           "url": "https://www.manualslib.com/manual/3400737/Mitsubishi-Dp-630.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Mitsubishi",
+      "model": "DP-84DA",
+      "model_id": "mitsubishi-0010",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Mitsubishi DP-84DA — документация производителя",
+          "url": "https://archive.org/download/manual_DP84DA_SM_MITSUBISHI_DE/DP84DA_SM_MITSUBISHI_DE.pdf"
         }
       ]
     },
@@ -10205,6 +10792,20 @@
     {
       "aliases": [],
       "manufacturer": "Nordmende",
+      "model": "RP 1651",
+      "model_id": "nordmende-0005",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Nordmende RP 1651 — документация производителя",
+          "url": "https://www.manualslib.de/manual/1131840/Nordmende-Rp-1651.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Nordmende",
       "model": "RP 990",
       "model_id": "nordmende-0004",
       "sources": [
@@ -10335,6 +10936,34 @@
     {
       "aliases": [],
       "manufacturer": "Numark",
+      "model": "TT1600 MKII",
+      "model_id": "numark-0020",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Numark TT1600 MKII — документация производителя",
+          "url": "https://www.recordcase.de/shop/default/artikelpdf/0020101811_en.pdf"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Numark",
+      "model": "TT1610",
+      "model_id": "numark-0019",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Numark TT1610 — документация производителя",
+          "url": "https://www.recordcase.de/shop/default/artikelpdf/0020101811_en.pdf"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Numark",
       "model": "TT1625",
       "model_id": "numark-0010",
       "sources": [
@@ -10420,6 +11049,20 @@
           "key": "identity",
           "title": "Numark TTUSB Quick Start Manual",
           "url": "https://www.manualslib.com/manual/113504/Numark-Ttusb.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Numark",
+      "model": "TTX1",
+      "model_id": "numark-0018",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Numark TTX1 — документация производителя",
+          "url": "https://www.manualslib.com/manual/300909/Numark-Ttx1.html"
         }
       ]
     },
@@ -10946,6 +11589,20 @@
     {
       "aliases": [],
       "manufacturer": "Philips",
+      "model": "AF 887",
+      "model_id": "philips-0029",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Philips AF 887 — документация производителя",
+          "url": "https://archive.org/download/manual_AF887_OM_PHILIPS_EN_FR_DE_NL_ES_IT_DA_NO_SV_FI/AF887_OM_PHILIPS_EN_FR_DE_NL_ES_IT_DA_NO_SV_FI.pdf"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Philips",
       "model": "AF 977",
       "model_id": "philips-0010",
       "sources": [
@@ -10953,6 +11610,34 @@
           "key": "identity",
           "title": "Philips — AF 977 (factory brochure, reproduced sheet)",
           "url": "https://www.hifi-wiki.de/images/1/19/Philips_AF-977-Prospekt-1.jpg"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Philips",
+      "model": "AG 9147",
+      "model_id": "philips-0031",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Philips AG 9147 — документация производителя",
+          "url": "https://www.manualslib.com/manual/4572593/Philips-Ag-9147.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Philips",
+      "model": "F7112",
+      "model_id": "philips-0030",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Philips F7112 — документация производителя",
+          "url": "https://archive.org/download/manual_F7112_SM_PHILIPS_EN_DE/F7112_SM_PHILIPS_EN_DE.pdf"
         }
       ]
     },
@@ -11070,6 +11755,20 @@
           "key": "identity",
           "title": "Philips — FP 146 (factory brochure, reproduced sheet)",
           "url": "https://www.hifi-wiki.de/images/b/bd/Philips_FP-146-Prospekt-1985.jpg"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Philips",
+      "model": "GA 207",
+      "model_id": "philips-0028",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Philips GA 207 — документация производителя",
+          "url": "https://www.manualslib.com/manual/4341211/Philips-Ga-207.html"
         }
       ]
     },
@@ -11343,6 +12042,10 @@
     },
     {
       "aliases": [],
+      "drive_type": {
+        "source": "audit2",
+        "value": "belt"
+      },
       "manufacturer": "Pioneer",
       "model": "PL-12D",
       "model_id": "pioneer-0042",
@@ -11351,8 +12054,31 @@
           "key": "identity",
           "title": "Pioneer PL-12D Operating Instructions Manual",
           "url": "https://www.manualslib.com/manual/852304/Pioneer-Pl-12d.html"
+        },
+        {
+          "key": "audit2",
+          "page": 9,
+          "title": "Pioneer PL-12D — технические характеристики",
+          "url": "https://www.manualslib.com/manual/852304/Pioneer-Pl-12d.html?page=9"
         }
-      ]
+      ],
+      "specifications": [
+        {
+          "method": "WRMS",
+          "name": "wow_and_flutter",
+          "original": "0.1% (WRMS) or less",
+          "source": "audit2",
+          "unit": "%",
+          "value": "≤0.1"
+        }
+      ],
+      "speeds_rpm": {
+        "source": "audit2",
+        "value": [
+          "100/3",
+          "45"
+        ]
+      }
     },
     {
       "aliases": [],
@@ -12504,6 +13230,20 @@
     {
       "aliases": [],
       "manufacturer": "Pioneer",
+      "model": "PL-L5",
+      "model_id": "pioneer-0125",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Pioneer PL-L5 — заводской лист",
+          "url": "https://www.hifi-wiki.de/images/c/ca/Pioneer_PL-L_5-1979.jpg"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Pioneer",
       "model": "PL-L50",
       "model_id": "pioneer-0105",
       "sources": [
@@ -12688,8 +13428,32 @@
           "key": "identity",
           "title": "Pioneer DJ — DJ players / Turntables",
           "url": "https://www.pioneerdj.com/en/product/dj-players-turntables/"
+        },
+        {
+          "key": "audit2",
+          "page": 17,
+          "title": "Pioneer PLX-500 — технические характеристики",
+          "url": "https://www.winnings.com.au/public/manuals/PLX500W-Pioneer-User-Manual.pdf"
         }
-      ]
+      ],
+      "specifications": [
+        {
+          "method": "WRMS",
+          "name": "wow_and_flutter",
+          "original": "0.15 % or less WRMS",
+          "source": "audit2",
+          "unit": "%",
+          "value": "≤0.15"
+        }
+      ],
+      "speeds_rpm": {
+        "source": "audit2",
+        "value": [
+          "100/3",
+          "45",
+          "78"
+        ]
+      }
     },
     {
       "aliases": [],
@@ -13095,6 +13859,10 @@
     },
     {
       "aliases": [],
+      "drive_type": {
+        "source": "audit2",
+        "value": "belt"
+      },
       "manufacturer": "Pro-Ject",
       "model": "Debut Carbon EVO",
       "model_id": "pro-ject-0042",
@@ -13103,8 +13871,41 @@
           "key": "identity",
           "title": "Pro-Ject Archive — Turntables — Debut Carbon EVO",
           "url": "https://www.project-audio.com/en/archive/"
+        },
+        {
+          "key": "audit2",
+          "page": 1,
+          "title": "Pro-Ject Debut Carbon EVO — технические характеристики",
+          "url": "https://www.project-audio.com/wp-content/uploads/2020/08/DebutCarbonEvo-EN.pdf"
         }
-      ]
+      ],
+      "specifications": [
+        {
+          "condition": "33 RPM",
+          "name": "wow_and_flutter",
+          "original": "±0.17% (33 RPM)",
+          "source": "audit2",
+          "unit": "%",
+          "value": "±0.17"
+        },
+        {
+          "condition": "45 RPM",
+          "name": "wow_and_flutter",
+          "original": "±0.15% (45 RPM)",
+          "source": "audit2",
+          "unit": "%",
+          "value": "±0.15"
+        }
+      ],
+      "speeds_rpm": {
+        "condition": "78 RPM — отдельный круглый ремень.",
+        "source": "audit2",
+        "value": [
+          "100/3",
+          "45",
+          "78"
+        ]
+      }
     },
     {
       "aliases": [],
@@ -13222,6 +14023,10 @@
     },
     {
       "aliases": [],
+      "drive_type": {
+        "source": "audit2",
+        "value": "belt"
+      },
       "manufacturer": "Pro-Ject",
       "model": "Debut III",
       "model_id": "pro-ject-0044",
@@ -13230,11 +14035,40 @@
           "key": "identity",
           "title": "Pro-Ject Archive — Turntables — Debut III",
           "url": "https://www.project-audio.com/en/archive/"
+        },
+        {
+          "key": "audit2",
+          "page": 6,
+          "title": "Pro-Ject Debut III — технические характеристики",
+          "url": "https://www.project-audio.com/wp-content/uploads/2018/04/Manual_Debut-III.pdf"
         }
-      ]
+      ],
+      "specifications": [
+        {
+          "name": "wow_and_flutter",
+          "original": "±0,12 %",
+          "source": "audit2",
+          "unit": "%",
+          "value": "±0.12"
+        }
+      ],
+      "speeds_rpm": {
+        "condition": "78 RPM — опциональный шкив.",
+        "original": "33,33/45,11 r.p.m.; 78 r.p.m. optional",
+        "source": "audit2",
+        "value": [
+          "3333/100",
+          "4511/100",
+          "78"
+        ]
+      }
     },
     {
       "aliases": [],
+      "drive_type": {
+        "source": "audit2",
+        "value": "belt"
+      },
       "manufacturer": "Pro-Ject",
       "model": "Debut PRO",
       "model_id": "pro-ject-0045",
@@ -13243,8 +14077,41 @@
           "key": "identity",
           "title": "Pro-Ject Archive — Turntables — Debut PRO",
           "url": "https://www.project-audio.com/en/archive/"
+        },
+        {
+          "key": "audit2",
+          "page": 1,
+          "title": "Pro-Ject Debut PRO — технические характеристики",
+          "url": "https://www.project-audio.com/wp-content/uploads/2021/07/DebutPRO-EN.pdf"
         }
-      ]
+      ],
+      "specifications": [
+        {
+          "condition": "33 RPM",
+          "name": "wow_and_flutter",
+          "original": "±0.16% (33 RPM)",
+          "source": "audit2",
+          "unit": "%",
+          "value": "±0.16"
+        },
+        {
+          "condition": "45 RPM",
+          "name": "wow_and_flutter",
+          "original": "±0.14% (45 RPM)",
+          "source": "audit2",
+          "unit": "%",
+          "value": "±0.14"
+        }
+      ],
+      "speeds_rpm": {
+        "condition": "78 RPM с круглым ремнём.",
+        "source": "audit2",
+        "value": [
+          "100/3",
+          "45",
+          "78"
+        ]
+      }
     },
     {
       "aliases": [],
@@ -13605,6 +14472,10 @@
     },
     {
       "aliases": [],
+      "drive_type": {
+        "source": "audit2",
+        "value": "belt"
+      },
       "manufacturer": "Pro-Ject",
       "model": "Essential III",
       "model_id": "pro-ject-0050",
@@ -13613,8 +14484,39 @@
           "key": "identity",
           "title": "Pro-Ject Archive — Turntables — Essential III",
           "url": "https://www.project-audio.com/en/archive/"
+        },
+        {
+          "key": "audit2",
+          "page": 1,
+          "title": "Pro-Ject Essential III — технические характеристики",
+          "url": "https://www.project-audio.com/wp-content/uploads/2018/07/EssentialIII-EN.pdf"
         }
-      ]
+      ],
+      "specifications": [
+        {
+          "condition": "33 RPM",
+          "name": "wow_and_flutter",
+          "original": "0.21% (33 RPM)",
+          "source": "audit2",
+          "unit": "%",
+          "value": "0.21"
+        },
+        {
+          "condition": "45 RPM",
+          "name": "wow_and_flutter",
+          "original": "0.19% (45 RPM)",
+          "source": "audit2",
+          "unit": "%",
+          "value": "0.19"
+        }
+      ],
+      "speeds_rpm": {
+        "source": "audit2",
+        "value": [
+          "100/3",
+          "45"
+        ]
+      }
     },
     {
       "aliases": [],
@@ -13697,6 +14599,10 @@
     },
     {
       "aliases": [],
+      "drive_type": {
+        "source": "audit2",
+        "value": "belt"
+      },
       "manufacturer": "Pro-Ject",
       "model": "Primary E",
       "model_id": "pro-ject-0056",
@@ -13705,8 +14611,39 @@
           "key": "identity",
           "title": "Pro-Ject Archive — Turntables — Primary E",
           "url": "https://www.project-audio.com/en/archive/"
+        },
+        {
+          "key": "audit2",
+          "page": 1,
+          "title": "Pro-Ject Primary E — технические характеристики",
+          "url": "https://www.project-audio.com/wp-content/uploads/2018/03/PrimaryE-DE.pdf"
         }
-      ]
+      ],
+      "specifications": [
+        {
+          "condition": "33 RPM",
+          "name": "wow_and_flutter",
+          "original": "0.29% (33 RPM)",
+          "source": "audit2",
+          "unit": "%",
+          "value": "0.29"
+        },
+        {
+          "condition": "45 RPM",
+          "name": "wow_and_flutter",
+          "original": "0.27% (45 RPM)",
+          "source": "audit2",
+          "unit": "%",
+          "value": "0.27"
+        }
+      ],
+      "speeds_rpm": {
+        "source": "audit2",
+        "value": [
+          "100/3",
+          "45"
+        ]
+      }
     },
     {
       "aliases": [],
@@ -14812,6 +15749,10 @@
     },
     {
       "aliases": [],
+      "drive_type": {
+        "source": "audit2",
+        "value": "belt"
+      },
       "manufacturer": "Rega",
       "model": "Planar 1",
       "model_id": "rega-0001",
@@ -14820,8 +15761,21 @@
           "key": "identity",
           "title": "Rega Product Timeline",
           "url": "https://www.rega.co.uk/about/timeline"
+        },
+        {
+          "key": "audit2",
+          "page": 1,
+          "title": "Rega Planar 1 — технические характеристики",
+          "url": "https://www.rega.co.uk/download/planar-1-user-manual-ml-07.pdf"
         }
-      ]
+      ],
+      "speeds_rpm": {
+        "source": "audit2",
+        "value": [
+          "100/3",
+          "45"
+        ]
+      }
     },
     {
       "aliases": [],
@@ -14851,6 +15805,10 @@
     },
     {
       "aliases": [],
+      "drive_type": {
+        "source": "audit2",
+        "value": "belt"
+      },
       "manufacturer": "Rega",
       "model": "Planar 2",
       "model_id": "rega-0003",
@@ -14859,11 +15817,28 @@
           "key": "identity",
           "title": "Rega Product Timeline",
           "url": "https://www.rega.co.uk/about/timeline"
+        },
+        {
+          "key": "audit2",
+          "page": 4,
+          "title": "Rega Planar 2 — технические характеристики",
+          "url": "https://www.rega.co.uk/download/D2002MAN-A00-5.pdf"
         }
-      ]
+      ],
+      "speeds_rpm": {
+        "source": "audit2",
+        "value": [
+          "100/3",
+          "45"
+        ]
+      }
     },
     {
       "aliases": [],
+      "drive_type": {
+        "source": "audit2",
+        "value": "belt"
+      },
       "manufacturer": "Rega",
       "model": "Planar 3",
       "model_id": "rega-0004",
@@ -14872,8 +15847,21 @@
           "key": "identity",
           "title": "Rega Product Timeline",
           "url": "https://www.rega.co.uk/about/timeline"
+        },
+        {
+          "key": "audit2",
+          "page": 3,
+          "title": "Rega Planar 3 — технические характеристики",
+          "url": "https://www.rega.co.uk/download/planar-3-qsg-final.pdf"
         }
-      ]
+      ],
+      "speeds_rpm": {
+        "source": "audit2",
+        "value": [
+          "100/3",
+          "45"
+        ]
+      }
     },
     {
       "aliases": [],
@@ -14890,6 +15878,10 @@
     },
     {
       "aliases": [],
+      "drive_type": {
+        "source": "audit2",
+        "value": "belt"
+      },
       "manufacturer": "Rega",
       "model": "Planar 6",
       "model_id": "rega-0005",
@@ -14898,8 +15890,21 @@
           "key": "identity",
           "title": "Rega Product Timeline",
           "url": "https://www.rega.co.uk/about/timeline"
+        },
+        {
+          "key": "audit2",
+          "page": 4,
+          "title": "Rega Planar 6 — технические характеристики",
+          "url": "https://www.rega.co.uk/download/planar-6-user-manual-ml-07.pdf"
         }
-      ]
+      ],
+      "speeds_rpm": {
+        "source": "audit2",
+        "value": [
+          "100/3",
+          "45"
+        ]
+      }
     },
     {
       "aliases": [],
@@ -15087,6 +16092,19 @@
     {
       "aliases": [],
       "manufacturer": "Reloop",
+      "model": "RP-7000",
+      "model_id": "reloop-0015",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Reloop RP-7000 — документация производителя",
+          "url": "https://www.reloop.com/reloop-rp-7000"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Reloop",
       "model": "RP7000MK2",
       "model_id": "reloop-0006",
       "sources": [
@@ -15159,6 +16177,20 @@
           "key": "identity",
           "title": "Reloop TURN3 Instruction Manual",
           "url": "https://www.manualslib.com/manual/2828368/Reloop-Turn3.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Reloop",
+      "model": "TURN 3 MK2",
+      "model_id": "reloop-0016",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Reloop TURN 3 MK2 — документация производителя",
+          "url": "https://www.reloop-hifi.com/media/productattach/t/u/turn3mk2_im.pdf"
         }
       ]
     },
@@ -15386,6 +16418,20 @@
     {
       "aliases": [],
       "manufacturer": "Rotel",
+      "model": "RP-300",
+      "model_id": "rotel-0023",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Rotel RP-300 — документация производителя",
+          "url": "https://www.manualslib.com/manual/4372678/Rotel-Rp-300.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Rotel",
       "model": "RP-3000",
       "model_id": "rotel-0009",
       "sources": [
@@ -15432,6 +16478,20 @@
           "key": "identity",
           "title": "Rotel RP-4400 Owner's Manual",
           "url": "https://www.manualslib.com/manual/4004204/Rotel-Rp-4400.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Rotel",
+      "model": "RP-510",
+      "model_id": "rotel-0024",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Rotel RP-510 — документация производителя",
+          "url": "https://www.manualslib.com/manual/895778/Rotel-Rp-510.html"
         }
       ]
     },
@@ -15529,6 +16589,20 @@
     {
       "aliases": [],
       "manufacturer": "Rotel",
+      "model": "RP-850",
+      "model_id": "rotel-0026",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Rotel RP-850 — документация производителя",
+          "url": "https://www.manualslib.com/manual/142567/Rotel-Rp-850.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Rotel",
       "model": "RP-855",
       "model_id": "rotel-0020",
       "sources": [
@@ -15549,6 +16623,19 @@
           "key": "identity",
           "title": "Rotel RP-860 Owner's Manual",
           "url": "https://www.manualslib.com/manual/142569/Rotel-Rp-860.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Rotel",
+      "model": "RP-900",
+      "model_id": "rotel-0025",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Rotel RP-900 — документация производителя",
+          "url": "https://www.rotel.com/en-gb/product/rp-900"
         }
       ]
     },
@@ -15601,6 +16688,20 @@
           "key": "identity",
           "title": "Saba — PSP 350 (factory brochure, reproduced sheet)",
           "url": "https://www.hifi-wiki.de/images/0/0e/Saba_PSP-350-Prospekt-1980.jpg"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Saba",
+      "model": "PSP 450",
+      "model_id": "saba-0006",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Saba PSP 450 — документация производителя",
+          "url": "https://archive.org/download/manual_PSP450_SM_SABA_DE_FR_EN_IT/PSP450_SM_SABA_DE_FR_EN_IT.pdf"
         }
       ]
     },
@@ -15900,6 +17001,20 @@
           "key": "identity",
           "title": "Sansui P-L95R Service Manual",
           "url": "https://www.manualslib.com/manual/4093211/Sansui-P-L95r.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Sansui",
+      "model": "P-M55",
+      "model_id": "sansui-0047",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Sansui P-M55 — документация производителя",
+          "url": "https://www.manualslib.com/manual/4371973/Sansui-P-M55.html"
         }
       ]
     },
@@ -16608,6 +17723,20 @@
     {
       "aliases": [],
       "manufacturer": "Scott",
+      "model": "PS-57",
+      "model_id": "scott-0006",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 4,
+          "title": "Scott PS-57 — документация производителя",
+          "url": "https://retronik.silicium.org/DOCUMENTS/Audiovideo/Scott/Scott-PS-17-PS-47-PS-57-PS-67-PS-76-PS-87-Service-Manual.pdf"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Scott",
       "model": "PS67",
       "model_id": "scott-0003",
       "sources": [
@@ -16615,6 +17744,20 @@
           "key": "identity",
           "title": "Scott PS67 Service Manual",
           "url": "https://www.manualslib.com/manual/3948574/Scott-Ps67.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Scott",
+      "model": "PS76",
+      "model_id": "scott-0005",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Scott PS76 — документация производителя",
+          "url": "https://www.manualslib.com/manual/3948575/Scott-Ps76.html"
         }
       ]
     },
@@ -17023,6 +18166,10 @@
     },
     {
       "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "direct"
+      },
       "manufacturer": "Sony",
       "model": "PS-6750",
       "model_id": "sony-0012",
@@ -17033,7 +18180,25 @@
           "title": "Sony PS-6750 — Service Manual",
           "url": "https://audiocircuit.dk/downloads/sony/Sony-PS6750-tt-sm.pdf"
         }
-      ]
+      ],
+      "specifications": [
+        {
+          "name": "wow_and_flutter",
+          "original": "Less than ±0.045% (DIN 45 507 weighted)",
+          "source": "identity",
+          "standard": "DIN 45 507",
+          "unit": "%",
+          "value": "<±0.045",
+          "weighting": "weighted"
+        }
+      ],
+      "speeds_rpm": {
+        "source": "identity",
+        "value": [
+          "100/3",
+          "45"
+        ]
+      }
     },
     {
       "aliases": [],
@@ -17259,6 +18424,24 @@
     {
       "aliases": [],
       "manufacturer": "Sony",
+      "model": "PS-LX150",
+      "model_id": "sony-0112",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Sony PS-LX150 — документация производителя",
+          "url": "https://manualmachine.com/sony/pslx150/3242396-service-manual/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "audit2",
+        "value": "belt"
+      },
+      "manufacturer": "Sony",
       "model": "PS-LX150H",
       "model_id": "sony-0009",
       "sources": [
@@ -17266,8 +18449,21 @@
           "key": "identity",
           "title": "Sony Support — Turntables — PS-LX150H",
           "url": "https://www.sony.com/electronics/support/audio-components-turntables"
+        },
+        {
+          "key": "audit2",
+          "page": 1,
+          "title": "Sony PS-LX150H — технические характеристики",
+          "url": "https://www.manualslib.com/manual/4047660/Sony-Ps-Lx150h.html"
         }
-      ]
+      ],
+      "speeds_rpm": {
+        "source": "audit2",
+        "value": [
+          "100/3",
+          "45"
+        ]
+      }
     },
     {
       "aliases": [],
@@ -17376,6 +18572,10 @@
     },
     {
       "aliases": [],
+      "drive_type": {
+        "source": "audit2",
+        "value": "belt"
+      },
       "manufacturer": "Sony",
       "model": "PS-LX250H",
       "model_id": "sony-0010",
@@ -17384,8 +18584,31 @@
           "key": "identity",
           "title": "Sony Support — Turntables — PS-LX250H",
           "url": "https://www.sony.com/electronics/support/audio-components-turntables"
+        },
+        {
+          "key": "audit2",
+          "page": 7,
+          "title": "Sony PS-LX250H — технические характеристики",
+          "url": "https://www.sony.com/electronics/support/res/manuals/W000/W0009081M.pdf"
         }
-      ]
+      ],
+      "specifications": [
+        {
+          "method": "WRMS",
+          "name": "wow_and_flutter",
+          "original": "Less than 0.25% (WRMS)",
+          "source": "audit2",
+          "unit": "%",
+          "value": "<0.25"
+        }
+      ],
+      "speeds_rpm": {
+        "source": "audit2",
+        "value": [
+          "100/3",
+          "45"
+        ]
+      }
     },
     {
       "aliases": [],
@@ -17467,6 +18690,10 @@
     },
     {
       "aliases": [],
+      "drive_type": {
+        "source": "audit2",
+        "value": "belt"
+      },
       "manufacturer": "Sony",
       "model": "PS-LX310BT",
       "model_id": "sony-0001",
@@ -17475,8 +18702,31 @@
           "key": "identity",
           "title": "PS-LX310BT | Component Audio | Sony Japan (translated title)",
           "url": "https://www.sony.jp/audio/products/PS-LX310BT/"
+        },
+        {
+          "key": "audit2",
+          "page": 22,
+          "title": "Sony PS-LX310BT — технические характеристики",
+          "url": "https://resources.sevenoakssoundandvision.co.uk/images/manuals/PS-LX310BT.pdf"
         }
-      ]
+      ],
+      "specifications": [
+        {
+          "method": "WRMS",
+          "name": "wow_and_flutter",
+          "original": "0.1% (WRMS)",
+          "source": "audit2",
+          "unit": "%",
+          "value": "0.1"
+        }
+      ],
+      "speeds_rpm": {
+        "source": "audit2",
+        "value": [
+          "100/3",
+          "45"
+        ]
+      }
     },
     {
       "aliases": [],
@@ -17532,6 +18782,10 @@
     },
     {
       "aliases": [],
+      "drive_type": {
+        "source": "audit2",
+        "value": "belt"
+      },
       "manufacturer": "Sony",
       "model": "PS-LX350H",
       "model_id": "sony-0011",
@@ -17540,8 +18794,31 @@
           "key": "identity",
           "title": "Sony Support — Turntables — PS-LX350H",
           "url": "https://www.sony.com/electronics/support/audio-components-turntables"
+        },
+        {
+          "key": "audit2",
+          "page": 9,
+          "title": "Sony PS-LX350H — технические характеристики",
+          "url": "https://www.sony.com/electronics/support/res/manuals/W000/W0009083M.pdf"
         }
-      ]
+      ],
+      "specifications": [
+        {
+          "method": "WRMS",
+          "name": "wow_and_flutter",
+          "original": "Less than 0.25% (WRMS)",
+          "source": "audit2",
+          "unit": "%",
+          "value": "<0.25"
+        }
+      ],
+      "speeds_rpm": {
+        "source": "audit2",
+        "value": [
+          "100/3",
+          "45"
+        ]
+      }
     },
     {
       "aliases": [],
@@ -17683,6 +18960,20 @@
           "key": "identity",
           "title": "Sony PS-LX500 Operating Instructions Manual",
           "url": "https://www.manualslib.com/manual/4170411/Sony-Ps-Lx500.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Sony",
+      "model": "PS-LX51",
+      "model_id": "sony-0111",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Sony PS-LX51 — документация производителя",
+          "url": "https://www.manualslib.com/manual/4170040/Sony-Ps-Lx51.html"
         }
       ]
     },
@@ -18091,6 +19382,10 @@
     },
     {
       "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "direct"
+      },
       "manufacturer": "Sony",
       "model": "PS-X600",
       "model_id": "sony-0013",
@@ -18101,7 +19396,41 @@
           "title": "Sony PS-X600 — Service Manual",
           "url": "https://retronik.silicium.org/DOCUMENTS/Audiovideo/Sony/Sony-PS-X600-Service-Manual.pdf"
         }
-      ]
+      ],
+      "specifications": [
+        {
+          "condition": "Сигнал с магнитной головки датчика; только узел вращения, включая диск. Знак % для этой строки на обложке опущен.",
+          "method": "WRMS",
+          "name": "wow_and_flutter",
+          "original": "0.015 (WRMS)*",
+          "source": "identity",
+          "unit": "%",
+          "value": "0.015"
+        },
+        {
+          "method": "WRMS",
+          "name": "wow_and_flutter",
+          "original": "0.025% (WRMS)",
+          "source": "identity",
+          "unit": "%",
+          "value": "0.025"
+        },
+        {
+          "name": "wow_and_flutter",
+          "original": "±0.03% (DIN)",
+          "source": "identity",
+          "standard": "DIN",
+          "unit": "%",
+          "value": "±0.03"
+        }
+      ],
+      "speeds_rpm": {
+        "source": "identity",
+        "value": [
+          "100/3",
+          "45"
+        ]
+      }
     },
     {
       "aliases": [],
@@ -18223,6 +19552,20 @@
     {
       "aliases": [],
       "manufacturer": "Stanton",
+      "model": "ST.150 M2",
+      "model_id": "stanton-0019",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Stanton ST.150 M2 — документация производителя",
+          "url": "https://trimacppl.com/admin/data/brands/pdf/1526030657044.pdf"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Stanton",
       "model": "STR8.150 M2",
       "model_id": "stanton-0003",
       "sources": [
@@ -18308,6 +19651,20 @@
           "key": "identity",
           "title": "Stanton STR8-90 Owner's Manual",
           "url": "https://www.manualslib.com/manual/164872/Stanton-Str8-90.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Stanton",
+      "model": "T.50",
+      "model_id": "stanton-0018",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 6,
+          "title": "Stanton T.50 — документация производителя",
+          "url": "https://m.media-amazon.com/images/I/A17trkVZLGL.pdf"
         }
       ]
     },
@@ -19053,6 +20410,10 @@
     },
     {
       "aliases": [],
+      "drive_type": {
+        "source": "audit2",
+        "value": "direct"
+      },
       "manufacturer": "Technics",
       "model": "SL-1200MK3D",
       "model_id": "technics-0003",
@@ -19061,11 +20422,58 @@
           "key": "identity",
           "title": "SL-1200 — Heritage",
           "url": "https://www.technics.com/global/home/sl1200/heritage.html"
+        },
+        {
+          "key": "audit2",
+          "page": 16,
+          "title": "Technics SL-1200MK3D — технические характеристики",
+          "url": "https://panasonic.jp/manualdl/p-db/sl/sl_1200mk3d.pdf"
         }
-      ]
+      ],
+      "specifications": [
+        {
+          "condition": "Только диск и узел вращения; сигнал двигателя, без пластинки, головки и тонарма.",
+          "method": "WRMS",
+          "name": "wow_and_flutter",
+          "original": "0.01% WRMS*",
+          "source": "audit2",
+          "unit": "%",
+          "value": "0.01"
+        },
+        {
+          "method": "WRMS",
+          "name": "wow_and_flutter",
+          "original": "0.025% WRMS (JIS C5521)",
+          "source": "audit2",
+          "standard": "JIS C5521",
+          "unit": "%",
+          "value": "0.025"
+        },
+        {
+          "method": "peak",
+          "name": "wow_and_flutter",
+          "original": "±0.035% peak (IEC 98A Weighted)",
+          "source": "audit2",
+          "standard": "IEC 98A",
+          "unit": "%",
+          "value": "±0.035",
+          "weighting": "IEC 98A Weighted"
+        }
+      ],
+      "speeds_rpm": {
+        "source": "audit2",
+        "value": [
+          "100/3",
+          "45"
+        ]
+      }
     },
     {
       "aliases": [],
+      "drive_type": {
+        "source": "audit2",
+        "value": "direct"
+      },
       "manufacturer": "Technics",
       "model": "SL-1200MK5",
       "model_id": "technics-0004",
@@ -19074,8 +20482,51 @@
           "key": "identity",
           "title": "SL-1200 — Heritage",
           "url": "https://www.technics.com/global/home/sl1200/heritage.html"
+        },
+        {
+          "key": "audit2",
+          "page": 11,
+          "title": "Technics SL-1200MK5 — технические характеристики",
+          "url": "https://kabusa.com/SL1200MK5.pdf"
         }
-      ]
+      ],
+      "specifications": [
+        {
+          "condition": "Только диск и узел вращения; сигнал двигателя, без пластинки, головки и тонарма.",
+          "method": "WRMS",
+          "name": "wow_and_flutter",
+          "original": "0.01% WRMS*",
+          "source": "audit2",
+          "unit": "%",
+          "value": "0.01"
+        },
+        {
+          "method": "WRMS",
+          "name": "wow_and_flutter",
+          "original": "0.025% WRMS (JIS C5521)",
+          "source": "audit2",
+          "standard": "JIS C5521",
+          "unit": "%",
+          "value": "0.025"
+        },
+        {
+          "method": "peak",
+          "name": "wow_and_flutter",
+          "original": "±0.035% peak (IEC 98A Weighted)",
+          "source": "audit2",
+          "standard": "IEC 98A",
+          "unit": "%",
+          "value": "±0.035",
+          "weighting": "IEC 98A Weighted"
+        }
+      ],
+      "speeds_rpm": {
+        "source": "audit2",
+        "value": [
+          "100/3",
+          "45"
+        ]
+      }
     },
     {
       "aliases": [],
@@ -19092,6 +20543,10 @@
     },
     {
       "aliases": [],
+      "drive_type": {
+        "source": "audit2",
+        "value": "direct"
+      },
       "manufacturer": "Technics",
       "model": "SL-1200MK7",
       "model_id": "technics-0010",
@@ -19100,8 +20555,33 @@
           "key": "identity",
           "title": "SL-1200 — Heritage",
           "url": "https://www.technics.com/global/home/sl1200/heritage.html"
+        },
+        {
+          "key": "audit2",
+          "page": 2,
+          "title": "Technics SL-1200MK7 — технические характеристики",
+          "url": "https://help.na.panasonic.com/wp-content/uploads/2024/11/SL1200MK7_Specifications_US_1.pdf"
         }
-      ]
+      ],
+      "specifications": [
+        {
+          "method": "WRMS",
+          "name": "wow_and_flutter",
+          "original": "0.025% WRMS",
+          "source": "audit2",
+          "unit": "%",
+          "value": "0.025"
+        }
+      ],
+      "speeds_rpm": {
+        "condition": "78 RPM включается переключателем.",
+        "source": "audit2",
+        "value": [
+          "100/3",
+          "45",
+          "78"
+        ]
+      }
     },
     {
       "aliases": [],
@@ -19157,6 +20637,10 @@
     },
     {
       "aliases": [],
+      "drive_type": {
+        "source": "audit2",
+        "value": "direct"
+      },
       "manufacturer": "Technics",
       "model": "SL-1500C",
       "model_id": "technics-0031",
@@ -19165,8 +20649,32 @@
           "key": "identity",
           "title": "Technics — SL-1500C",
           "url": "https://www.technics.com/nz/products/premium-class/premium-class-turntables/sl-1500c.html"
+        },
+        {
+          "key": "audit2",
+          "page": 23,
+          "title": "Technics SL-1500C — технические характеристики",
+          "url": "https://www.omera.nl/wp-content/uploads/2024/10/SL-1500C-user-manual.pdf"
         }
-      ]
+      ],
+      "specifications": [
+        {
+          "method": "WRMS",
+          "name": "wow_and_flutter",
+          "original": "0.025% WRMS",
+          "source": "audit2",
+          "unit": "%",
+          "value": "0.025"
+        }
+      ],
+      "speeds_rpm": {
+        "source": "audit2",
+        "value": [
+          "100/3",
+          "45",
+          "78"
+        ]
+      }
     },
     {
       "aliases": [],
@@ -19663,6 +21171,10 @@
     },
     {
       "aliases": [],
+      "drive_type": {
+        "source": "audit2",
+        "value": "direct"
+      },
       "manufacturer": "Technics",
       "model": "SL-D2",
       "model_id": "technics-0019",
@@ -19671,8 +21183,51 @@
           "key": "identity",
           "title": "Technics SL-D2 Service Manual",
           "url": "https://www.manualslib.com/manual/3357572/Technics-Sl-D2.html"
+        },
+        {
+          "key": "audit2",
+          "page": 1,
+          "title": "Technics SL-D2 — технические характеристики",
+          "url": "https://www.manualslib.com/manual/3434897/Technics-Sl-D2.html"
         }
-      ]
+      ],
+      "specifications": [
+        {
+          "condition": "Только диск и узел вращения; сигнал двигателя, без пластинки, головки и тонарма.",
+          "method": "WRMS",
+          "name": "wow_and_flutter",
+          "original": "0.014% WRMS*",
+          "source": "audit2",
+          "unit": "%",
+          "value": "0.014"
+        },
+        {
+          "method": "WRMS",
+          "name": "wow_and_flutter",
+          "original": "0.03% WRMS (JIS C5521)",
+          "source": "audit2",
+          "standard": "JIS C5521",
+          "unit": "%",
+          "value": "0.03"
+        },
+        {
+          "method": "peak",
+          "name": "wow_and_flutter",
+          "original": "±0.042% peak (IEC 98A Weighted)",
+          "source": "audit2",
+          "standard": "IEC 98A",
+          "unit": "%",
+          "value": "±0.042",
+          "weighting": "IEC 98A Weighted"
+        }
+      ],
+      "speeds_rpm": {
+        "source": "audit2",
+        "value": [
+          "100/3",
+          "45"
+        ]
+      }
     },
     {
       "aliases": [],
@@ -20018,6 +21573,10 @@
     },
     {
       "aliases": [],
+      "drive_type": {
+        "source": "audit2",
+        "value": "direct"
+      },
       "manufacturer": "Technics",
       "model": "SL-Q2",
       "model_id": "technics-0087",
@@ -20026,8 +21585,49 @@
           "key": "identity",
           "title": "Technics SL-Q2 Operating Instructions Manual",
           "url": "https://www.manualslib.com/manual/3316594/Technics-Sl-Q2.html"
+        },
+        {
+          "key": "audit2",
+          "title": "Technics SL-Q2 — технические характеристики",
+          "url": "https://www.manualslib.com/guide/4234774/technics-sl-q2-turntable-installation-and-operation-manual.html"
         }
-      ]
+      ],
+      "specifications": [
+        {
+          "condition": "Сигнал генератора частоты двигателя; измерение только самого узла вращения.",
+          "method": "WRMS",
+          "name": "wow_and_flutter",
+          "original": "0.012% WRMS*",
+          "source": "audit2",
+          "unit": "%",
+          "value": "0.012"
+        },
+        {
+          "method": "WRMS",
+          "name": "wow_and_flutter",
+          "original": "0.025% WRMS (JIS C5521)",
+          "source": "audit2",
+          "standard": "JIS C5521",
+          "unit": "%",
+          "value": "0.025"
+        },
+        {
+          "name": "wow_and_flutter",
+          "original": "±0.032% (IEC98A Weighted)",
+          "source": "audit2",
+          "standard": "IEC 98A",
+          "unit": "%",
+          "value": "±0.032",
+          "weighting": "IEC 98A Weighted"
+        }
+      ],
+      "speeds_rpm": {
+        "source": "audit2",
+        "value": [
+          "100/3",
+          "45"
+        ]
+      }
     },
     {
       "aliases": [],
@@ -20871,6 +22471,10 @@
     },
     {
       "aliases": [],
+      "drive_type": {
+        "source": "audit2",
+        "value": "belt"
+      },
       "manufacturer": "Thorens",
       "model": "TD 160",
       "model_id": "thorens-0013",
@@ -20879,8 +22483,32 @@
           "key": "identity",
           "title": "Thorens History — TD 160",
           "url": "https://www.thorens.com/en/history.html"
+        },
+        {
+          "key": "audit2",
+          "page": 3,
+          "title": "Thorens TD 160 — технические характеристики",
+          "url": "https://www.wegavision.eu/HiFi-Archiv/Thorens/Thorens-TD-160-flyer.pdf"
         }
-      ]
+      ],
+      "specifications": [
+        {
+          "name": "wow_and_flutter",
+          "original": "0,06 % according to DIN 45507, weighted",
+          "source": "audit2",
+          "standard": "DIN 45507",
+          "unit": "%",
+          "value": "0.06",
+          "weighting": "weighted"
+        }
+      ],
+      "speeds_rpm": {
+        "source": "audit2",
+        "value": [
+          "100/3",
+          "45"
+        ]
+      }
     },
     {
       "aliases": [],
@@ -20892,6 +22520,20 @@
           "key": "identity",
           "title": "THORENS TD 1600 User Manual",
           "url": "https://www.manualslib.com/manual/1818893/Thorens-Td-1600.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Thorens",
+      "model": "TD 1601",
+      "model_id": "thorens-0060",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Thorens TD 1601 — документация производителя",
+          "url": "https://www.thorens.com/assets/downloads/TD%201601/en/td1601.pdf"
         }
       ]
     },
@@ -21028,6 +22670,20 @@
     {
       "aliases": [],
       "manufacturer": "Thorens",
+      "model": "TD 2035",
+      "model_id": "thorens-0064",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 4,
+          "title": "Thorens TD 2035 — документация производителя",
+          "url": "https://aaav.gr/img/pdf/THORENS%20Product%20Information%20RRP%20May%202019.pdf"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Thorens",
       "model": "TD 204",
       "model_id": "thorens-0006",
       "sources": [
@@ -21048,6 +22704,20 @@
           "key": "identity",
           "title": "THORENS TD 206 User Manual",
           "url": "https://www.manualslib.com/manual/953778/Thorens-Td-206.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Thorens",
+      "model": "TD 209",
+      "model_id": "thorens-0061",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Thorens TD 209 — документация производителя",
+          "url": "https://www.studio-22.com/pdf/specifications_td206209_en.pdf"
         }
       ]
     },
@@ -21365,6 +23035,34 @@
     },
     {
       "aliases": [],
+      "manufacturer": "Thorens",
+      "model": "TD 905",
+      "model_id": "thorens-0062",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 4,
+          "title": "Thorens TD 905 — документация производителя",
+          "url": "https://audio.vn/wp-content/uploads/2017/12/thorens-900-serie-EN.pdf"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Thorens",
+      "model": "TD 907",
+      "model_id": "thorens-0063",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 4,
+          "title": "Thorens TD 907 — документация производителя",
+          "url": "https://audio.vn/wp-content/uploads/2017/12/thorens-900-serie-EN.pdf"
+        }
+      ]
+    },
+    {
+      "aliases": [],
       "manufacturer": "Toshiba",
       "model": "SR-220",
       "model_id": "toshiba-0001",
@@ -21607,6 +23305,20 @@
           "key": "identity",
           "title": "Uher — UTT-340 (factory brochure, reproduced sheet)",
           "url": "https://www.hifi-wiki.de/images/a/a6/Uher_UTT-340-Test-1992.jpg"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Victor",
+      "model": "QL-A95",
+      "model_id": "victor-0001",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Victor QL-A95 — заводской лист",
+          "url": "https://www.hifi-wiki.de/images/f/fd/JVC_QL-A_95-1982.jpg"
         }
       ]
     },
@@ -22108,6 +23820,10 @@
     },
     {
       "aliases": [],
+      "drive_type": {
+        "source": "audit6",
+        "value": "direct"
+      },
       "factory": {
         "source": "history",
         "value": "Бердский радиозавод"
@@ -22143,6 +23859,16 @@
           "page": 3,
           "title": "Арктур-006-стерео — руководство по эксплуатации",
           "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/arktur006in.djvu"
+        },
+        {
+          "key": "audit5",
+          "title": "Арктур-006-стерео — схема штатного ЭПУ G-2021",
+          "url": "https://djvu.online/file/S0GsSUlL0yCVn"
+        },
+        {
+          "key": "audit6",
+          "title": "Арктур Арктур-006-стерео — технические характеристики",
+          "url": "https://djvu.online/file/Rsz3TfcZsj4Nh"
         }
       ],
       "specifications": [
@@ -22167,6 +23893,10 @@
     },
     {
       "aliases": [],
+      "drive_type": {
+        "source": "audit5",
+        "value": "belt"
+      },
       "factory": {
         "source": "identity",
         "value": "Бердский радиозавод"
@@ -22202,6 +23932,11 @@
           "page": 5,
           "title": "Вега-106-стерео — руководство по эксплуатации",
           "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/wega106st_instr.djvu"
+        },
+        {
+          "key": "audit5",
+          "title": "Вега Вега-106-стерео — технические характеристики",
+          "url": "https://manuals.plus/m/cd3d9166ae3e2f581d47783148102623c7030c22bc9651c82839ed46d96135a6"
         }
       ],
       "speeds_rpm": {
@@ -22252,6 +23987,10 @@
     },
     {
       "aliases": [],
+      "drive_type": {
+        "source": "audit5",
+        "value": "belt"
+      },
       "factory": {
         "source": "identity",
         "value": "Бердский радиозавод"
@@ -22281,6 +24020,28 @@
           "page": 4,
           "title": "Вега-ЭП-120-стерео — руководство по эксплуатации",
           "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/wega_ep120s_in.djvu"
+        },
+        {
+          "key": "audit4",
+          "page": 3,
+          "title": "Вега Вега-ЭП-120-стерео — технические характеристики",
+          "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/wega_ep120s_in.djvu"
+        },
+        {
+          "key": "audit5",
+          "title": "Вега Вега-ЭП-120-стерео — технические характеристики",
+          "url": "https://manuals.plus/m/cd3d9166ae3e2f581d47783148102623c7030c22bc9651c82839ed46d96135a6"
+        }
+      ],
+      "specifications": [
+        {
+          "condition": "33,33 об/мин",
+          "method": "абсолютная величина",
+          "name": "wow_and_flutter",
+          "original": "не более 0,15%",
+          "source": "audit4",
+          "unit": "%",
+          "value": "≤0.15"
         }
       ],
       "speeds_rpm": {

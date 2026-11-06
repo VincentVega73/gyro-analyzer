@@ -27,6 +27,16 @@
         "url": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/arktur006in.djvu",
         "title": "Арктур-006-стерео — руководство по эксплуатации",
         "page": 3
+      },
+      {
+        "key": "audit5",
+        "url": "https://djvu.online/file/S0GsSUlL0yCVn",
+        "title": "Арктур-006-стерео — схема штатного ЭПУ G-2021"
+      },
+      {
+        "key": "audit6",
+        "url": "https://djvu.online/file/Rsz3TfcZsj4Nh",
+        "title": "Арктур Арктур-006-стерео — технические характеристики"
       }
     ],
     "production_evidence": {
@@ -56,6 +66,10 @@
         "method": "абсолютная величина",
         "condition": "33,33 об/мин"
       }
-    ]
+    ],
+    "drive_type": {
+      "value": "direct",
+      "source": "audit6"
+    }
   }
 ]

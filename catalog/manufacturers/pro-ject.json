@@ -1484,6 +1484,43 @@
         "key": "identity",
         "title": "Pro-Ject Archive — Turntables — Debut Carbon EVO",
         "url": "https://www.project-audio.com/en/archive/"
+      },
+      {
+        "key": "audit2",
+        "url": "https://www.project-audio.com/wp-content/uploads/2020/08/DebutCarbonEvo-EN.pdf",
+        "title": "Pro-Ject Debut Carbon EVO — технические характеристики",
+        "page": 1
+      }
+    ],
+    "drive_type": {
+      "value": "belt",
+      "source": "audit2"
+    },
+    "speeds_rpm": {
+      "value": [
+        "100/3",
+        "45",
+        "78"
+      ],
+      "source": "audit2",
+      "condition": "78 RPM — отдельный круглый ремень."
+    },
+    "specifications": [
+      {
+        "name": "wow_and_flutter",
+        "value": "±0.17",
+        "original": "±0.17% (33 RPM)",
+        "unit": "%",
+        "source": "audit2",
+        "condition": "33 RPM"
+      },
+      {
+        "name": "wow_and_flutter",
+        "value": "±0.15",
+        "original": "±0.15% (45 RPM)",
+        "unit": "%",
+        "source": "audit2",
+        "condition": "45 RPM"
       }
     ]
   },
@@ -1510,6 +1547,35 @@
         "key": "identity",
         "title": "Pro-Ject Archive — Turntables — Debut III",
         "url": "https://www.project-audio.com/en/archive/"
+      },
+      {
+        "key": "audit2",
+        "url": "https://www.project-audio.com/wp-content/uploads/2018/04/Manual_Debut-III.pdf",
+        "title": "Pro-Ject Debut III — технические характеристики",
+        "page": 6
+      }
+    ],
+    "drive_type": {
+      "value": "belt",
+      "source": "audit2"
+    },
+    "speeds_rpm": {
+      "value": [
+        "3333/100",
+        "4511/100",
+        "78"
+      ],
+      "source": "audit2",
+      "condition": "78 RPM — опциональный шкив.",
+      "original": "33,33/45,11 r.p.m.; 78 r.p.m. optional"
+    },
+    "specifications": [
+      {
+        "name": "wow_and_flutter",
+        "value": "±0.12",
+        "original": "±0,12 %",
+        "unit": "%",
+        "source": "audit2"
       }
     ]
   },
@@ -1523,6 +1589,43 @@
         "key": "identity",
         "title": "Pro-Ject Archive — Turntables — Debut PRO",
         "url": "https://www.project-audio.com/en/archive/"
+      },
+      {
+        "key": "audit2",
+        "url": "https://www.project-audio.com/wp-content/uploads/2021/07/DebutPRO-EN.pdf",
+        "title": "Pro-Ject Debut PRO — технические характеристики",
+        "page": 1
+      }
+    ],
+    "drive_type": {
+      "value": "belt",
+      "source": "audit2"
+    },
+    "speeds_rpm": {
+      "value": [
+        "100/3",
+        "45",
+        "78"
+      ],
+      "source": "audit2",
+      "condition": "78 RPM с круглым ремнём."
+    },
+    "specifications": [
+      {
+        "name": "wow_and_flutter",
+        "value": "±0.16",
+        "original": "±0.16% (33 RPM)",
+        "unit": "%",
+        "source": "audit2",
+        "condition": "33 RPM"
+      },
+      {
+        "name": "wow_and_flutter",
+        "value": "±0.14",
+        "original": "±0.14% (45 RPM)",
+        "unit": "%",
+        "source": "audit2",
+        "condition": "45 RPM"
       }
     ]
   },
@@ -1588,6 +1691,41 @@
         "key": "identity",
         "title": "Pro-Ject Archive — Turntables — Essential III",
         "url": "https://www.project-audio.com/en/archive/"
+      },
+      {
+        "key": "audit2",
+        "url": "https://www.project-audio.com/wp-content/uploads/2018/07/EssentialIII-EN.pdf",
+        "title": "Pro-Ject Essential III — технические характеристики",
+        "page": 1
+      }
+    ],
+    "drive_type": {
+      "value": "belt",
+      "source": "audit2"
+    },
+    "speeds_rpm": {
+      "value": [
+        "100/3",
+        "45"
+      ],
+      "source": "audit2"
+    },
+    "specifications": [
+      {
+        "name": "wow_and_flutter",
+        "value": "0.21",
+        "original": "0.21% (33 RPM)",
+        "unit": "%",
+        "source": "audit2",
+        "condition": "33 RPM"
+      },
+      {
+        "name": "wow_and_flutter",
+        "value": "0.19",
+        "original": "0.19% (45 RPM)",
+        "unit": "%",
+        "source": "audit2",
+        "condition": "45 RPM"
       }
     ]
   },
@@ -1666,6 +1804,41 @@
         "key": "identity",
         "title": "Pro-Ject Archive — Turntables — Primary E",
         "url": "https://www.project-audio.com/en/archive/"
+      },
+      {
+        "key": "audit2",
+        "url": "https://www.project-audio.com/wp-content/uploads/2018/03/PrimaryE-DE.pdf",
+        "title": "Pro-Ject Primary E — технические характеристики",
+        "page": 1
+      }
+    ],
+    "drive_type": {
+      "value": "belt",
+      "source": "audit2"
+    },
+    "speeds_rpm": {
+      "value": [
+        "100/3",
+        "45"
+      ],
+      "source": "audit2"
+    },
+    "specifications": [
+      {
+        "name": "wow_and_flutter",
+        "value": "0.29",
+        "original": "0.29% (33 RPM)",
+        "unit": "%",
+        "source": "audit2",
+        "condition": "33 RPM"
+      },
+      {
+        "name": "wow_and_flutter",
+        "value": "0.27",
+        "original": "0.27% (45 RPM)",
+        "unit": "%",
+        "source": "audit2",
+        "condition": "45 RPM"
       }
     ]
   },

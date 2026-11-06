@@ -63,5 +63,19 @@
       }
     ],
     "aliases": []
+  },
+  {
+    "model_id": "saba-0006",
+    "manufacturer": "Saba",
+    "model": "PSP 450",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Saba PSP 450 — документация производителя",
+        "url": "https://archive.org/download/manual_PSP450_SM_SABA_DE_FR_EN_IT/PSP450_SM_SABA_DE_FR_EN_IT.pdf",
+        "page": 1
+      }
+    ]
   }
 ]

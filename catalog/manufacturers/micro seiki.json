@@ -219,5 +219,47 @@
       }
     ],
     "aliases": []
+  },
+  {
+    "model_id": "micro-seiki-0018",
+    "manufacturer": "Micro Seiki",
+    "model": "MR-611",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Micro Seiki MR-611 — документация производителя",
+        "url": "https://www.manualslib.com/manual/4342248/Micro-Mr-611.html",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "model_id": "micro-seiki-0019",
+    "manufacturer": "Micro Seiki",
+    "model": "MR-122",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Micro Seiki MR-122 — документация производителя",
+        "url": "https://manualmachine.com/microseiki/mr122/2366117-owners-manual/",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "model_id": "micro-seiki-0020",
+    "manufacturer": "Micro Seiki",
+    "model": "MR-711",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Micro Seiki MR-711 — документация производителя",
+        "url": "https://www.manualslib.com/manual/3992383/Micro-Seiki-Mr-711.html",
+        "page": 1
+      }
+    ]
   }
 ]

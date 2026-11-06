@@ -505,5 +505,19 @@
       }
     ],
     "aliases": []
+  },
+  {
+    "model_id": "hitachi-0040",
+    "manufacturer": "Hitachi",
+    "model": "HT-202",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Hitachi HT-202 — документация производителя",
+        "url": "https://archive.org/download/manual_HT202_OM_HITACHI_DE/HT202_OM_HITACHI_DE.pdf",
+        "page": 1
+      }
+    ]
   }
 ]

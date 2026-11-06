@@ -128,5 +128,19 @@
       }
     ],
     "aliases": []
+  },
+  {
+    "model_id": "braun-0011",
+    "manufacturer": "Braun",
+    "model": "PS 420",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "title": "Braun PS 420 — документация производителя",
+        "url": "https://archive.org/download/manual_PS420_SM_BRAUN_DE/PS420_SM_BRAUN_DE_text.pdf",
+        "page": 1
+      }
+    ]
   }
 ]

@@ -9,8 +9,26 @@
         "url": "https://storage.yandexcloud.net/technopark.instructions/730600/instruction/instrukciya-proigryvatel-vinilovyh-plastinok-max-vp-100-blue.pdf",
         "title": "MAX VP-100 — factory documentation",
         "page": 1
+      },
+      {
+        "key": "audit2",
+        "url": "https://storage.yandexcloud.net/technopark.instructions/730600/instruction/instrukciya-proigryvatel-vinilovyh-plastinok-max-vp-100-blue.pdf",
+        "title": "MAX VP-100 — технические характеристики",
+        "page": 4
       }
     ],
-    "aliases": []
+    "aliases": [],
+    "drive_type": {
+      "value": "belt",
+      "source": "audit2"
+    },
+    "speeds_rpm": {
+      "value": [
+        "100/3",
+        "45",
+        "78"
+      ],
+      "source": "audit2"
+    }
   }
 ]
