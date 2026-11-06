@@ -1,6 +1,6 @@
 # Gyro Pro turntable library
 
-Edition 1.4.0 identifies 1,581 turntables and two related factory designations. Every record has model evidence; technical fields are optional. Factory specifications describe a model, not an owner's measurements.
+Edition 1.5.0 identifies 1,639 turntables and four related factory designations. Every record has model evidence; technical fields are optional. Factory specifications describe a model, not an owner's measurements.
 
 | Manufacturer | Models |
 | --- | ---: |
@@ -9,6 +9,7 @@ Edition 1.4.0 identifies 1,581 turntables and two related factory designations. 
 | Acoustic Signature | 2 |
 | Aiwa | 15 |
 | Akai | 35 |
+| Alive Audio | 1 |
 | American Audio | 1 |
 | Analogis | 1 |
 | Andover Audio | 2 |
@@ -16,77 +17,78 @@ Edition 1.4.0 identifies 1,581 turntables and two related factory designations. 
 | BASF | 1 |
 | Bang & Olufsen | 1 |
 | Blaupunkt | 3 |
-| Braun | 10 |
+| Braun | 11 |
 | C.E.C. | 2 |
 | Cambridge Audio | 2 |
 | Clearaudio | 4 |
-| Crosley | 44 |
-| Denon | 37 |
+| Crosley | 46 |
+| Denon | 40 |
 | Denon DJ | 1 |
 | Dr. Feickert Analogue | 3 |
-| Dual | 124 |
+| Dual | 129 |
 | EAT | 3 |
 | Elac | 5 |
 | Fisher | 23 |
 | Fluance | 6 |
 | GPO | 2 |
-| Garrard | 23 |
+| Garrard | 27 |
 | Goodmans | 1 |
 | Grundig | 20 |
 | Harman Kardon | 5 |
 | Heco | 1 |
-| Hitachi | 39 |
+| Hitachi | 40 |
 | House of Marley | 3 |
 | ITT | 6 |
 | JBL | 1 |
 | JVC | 51 |
-| Kenwood | 55 |
+| Kenwood | 58 |
 | Kyocera | 2 |
-| Lenco | 63 |
+| Lenco | 67 |
 | Linn | 3 |
 | Loewe | 2 |
-| Luxman | 17 |
+| Luxman | 18 |
 | MAX | 1 |
 | Marantz | 25 |
 | McIntosh | 3 |
 | Michell | 8 |
-| Micro Seiki | 17 |
-| Mitsubishi | 9 |
+| Micro Seiki | 20 |
+| Mitsubishi | 10 |
 | MoFi Electronics | 3 |
 | Music Hall | 9 |
 | NAD | 4 |
 | Nakamichi | 2 |
 | Nikko | 1 |
-| Nordmende | 4 |
-| Numark | 17 |
+| Nordmende | 5 |
+| Numark | 20 |
 | Omnitronic | 2 |
 | Onkyo | 28 |
-| Philips | 27 |
-| Pioneer | 124 |
+| Philips | 31 |
+| Pioneer | 125 |
 | Pro-Ject | 71 |
 | Rega | 25 |
-| Reloop | 14 |
+| Reloop | 16 |
 | Revox | 6 |
-| Rotel | 22 |
-| Saba | 5 |
-| Sansui | 46 |
+| Rotel | 26 |
+| Saba | 6 |
+| Sansui | 47 |
 | Sanyo | 26 |
 | Scan-Dyna | 1 |
-| Scott | 4 |
+| Scott | 6 |
 | Sharp | 1 |
 | Sherwood | 3 |
 | Siemens | 6 |
-| Sony | 110 |
-| Stanton | 17 |
+| Sony | 112 |
+| Stanton | 19 |
 | TEAC | 31 |
 | Tandberg | 1 |
 | Technics | 106 |
 | Telefunken | 21 |
 | Thales | 1 |
-| Thorens | 59 |
+| Thorens | 64 |
 | Toshiba | 15 |
 | Transrotor | 1 |
 | Uher | 3 |
+| Victor | 1 |
 | Wega | 5 |
 | Yamaha | 26 |
 | Ария | 1 |
@@ -99,11 +101,13 @@ Edition 1.4.0 identifies 1,581 turntables and two related factory designations. 
 | Феникс | 2 |
 | Электроника | 5 |
 | Эстония | 1 |
-| **Total** | **1581** |
+| **Total** | **1639** |
 
 ## Research import
 
-Edition 1.4.0 adds 1,214 model IDs after reviewing all 3,365 open designations. The [source review](review/source-review-1.4.csv) records a decision for each one. Confirmed records cite manufacturer pages, factory manuals or identifiable sheets from manufacturer brochures. The review retains unverified document leads separately from primary evidence.
+Edition 1.5.0 reviewed 162 document leads and enriched the 50-model priority shortlist. The [iteration report](review/ITERATION-1.5.md) links the decision log, priority coverage and per-model source/ZIP/APK image checks.
+
+Edition 1.4.0 added 1,214 model IDs after reviewing all 3,365 open designations. The [source review](review/source-review-1.4.csv) records a decision for each one. Confirmed records cite manufacturer pages, factory manuals or identifiable sheets from manufacturer brochures. The review retains unverified document leads separately from primary evidence.
 
 Edition 1.3.0 added 213 model IDs. The [row-by-row comparison](review/research-import.csv) links archive designations to catalog IDs and records the remaining candidates. Of 3,689 main rows, 108 match prior IDs, 216 map to the 213 additions and 3,365 were carried forward for verification in edition 1.4.0. The separate 1,254 review-only rows remain quarantined. Candidate spellings can converge on one factory designation. Only verified factory information is used for technical fields.
 
@@ -126,7 +130,7 @@ From the repository root, run `python catalog/catalog.py bundle ../gyro-turntabl
 
 Manifest version 2 distinguishes licensed redraws from independent studies. For the latter, `artwork_credit` applies to the new illustration, while `construction_sources` identifies the factory manual and photographic views consulted to check the construction. The manifest also carries per-image attribution, source and license links and the visual review notes. Keep it with the images. Four original generic plates are stored once and referenced by multiple rows. The catalog validator checks every assignment and decodes all WebP files during both check and build. Adding a model requires a media assignment in the same change.
 
-[Coverage, source credits and review notes](media/REPORT.md) · [All 1,581 thumbnails](review/catalog-overview.png) · [Per-model research log](media/research.json)
+[Coverage, source credits and review notes](media/REPORT.md) · [All 1,639 thumbnails](review/catalog-overview.png) · [Per-model research log](media/research.json)
 
 ## Editing the data
 

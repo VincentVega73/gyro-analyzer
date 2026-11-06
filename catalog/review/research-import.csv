@@ -21,7 +21,7 @@ main,Technics,SL-1200MK3,existing,technics-0002,https://www.technics.com/global/
 main,Technics,SL-1200MK3D,existing,technics-0003,https://www.technics.com/global/home/sl1200/heritage.html
 main,Technics,SL-1200MK5,existing,technics-0004,https://www.technics.com/global/home/sl1200/heritage.html
 main,Technics,SL-1200MK5G,existing,technics-0005,https://www.technics.com/global/home/sl1200/heritage.html
-main,Alive Audio,MIM-01,no_primary_match,,https://www.mvideoeldorado.ru/ru/press-centr/press-relizy/detail/3825
+main,Alive Audio,MIM-01,added_1.5,alive-audio-0001,https://drv.dns-shop.ru/drivers/Manuals/A/alive-audio-vibe_instrukcia_232109_04032025.pdf
 main,Lenco,LS-101,added_1.4,lenco-0042,https://www.manualslib.com/manual/2330133/Lenco-Ls-101.html
 main,Linn,Sondek LP12,added,linn-0001,https://small.linncdn.com/product-catalogue/documents/Linn_Sondek_LP12_Product_Information.pdf
 main,MAX,VP-100,added_1.4,max-0001,https://storage.yandexcloud.net/technopark.instructions/730600/instruction/instrukciya-proigryvatel-vinilovyh-plastinok-max-vp-100-blue.pdf
@@ -225,7 +225,7 @@ main,Электроника,ЭП-017-стерео,existing,elektronika-0003,http
 main,Электроника,ЭП-060-стерео,existing,elektronika-0005,https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/elektronika_ep060in.djvu
 main,Audio-Technica,AT-LP3,added_1.4,audio-technica-0028,https://www.manualslib.com/manual/1260894/Audio-Technica-At-Lp3.html
 main,Audio-Technica,AT-LP60XBTa,variant_or_scope,,https://www.manualslib.com/brand/audio-technica/turntable.html
-main,Audio-Technica,AT-SB 2022,document_unverified,,https://www.hifi-wiki.de/index.php/Audio_Technica_AT-SB_2022
+main,Audio-Technica,AT-SB 2022,related_1.5,audio-technica-0023,https://www.audio-technica.co.jp/product/AT-SB727
 main,Pro-Ject,Debut Carbon,added,pro-ject-0030,https://www.project-audio.com/en/product/debut-carbon-the-original/
 main,Pro-Ject,Debut Carbon RecordMaster HiRes,added,pro-ject-0043,https://www.project-audio.com/en/archive/
 main,Pro-Ject,Debut III,added,pro-ject-0044,https://www.project-audio.com/en/archive/
@@ -255,7 +255,7 @@ main,Sony,PS-4750,added_1.4,sony-0029,https://www.manualslib.com/manual/3480839/
 main,Sony,PS-5100,added_1.4,sony-0030,https://www.manualslib.com/manual/4329649/Sony-Ps-5100.html
 main,Sony,PS-515,added_1.4,sony-0031,https://www.manualslib.com/manual/4219749/Sony-Ps-515.html
 main,Sony,PS-5520,added_1.4,sony-0032,https://www.manualslib.com/manual/4249759/Sony-Ps-5520.html
-main,Sony,PS-5550,document_unverified,,https://www.hifi-wiki.de/index.php/Sony_PS-5550
+main,Sony,PS-5550,deferred_1.5,,https://www.manualslib.com/manual/4367036/Sony-Ps-5550.html
 main,Sony,PS-636,added_1.4,sony-0033,https://www.manualslib.com/manual/975940/Sony-Ps-636.html
 main,Sony,PS-8750,added_1.4,sony-0034,https://www.manualslib.com/manual/4319857/Sony-Ps-8750.html
 main,Sony,PS-D 707,added_1.4,sony-0037,https://www.manualslib.com/manual/4216740/Sony-Ps-D707.html
@@ -270,7 +270,7 @@ main,Sony,PS-FL 99,added_1.4,sony-0045,https://www.manualslib.com/manual/3533802
 main,Sony,PS-HX 500,existing,sony-0004,https://www.sony.com/electronics/support/audio-components-turntables/ps-hx500
 main,Sony,PS-J 20,added_1.4,sony-0046,https://www.manualslib.com/manual/163366/Sony-Ps-J20.html
 main,Sony,PS-LX 100,added_1.4,sony-0047,https://www.manualslib.com/manual/3932279/Sony-Ps-Lx100.html
-main,Sony,PS-LX 150,document_unverified,,https://www.hifi-wiki.de/index.php/Sony_PS-LX_150
+main,Sony,PS-LX 150,added_1.5,sony-0112,https://manualmachine.com/sony/pslx150/3242396-service-manual/
 main,Sony,PS-LX 2,added_1.4,sony-0050,https://www.hifi-wiki.de/images/b/ba/Sony_LX-2-4-Prospekt-1981.jpg
 main,Sony,PS-LX 20,added_1.4,sony-0051,https://www.manualslib.com/manual/4374776/Sony-Ps-Lx20.html
 main,Sony,PS-LX 22,added_1.4,sony-0055,https://www.manualslib.com/manual/3394430/Sony-Ps-Lx22.html
@@ -298,7 +298,7 @@ main,Sony,PS-T 22,added_1.4,sony-0087,https://www.manualslib.com/manual/4338933/
 main,Sony,PS-T 25,added_1.4,sony-0088,https://www.manualslib.com/manual/3999525/Sony-Ps-T25.html
 main,Sony,PS-V 701,added_1.4,sony-0090,https://www.manualslib.com/manual/4266150/Sony-Ps-V701.html
 main,Sony,PS-V 901,added_1.4,sony-0092,https://www.manualslib.com/manual/4252600/Sony-Ps-V901.html
-main,Sony,PS-X 3,document_unverified,,https://www.hifi-wiki.de/index.php/Sony_PS-X_3
+main,Sony,PS-X 3,deferred_1.5,,https://www.manualslib.com/manual/975940/Sony-Ps-636.html
 main,Sony,PS-X 4,added_1.4,sony-0094,https://www.manualslib.com/manual/4164931/Sony-Ps-X4.html
 main,Sony,PS-X 40,added_1.4,sony-0095,https://www.manualslib.com/manual/3554970/Sony-Ps-X40.html
 main,Sony,PS-X 45,added_1.4,sony-0096,https://www.manualslib.com/manual/4340654/Sony-Ps-X45.html
@@ -445,7 +445,7 @@ main,Crosley,Cruiser Plus CR8005F,variant_or_scope,,https://www.manualslib.com/b
 main,Crosley,T150,variant_or_scope,,https://www.manua.ls/audio/turntables?p=6
 main,Crosley,Voyager,variant_or_scope,,https://www.manualslib.com/brand/crosley/turntable.html
 main,Denon,DP-11 F,added_1.4,denon-0013,https://www.manualslib.com/manual/4344361/Denon-Dp-11f.html
-main,Denon,DP-21 F,document_unverified,,https://www.hifi-wiki.de/index.php/Denon_DP-21_F
+main,Denon,DP-21 F,added_1.5,denon-0040,https://manuals.plus/m/e7e3c68840a50a10367463cd9cac76813455e2aeb3297794ae134d539156b0cb.pdf
 main,Denon,DP-30 L II,added_1.4,denon-0019,https://www.manualslib.com/manual/4354639/Denon-Dp-30l-Ii.html
 main,Denon,DP-3000 NE,added_1.4,denon-0017,https://www.manualslib.com/manual/3247915/Denon-Dp-3000ne.html
 main,Denon,DP-37 F,added_1.4,denon-0021,https://www.manualslib.com/manual/3336862/Denon-Dp-37f.html
@@ -476,12 +476,12 @@ main,Dual,CS 1268,identity_unresolved,,https://www.manualslib.com/brand/dual/tur
 main,Dual,CS 130,identity_unresolved,,https://www.hifi-wiki.de/index.php/Dual_CS_130
 main,Dual,CS 138,identity_unresolved,,https://www.hifi-wiki.de/index.php/Dual_CS_138
 main,Dual,CS 150 Q,added_1.4,dual-0073,https://www.manualslib.com/manual/3305814/Dual-Cs-150-Q.html
-main,Dual,CS 2115,document_unverified,,https://www.hifi-wiki.de/index.php/Dual_CS_2115
+main,Dual,CS 2115,deferred_1.5,,https://www.manualslib.com/manual/3410224/Dual-Cs-2115.html
 main,Dual,CS 2120,added_1.4,dual-0074,https://www.manualslib.com/manual/3410203/Dual-Cs-2120.html
 main,Dual,CS 2210,no_primary_match,,https://www.hifi-wiki.de/index.php/Dual_CS_2210
 main,Dual,CS 2215,added_1.4,dual-0075,https://www.manualslib.com/manual/4340947/Dual-Cs-2215.html
 main,Dual,CS 2225 Q,added_1.4,dual-0076,https://www.manualslib.com/manual/3410028/Dual-Cs-2225-Q.html
-main,Dual,CS 2235 Q,document_unverified,,https://www.hifi-wiki.de/index.php/Dual_CS_2235_Q
+main,Dual,CS 2235 Q,added_1.5,dual-0125,https://dual.de/wp-content/uploads/ServiceManual_2235Q.pdf
 main,Dual,CS 3560,added_1.4,dual-0077,https://www.manualslib.com/manual/3410023/Dual-Cs-3560.html
 main,Dual,CS 3600,added_1.4,dual-0078,https://www.manualslib.com/manual/3410526/Dual-Cs-3600.html
 main,Dual,CS 3650,added_1.4,dual-0079,https://www.manualslib.com/manual/3410424/Dual-Cs-3650.html
@@ -490,7 +490,7 @@ main,Dual,CS 410,added,dual-0061,https://dual.de/wp-content/uploads/ServiceManua
 main,Dual,CS 415-2,added_1.4,dual-0083,https://www.manualslib.com/manual/1100053/Dual-Cs-415-2.html
 main,Dual,CS 418,existing,dual-0005,https://dual.de/en/category/manual/
 main,Dual,CS 430,possible_duplicate,,https://www.hifi-wiki.de/index.php/Dual_CS_430
-main,Dual,CS 431,document_unverified,,https://www.hifi-wiki.de/index.php/Dual_CS_431
+main,Dual,CS 431,added_1.5,dual-0127,https://www.manualslib.com/manual/4506319/Dual-Cs-431.html
 main,Dual,CS 435-1,added_1.4,dual-0085,https://www.manualslib.com/manual/947579/Dual-Cs-435-1.html
 main,Dual,CS 440,added_1.4,dual-0086,https://www.manualslib.com/manual/4158983/Dual-Cs-440.html
 main,Dual,CS 450,added_1.4,dual-0087,https://www.manualslib.com/manual/4258564/Dual-Cs-450.html
@@ -542,7 +542,7 @@ main,Dual,DTJ 303 USB,added_1.4,dual-0122,https://www.manualslib.com/manual/3299
 main,Dual,Primus Maximus,added_1.4,dual-0124,https://www.manualslib.com/manual/2297532/Dual-Primus-Maximus.html
 main,Dual,PRP 5,variant_or_scope,,https://www.hifi-wiki.de/index.php/Dual_PRP_5
 main,Dual,SP 100,identity_unresolved,,https://www.hifi-wiki.de/index.php/Dual_SP_100
-main,Dual,SP 85,document_unverified,,https://www.hifi-wiki.de/index.php/Dual_SP_85
+main,Dual,SP 85,added_1.5,dual-0126,https://dual.de/wp-content/uploads/ServiceManual_SP85.pdf
 main,Garrard,301,added_1.4,garrard-0005,https://www.manualslib.com/manual/1080245/Garrard-301.html
 main,Garrard,35 SB,added_1.4,garrard-0006,https://www.hifi-wiki.de/images/a/a9/Garrard_35-125_SB-86-SB_II-Prospekt-1.jpg
 main,Garrard,401,added_1.4,garrard-0007,https://www.manualslib.com/manual/1156154/Garrard-401.html
@@ -550,7 +550,7 @@ main,Garrard,86 SB,added_1.4,garrard-0013,https://www.manualslib.com/manual/4342
 main,Garrard,DD-75,added_1.4,garrard-0015,https://www.manualslib.com/manual/4062592/Garrard-Dd75.html
 main,Garrard,GT-35 P,identity_unresolved,,https://www.hifi-wiki.de/index.php/Garrard_GT-35_P
 main,Garrard,SP-25 MK IV,added_1.4,garrard-0017,https://www.manualslib.com/manual/4258779/Garrard-Sp25-Mk-Iv.html
-main,Garrard,z2000b,document_unverified,,https://www.hifi-wiki.de/index.php/Garrard_z2000b
+main,Garrard,z2000b,matched_1.5,garrard-0023,https://www.manualslib.com/manual/4259267/Garrard-Zero-2000b.html
 main,Garrard,ZERO 100,added_1.4,garrard-0020,https://www.manualslib.com/manual/1513961/Garrard-Zero-100.html
 main,Hitachi,HT-20 S,added_1.4,hitachi-0001,https://www.manualslib.com/manual/4152956/Hitachi-Ht-20s.html
 main,Hitachi,HT-324,added_1.4,hitachi-0003,https://www.manualslib.com/manual/3989983/Hitachi-Ht-324.html
@@ -578,7 +578,7 @@ main,Hitachi,PS-58,added_1.4,hitachi-0039,https://www.manualslib.com/manual/4331
 main,House of Marley,Stir It Up Wireless,added_1.4,house-of-marley-0003,https://thehouseofmarley.com/pages/faq-stir-it-up-wireless-bluetooth-turntable
 main,JBL,Spinner BT,added_1.4,jbl-0001,https://www.jbl.com/SPINNER-BT.html
 main,JVC,AL-E534B,added_1.4,jvc-0001,https://www.manualslib.com/manual/4127984/Jvc-Al-E534b.html
-main,JVC,AL-E534M,document_unverified,,https://www.manualslib.com/brand/jvc/turntable.html
+main,JVC,AL-E534M,deferred_1.5,,https://www.manualslib.com/manual/4127984/Jvc-Al-E534b.html
 main,JVC,AL-F50B,added_1.4,jvc-0002,https://www.manualslib.com/manual/2984108/Jvc-Al-F50b.html
 main,JVC,JL-A 1,added_1.4,jvc-0004,https://www.manualslib.com/manual/4265520/Jvc-Jl-A1.html
 main,JVC,JL-A 15,added_1.4,jvc-0005,https://www.manualslib.com/manual/3323932/Jvc-Jl-A15.html
@@ -642,13 +642,13 @@ main,Lenco,L 84,identity_unresolved,,https://www.hifi-wiki.de/index.php/Lenco_L_
 main,Lenco,L 85,added_1.4,lenco-0027,https://www.manualslib.com/manual/979377/Lenco-L-85.html
 main,Lenco,L 85IC,variant_or_scope,,https://www.hifi-wiki.de/index.php/Lenco_L_85IC
 main,Lenco,L 90,added_1.4,lenco-0029,https://www.manualslib.com/manual/637744/Lenco-L-90.html
-main,Lenco,L-101,document_unverified,,https://www.manualslib.com/brand/lenco/turntable.html
+main,Lenco,L-101,added_1.5,lenco-0066,https://www.manualslib.mx/manual/808879/Lenco-L-101.html
 main,Lenco,L-175,added_1.4,lenco-0012,https://www.manualslib.com/manual/721372/Lenco-L-175.html
 main,Lenco,L-30,added_1.4,lenco-0013,https://www.manualslib.com/manual/1545321/Lenco-L-30.html
 main,Lenco,L-3808,added_1.4,lenco-0016,https://www.manualslib.com/manual/1113499/Lenco-L-3808.html
 main,Lenco,L-3818,added_1.4,lenco-0019,https://www.manualslib.com/manual/2861601/Lenco-L-3818.html
 main,Lenco,L-3867 USB,identity_unresolved,,https://www.manualslib.com/brand/lenco/turntable.html
-main,Lenco,L-69,document_unverified,,https://www.manualslib.com/brand/lenco/turntable.html
+main,Lenco,L-69,added_1.5,lenco-0064,https://www.manualslib.com/manual/362621/Lenco-L-69.html
 main,Lenco,L-80 USB -,added_1.4,lenco-0025,https://www.manualslib.com/manual/91664/Lenco-L-80-Usb.html
 main,Lenco,L-90X,variant_or_scope,,https://www.manualslib.com/brand/lenco/turntable.html
 main,Lenco,L-92,added_1.4,lenco-0031,https://www.manualslib.com/manual/2205372/Lenco-L-92.html
@@ -658,7 +658,7 @@ main,Lenco,LBT-188,added_1.4,lenco-0033,https://www.manualslib.com/manual/214491
 main,Lenco,LBT-189,added_1.4,lenco-0034,https://www.manualslib.com/manual/3635324/Lenco-Lbt-189.html
 main,Lenco,LBT-288WA,variant_or_scope,,https://www.manualslib.com/brand/lenco/turntable.html
 main,Lenco,LBT-335,added_1.4,lenco-0038,https://www.manualslib.com/manual/3293615/Lenco-Lbt-335.html
-main,Lenco,LBT-345,document_unverified,,https://www.manualslib.com/brand/lenco/turntable.html
+main,Lenco,LBT-345,added_1.5,lenco-0067,https://www.manualslib.de/manual/1247804/Lenco-Lbt-345.html
 main,Lenco,LBT-515,identity_unresolved,,https://www.manualslib.com/brand/lenco/turntable.html
 main,Lenco,LBTA-165,added_1.4,lenco-0039,https://www.manualslib.com/manual/3638815/Lenco-Lbta-165.html
 main,Lenco,LS-300,added_1.4,lenco-0045,https://www.manualslib.com/manual/1828586/Lenco-Ls-300.html
@@ -699,7 +699,7 @@ main,Music Hall,Classic,added_1.4,music-hall-0001,https://www.manualslib.com/man
 main,NAD,C 558,added_1.4,nad-0003,https://www.manualslib.com/manual/1320479/Nad-C-558.html
 main,NAD,C 588,added_1.4,nad-0004,https://www.manualslib.com/manual/3110224/Nad-C-588.html
 main,Numark,NTX1000,added_1.4,numark-0001,https://www.manualslib.com/manual/1264262/Numark-Ntx1000.html
-main,Numark,TT1610,document_unverified,,https://www.hifi-wiki.de/index.php/Numark_TT1610
+main,Numark,TT1610,added_1.5,numark-0019,https://www.recordcase.de/shop/default/artikelpdf/0020101811_en.pdf
 main,Numark,TTUSB,added_1.4,numark-0016,https://www.manualslib.com/manual/113504/Numark-Ttusb.html
 main,Onkyo,CP-1007 A,identity_unresolved,,https://www.hifi-wiki.de/index.php/Onkyo_CP-1007_A
 main,Onkyo,CP-101 A,added_1.4,onkyo-0005,https://www.manualslib.com/manual/302376/Onkyo-Cp-101a.html
@@ -726,7 +726,7 @@ main,Philips,AF 777,added_1.4,philips-0007,https://www.hifi-wiki.de/images/3/3c/
 main,Philips,AF 877,added_1.4,philips-0009,https://www.manualslib.com/manual/1012620/Philips-Af-877.html
 main,Philips,F 7213,added_1.4,philips-0013,https://archive.org/details/manual_F7213_PHILIPS
 main,Philips,F 7215,added_1.4,philips-0014,https://archive.org/details/manual_F7215_SM_PHILIPS_EN
-main,Philips,GA 407,document_unverified,,https://www.hifi-wiki.de/index.php/Philips_GA_407
+main,Philips,GA 407,deferred_1.5,,https://www.manualslib.com/manual/4341211/Philips-Ga-207.html
 main,Pioneer,PL-05,added_1.4,pioneer-0035,https://www.manualslib.com/manual/999393/Pioneer-Pl-05.html
 main,Pioneer,PL-10,added_1.4,pioneer-0036,https://www.manualslib.com/manual/4253529/Pioneer-Pl-10.html
 main,Pioneer,PL-100,added_1.4,pioneer-0037,https://www.manualslib.com/manual/888675/Pioneer-Pl-100.html
@@ -817,7 +817,7 @@ main,Sansui,FR-D 35,added_1.4,sansui-0006,https://www.hifi-wiki.de/images/f/fe/S
 main,Sansui,FR-D 4,added_1.4,sansui-0007,https://www.manualslib.com/manual/3399682/Sansui-Fr-D4.html
 main,Sansui,FR-D 55,added_1.4,sansui-0008,https://www.manualslib.com/manual/4069697/Sansui-Fr-D55.html
 main,Sansui,FR-Q 5,added_1.4,sansui-0009,https://www.manualslib.com/manual/4233433/Sansui-Fr-Q5.html
-main,Sansui,P-L 35,document_unverified,,https://www.hifi-wiki.de/index.php/Sansui_P-L_35
+main,Sansui,P-L 35,deferred_1.5,,https://www.manualslib.com/manual/4249632/Sansui-P-L35.html
 main,Sansui,P-L 95R,added_1.4,sansui-0021,https://www.manualslib.com/manual/4093211/Sansui-P-L95r.html
 main,Sansui,SR-1050 C,variant_or_scope,,https://www.hifi-wiki.de/index.php/Sansui_SR-1050_C
 main,Sansui,SR-2020 BC,variant_or_scope,,https://www.hifi-wiki.de/index.php/Sansui_SR-2020_BC
@@ -879,7 +879,7 @@ main,Thorens,TD 160,added,thorens-0013,https://www.thorens.com/en/history.html
 main,Thorens,TD 160 HD,added_1.4,thorens-0030,https://www.manualslib.com/manual/461426/Thorens-Td-160-Hd.html
 main,Thorens,TD 160 MK II,identity_unresolved,,https://www.hifi-wiki.de/index.php/Thorens_TD_160_MK_II
 main,Thorens,TD 160 Super,identity_unresolved,,https://www.hifi-wiki.de/index.php/Thorens_TD_160_Super
-main,Thorens,TD 1601,document_unverified,,https://www.hifi-wiki.de/index.php/Thorens_TD_1601
+main,Thorens,TD 1601,added_1.5,thorens-0060,https://www.thorens.com/assets/downloads/TD%201601/en/td1601.pdf
 main,Thorens,TD 165,added_1.4,thorens-0031,https://archive.org/details/manual_TD165_OM_THORENS_DE_EN
 main,Thorens,TD 166,added_1.4,thorens-0032,https://www.manualslib.com/manual/4368763/Thorens-Td-166.html
 main,Thorens,TD 166 MK II,added_1.4,thorens-0033,https://www.manualslib.com/manual/4268433/Thorens-Td-166-Mkii.html
@@ -891,7 +891,7 @@ main,Thorens,TD 190,identity_unresolved,,https://www.hifi-wiki.de/index.php/Thor
 main,Thorens,TD 190-1,identity_unresolved,,https://www.hifi-wiki.de/index.php/Thorens_TD_190-1
 main,Thorens,TD 2001,added_1.4,thorens-0036,https://www.manualslib.com/manual/1868606/Thorens-Td-2001.html
 main,Thorens,TD 2015,identity_unresolved,,https://www.manualslib.com/brand/thorens/turntable.html
-main,Thorens,TD 209,document_unverified,,https://www.manualslib.com/brand/thorens/turntable.html
+main,Thorens,TD 209,added_1.5,thorens-0061,https://www.studio-22.com/pdf/specifications_td206209_en.pdf
 main,Thorens,TD 224,added_1.4,thorens-0039,https://www.manualslib.com/manual/4129901/Thorens-Td-224.html
 main,Thorens,TD 235,added_1.4,thorens-0041,https://www.manualslib.com/manual/1693864/Thorens-Td-235.html
 main,Thorens,TD 240,added_1.4,thorens-0042,https://www.manualslib.com/manual/461424/Thorens-Td-240.html
@@ -929,7 +929,7 @@ main,Yamaha,P-520,added_1.4,yamaha-0022,https://www.manualslib.com/manual/341364
 main,Yamaha,P-850,added_1.4,yamaha-0024,https://www.manualslib.com/manual/341365/Yamaha-P-850.html
 main,Yamaha,TT-S303,identity_unresolved,,https://www.hifi-wiki.de/index.php/Yamaha_TT-S303
 main,Yamaha,YP-500,identity_unresolved,,https://www.hifi-wiki.de/index.php/Yamaha_YP-500
-main,Yamaha,YP-511,document_unverified,,https://www.hifi-wiki.de/index.php/Yamaha_YP-511
+main,Yamaha,YP-511,deferred_1.5,,https://www.manualslib.com/manual/4264253/Yamaha-Yp-511.html
 main,Yamaha,YP-B 2,added_1.4,yamaha-0025,https://www.hifi-wiki.de/images/d/d5/Yamaha_YP-B_2-Prospekt-1.jpg
 main,Yamaha,YP-D 8,added_1.4,yamaha-0026,https://www.manualslib.com/manual/4270467/Yamaha-Yp-D8.html
 main,Audio-Technica,AT-LP120BK-USB,variant_or_scope,,https://www.manualslib.com/brand/audio-technica/turntable.html
@@ -946,12 +946,12 @@ main,Audio-Technica,AT-LP60-USB,identity_unresolved,,https://www.manualslib.com/
 main,Audio-Technica,AT-LP60BK,variant_or_scope,,https://www.manualslib.com/brand/audio-technica/turntable.html
 main,Audio-Technica,AT-LP60BK-BT,identity_unresolved,,https://www.manualslib.com/brand/audio-technica/turntable.html
 main,Audio-Technica,AT-LP60SPBTBKE,identity_unresolved,,https://www.manualslib.com/brand/audio-technica/turntable.html
-main,Audio-Technica,AT-LP60X-BW,document_unverified,,https://www.manualslib.com/brand/audio-technica/turntable.html
+main,Audio-Technica,AT-LP60X-BW,related_1.5,audio-technica-0001,https://docs.audio-technica.com/all/Vol8.Giradiscos_2024-octubre2.pdf
 main,Audio-Technica,AT-LP60X-RD,variant_or_scope,,https://www.manualslib.com/brand/audio-technica/turntable.html
 main,Audio-Technica,AT-LP60XBK,variant_or_scope,,https://www.manualslib.com/brand/audio-technica/turntable.html
 main,Audio-Technica,AT-LP60xBTB,no_primary_match,,https://www.manua.ls/audio/turntables?p=3
 main,Audio-Technica,AT-LP60XHP,variant_or_scope,,https://www.manualslib.com/brand/audio-technica/turntable.html
-main,Audio-Technica,AT-LP60XHP-GM,document_unverified,,https://www.manualslib.com/brand/audio-technica/turntable.html
+main,Audio-Technica,AT-LP60XHP-GM,excluded_1.5,,https://docs.audio-technica.com/us/at_lp60xhp_um_162501373_v1_en_web_190609.pdf
 main,Audio-Technica,AT-LP70XBTWS,identity_unresolved,,https://www.manualslib.com/brand/audio-technica/turntable.html
 main,Audio-Technica,AT-LP7X,existing,audio-technica-0011,https://www.audio-technica.co.jp/product/AT-LP7X
 main,Audio-Technica,AT-LPA2,added_1.4,audio-technica-0029,https://www.manualslib.com/manual/3789234/Audio-Technica-At-Lpa2.html
@@ -1017,10 +1017,10 @@ main,Pro-Ject,X2-BL,identity_unresolved,,https://www.manualslib.com/brand/pro-je
 main,Pro-Ject,X2-SB,identity_unresolved,,https://www.manualslib.com/brand/pro-ject-audio-systems/turntable.html
 main,Pro-Ject,X2-SW,identity_unresolved,,https://www.manualslib.com/brand/pro-ject-audio-systems/turntable.html
 main,Pro-Ject,X2-WA,variant_or_scope,,https://www.manualslib.com/brand/pro-ject-audio-systems/turntable.html
-main,Pro-Ject,Xtension,document_unverified,,https://www.manualslib.com/brand/pro-ject-audio-systems/turntable.html
-main,Pro-Ject,Xtension Ortofon AS,document_unverified,,https://www.manualslib.com/brand/pro-ject-audio-systems/turntable.html
-main,Pro-Ject,Xtension Ortofon RS,document_unverified,,https://www.manualslib.com/brand/pro-ject-audio-systems/turntable.html
-main,Pro-Ject,Xtension Ortofon RS\AS,document_unverified,,https://www.manualslib.com/brand/pro-ject-audio-systems/turntable.html
+main,Pro-Ject,Xtension,deferred_1.5,,https://www.manualslib.com/manual/662535/Pro-Ject-Audio-Systems-Pro-Ject-Xtension.html
+main,Pro-Ject,Xtension Ortofon AS,excluded_1.5,,https://www.manualslib.com/manual/662535/Pro-Ject-Audio-Systems-Pro-Ject-Xtension.html
+main,Pro-Ject,Xtension Ortofon RS,excluded_1.5,,https://www.manualslib.com/manual/662535/Pro-Ject-Audio-Systems-Pro-Ject-Xtension.html
+main,Pro-Ject,Xtension Ortofon RS\AS,excluded_1.5,,https://www.manualslib.com/manual/662535/Pro-Ject-Audio-Systems-Pro-Ject-Xtension.html
 main,Pro-Ject,Xtensions 9 S-Shape,identity_unresolved,,https://www.manualslib.com/brand/pro-ject-audio-systems/turntable.html
 main,Rega,P1,existing,rega-0016,https://www.rega.co.uk/about/timeline
 main,Rega,P1 planar one,variant_or_scope,,https://www.manualslib.com/brand/rega/turntable.html
@@ -1050,7 +1050,7 @@ main,Sony,PS-20 F,identity_unresolved,,https://www.hifi-wiki.de/index.php/Sony_P
 main,Sony,PS-212,added_1.4,sony-0019,https://www.manualslib.com/manual/4366090/Sony-Ps-212.html
 main,Sony,PS-212A,variant_or_scope,,https://www.manualslib.com/brand/sony/turntable.html
 main,Sony,PS-230,added_1.4,sony-0022,https://www.hifi-wiki.de/images/7/75/Sony_PS-110-160-230-Prospekt-1.jpg
-main,Sony,PS-2350,document_unverified,,https://www.manualslib.com/brand/sony/turntable.html
+main,Sony,PS-2350,deferred_1.5,,https://manualmachine.com/sony/ps2350/3242431-service-manual/
 main,Sony,PS-252,added_1.4,sony-0024,https://www.manualslib.com/manual/4374597/Sony-Ps-252.html
 main,Sony,PS-434,identity_unresolved,,https://www.hifi-wiki.de/index.php/Sony_PS-434
 main,Sony,PS-A790,added_1.4,sony-0035,https://www.manualslib.com/manual/4216279/Sony-Ps-A790.html
@@ -1096,33 +1096,33 @@ main,Sony,PS-LX295,added_1.4,sony-0058,https://www.manualslib.com/manual/3927940
 main,Sony,PS-LX2C,variant_or_scope,,https://www.manualslib.com/brand/sony/turntable.html
 main,Sony,PS-LX300USB - USB Stereo Turntable System,matched_existing,sony-0005,https://www.manualslib.com/manual/250476/Sony-Ps-Lx300usb.html
 main,Sony,PS-LX310C,variant_or_scope,,https://www.manualslib.com/brand/sony/turntable.html
-main,Sony,PS-LX311,document_unverified,,https://www.manualslib.com/brand/sony/turntable.html
+main,Sony,PS-LX311,deferred_1.5,,https://www.manualslib.com/manual/4174613/Sony-Ps-Lx310.html
 main,Sony,PS-LX320,added_1.4,sony-0062,https://www.manualslib.com/manual/3487118/Sony-Ps-Lx320.html
 main,Sony,PS-LX330,added_1.4,sony-0064,https://www.manualslib.com/manual/3548992/Sony-Ps-Lx330.html
 main,Sony,PS-LX330P,variant_or_scope,,https://www.manualslib.com/brand/sony/turntable.html
 main,Sony,PS-LX33B,variant_or_scope,,https://www.manualslib.com/brand/sony/turntable.html
 main,Sony,PS-LX33C,variant_or_scope,,https://www.manualslib.com/brand/sony/turntable.html
 main,Sony,PS-LX340,added_1.4,sony-0065,https://www.manualslib.com/manual/3937081/Sony-Ps-Lx340.html
-main,Sony,PS-LX35P,document_unverified,,https://www.manualslib.com/brand/sony/turntable.html
+main,Sony,PS-LX35P,deferred_1.5,,https://www.manualslib.com/manual/4272323/Sony-Ps-Lx35p.html
 main,Sony,PS-LX40,added_1.4,sony-0067,https://www.manualslib.com/manual/3488247/Sony-Ps-Lx40.html
 main,Sony,PS-LX40P,variant_or_scope,,https://www.manualslib.com/brand/sony/turntable.html
 main,Sony,PS-LX430,added_1.4,sony-0068,https://www.manualslib.com/manual/964498/Sony-Ps-Lx430.html
 main,Sony,PS-LX430C,variant_or_scope,,https://www.manualslib.com/brand/sony/turntable.html
 main,Sony,PS-LX431D,variant_or_scope,,https://www.manualslib.com/brand/sony/turntable.html
 main,Sony,PS-LX431N,variant_or_scope,,https://www.manualslib.com/brand/sony/turntable.html
-main,Sony,PS-LX433,document_unverified,,https://www.manualslib.com/brand/sony/turntable.html
+main,Sony,PS-LX433,deferred_1.5,,https://www.manualslib.com/manual/964498/Sony-Ps-Lx430.html
 main,Sony,PS-LX43P,identity_unresolved,,https://www.manualslib.com/brand/sony/turntable.html
 main,Sony,PS-LX44P,identity_unresolved,,https://www.manualslib.com/brand/sony/turntable.html
 main,Sony,PS-LX45,added_1.4,sony-0070,https://www.manualslib.com/manual/4374601/Sony-Ps-Lx45.html
 main,Sony,PS-LX45P,variant_or_scope,,https://www.manualslib.com/brand/sony/turntable.html
 main,Sony,PS-LX46,added_1.4,sony-0071,https://www.manualslib.com/manual/4184997/Sony-Ps-Lx46.html
 main,Sony,PS-LX46P,variant_or_scope,,https://www.manualslib.com/brand/sony/turntable.html
-main,Sony,PS-LX47P,document_unverified,,https://www.manualslib.com/brand/sony/turntable.html
+main,Sony,PS-LX47P,deferred_1.5,,https://www.manualslib.com/manual/4184997/Sony-Ps-Lx46.html
 main,Sony,PS-LX49,added_1.4,sony-0072,https://www.manualslib.com/manual/1056907/Sony-Ps-Lx49.html
 main,Sony,PS-LX49P,variant_or_scope,,https://www.manualslib.com/brand/sony/turntable.html
 main,Sony,PS-LX500C,variant_or_scope,,https://www.manualslib.com/brand/sony/turntable.html
 main,Sony,PS-LX50P,variant_or_scope,,https://www.manualslib.com/brand/sony/turntable.html
-main,Sony,PS-LX51,document_unverified,,https://www.manualslib.com/brand/sony/turntable.html
+main,Sony,PS-LX51,added_1.5,sony-0111,https://www.manualslib.com/manual/4170040/Sony-Ps-Lx51.html
 main,Sony,PS-LX51P,variant_or_scope,,https://www.manualslib.com/brand/sony/turntable.html
 main,Sony,PS-LX52P,variant_or_scope,,https://www.manualslib.com/brand/sony/turntable.html
 main,Sony,PS-LX52Y,variant_or_scope,,https://www.manualslib.com/brand/sony/turntable.html
@@ -1284,7 +1284,7 @@ main,Technics,SL-7 EG,variant_or_scope,,https://www.manualslib.com/brand/technic
 main,Technics,SL-7 EK,variant_or_scope,,https://www.manualslib.com/brand/technics/turntable.html
 main,Technics,SL-7 XA,variant_or_scope,,https://www.manualslib.com/brand/technics/turntable.html
 main,Technics,SL-7 XL,variant_or_scope,,https://www.manualslib.com/brand/technics/turntable.html
-main,Technics,SL-7210M3D,document_unverified,,https://www.manualslib.com/brand/technics/turntable.html
+main,Technics,SL-7210M3D,deferred_1.5,,https://www.manualslib.com/manual/4516554/Technics-Sl-7210m3d.html
 main,Technics,SL-7K,variant_or_scope,,https://www.manualslib.com/brand/technics/turntable.html
 main,Technics,SL-7K E,variant_or_scope,,https://www.manualslib.com/brand/technics/turntable.html
 main,Technics,SL-B 100,no_primary_match,,https://www.hifi-wiki.de/index.php/Technics_SL-B_100
@@ -1553,10 +1553,10 @@ main,Aiwa,AP-D 35,no_primary_match,,https://www.hifi-wiki.de/index.php/Aiwa_AP-D
 main,Aiwa,AP-D 50,added_1.4,aiwa-0006,https://www.hifi-wiki.de/images/4/4a/Aiwa_AP-D_50-Prospekt-1.jpg
 main,Aiwa,AP-D 60,no_primary_match,,https://www.hifi-wiki.de/index.php/Aiwa_AP-D_60
 main,Aiwa,AP-D 80,no_primary_match,,https://www.hifi-wiki.de/index.php/Aiwa_AP-D_80
-main,Aiwa,AP-S400E,document_unverified,,https://www.manualslib.com/brand/aiwa/turntable.html
-main,Aiwa,AP-S400G,document_unverified,,https://www.manualslib.com/brand/aiwa/turntable.html
+main,Aiwa,AP-S400E,deferred_1.5,,https://www.manualslib.com/manual/3582008/Aiwa-Ap-S400h.html
+main,Aiwa,AP-S400G,deferred_1.5,,https://www.manualslib.com/manual/3582008/Aiwa-Ap-S400h.html
 main,Aiwa,AP-S400H,added_1.4,aiwa-0007,https://www.manualslib.com/manual/3582008/Aiwa-Ap-S400h.html
-main,Aiwa,AP-S400K,document_unverified,,https://www.manualslib.com/brand/aiwa/turntable.html
+main,Aiwa,AP-S400K,deferred_1.5,,https://www.manualslib.com/manual/3582008/Aiwa-Ap-S400h.html
 main,Aiwa,APX-790BT,no_primary_match,,https://www.manua.ls/audio/turntables?p=4
 main,Aiwa,LP-3000E,variant_or_scope,,https://www.manualslib.com/brand/aiwa/turntable.html
 main,Aiwa,LP-3000G,variant_or_scope,,https://www.manualslib.com/brand/aiwa/turntable.html
@@ -1569,10 +1569,10 @@ main,Aiwa,LX-330,added_1.4,aiwa-0010,https://www.manualslib.com/manual/3451244/A
 main,Aiwa,LX-70,no_primary_match,,https://www.hifi-wiki.de/index.php/Aiwa_LX-70
 main,Aiwa,LX-80 EB,variant_or_scope,,https://www.manualslib.com/brand/aiwa/turntable.html
 main,Aiwa,LX-80 HB,variant_or_scope,,https://www.manualslib.com/brand/aiwa/turntable.html
-main,Aiwa,LX-80 KB,document_unverified,,https://www.manualslib.com/brand/aiwa/turntable.html
-main,Aiwa,LX-80UB,document_unverified,,https://www.manualslib.com/brand/aiwa/turntable.html
+main,Aiwa,LX-80 KB,deferred_1.5,,https://www.manualslib.com/manual/3993104/Aiwa-Lx-80-Hb.html
+main,Aiwa,LX-80UB,deferred_1.5,,https://www.manualslib.com/manual/3993104/Aiwa-Lx-80-Hb.html
 main,Aiwa,PX-3,identity_unresolved,,https://www.manualslib.com/brand/aiwa/turntable.html
-main,Aiwa,PX-30,document_unverified,,https://www.manualslib.com/brand/aiwa/turntable.html
+main,Aiwa,PX-30,deferred_1.5,,https://www.manualslib.com/manual/4339247/Aiwa-Px-3.html
 main,Aiwa,PX-E45,added_1.4,aiwa-0012,https://archive.org/details/manual_PXE45_SM_AIWA_EN
 main,Aiwa,PX-E75,identity_unresolved,,https://www.manualslib.com/brand/aiwa/turntable.html
 main,Aiwa,PX-E80,added_1.4,aiwa-0013,https://www.manualslib.com/manual/3450605/Aiwa-Px-E80.html
@@ -1582,7 +1582,7 @@ main,Aiwa,PX-E850EZ,variant_or_scope,,https://www.hifi-wiki.de/index.php/Aiwa_PX
 main,Aiwa,PX-E850H,variant_or_scope,,https://www.manualslib.com/brand/aiwa/turntable.html
 main,Aiwa,PX-E850HE,variant_or_scope,,https://www.manualslib.com/brand/aiwa/turntable.html
 main,Aiwa,PX-E850K,variant_or_scope,,https://www.manualslib.com/brand/aiwa/turntable.html
-main,Aiwa,PX-E855EZ,document_unverified,,https://www.manualslib.com/brand/aiwa/turntable.html
+main,Aiwa,PX-E855EZ,deferred_1.5,,https://www.manualslib.com/manual/652211/Aiwa-Px-E855zz.html
 main,Aiwa,PX-E855ZZ,variant_or_scope,,https://www.manualslib.com/brand/aiwa/turntable.html
 main,Aiwa,PX-E860,added_1.4,aiwa-0015,https://www.manualslib.com/manual/207101/Aiwa-Px-E860.html
 main,Aiwa,PX-E860EZ,variant_or_scope,,https://www.manualslib.com/brand/aiwa/turntable.html
@@ -1686,7 +1686,7 @@ main,Bang & Olufsen,BEOGRAM BG 1902 TYPE 5711,no_primary_match,,https://www.hifi
 main,Bang & Olufsen,Beogram RX2,no_primary_match,,https://recordplayerhub.com/players/
 main,Bang & Olufsen,Beogram TX2,no_primary_match,,https://recordplayerhub.com/players/
 main,BASF,8120,added_1.4,basf-0001,https://www.hifi-wiki.de/images/e/e5/BASF_8120-Prospekt-1.jpg
-main,Benytone,MP-3200,document_unverified,,https://www.hifi-wiki.de/index.php/Benytone_MP-3200
+main,Benytone,MP-3200,deferred_1.5,,https://www.manualslib.com/manual/4625933/Benytone-Mp3200.html
 main,Blaupunkt,AP-6750,identity_unresolved,,https://www.hifi-wiki.de/index.php/Blaupunkt_AP-6750
 main,Blaupunkt,P-110,added_1.4,blaupunkt-0001,https://www.hifi-wiki.de/images/1/1b/Blaupunkt_P-110-Prospekt-1.jpg
 main,Blaupunkt,P-150,no_primary_match,,https://www.hifi-wiki.de/index.php/Blaupunkt_P-150
@@ -1699,7 +1699,7 @@ main,Blaupunkt,XQ-240,identity_unresolved,,https://www.hifi-wiki.de/index.php/Bl
 main,Blaupunkt,XQ-2400,identity_unresolved,,https://www.hifi-wiki.de/index.php/Blaupunkt_XQ-2400
 main,Braun,Atelier P 1,identity_unresolved,,https://www.hifi-wiki.de/index.php/Braun_Atelier_P_1
 main,Braun,Atelier P 2,identity_unresolved,,https://www.hifi-wiki.de/index.php/Braun_Atelier_P_2
-main,Braun,Atelier P 3,document_unverified,,https://www.hifi-wiki.de/index.php/Braun_Atelier_P_3
+main,Braun,Atelier P 3,deferred_1.5,,https://www.hifi-wiki.de/images/7/7e/Braun_Atelier_P3-1.jpg
 main,Braun,Atelier P 4,identity_unresolved,,https://www.hifi-wiki.de/index.php/Braun_Atelier_P_4
 main,Braun,P 501,no_primary_match,,https://www.hifi-wiki.de/index.php/Braun_P_501
 main,Braun,P 701,added_1.4,braun-0001,https://www.hifi-wiki.de/images/e/ec/Braun_P_701-Prospekt-1.jpg
@@ -1715,12 +1715,12 @@ main,Braun,PS 358,added_1.4,braun-0005,https://archive.org/details/manual_PS358_
 main,Braun,PS 400,no_primary_match,,https://www.hifi-wiki.de/index.php/Braun_PS_400
 main,Braun,PS 402,no_primary_match,,https://www.hifi-wiki.de/index.php/Braun_PS_402
 main,Braun,PS 410,no_primary_match,,https://www.hifi-wiki.de/index.php/Braun_PS_410
-main,Braun,PS 420,document_unverified,,https://www.hifi-wiki.de/index.php/Braun_PS_420
+main,Braun,PS 420,added_1.5,braun-0011,https://archive.org/download/manual_PS420_SM_BRAUN_DE/PS420_SM_BRAUN_DE_text.pdf
 main,Braun,PS 430,no_primary_match,,https://www.hifi-wiki.de/index.php/Braun_PS_430
 main,Braun,PS 450,added_1.4,braun-0006,https://archive.org/details/manual_PS450_SM_BRAUN_DE
 main,Braun,PS 458,added_1.4,braun-0007,https://www.hifi-wiki.de/images/a/a7/Braun_PS-450-458-Prospekt-1.jpg
 main,Braun,PS 500,added_1.4,braun-0008,https://archive.org/details/manual_PS500_SM_BRAUN
-main,Braun,PS 550,document_unverified,,https://www.hifi-wiki.de/index.php/Braun_PS_550
+main,Braun,PS 550,deferred_1.5,,https://archive.org/details/manual_PS550_SM_BRAUN
 main,Braun,PS 550 S,added_1.4,braun-0009,https://www.hifi-wiki.de/images/5/5a/Braun_PS-550_S-Prospekt-1.jpg
 main,Braun,PS 600,no_primary_match,,https://www.hifi-wiki.de/index.php/Braun_PS_600
 main,Braun,PSQ 500,added_1.4,braun-0010,https://www.hifi-wiki.de/images/f/f6/Braun_PS-PSQ-500-Prospekt-1.jpg
@@ -1770,11 +1770,11 @@ main,Clearaudio,Champion,identity_unresolved,,https://www.hifi-wiki.de/index.php
 main,Clearaudio,Concept,added_1.4,clearaudio-0001,https://www.manualslib.com/manual/628262/Clearaudio-Concept.html
 main,Clearaudio,Concept Signature,added_1.4,clearaudio-0002,https://www.manualslib.com/manual/3358761/Clearaudio-Concept-Signature.html
 main,Clearaudio,Innovation,added_1.4,clearaudio-0003,https://www.clearaudio.de/en/produkt-laufwerk-innovation/
-main,Clearaudio,Performance,document_unverified,,https://www.hifi-wiki.de/index.php/Clearaudio_Performance
+main,Clearaudio,Performance,deferred_1.5,,https://www.manualslib.com/manual/762128/Clearaudio-Peerformance.html
 main,Clearaudio,Performance DC,added_1.4,clearaudio-0004,https://www.manualslib.com/manual/724318/Clearaudio-Performance-Dc.html
 main,Connoisseur,BD1,identity_unresolved,,https://recordplayerhub.com/players/
 main,Connoisseur,BD2,no_primary_match,,https://recordplayerhub.com/players/
-main,Coral,CP-701,document_unverified,,https://www.hifi-wiki.de/index.php/Coral_CP-701
+main,Coral,CP-701,deferred_1.5,,https://www.hifi-wiki.de/images/1/1e/Coral_CP-701-1965.jpg
 main,Crosley,Aria CR7019A,variant_or_scope,,https://www.manua.ls/audio/turntables?p=13
 main,Crosley,Beck CR6049A,variant_or_scope,,https://www.manua.ls/audio/turntables
 main,Crosley,C100A,variant_or_scope,,https://www.manualslib.com/brand/crosley/turntable.html
@@ -1830,12 +1830,12 @@ main,Crosley,CR6034B,variant_or_scope,,https://www.manualslib.com/brand/crosley/
 main,Crosley,CR6035A,added_1.4,crosley-0025,https://www.manualslib.com/manual/3889533/Crosley-Cr6035a.html
 main,Crosley,CR6035B,variant_or_scope,,https://www.manualslib.com/brand/crosley/turntable.html
 main,Crosley,CR6037A,identity_unresolved,,https://www.manualslib.com/brand/crosley/turntable.html
-main,Crosley,CR6037BT,document_unverified,,https://www.manualslib.com/brand/crosley/turntable.html
+main,Crosley,CR6037BT,added_1.5,crosley-0045,https://fccid.io/m/0e6075f5b8ab8c7d5fc366fe2623d6a0fbafddc51c0afb89de389ccabe703e19.pdf
 main,Crosley,CR6038A,added_1.4,crosley-0026,https://www.manualslib.com/manual/2345085/Crosley-Cr6038a.html
 main,Crosley,CR6038B,variant_or_scope,,https://www.manualslib.com/brand/crosley/turntable.html
 main,Crosley,CR6039U,variant_or_scope,,https://www.manualslib.com/brand/crosley/turntable.html
 main,Crosley,CR6040A,added_1.4,crosley-0027,https://www.manualslib.com/manual/2684838/Crosley-Cr6040a.html
-main,Crosley,CR6041A,document_unverified,,https://www.manualslib.com/brand/crosley/turntable.html
+main,Crosley,CR6041A,deferred_1.5,,https://www.manualslib.com/manual/2339461/Crosley-Cr6041a.html
 main,Crosley,CR6042A,added_1.4,crosley-0028,https://www.manualslib.com/manual/2787453/Crosley-Cr6042a.html
 main,Crosley,CR6043A,added_1.4,crosley-0029,https://www.manualslib.com/manual/2650630/Crosley-Cr6043a.html
 main,Crosley,CR6045A,added_1.4,crosley-0030,https://www.manualslib.com/manual/4086007/Crosley-Cr6045a.html
@@ -1849,7 +1849,7 @@ main,Crosley,CR6234A,identity_unresolved,,https://www.manualslib.com/brand/crosl
 main,Crosley,CR6235A,identity_unresolved,,https://www.manualslib.com/brand/crosley/turntable.html
 main,Crosley,CR6236A,added_1.4,crosley-0033,https://www.manualslib.com/manual/2899805/Crosley-Cr6236a.html
 main,Crosley,CR6237A,identity_unresolved,,https://www.manualslib.com/brand/crosley/turntable.html
-main,Crosley,CR6249A,document_unverified,,https://www.manualslib.com/brand/crosley/turntable.html
+main,Crosley,CR6249A,added_1.5,crosley-0046,https://images.restorationhardware.com/content/catalog/product/pdfs/prod4640177_info.pdf
 main,Crosley,CR6249U,variant_or_scope,,https://www.manualslib.com/brand/crosley/turntable.html
 main,Crosley,CR6250A,added_1.4,crosley-0034,https://www.manualslib.com/manual/1171446/Crosley-Cr6250a.html
 main,Crosley,CR6251A,identity_unresolved,,https://www.manualslib.com/brand/crosley/turntable.html
@@ -1941,7 +1941,7 @@ main,Denon,DP-100,identity_unresolved,,https://www.hifi-wiki.de/index.php/Denon_
 main,Denon,DP-100 M,identity_unresolved,,https://www.hifi-wiki.de/index.php/Denon_DP-100_M
 main,Denon,DP-1100,added_1.4,denon-0012,https://www.manualslib.com/manual/4234459/Denon-Dp-1100.html
 main,Denon,DP-1200,added_1.4,denon-0014,https://archive.org/details/manual_DP1200_SM_DENON_EN
-main,Denon,DP-1250,document_unverified,,https://www.manualslib.com/brand/denon/turntable.html
+main,Denon,DP-1250,excluded_1.5,,https://www.manualslib.com/manual/4234459/Denon-Dp-1100.html
 main,Denon,DP-15 F,added_1.4,denon-0015,https://www.hifi-wiki.de/images/f/fc/Denon_DP-15_F-Prospekt-1989.jpg
 main,Denon,DP-1500,no_primary_match,,https://www.hifi-wiki.de/index.php/Denon_DP-1500
 main,Denon,DP-1700,no_primary_match,,https://www.hifi-wiki.de/index.php/Denon_DP-1700
@@ -1954,7 +1954,7 @@ main,Denon,DP-30L,added_1.4,denon-0018,https://www.manualslib.com/manual/4069709
 main,Denon,DP-31 F,no_primary_match,,https://www.hifi-wiki.de/index.php/Denon_DP-31_F
 main,Denon,DP-31L,added_1.4,denon-0020,https://www.manualslib.com/manual/4363257/Denon-Dp-31l.html
 main,Denon,DP-32 F,identity_unresolved,,https://www.hifi-wiki.de/index.php/Denon_DP-32_F
-main,Denon,DP-33 F,document_unverified,,https://www.hifi-wiki.de/index.php/Denon_DP-33_F
+main,Denon,DP-33 F,added_1.5,denon-0039,https://archive.org/download/manual_DP33F_SERIES_DENON/DP33F_SERIES_DENON.pdf
 main,Denon,DP-3500,no_primary_match,,https://www.hifi-wiki.de/index.php/Denon_DP-3500
 main,Denon,DP-3500F,identity_unresolved,,https://www.manualslib.com/brand/denon/turntable.html
 main,Denon,DP-3700,no_primary_match,,https://www.hifi-wiki.de/index.php/Denon_DP-3700
@@ -1968,7 +1968,7 @@ main,Denon,DP-61 F,added_1.4,denon-0028,https://archive.org/details/manual_DP61F
 main,Denon,DP-7 F,no_primary_match,,https://www.hifi-wiki.de/index.php/Denon_DP-7_F
 main,Denon,DP-70 L,no_primary_match,,https://www.hifi-wiki.de/index.php/Denon_DP-70_L
 main,Denon,DP-70 M,no_primary_match,,https://www.hifi-wiki.de/index.php/Denon_DP-70_M
-main,Denon,DP-75 M,document_unverified,,https://www.hifi-wiki.de/index.php/Denon_DP-75_M
+main,Denon,DP-75 M,added_1.5,denon-0038,https://www.hifi-wiki.de/images/0/01/Denon_DP-75_M-Prospekt-1.jpg
 main,Denon,DP-790,no_primary_match,,https://www.hifi-wiki.de/index.php/Denon_DP-790
 main,Denon,DP-80,variant_or_scope,,https://www.manualslib.com/brand/denon/turntable.html
 main,Denon,DP-900 M,no_primary_match,,https://www.hifi-wiki.de/index.php/Denon_DP-900_M
@@ -1976,7 +1976,7 @@ main,Denon,DP-DJ101,added_1.4,denon-0033,https://www.manualslib.com/manual/26523
 main,Denon,DP-DJ151,added_1.4,denon-0034,https://www.manualslib.com/manual/1222422/Denon-Dp-Dj151.html
 main,Denon,DP29F - DP 29F Turntable,matched_existing,denon-0009,https://www.manualslib.com/manual/435934/Denon-Dp29f-Dp-29f-Turntable.html
 main,Denon,DP400BK,variant_or_scope,,https://www.manualslib.com/brand/denon/turntable.html
-main,Denon,DP400WH,document_unverified,,https://www.manualslib.com/brand/denon/turntable.html
+main,Denon,DP400WH,deferred_1.5,,https://www.manualslib.com/manual/2683982/Denon-Dp400bk.html
 main,Denon,GT-300,added_1.4,denon-0035,https://www.hifi-wiki.de/images/5/50/Denon_GT-300-700-750-DP-1200-2500-Daten.jpg
 main,Denon,GT-700,added_1.4,denon-0036,https://www.hifi-wiki.de/images/5/50/Denon_GT-300-700-750-DP-1200-2500-Daten.jpg
 main,Denon,GT-750,added_1.4,denon-0037,https://www.hifi-wiki.de/images/5/50/Denon_GT-300-700-750-DP-1200-2500-Daten.jpg
@@ -1984,9 +1984,9 @@ main,Dereneville,VPM 2010-1,no_primary_match,,https://www.hifi-wiki.de/index.php
 main,Dr. Feickert,Analogue Blackbird,added_1.4,dr-feickert-analogue-0001,https://feickert.de/en/turntables.html
 main,Dr. Feickert,Analogue Volare,added_1.4,dr-feickert-analogue-0002,https://feickert.de/en/turntables.html
 main,Dr. Feickert,Analogue Woodpecker,added_1.4,dr-feickert-analogue-0003,https://feickert.de/en/turntables.html
-main,Dual,1006,document_unverified,,https://www.manualslib.com/brand/dual/turntable.html
+main,Dual,1006,added_1.5,dual-0128,https://www.manualslib.com/manual/4371917/Dual-1006.html
 main,Dual,1007,identity_unresolved,,https://www.manualslib.com/brand/dual/turntable.html
-main,Dual,1008,document_unverified,,https://www.manualslib.com/brand/dual/turntable.html
+main,Dual,1008,added_1.5,dual-0129,https://www.manualslib.de/manual/1185752/Dual-1008.html
 main,Dual,1009,existing,dual-0010,https://dual.de/wp-content/uploads/ServiceManual_1009.pdf
 main,Dual,1010,existing,dual-0011,https://dual.de/wp-content/uploads/ServiceManual_1010.pdf
 main,Dual,1010 F,added,dual-0043,https://dual.de/wp-content/uploads/ServiceManual_1010F.pdf
@@ -2084,7 +2084,7 @@ main,Dual,CS 70,identity_unresolved,,https://www.hifi-wiki.de/index.php/Dual_CS_
 main,Dual,CS 704,possible_duplicate,,https://www.hifi-wiki.de/index.php/Dual_CS_704
 main,Dual,CS 714 Q MC,no_primary_match,,https://www.hifi-wiki.de/index.php/Dual_CS_714_Q_MC
 main,Dual,CS 731 Q MC,no_primary_match,,https://www.hifi-wiki.de/index.php/Dual_CS_731_Q_MC
-main,Dual,CS 741C,document_unverified,,https://www.manualslib.com/brand/dual/turntable.html
+main,Dual,CS 741C,deferred_1.5,,https://www.manualslib.com/manual/4342981/Dual-Cs-741c.html
 main,Dual,CS130S,identity_unresolved,,https://www.manualslib.com/brand/dual/turntable.html
 main,Dual,DT 100,no_primary_match,,https://www.hifi-wiki.de/index.php/Dual_DT_100
 main,Dual,DTJ 301.2,no_primary_match,,https://www.hifi-wiki.de/index.php/Dual_DTJ_301.2
@@ -2163,7 +2163,7 @@ main,Fisher,MT-750,added_1.4,fisher-0016,https://www.manualslib.com/manual/33466
 main,Fisher,MT-872,added_1.4,fisher-0017,https://www.manualslib.com/manual/3639247/Fisher-Mt-872.html
 main,Fisher,MT-885R,added_1.4,fisher-0018,https://www.manualslib.com/manual/3958253/Fisher-Mt-885r.html
 main,Fisher,MT-890,added_1.4,fisher-0019,https://www.manualslib.com/manual/4367159/Fisher-Mt-890.html
-main,Fisher,MT-891,document_unverified,,https://www.hifi-wiki.de/index.php/Fisher_MT-891
+main,Fisher,MT-891,deferred_1.5,,https://www.hifi-wiki.de/images/e/e8/8950.jpg
 main,Fisher,MT-9000,identity_unresolved,,https://www.hifi-wiki.de/index.php/Fisher_MT-9000
 main,Fisher,MT-9040,added_1.4,fisher-0020,https://www.hifi-wiki.de/images/6/69/Fisher_MT_Prospekt-1992.jpg
 main,Fisher,MT-9055,added_1.4,fisher-0021,https://www.hifi-wiki.de/images/6/69/Fisher_MT_Prospekt-1992.jpg
@@ -2181,21 +2181,21 @@ main,Garrard,40B,added_1.4,garrard-0008,https://www.manualslib.com/manual/410149
 main,Garrard,440,added_1.4,garrard-0009,https://www.manualslib.com/manual/1165736/Garrard-440.html
 main,Garrard,4HF,added_1.4,garrard-0010,https://www.manualslib.com/manual/4196836/Garrard-4hf.html
 main,Garrard,50 Mk II,identity_unresolved,,https://www.manualslib.com/brand/garrard/turntable.html
-main,Garrard,60 Mk II,document_unverified,,https://www.manualslib.com/brand/garrard/turntable.html
+main,Garrard,60 Mk II,deferred_1.5,,https://www.manualslib.com/manual/4178143/Garrard-50-Mk-Ii.html
 main,Garrard,74M,added_1.4,garrard-0011,https://www.manualslib.com/manual/4047861/Garrard-74m.html
 main,Garrard,80 Mk II,added_1.4,garrard-0012,https://www.manualslib.com/manual/4261605/Garrard-80-Mk-Ii.html
 main,Garrard,AP-76,identity_unresolved,,https://www.hifi-wiki.de/index.php/Garrard_AP-76
 main,Garrard,AT6,added_1.4,garrard-0014,https://www.manualslib.com/manual/1013528/Garrard-At6.html
 main,Garrard,AUTOSLIM LABORATORY A.T.5,identity_unresolved,,https://www.manualslib.com/brand/garrard/turntable.html
 main,Garrard,D-20,identity_unresolved,,https://www.manualslib.com/brand/garrard/turntable.html
-main,Garrard,D-25,document_unverified,,https://www.manualslib.com/brand/garrard/turntable.html
-main,Garrard,D-30,document_unverified,,https://www.manualslib.com/brand/garrard/turntable.html
-main,Garrard,D-35,document_unverified,,https://www.manualslib.com/brand/garrard/turntable.html
+main,Garrard,D-25,added_1.5,garrard-0025,https://relikon.com/vinil/assets/files/Garrard-D20-D25-D30-D35-Owners-Manual.pdf
+main,Garrard,D-30,added_1.5,garrard-0026,https://relikon.com/vinil/assets/files/Garrard-D20-D25-D30-D35-Owners-Manual.pdf
+main,Garrard,D-35,added_1.5,garrard-0027,https://relikon.com/vinil/assets/files/Garrard-D20-D25-D30-D35-Owners-Manual.pdf
 main,Garrard,GT-20 P,no_primary_match,,https://www.hifi-wiki.de/index.php/Garrard_GT-20_P
 main,Garrard,GT-25 P,no_primary_match,,https://www.hifi-wiki.de/index.php/Garrard_GT-25_P
 main,Garrard,GT-35,identity_unresolved,,https://www.manualslib.com/brand/garrard/turntable.html
-main,Garrard,GT55,document_unverified,,https://www.manualslib.com/brand/garrard/turntable.html
-main,Garrard,LAB. 80 Mk II,document_unverified,,https://www.manualslib.com/brand/garrard/turntable.html
+main,Garrard,GT55,added_1.5,garrard-0024,https://www.manualslib.com/manual/4344679/Garrard-Gt55.html?page=5
+main,Garrard,LAB. 80 Mk II,matched_1.5,garrard-0012,https://www.manualslib.com/manual/4261605/Garrard-80-Mk-Ii.html
 main,Garrard,LABORATORY A,added_1.4,garrard-0016,https://www.manualslib.com/manual/4042827/Garrard-Laboratory-A.html
 main,Garrard,Laboratory A70,identity_unresolved,,https://www.manualslib.com/brand/garrard/turntable.html
 main,Garrard,Module Zero 100SB,identity_unresolved,,https://www.manualslib.com/brand/garrard/turntable.html
@@ -2203,16 +2203,16 @@ main,Garrard,MRM-101,no_primary_match,,https://www.hifi-wiki.de/index.php/Garrar
 main,Garrard,R.C. 75A,identity_unresolved,,https://www.manualslib.com/brand/garrard/turntable.html
 main,Garrard,r.c.88 mark II,identity_unresolved,,https://www.manualslib.com/brand/garrard/turntable.html
 main,Garrard,RC88,identity_unresolved,,https://www.manualslib.com/brand/garrard/turntable.html
-main,Garrard,RC98,document_unverified,,https://www.manualslib.com/brand/garrard/turntable.html
-main,Garrard,S.L.55,document_unverified,,https://www.manualslib.com/brand/garrard/turntable.html
-main,Garrard,S.L.65,document_unverified,,https://www.manualslib.com/brand/garrard/turntable.html
+main,Garrard,RC98,deferred_1.5,,https://www.manualslib.com/manual/4347300/Garrard-Rc88.html
+main,Garrard,S.L.55,deferred_1.5,,https://www.manualslib.com/manual/4178143/Garrard-50-Mk-Ii.html
+main,Garrard,S.L.65,deferred_1.5,,https://www.manualslib.com/manual/4178143/Garrard-50-Mk-Ii.html
 main,Garrard,S.P.20,identity_unresolved,,https://www.manualslib.com/brand/garrard/turntable.html
 main,Garrard,SP25 MklII,identity_unresolved,,https://www.manualslib.com/brand/garrard/turntable.html
 main,Garrard,Synchro-Lab 72B,added_1.4,garrard-0018,https://www.manualslib.com/manual/4261106/Garrard-Synchro-Lab-72b.html
 main,Garrard,Synchro-Lab 95B,added_1.4,garrard-0019,https://www.manualslib.com/manual/4264507/Garrard-Synchro-Lab-95b.html
 main,Garrard,ZERO 100C,added_1.4,garrard-0021,https://www.manualslib.com/manual/3602087/Garrard-Zero-100c.html
-main,Garrard,ZERO 100S,document_unverified,,https://www.manualslib.com/brand/garrard/turntable.html
-main,Garrard,ZERO 100SC,document_unverified,,https://www.manualslib.com/brand/garrard/turntable.html
+main,Garrard,ZERO 100S,deferred_1.5,,https://www.manualslib.com/manual/1513961/Garrard-Zero-100.html
+main,Garrard,ZERO 100SC,deferred_1.5,,https://www.manualslib.com/manual/1513961/Garrard-Zero-100.html
 main,Garrard,Zero 2000B,added_1.4,garrard-0023,https://www.manualslib.com/manual/4259267/Garrard-Zero-2000b.html
 main,Garrard,Zero-100 SB,added_1.4,garrard-0022,https://www.hifi-wiki.de/images/b/b2/Garrard_Zero-100_SB-Prospekt-1.jpg
 main,Gemini,iTT,identity_unresolved,,https://www.hifi-wiki.de/index.php/Gemini_iTT
@@ -2272,7 +2272,7 @@ main,Heco,2001,added_1.4,heco-0001,https://www.hifi-wiki.de/images/7/7b/Heco_200
 main,Hitachi,HT-1,no_primary_match,,https://www.hifi-wiki.de/index.php/Hitachi_HT-1
 main,Hitachi,HT-17,identity_unresolved,,https://www.hifi-wiki.de/index.php/Hitachi_HT-17
 main,Hitachi,HT-2,identity_unresolved,,https://www.hifi-wiki.de/index.php/Hitachi_HT-2
-main,Hitachi,HT-202,document_unverified,,https://www.hifi-wiki.de/index.php/Hitachi_HT-202
+main,Hitachi,HT-202,added_1.5,hitachi-0040,https://archive.org/download/manual_HT202_OM_HITACHI_DE/HT202_OM_HITACHI_DE.pdf
 main,Hitachi,HT-21,identity_unresolved,,https://www.hifi-wiki.de/index.php/Hitachi_HT-21
 main,Hitachi,HT-320,added_1.4,hitachi-0002,https://www.manualslib.com/manual/4147064/Hitachi-Ht-320.html
 main,Hitachi,HT-355,added_1.4,hitachi-0007,https://www.hifi-wiki.de/images/c/cc/Hitachi_HT-353-355-460-463-550-Prospekt-1.jpg
@@ -2351,7 +2351,7 @@ main,JVC,AL-F333BK,variant_or_scope,,https://www.manualslib.com/brand/jvc/turnta
 main,JVC,AL-F350BK,variant_or_scope,,https://www.manualslib.com/brand/jvc/turntable.html
 main,JVC,AL-F353BK,variant_or_scope,,https://www.manualslib.com/brand/jvc/turntable.html
 main,JVC,AL-F353BKX,variant_or_scope,,https://www.manualslib.com/brand/jvc/turntable.html
-main,JVC,AL-F35OBKX,document_unverified,,https://www.manualslib.com/brand/jvc/turntable.html
+main,JVC,AL-F35OBKX,deferred_1.5,,https://www.manualslib.com/manual/3980838/Jvc-Al-F350bk.html
 main,JVC,AL-F55B,added_1.4,jvc-0003,https://www.manualslib.com/manual/4181405/Jvc-Al-F55b.html
 main,JVC,AL-F64T,identity_unresolved,,https://www.manualslib.com/brand/jvc/turntable.html
 main,JVC,AL-FQ 5,no_primary_match,,https://www.hifi-wiki.de/index.php/JVC_AL-FQ_5
@@ -2380,7 +2380,7 @@ main,JVC,L-FX 4,added_1.4,jvc-0027,https://www.hifi-wiki.de/images/5/59/JVC_L-FX
 main,JVC,L-L 10,identity_unresolved,,https://www.hifi-wiki.de/index.php/JVC_L-L_10
 main,JVC,L-T 11,identity_unresolved,,https://www.hifi-wiki.de/index.php/JVC_L-T_11
 main,JVC,QL-8,identity_unresolved,,https://www.hifi-wiki.de/index.php/JVC_QL-8
-main,JVC,QL-A 220,document_unverified,,https://www.hifi-wiki.de/index.php/JVC_QL-A_220
+main,JVC,QL-A 220,deferred_1.5,,https://www.hifi-wiki.de/images/0/0b/JVC_QL-A_220-1984.jpg
 main,JVC,QL-A 5,added_1.4,jvc-0034,https://www.hifi-wiki.de/images/a/a2/JVC_QL-A_5-5_R-Prospekt-1.jpg
 main,JVC,QL-A 5 R,variant_or_scope,,https://www.hifi-wiki.de/index.php/JVC_QL-A_5_R
 main,JVC,QL-A 51,identity_unresolved,,https://www.hifi-wiki.de/index.php/JVC_QL-A_51
@@ -2402,7 +2402,7 @@ main,Kenwood,KD-1600 II,variant_or_scope,,https://www.hifi-wiki.de/index.php/Ken
 main,Kenwood,KD-1600 MK II,variant_or_scope,,https://www.manualslib.com/brand/kenwood/turntable.html
 main,Kenwood,KD-2033,added_1.4,kenwood-0022,https://archive.org/details/manual_KD2033_OM_KENWOOD_FR_DE_NL_SE
 main,Kenwood,KD-2070,added_1.4,kenwood-0023,https://archive.org/details/manual_KD2070_OM_KENWOOD_DE_FR_NL_SV
-main,Kenwood,KD-21 R,document_unverified,,https://www.hifi-wiki.de/index.php/Kenwood_KD-21_R
+main,Kenwood,KD-21 R,added_1.5,kenwood-0056,https://archive.org/download/manual_KD21R_OM_KENWOOD_DE/KD21R_OM_KENWOOD_DE.pdf
 main,Kenwood,KD-2100,added_1.4,kenwood-0024,https://www.kenwood.de/support/produktarchiv/hifi/plattenspieler/
 main,Kenwood,KD-26 R,added_1.4,kenwood-0025,https://archive.org/details/manual_KD26R_SM_KENWOOD_EN
 main,Kenwood,KD-291RC,variant_or_scope,,https://www.manualslib.com/brand/kenwood/turntable.html
@@ -2433,7 +2433,7 @@ main,Kenwood,KD-57 R,identity_unresolved,,https://www.hifi-wiki.de/index.php/Ken
 main,Kenwood,KD-67 F,no_primary_match,,https://www.hifi-wiki.de/index.php/Kenwood_KD-67_F
 main,Kenwood,KD-7 X,identity_unresolved,,https://www.hifi-wiki.de/index.php/Kenwood_KD-7_X
 main,Kenwood,KD-72 FB,identity_unresolved,,https://www.hifi-wiki.de/index.php/Kenwood_KD-72_FB
-main,Kenwood,KD-75F,document_unverified,,https://www.manualslib.com/brand/kenwood/turntable.html
+main,Kenwood,KD-75F,added_1.5,kenwood-0057,https://www.manualslib.com/manual/3342608/Kenwood-Kd-75f.html?page=7
 main,Kenwood,KD-75FC,variant_or_scope,,https://www.manualslib.com/brand/kenwood/turntable.html
 main,Kenwood,KD-75FCL,variant_or_scope,,https://www.manualslib.com/brand/kenwood/turntable.html
 main,Kenwood,KD-76F,added_1.4,kenwood-0047,https://www.manualslib.com/manual/4198515/Kenwood-Kd-76f.html
@@ -2441,16 +2441,16 @@ main,Kenwood,KD-76FC,variant_or_scope,,https://www.manualslib.com/brand/kenwood/
 main,Kenwood,KD-76FCL,variant_or_scope,,https://www.manualslib.com/brand/kenwood/turntable.html
 main,Kenwood,KD-770 B,added_1.4,kenwood-0048,https://www.hifi-wiki.de/images/c/ca/Kenwood_KA-KD-770-KT-770_L-KX-770-GE-770Prospekt-1984.jpg
 main,Kenwood,KD-9XG,variant_or_scope,,https://www.manualslib.com/brand/kenwood/turntable.html
-main,Kenwood,KP-1022,document_unverified,,https://www.hifi-wiki.de/index.php/Kenwood_KP-1022
-main,Kenwood,KP-1100,document_unverified,,https://www.hifi-wiki.de/index.php/Kenwood_KP-1100
-main,Kenwood,KP-2022,document_unverified,,https://www.hifi-wiki.de/index.php/Kenwood_KP-2022
+main,Kenwood,KP-1022,deferred_1.5,,https://www.hifi-wiki.de/images/a/ae/Kenwood_KP-1022-Prospekt-1.jpg
+main,Kenwood,KP-1100,deferred_1.5,,https://www.hifi-wiki.de/images/2/20/Kenwood_KP-9010-Prospekt-1.jpg
+main,Kenwood,KP-2022,added_1.5,kenwood-0058,https://manualmachine.com/kenwood/kp2022/2320940-brochure/
 main,Kenwood,KP-2022 A,variant_or_scope,,https://www.hifi-wiki.de/index.php/Kenwood_KP-2022_A
 main,Kenwood,KP-3021,added_1.4,kenwood-0050,https://www.hifi-wiki.de/images/thumb/c/cc/Kenwood_KP-3021-Prospekt-1.jpg/1000px-Kenwood_KP-3021-Prospekt-1.jpg
-main,Kenwood,KP-3022,document_unverified,,https://www.hifi-wiki.de/index.php/Kenwood_KP-3022
-main,Kenwood,KP-4021,document_unverified,,https://www.hifi-wiki.de/index.php/Kenwood_KP-4021
+main,Kenwood,KP-3022,deferred_1.5,,https://www.hifi-wiki.de/images/e/ef/Kenwood_KP-3022-Prospekt-1.jpg
+main,Kenwood,KP-4021,deferred_1.5,,https://www.hifi-wiki.de/images/2/24/Kenwood_KP-4021-Prospekt-1.jpg
 main,Kenwood,KP-5021,added_1.4,kenwood-0051,https://www.hifi-wiki.de/images/thumb/d/d7/Kenwood_KP-5021-Prospekt-1.jpg/1000px-Kenwood_KP-5021-Prospekt-1.jpg
 main,Kenwood,KP-5022A,variant_or_scope,,https://www.manualslib.com/brand/kenwood/turntable.html
-main,Kenwood,KP-9010,document_unverified,,https://www.hifi-wiki.de/index.php/Kenwood_KP-9010
+main,Kenwood,KP-9010,deferred_1.5,,https://www.hifi-wiki.de/images/2/20/Kenwood_KP-9010-Prospekt-1.jpg
 main,Kenwood,P-24,no_primary_match,,https://www.hifi-wiki.de/index.php/Kenwood_P-24
 main,Kenwood,P-3 X,identity_unresolved,,https://www.hifi-wiki.de/index.php/Kenwood_P-3_X
 main,Kenwood,P-31,identity_unresolved,,https://www.hifi-wiki.de/index.php/Kenwood_P-31
@@ -2468,13 +2468,13 @@ main,Kenwood,P-82,identity_unresolved,,https://www.hifi-wiki.de/index.php/Kenwoo
 main,Kenwood,P-83,identity_unresolved,,https://www.hifi-wiki.de/index.php/Kenwood_P-83
 main,Kenwood,P-92,identity_unresolved,,https://www.hifi-wiki.de/index.php/Kenwood_P-92
 main,Kenwood,P-94,identity_unresolved,,https://www.hifi-wiki.de/index.php/Kenwood_P-94
-main,Kenwood,PC-1200,document_unverified,,https://www.hifi-wiki.de/index.php/Kenwood_PC-1200
-main,Kenwood,PC-200,document_unverified,,https://www.hifi-wiki.de/index.php/Kenwood_PC-200
-main,Kenwood,PC-250,document_unverified,,https://www.hifi-wiki.de/index.php/Kenwood_PC-250
-main,Kenwood,PC-300,document_unverified,,https://www.hifi-wiki.de/index.php/Kenwood_PC-300
+main,Kenwood,PC-1200,deferred_1.5,,https://www.hifi-wiki.de/images/6/65/Kenwood_PC-1200-Prospekt-1966.jpg
+main,Kenwood,PC-200,deferred_1.5,,https://www.hifi-wiki.de/images/1/10/Kenwood_PC-200-Prospekt-1969.jpg
+main,Kenwood,PC-250,deferred_1.5,,https://www.hifi-wiki.de/images/8/83/Kenwood_PC-250-Prospekt-1969.jpg
+main,Kenwood,PC-300,deferred_1.5,,https://www.hifi-wiki.de/images/2/2b/Kenwood_PC-300-Prospekt-1969.jpg
 main,Kenwood,PC-3030,identity_unresolved,,https://www.hifi-wiki.de/index.php/Kenwood_PC-3030
 main,Kenwood,PC-350,added_1.4,kenwood-0054,https://www.hifi-wiki.de/images/thumb/d/dd/Kenwood_PC-350-Prospekt-1.jpg/1000px-Kenwood_PC-350-Prospekt-1.jpg
-main,Kenwood,PC-400,document_unverified,,https://www.hifi-wiki.de/index.php/Kenwood_PC-400
+main,Kenwood,PC-400,deferred_1.5,,https://manualmachine.com/kenwood/pc400u/2341303-brochure/
 main,Klangfilm,Various,no_primary_match,,https://www.hifi-wiki.de/index.php/Klangfilm_Various
 main,Klein,Technik Plattenspieler Sinus 105,no_primary_match,,https://www.hifi-wiki.de/index.php/Klein_Technik_Plattenspieler_Sinus_105
 main,Kyocera,PL-601,added_1.4,kyocera-0001,https://www.manualslib.com/manual/3288457/Kyocera-Pl-601.html
@@ -2503,15 +2503,15 @@ main,Lenco,Classic Phono TT-28,identity_unresolved,,https://www.manualslib.com/b
 main,Lenco,Classic Phono TT-33,added_1.4,lenco-0061,https://www.manualslib.com/manual/1597664/Lenco-Classic-Phono-Tt-33.html
 main,Lenco,Classic Phono TT-34,added_1.4,lenco-0062,https://www.manualslib.com/manual/2303756/Lenco-Classic-Phono-Tt-34.html
 main,Lenco,Classic Phono TT-41,added_1.4,lenco-0063,https://www.manualslib.com/manual/2845314/Lenco-Classic-Phono-Tt-41.html
-main,Lenco,Classic Phono TT-43,document_unverified,,https://www.manualslib.com/brand/lenco/turntable.html
+main,Lenco,Classic Phono TT-43,added_1.5,lenco-0065,https://catalog.lenco.com/products/classic-phono-tt-43wa-retro-turntable-with-built-in-speakers-walnut
 main,Lenco,F 50-8,no_primary_match,,https://www.hifi-wiki.de/index.php/Lenco_F_50-8
-main,Lenco,GL85,document_unverified,,https://www.manualslib.com/brand/lenco/turntable.html
+main,Lenco,GL85,deferred_1.5,,https://s3.eu-west-1.amazonaws.com/downloads.armourhome.co.uk/Goldring/Brochures/Goldring_Booklet_2015.pdf
 main,Lenco,L 133,added_1.4,lenco-0010,https://www.hifi-wiki.de/images/d/d5/Lenco_L-133-Prospekt-1977.jpg
 main,Lenco,L 3000,added_1.4,lenco-0014,https://www.manualslib.com/manual/4183774/Lenco-L-3000.html
 main,Lenco,L 725,identity_unresolved,,https://www.hifi-wiki.de/index.php/Lenco_L_725
 main,Lenco,L 75S,variant_or_scope,,https://www.manualslib.com/brand/lenco/turntable.html
 main,Lenco,L 78SE,variant_or_scope,,https://www.manualslib.com/brand/lenco/turntable.html
-main,Lenco,L 80,document_unverified,,https://www.hifi-wiki.de/index.php/Lenco_L_80
+main,Lenco,L 80,deferred_1.5,,https://www.hifi-wiki.de/images/3/3d/Lenco_L-80-1975.jpg
 main,Lenco,L 803,no_primary_match,,https://www.hifi-wiki.de/index.php/Lenco_L_803
 main,Lenco,L 830,no_primary_match,,https://www.hifi-wiki.de/index.php/Lenco_L_830
 main,Lenco,L 833,no_primary_match,,https://www.hifi-wiki.de/index.php/Lenco_L_833
@@ -2544,7 +2544,7 @@ main,Lenco,LBT-190,added_1.4,lenco-0035,https://www.manualslib.com/manual/230327
 main,Lenco,LBT-215,added_1.4,lenco-0036,https://www.manualslib.com/manual/3600056/Lenco-Lbt-215.html
 main,Lenco,LBT-225,added_1.4,lenco-0037,https://www.manualslib.com/manual/3016613/Lenco-Lbt-225.html
 main,Lenco,LBT-225WA,variant_or_scope,,https://www.manualslib.com/brand/lenco/turntable.html
-main,Lenco,LBT-288,document_unverified,,https://www.manualslib.com/brand/lenco/turntable.html
+main,Lenco,LBT-288,deferred_1.5,,https://lenco.ru/upload/iblock/509/gzm41trjdxv7e7tqz01iymnskozv8dic.pdf
 main,Lenco,LBT-335BA,variant_or_scope,,https://www.manualslib.com/brand/lenco/turntable.html
 main,Lenco,LBT-345WA,variant_or_scope,,https://www.manualslib.com/brand/lenco/turntable.html
 main,Lenco,LS-10,added_1.4,lenco-0040,https://www.manualslib.com/manual/2230621/Lenco-Ls-10.html
@@ -2556,7 +2556,7 @@ main,Lenco,LS-15,added_1.4,lenco-0043,https://www.manualslib.com/manual/3655370/
 main,Lenco,LS-200,added_1.4,lenco-0044,https://www.manualslib.com/manual/4390514/Lenco-Ls-200.html
 main,Lenco,LS-300(V2),variant_or_scope,,https://www.manualslib.com/brand/lenco/turntable.html
 main,Lenco,LS-301(V2),variant_or_scope,,https://www.manualslib.com/brand/lenco/turntable.html
-main,Lenco,LS-310,document_unverified,,https://www.manualslib.com/brand/lenco/turntable.html
+main,Lenco,LS-310,deferred_1.5,,https://asset.conrad.com/media10/add/160267/c1/-/nl/838591271ML00/manual-1845041-lenco-ls-300-turntable-type-belt-drive-black.pdf
 main,Lenco,LS-310(V2),variant_or_scope,,https://www.manualslib.com/brand/lenco/turntable.html
 main,Lenco,LS-40,added_1.4,lenco-0046,https://www.manualslib.com/manual/1789014/Lenco-Ls-40.html
 main,Lenco,LS-410WA,variant_or_scope,,https://www.manualslib.com/brand/lenco/turntable.html
@@ -2604,7 +2604,7 @@ main,Luxman,PD-151 MkII,added_1.4,luxman-0005,https://www.luxman.com/product/det
 main,Luxman,PD-171A,identity_unresolved,,https://www.hifi-wiki.de/index.php/Luxman_PD-171A
 main,Luxman,PD-171AL,added_1.4,luxman-0006,https://www.manualslib.com/manual/1740589/Luxman-Pd-171al.html
 main,Luxman,PD-191A,identity_unresolved,,https://recordplayerhub.com/players/
-main,Luxman,PD-210,document_unverified,,https://www.hifi-wiki.de/index.php/Luxman_PD-210
+main,Luxman,PD-210,deferred_1.5,,https://www.hifi-wiki.de/images/3/34/Luxman_PD-210-Prospekt-1.jpg
 main,Luxman,PD-262,identity_unresolved,,https://www.hifi-wiki.de/index.php/Luxman_PD-262
 main,Luxman,PD-264,identity_unresolved,,https://www.hifi-wiki.de/index.php/Luxman_PD-264
 main,Luxman,PD-272,added_1.4,luxman-0007,https://archive.org/details/manual_PD272_OM_LUXMAN_EN
@@ -2616,8 +2616,8 @@ main,Luxman,PD-289,added_1.4,luxman-0010,https://www.manualslib.com/manual/43696
 main,Luxman,PD-290,added_1.4,luxman-0011,https://www.manualslib.com/manual/4369680/Luxman-Pd290.html
 main,Luxman,PD-291,identity_unresolved,,https://www.hifi-wiki.de/index.php/Luxman_PD-291
 main,Luxman,PD-300,added_1.4,luxman-0012,https://www.manualslib.com/manual/4373633/Luxman-Pd300.html
-main,Luxman,PD-310,document_unverified,,https://www.hifi-wiki.de/index.php/Luxman_PD-310
-main,Luxman,PD-350,document_unverified,,https://www.hifi-wiki.de/index.php/Luxman_PD-350
+main,Luxman,PD-310,added_1.5,luxman-0018,https://manualmachine.com/luxman/pd310/2372127-service-manual/
+main,Luxman,PD-350,deferred_1.5,,https://www.hifi-wiki.de/images/b/bc/Luxman_PD-350-1.jpg
 main,Luxman,PD-370,added_1.4,luxman-0013,https://www.manualslib.com/manual/3499805/Luxman-Pd-370.html
 main,Luxman,PD-375,added_1.4,luxman-0014,https://www.manualslib.com/manual/3347012/Luxman-Pd-375.html
 main,Luxman,PD-441,added_1.4,luxman-0015,https://www.manualslib.com/manual/4545482/Luxman-Pd441.html
@@ -2626,9 +2626,9 @@ main,Luxman,PD-555,no_primary_match,,https://www.hifi-wiki.de/index.php/Luxman_P
 main,Luxman,PD-555 Limited,variant_or_scope,,https://www.hifi-wiki.de/index.php/Luxman_PD-555_Limited
 main,Luxman,PX-101,added_1.4,luxman-0017,https://www.manualslib.com/manual/1227711/Luxman-Px-101.html
 main,MAG-LEV,ML1,no_primary_match,,https://www.hifi-wiki.de/index.php/MAG-LEV_ML1
-main,Marantz,4822 725 50857,document_unverified,,https://www.manualslib.com/brand/marantz/turntable.html
+main,Marantz,4822 725 50857,deferred_1.5,,https://www.manualslib.com/manual/3661939/Marantz-Tt185.html
 main,Marantz,6050,added_1.4,marantz-0001,https://www.manualslib.com/manual/4077528/Marantz-6050.html
-main,Marantz,6110,document_unverified,,https://www.manualslib.com/brand/marantz/turntable.html
+main,Marantz,6110,deferred_1.5,,https://www.manualslib.com/manual/4077528/Marantz-6050.html
 main,Marantz,6170,identity_unresolved,,https://www.hifi-wiki.de/index.php/Marantz_6170
 main,Marantz,6200,added_1.4,marantz-0004,https://www.hifi-wiki.de/images/3/32/Marantz_6200-Prospekt-1.jpg
 main,Marantz,6320,identity_unresolved,,https://www.hifi-wiki.de/index.php/Marantz_6320
@@ -2730,22 +2730,22 @@ main,Micro Seiki,MB-14,no_primary_match,,https://www.hifi-wiki.de/index.php/Micr
 main,Micro Seiki,MB-15,added_1.4,micro-seiki-0013,https://www.hifi-wiki.de/images/a/a4/Micro_Seiki_MB-15-Werbung-1978.jpg
 main,Micro Seiki,MB-38,no_primary_match,,https://www.hifi-wiki.de/index.php/Micro_Seiki_MB-38
 main,Micro Seiki,MD-100,no_primary_match,,https://www.hifi-wiki.de/index.php/Micro_Seiki_MD-100
-main,Micro Seiki,MR-111,document_unverified,,https://www.hifi-wiki.de/index.php/Micro_Seiki_MR-111
-main,Micro Seiki,MR-122,document_unverified,,https://www.hifi-wiki.de/index.php/Micro_Seiki_MR-122
-main,Micro Seiki,MR-211,document_unverified,,https://www.hifi-wiki.de/index.php/Micro_Seiki_MR-211
-main,Micro Seiki,MR-222,document_unverified,,https://www.hifi-wiki.de/index.php/Micro_Seiki_MR-222
+main,Micro Seiki,MR-111,deferred_1.5,,https://www.hifi-wiki.de/images/0/02/Micro_Seiki_MR-111-1.jpg
+main,Micro Seiki,MR-122,added_1.5,micro-seiki-0019,https://manualmachine.com/microseiki/mr122/2366117-owners-manual/
+main,Micro Seiki,MR-211,deferred_1.5,,https://www.hifi-wiki.de/images/c/c3/Micro_Seiki_MR-211-Prospekt-1.jpg
+main,Micro Seiki,MR-222,deferred_1.5,,https://www.hifi-wiki.de/images/0/01/Micro_Seiki_MR-222-1.jpg
 main,Micro Seiki,MR-311,no_primary_match,,https://www.hifi-wiki.de/index.php/Micro_Seiki_MR-311
 main,Micro Seiki,MR-322,added_1.4,micro-seiki-0014,https://www.hifi-wiki.de/images/6/6d/Micro_Seiki_MR-122-222-322-Prospekt-1.jpg
-main,Micro Seiki,MR-411,document_unverified,,https://www.hifi-wiki.de/index.php/Micro_Seiki_MR-411
-main,Micro Seiki,MR-611,document_unverified,,https://www.hifi-wiki.de/index.php/Micro_Seiki_MR-611
+main,Micro Seiki,MR-411,deferred_1.5,,https://www.hifi-wiki.de/images/f/fa/Micro_Seiki_MR-411-1.jpg
+main,Micro Seiki,MR-611,added_1.5,micro-seiki-0018,https://www.manualslib.com/manual/4342248/Micro-Mr-611.html
 main,Micro Seiki,MR-622,added_1.4,micro-seiki-0015,https://www.hifi-wiki.de/images/c/c7/Micro_Seiki_MR-622-Prospekt-1.jpg
-main,Micro Seiki,MR-711,document_unverified,,https://www.hifi-wiki.de/index.php/Micro_Seiki_MR-711
-main,Micro Seiki,RX-1500,document_unverified,,https://www.manualslib.com/brand/micro-seiki/turntable.html
+main,Micro Seiki,MR-711,added_1.5,micro-seiki-0020,https://www.manualslib.com/manual/3992383/Micro-Seiki-Mr-711.html
+main,Micro Seiki,RX-1500,deferred_1.5,,https://www.manualslib.com/manual/4353562/Micro-Seiki-Rx-1500.html
 main,Micro Seiki,RX-1500 D,identity_unresolved,,https://www.hifi-wiki.de/index.php/Micro_Seiki_RX-1500_D
 main,Micro Seiki,RX-1500 FVG,identity_unresolved,,https://www.hifi-wiki.de/index.php/Micro_Seiki_RX-1500_FVG
 main,Micro Seiki,RX-1500 G,identity_unresolved,,https://www.hifi-wiki.de/index.php/Micro_Seiki_RX-1500_G
-main,Micro Seiki,RX-2000,document_unverified,,https://www.hifi-wiki.de/index.php/Micro_Seiki_RX-2000
-main,Micro Seiki,RX-3000,document_unverified,,https://www.hifi-wiki.de/index.php/Micro_Seiki_RX-3000
+main,Micro Seiki,RX-2000,deferred_1.5,,https://www.hifi-wiki.de/images/d/de/Micro_Seiki_RX-2000-1980.jpg
+main,Micro Seiki,RX-3000,deferred_1.5,,https://www.hifi-wiki.de/images/5/5f/Micro_Seiki_RX-3000-RY-3300-1980.jpg
 main,Micro Seiki,RX-5000,identity_unresolved,,https://www.hifi-wiki.de/index.php/Micro_Seiki_RX-5000
 main,Micro Seiki,Solid-1,no_primary_match,,https://www.hifi-wiki.de/index.php/Micro_Seiki_Solid-1
 main,Micro Seiki,Solid-5,added_1.4,micro-seiki-0016,https://www.hifi-wiki.de/images/2/2e/Micro_Seiki_Solid-5-Prospekt-1.jpg
@@ -2765,7 +2765,7 @@ main,Mitsubishi,DP-540,no_primary_match,,https://www.hifi-wiki.de/index.php/Mits
 main,Mitsubishi,DP-630,added_1.4,mitsubishi-0002,https://www.manualslib.com/manual/3400737/Mitsubishi-Dp-630.html
 main,Mitsubishi,DP-680 Q,no_primary_match,,https://www.hifi-wiki.de/index.php/Mitsubishi_DP-680_Q
 main,Mitsubishi,DP-780,no_primary_match,,https://www.hifi-wiki.de/index.php/Mitsubishi_DP-780
-main,Mitsubishi,DP-84 DA,document_unverified,,https://www.hifi-wiki.de/index.php/Mitsubishi_DP-84_DA
+main,Mitsubishi,DP-84 DA,added_1.5,mitsubishi-0010,https://archive.org/download/manual_DP84DA_SM_MITSUBISHI_DE/DP84DA_SM_MITSUBISHI_DE.pdf
 main,Mitsubishi,DP-86 DA,added_1.4,mitsubishi-0003,https://archive.org/details/manual_DP86DA_SM_MITSUBISHI_DE
 main,Mitsubishi,DP-EC 1,identity_unresolved,,https://www.hifi-wiki.de/index.php/Mitsubishi_DP-EC_1
 main,Mitsubishi,DP-EC 10,no_primary_match,,https://www.hifi-wiki.de/index.php/Mitsubishi_DP-EC_10
@@ -2773,12 +2773,12 @@ main,Mitsubishi,DP-EC 20,added_1.4,mitsubishi-0004,https://archive.org/details/m
 main,Mitsubishi,DP-EC 3,no_primary_match,,https://www.hifi-wiki.de/index.php/Mitsubishi_DP-EC_3
 main,Mitsubishi,DP-EC 7,no_primary_match,,https://www.hifi-wiki.de/index.php/Mitsubishi_DP-EC_7
 main,Mitsubishi,DP-EC 8,added_1.4,mitsubishi-0005,https://archive.org/details/manual_DPEC8_OM_MITSUBISHI_EN_DE_FR_ES_NL
-main,Mitsubishi,LT-1,document_unverified,,https://www.hifi-wiki.de/index.php/Mitsubishi_LT-1
+main,Mitsubishi,LT-1,deferred_1.5,,https://www.hifi-wiki.de/images/1/1b/Mitsubishi_LT-1-Prospekt-1980.jpg
 main,Mitsubishi,LT-10 V,added_1.4,mitsubishi-0006,https://www.manualslib.com/manual/3998633/Mitsubishi-Lt-10v.html
 main,Mitsubishi,LT-20,added_1.4,mitsubishi-0007,https://www.manualslib.com/manual/3317741/Mitsubishi-Lt-20.html
-main,Mitsubishi,LT-3,document_unverified,,https://www.hifi-wiki.de/index.php/Mitsubishi_LT-3
+main,Mitsubishi,LT-3,deferred_1.5,,https://www.hifi-wiki.de/images/0/02/Mitsubishi_LT-3-Prospekt-1980.jpg
 main,Mitsubishi,LT-30,added_1.4,mitsubishi-0008,https://www.manualslib.com/manual/4067700/Mitsubishi-Lt-30.html
-main,Mitsubishi,LT-5,document_unverified,,https://www.hifi-wiki.de/index.php/Mitsubishi_LT-5
+main,Mitsubishi,LT-5,deferred_1.5,,https://www.hifi-wiki.de/images/6/6c/Mitsubishi_LT-5-Prospekt-1981.jpg
 main,Mitsubishi,LT-5 V,added_1.4,mitsubishi-0009,https://www.manualslib.com/manual/4262331/Mitsubishi-Lt-5v.html
 main,Mitsubishi,LT-80,no_primary_match,,https://www.hifi-wiki.de/index.php/Mitsubishi_LT-80
 main,Mobile,Fidelity MasterDeck,added_1.4,mofi-electronics-0001,https://www.mofielectronics.com/collections/turntables
@@ -2818,7 +2818,7 @@ main,Nordmende,RP 1004,no_primary_match,,https://www.hifi-wiki.de/index.php/Nord
 main,Nordmende,RP 1006,no_primary_match,,https://www.hifi-wiki.de/index.php/Nordmende_RP_1006
 main,Nordmende,RP 1010,identity_unresolved,,https://www.hifi-wiki.de/index.php/Nordmende_RP_1010
 main,Nordmende,RP 1050,identity_unresolved,,https://www.hifi-wiki.de/index.php/Nordmende_RP_1050
-main,Nordmende,RP 1100,document_unverified,,https://www.hifi-wiki.de/index.php/Nordmende_RP_1100
+main,Nordmende,RP 1100,deferred_1.5,,https://www.manualslib.com/manual/4026665/Nordmende-Rp-1050.html
 main,Nordmende,RP 1200 linear,identity_unresolved,,https://www.hifi-wiki.de/index.php/Nordmende_RP_1200_linear
 main,Nordmende,RP 1260,identity_unresolved,,https://www.hifi-wiki.de/index.php/Nordmende_RP_1260
 main,Nordmende,RP 1261,added_1.4,nordmende-0001,https://www.hifi-wiki.de/images/0/05/Nordmende_System_1260-Prospekt-2.jpg
@@ -2827,7 +2827,7 @@ main,Nordmende,RP 1300,identity_unresolved,,https://www.hifi-wiki.de/index.php/N
 main,Nordmende,RP 1350,identity_unresolved,,https://www.hifi-wiki.de/index.php/Nordmende_RP_1350
 main,Nordmende,RP 1400,added_1.4,nordmende-0002,https://archive.org/details/manual_RP1400_SM_NORDMENDE_EN_DE_FR
 main,Nordmende,RP 1650,added_1.4,nordmende-0003,https://www.hifi-wiki.de/images/4/4b/Nordmende-RP-1650-Manual.jpg
-main,Nordmende,RP 1651,document_unverified,,https://www.hifi-wiki.de/index.php/Nordmende_RP_1651
+main,Nordmende,RP 1651,added_1.5,nordmende-0005,https://www.manualslib.de/manual/1131840/Nordmende-Rp-1651.html
 main,Nordmende,RP 1651 direct drive,identity_unresolved,,https://www.hifi-wiki.de/index.php/Nordmende_RP_1651_direct_drive
 main,Nordmende,RP 1653,identity_unresolved,,https://www.hifi-wiki.de/index.php/Nordmende_RP_1653
 main,Nordmende,RP 200,no_primary_match,,https://www.hifi-wiki.de/index.php/Nordmende_RP_200
@@ -2851,7 +2851,7 @@ main,Numark,TT-1510,added_1.4,numark-0007,https://www.manualslib.com/manual/3009
 main,Numark,TT-1520,added_1.4,numark-0008,https://www.manualslib.com/manual/113497/Numark-Tt-1520.html
 main,Numark,TT-1650,added_1.4,numark-0011,https://www.manualslib.com/manual/113501/Numark-Tt-1650.html
 main,Numark,TT1600,added_1.4,numark-0009,https://www.manualslib.com/manual/300903/Numark-Tt1600.html
-main,Numark,TT1600MKII,document_unverified,,https://www.manualslib.com/brand/numark/turntable.html
+main,Numark,TT1600MKII,added_1.5,numark-0020,https://www.recordcase.de/shop/default/artikelpdf/0020101811_en.pdf
 main,Numark,TT1625,added_1.4,numark-0010,https://www.manualslib.com/manual/640794/Numark-Tt1625.html
 main,Numark,TT1700,added_1.4,numark-0012,https://www.manualslib.com/manual/300904/Numark-Tt1700.html
 main,Numark,TT1910,added_1.4,numark-0013,https://www.manualslib.com/manual/113500/Numark-Tt1910.html
@@ -2860,7 +2860,7 @@ main,Numark,TT2200,identity_unresolved,,https://www.manualslib.com/brand/numark/
 main,Numark,TT250 USB,identity_unresolved,,https://www.manualslib.com/brand/numark/turntable.html
 main,Numark,TT500,added_1.4,numark-0015,https://www.manualslib.com/manual/113440/Numark-Tt500.html
 main,Numark,TTX USB,added_1.4,numark-0017,https://www.manualslib.com/manual/591740/Numark-Ttx-Usb.html
-main,Numark,TTX1,document_unverified,,https://www.manualslib.com/brand/numark/turntable.html
+main,Numark,TTX1,added_1.5,numark-0018,https://www.manualslib.com/manual/300909/Numark-Ttx1.html
 main,Omnitronic,DD-3250,no_primary_match,,https://www.hifi-wiki.de/index.php/Omnitronic_DD-3250
 main,Omnitronic,DD-4220,added_1.4,omnitronic-0001,https://www.manualslib.com/manual/874448/Omnitronic-Dd-4220.html
 main,Omnitronic,DD-5250,added_1.4,omnitronic-0002,https://www.manualslib.com/manual/925139/Omnitronic-Dd-5250.html
@@ -2873,7 +2873,7 @@ main,Onkyo,CP-1027FT,identity_unresolved,,https://www.hifi-wiki.de/index.php/Onk
 main,Onkyo,CP-1028RT,added_1.4,onkyo-0008,https://www.hifi-wiki.de/images/b/b2/Onkyo_CP-1028_RT-Prospekt-1.jpg
 main,Onkyo,CP-1037F,added_1.4,onkyo-0010,https://www.manualslib.com/manual/720714/Onkyo-Cp-1037f.html
 main,Onkyo,CP-1050D,added_1.4,onkyo-0014,https://www.manualslib.com/manual/1346288/Onkyo-Cp-1050d.html
-main,Onkyo,CP-1050Y,document_unverified,,https://www.manualslib.com/brand/onkyo/turntable.html
+main,Onkyo,CP-1050Y,deferred_1.5,,https://www.manualslib.com/manual/1346288/Onkyo-Cp-1050d.html
 main,Onkyo,CP-1057 FB,identity_unresolved,,https://www.hifi-wiki.de/index.php/Onkyo_CP-1057_FB
 main,Onkyo,CP-1100A,no_primary_match,,https://www.hifi-wiki.de/index.php/Onkyo_CP-1100A
 main,Onkyo,CP-1116A,added_1.4,onkyo-0017,https://archive.org/details/manual_CP1116A_SM_ONKYO_EN
@@ -2911,13 +2911,13 @@ main,Phase Linear,Model 8000,no_primary_match,,https://www.hifi-wiki.de/index.ph
 main,Philips,202 Electronic,added_1.4,philips-0001,https://www.hifi-wiki.de/images/4/4d/Philips_202-Electronic-Prospekt-1.jpg
 main,Philips,209 S Electronic,added_1.4,philips-0002,https://www.hifi-wiki.de/images/9/92/Philips_209_S_Electronic-Prospekt-1.jpg
 main,Philips,212 Electronic,added_1.4,philips-0003,https://www.hifi-wiki.de/images/f/fd/Philips_GA_212_electronic-Prospekt-1.jpg
-main,Philips,22 AF 300,document_unverified,,https://www.manualslib.com/brand/philips/turntable.html
-main,Philips,22 AF034,document_unverified,,https://www.manualslib.com/brand/philips/turntable.html
+main,Philips,22 AF 300,deferred_1.5,,https://www.manualslib.com/manual/4341310/Philips-22-Af-300.html
+main,Philips,22 AF034,deferred_1.5,,https://www.manualslib.com/manual/4543402/Philips-22-Af034.html
 main,Philips,22 AH 902,identity_unresolved,,https://www.manualslib.com/brand/philips/turntable.html
 main,Philips,22 AH 974,identity_unresolved,,https://www.manualslib.com/brand/philips/turntable.html
 main,Philips,22AF461,identity_unresolved,,https://www.manualslib.com/brand/philips/turntable.html
 main,Philips,22AF685,identity_unresolved,,https://www.manualslib.com/brand/philips/turntable.html
-main,Philips,22AF829,document_unverified,,https://www.manualslib.com/brand/philips/turntable.html
+main,Philips,22AF829,deferred_1.5,,https://www.manualslib.com/manual/4316321/Philips-22af829.html
 main,Philips,22AF877,identity_unresolved,,https://www.manualslib.com/brand/philips/turntable.html
 main,Philips,22AF887,identity_unresolved,,https://www.manualslib.com/brand/philips/turntable.html
 main,Philips,22AF977,no_primary_match,,https://www.manua.ls/audio/turntables?p=2
@@ -2925,21 +2925,21 @@ main,Philips,22GA312,possible_duplicate,,https://www.manualslib.com/brand/philip
 main,Philips,22GC022,identity_unresolved,,https://www.manualslib.com/brand/philips/turntable.html
 main,Philips,22GC037,identity_unresolved,,https://www.manualslib.com/brand/philips/turntable.html
 main,Philips,22GF303,identity_unresolved,,https://www.hifi-wiki.de/index.php/Philips_22GF303
-main,Philips,22GP214,document_unverified,,https://www.manualslib.com/brand/philips/turntable.html
-main,Philips,22GP215,document_unverified,,https://www.manualslib.com/brand/philips/turntable.html
+main,Philips,22GP214,excluded_1.5,,https://audiocircuit.dk/downloads/philips/Philips-22AF400-tt-sm.pdf
+main,Philips,22GP215,excluded_1.5,,https://audiocircuit.dk/downloads/philips/Philips-22AF400-tt-sm.pdf
 main,Philips,AF 673,identity_unresolved,,https://www.hifi-wiki.de/index.php/Philips_AF_673
 main,Philips,AF 684,no_primary_match,,https://www.hifi-wiki.de/index.php/Philips_AF_684
 main,Philips,AF 685,added_1.4,philips-0005,https://www.hifi-wiki.de/images/4/42/Philips_AF-684-685-Prospekt-1.jpg
 main,Philips,AF 829,no_primary_match,,https://www.hifi-wiki.de/index.php/Philips_AF_829
-main,Philips,AF 887,document_unverified,,https://www.hifi-wiki.de/index.php/Philips_AF_887
+main,Philips,AF 887,added_1.5,philips-0029,https://archive.org/download/manual_AF887_OM_PHILIPS_EN_FR_DE_NL_ES_IT_DA_NO_SV_FI/AF887_OM_PHILIPS_EN_FR_DE_NL_ES_IT_DA_NO_SV_FI.pdf
 main,Philips,AF 967,no_primary_match,,https://www.hifi-wiki.de/index.php/Philips_AF_967
 main,Philips,AF 977,added_1.4,philips-0010,https://www.hifi-wiki.de/images/1/19/Philips_AF-977-Prospekt-1.jpg
 main,Philips,AG 2110,no_primary_match,,https://www.hifi-wiki.de/index.php/Philips_AG_2110
 main,Philips,AG 2230,identity_unresolved,,https://www.hifi-wiki.de/index.php/Philips_AG_2230
-main,Philips,AG 9147,document_unverified,,https://www.manualslib.com/brand/philips/turntable.html
+main,Philips,AG 9147,added_1.5,philips-0031,https://www.manualslib.com/manual/4572593/Philips-Ag-9147.html
 main,Philips,AG1000,identity_unresolved,,https://www.manualslib.com/brand/philips/turntable.html
 main,Philips,F 7111,no_primary_match,,https://www.hifi-wiki.de/index.php/Philips_F_7111
-main,Philips,F 7112,document_unverified,,https://www.hifi-wiki.de/index.php/Philips_F_7112
+main,Philips,F 7112,added_1.5,philips-0030,https://archive.org/download/manual_F7112_SM_PHILIPS_EN_DE/F7112_SM_PHILIPS_EN_DE.pdf
 main,Philips,F 7114,no_primary_match,,https://www.hifi-wiki.de/index.php/Philips_F_7114
 main,Philips,F 7122,added_1.4,philips-0011,https://www.hifi-wiki.de/images/6/63/Philips_F-7122-Prospekt-1983.jpg
 main,Philips,F 7212,added_1.4,philips-0012,https://archive.org/details/manual_F7212_SM_PHILIPS_DE_NL_FR_EN_IT_ES_DK
@@ -2957,7 +2957,7 @@ main,Philips,GA 104,identity_unresolved,,https://www.manualslib.com/brand/philip
 main,Philips,GA 108,identity_unresolved,,https://www.hifi-wiki.de/index.php/Philips_GA_108
 main,Philips,GA 202,identity_unresolved,,https://www.manualslib.com/brand/philips/turntable.html
 main,Philips,GA 202 Electronic,identity_unresolved,,https://www.hifi-wiki.de/index.php/Philips_GA_202_Electronic
-main,Philips,GA 207,document_unverified,,https://www.manualslib.com/brand/philips/turntable.html
+main,Philips,GA 207,added_1.5,philips-0028,https://www.manualslib.com/manual/4341211/Philips-Ga-207.html
 main,Philips,GA 208,identity_unresolved,,https://www.hifi-wiki.de/index.php/Philips_GA_208
 main,Philips,GA 209,identity_unresolved,,https://www.manualslib.com/brand/philips/turntable.html
 main,Philips,GA 209 S Electronic,identity_unresolved,,https://www.hifi-wiki.de/index.php/Philips_GA_209_S_Electronic
@@ -3100,14 +3100,14 @@ main,Pioneer,PL-J110,identity_unresolved,,https://www.manualslib.com/brand/pione
 main,Pioneer,PL-J230,added_1.4,pioneer-0102,https://www.manualslib.com/manual/3490209/Pioneer-Pl-J230.html
 main,Pioneer,PL-J2500,added_1.4,pioneer-0103,https://www.manualslib.com/manual/544524/Pioneer-Pl-J2500.html
 main,Pioneer,PL-L 1,existing,pioneer-0030,https://global.pioneer/en/corp/info/history/chronology/archives/1968/
-main,Pioneer,PL-L 5,document_unverified,,https://www.hifi-wiki.de/index.php/Pioneer_PL-L_5
+main,Pioneer,PL-L 5,added_1.5,pioneer-0125,https://www.hifi-wiki.de/images/c/ca/Pioneer_PL-L_5-1979.jpg
 main,Pioneer,PL-L 550,identity_unresolved,,https://www.hifi-wiki.de/index.php/Pioneer_PL-L_550
 main,Pioneer,PL-L 800 S,variant_or_scope,,https://www.hifi-wiki.de/index.php/Pioneer_PL-L_800_S
 main,Pioneer,PL-S30,added_1.4,pioneer-0108,https://www.manualslib.com/manual/4165928/Pioneer-Pl-S30.html
 main,Pioneer,PL-S40,added_1.4,pioneer-0109,https://www.manualslib.com/manual/4258016/Pioneer-Pl-S40.html
 main,Pioneer,PL-S50,identity_unresolved,,https://www.manualslib.com/brand/pioneer/turntable.html
 main,Pioneer,PL-V70,added_1.4,pioneer-0110,https://www.manualslib.com/manual/3340769/Pioneer-Pl-V70.html
-main,Pioneer,PL-V90,document_unverified,,https://www.manualslib.com/brand/pioneer/turntable.html
+main,Pioneer,PL-V90,deferred_1.5,,https://www.manualslib.com/manual/3340769/Pioneer-Pl-V70.html
 main,Pioneer,PL-X 5,added_1.4,pioneer-0114,https://archive.org/details/manual_PLX5_SM_PIONEER_EN
 main,Pioneer,PL-X 7,added_1.4,pioneer-0117,https://archive.org/details/manual_PLX7_SM_PIONEER_EN
 main,Pioneer,PL-X 9,identity_unresolved,,https://www.hifi-wiki.de/index.php/Pioneer_PL-X_9
@@ -3118,7 +3118,7 @@ main,Pioneer,PL-X430,added_1.4,pioneer-0113,https://www.manualslib.com/manual/33
 main,Pioneer,PL-X50HE,variant_or_scope,,https://www.manualslib.com/brand/pioneer/turntable.html
 main,Pioneer,PL-Z460,added_1.4,pioneer-0118,https://archive.org/details/manual_PLZ460_SM_PIONEER_EN
 main,Pioneer,PL-Z470,added_1.4,pioneer-0119,https://archive.org/details/manual_PLZ470_OM_PIONEER_EN
-main,Pioneer,PL-Z560,document_unverified,,https://www.manualslib.com/brand/pioneer/turntable.html
+main,Pioneer,PL-Z560,deferred_1.5,,https://www.manualslib.com/manual/3285033/Pioneer-Pl-Z93.html
 main,Pioneer,PL-Z570,added_1.4,pioneer-0120,https://archive.org/details/manual_PLZ570_SM_PIONEER_EN
 main,Pioneer,PL-Z81,identity_unresolved,,https://www.manualslib.com/brand/pioneer/turntable.html
 main,Pioneer,PL-Z85,added_1.4,pioneer-0121,https://archive.org/details/manual_PLZ85_OM_PIONEER_EN
@@ -3135,8 +3135,8 @@ main,Reloop,RP-2000 MK III,identity_unresolved,,https://www.manualslib.com/brand
 main,Reloop,RP-2000 MK3,no_primary_match,,https://www.hifi-wiki.de/index.php/Reloop_RP-2000_MK3
 main,Reloop,RP-300 HiFi,identity_unresolved,,https://www.manualslib.com/brand/reloop/turntable.html
 main,Reloop,RP-4000 M3D,added_1.4,reloop-0003,https://medias.audiofanzine.com/files/manuel-reloop-rp-4000-470705.pdf
-main,Reloop,RP-4000 M3Ds,document_unverified,,https://www.manualslib.com/brand/reloop/turntable.html
-main,Reloop,RP-4000 MK3 s,document_unverified,,https://www.manualslib.com/brand/reloop/turntable.html
+main,Reloop,RP-4000 M3Ds,deferred_1.5,,https://www.manualslib.com/manual/746286/Reloop-Rp-2000-Mk3-Ltd.html
+main,Reloop,RP-4000 MK3 s,deferred_1.5,,https://www.manualslib.com/manual/746286/Reloop-Rp-2000-Mk3-Ltd.html
 main,Reloop,rp-5000 m3d,identity_unresolved,,https://www.manualslib.com/brand/reloop/turntable.html
 main,Reloop,RP-6000 MK5 b,identity_unresolved,,https://www.manualslib.com/brand/reloop/turntable.html
 main,Reloop,RP-6000 MK6 LTD,identity_unresolved,,https://www.manualslib.com/brand/reloop/turntable.html
@@ -3144,12 +3144,12 @@ main,Reloop,RP1000 MK2,identity_unresolved,,https://www.manualslib.com/brand/rel
 main,Reloop,RP2000MK2,added_1.4,reloop-0002,https://www.manualslib.com/manual/2816926/Reloop-Rp2000mk2.html
 main,Reloop,RP2000USB,identity_unresolved,,https://www.manualslib.com/brand/reloop/turntable.html
 main,Reloop,RP7,added_1.4,reloop-0005,https://www.manualslib.com/manual/4110975/Reloop-Rp7.html
-main,Reloop,RP7000,document_unverified,,https://www.manualslib.com/brand/reloop/turntable.html
+main,Reloop,RP7000,added_1.5,reloop-0015,https://www.reloop.com/reloop-rp-7000
 main,Reloop,RP8000,added_1.4,reloop-0007,https://www.manualslib.com/manual/690226/Reloop-Rp8000.html
 main,Reloop,TURN 5,added_1.4,reloop-0012,https://www.manualslib.com/manual/3106892/Reloop-Turn5.html
 main,Reloop,TURN2,added_1.4,reloop-0010,https://www.manualslib.com/manual/2817078/Reloop-Turn2.html
 main,Reloop,TURN3,added_1.4,reloop-0011,https://www.manualslib.com/manual/2828368/Reloop-Turn3.html
-main,Reloop,TURN3 MK2,document_unverified,,https://www.manualslib.com/brand/reloop/turntable.html
+main,Reloop,TURN3 MK2,added_1.5,reloop-0016,https://www.reloop-hifi.com/media/productattach/t/u/turn3mk2_im.pdf
 main,Reloop,TURN7,added_1.4,reloop-0013,https://www.manualslib.com/manual/3047645/Reloop-Turn7.html
 main,Reloop,TURNX,added_1.4,reloop-0014,https://www.manualslib.com/manual/2965802/Reloop-Turnx.html
 main,Revox,60,no_primary_match,,https://www.hifi-wiki.de/index.php/Revox_60
@@ -3182,14 +3182,14 @@ main,Rotel,RP-1500,added_1.4,rotel-0005,https://www.manualslib.com/manual/114560
 main,Rotel,RP-2300,added_1.4,rotel-0006,https://www.manualslib.com/manual/3999562/Rotel-Rp-2300.html
 main,Rotel,RP-2400,added_1.4,rotel-0007,https://www.manualslib.com/manual/890450/Rotel-Rp-2400.html
 main,Rotel,RP-2500,added_1.4,rotel-0008,https://www.manualslib.com/manual/1011911/Rotel-Rp-2500.html
-main,Rotel,RP-300,document_unverified,,https://www.hifi-wiki.de/index.php/Rotel_RP-300
+main,Rotel,RP-300,added_1.5,rotel-0023,https://www.manualslib.com/manual/4372678/Rotel-Rp-300.html
 main,Rotel,RP-3000,added_1.4,rotel-0009,https://www.manualslib.com/manual/142566/Rotel-Rp-3000.html
 main,Rotel,RP-310,identity_unresolved,,https://www.hifi-wiki.de/index.php/Rotel_RP-310
 main,Rotel,RP-3300,added_1.4,rotel-0010,https://www.manualslib.com/manual/1000213/Rotel-Rp-3300.html
 main,Rotel,RP-400,added_1.4,rotel-0011,https://www.manualslib.com/manual/142563/Rotel-Rp-400.html
 main,Rotel,RP-4400,added_1.4,rotel-0012,https://www.manualslib.com/manual/4004204/Rotel-Rp-4400.html
 main,Rotel,RP-500,no_primary_match,,https://www.hifi-wiki.de/index.php/Rotel_RP-500
-main,Rotel,RP-510,document_unverified,,https://www.hifi-wiki.de/index.php/Rotel_RP-510
+main,Rotel,RP-510,added_1.5,rotel-0024,https://www.manualslib.com/manual/895778/Rotel-Rp-510.html
 main,Rotel,RP-5300,added_1.4,rotel-0013,https://www.manualslib.com/manual/908175/Rotel-Rp-5300.html
 main,Rotel,RP-550,identity_unresolved,,https://www.hifi-wiki.de/index.php/Rotel_RP-550
 main,Rotel,RP-560,added_1.4,rotel-0014,https://www.manualslib.com/manual/4077758/Rotel-Rp-560.html
@@ -3200,10 +3200,10 @@ main,Rotel,RP-820,added_1.4,rotel-0017,https://www.manualslib.com/manual/142564/
 main,Rotel,RP-830,added_1.4,rotel-0018,https://www.manualslib.com/manual/893897/Rotel-Rp-830.html
 main,Rotel,RP-840,added_1.4,rotel-0019,https://www.manualslib.com/manual/892874/Rotel-Rp-840.html
 main,Rotel,RP-845,no_primary_match,,https://www.hifi-wiki.de/index.php/Rotel_RP-845
-main,Rotel,RP-850,document_unverified,,https://www.hifi-wiki.de/index.php/Rotel_RP-850
+main,Rotel,RP-850,added_1.5,rotel-0026,https://www.manualslib.com/manual/142567/Rotel-Rp-850.html
 main,Rotel,RP-855,added_1.4,rotel-0020,https://www.manualslib.com/manual/3406604/Rotel-Rp-855.html
 main,Rotel,RP-860,added_1.4,rotel-0021,https://www.manualslib.com/manual/142569/Rotel-Rp-860.html
-main,Rotel,RP-900,document_unverified,,https://www.hifi-wiki.de/index.php/Rotel_RP-900
+main,Rotel,RP-900,added_1.5,rotel-0025,https://www.rotel.com/en-gb/product/rp-900
 main,Rotel,RP-9400,identity_unresolved,,https://www.hifi-wiki.de/index.php/Rotel_RP-9400
 main,Rotel,RP-955,added_1.4,rotel-0022,https://www.manualslib.com/manual/3363255/Rotel-Rp-955.html
 main,Saba,326,identity_unresolved,,https://www.hifi-wiki.de/index.php/Saba_326
@@ -3227,7 +3227,7 @@ main,Saba,PSP 248,no_primary_match,,https://www.hifi-wiki.de/index.php/Saba_PSP_
 main,Saba,PSP 250,identity_unresolved,,https://www.hifi-wiki.de/index.php/Saba_PSP_250
 main,Saba,PSP 350,added_1.4,saba-0003,https://www.hifi-wiki.de/images/0/0e/Saba_PSP-350-Prospekt-1980.jpg
 main,Saba,PSP 400,identity_unresolved,,https://www.hifi-wiki.de/index.php/Saba_PSP_400
-main,Saba,PSP 450,document_unverified,,https://www.hifi-wiki.de/index.php/Saba_PSP_450
+main,Saba,PSP 450,added_1.5,saba-0006,https://archive.org/download/manual_PSP450_SM_SABA_DE_FR_EN_IT/PSP450_SM_SABA_DE_FR_EN_IT.pdf
 main,Saba,PSP 480,added_1.4,saba-0004,https://archive.org/details/manual_PSP480_SM_SABA_EN_DE_FR
 main,Saba,PSP 910,identity_unresolved,,https://www.hifi-wiki.de/index.php/Saba_PSP_910
 main,Saba,RP 1010,added_1.4,saba-0005,https://www.hifi-wiki.de/images/4/46/Saba_RP-1010-Prospekt-1989.jpg
@@ -3253,7 +3253,7 @@ main,Sansui,P-L50,added_1.4,sansui-0017,https://www.manualslib.com/manual/352030
 main,Sansui,P-L51,added_1.4,sansui-0018,https://www.manualslib.com/manual/4147808/Sansui-P-L51.html
 main,Sansui,P-L55,added_1.4,sansui-0019,https://www.manualslib.com/manual/3946061/Sansui-P-L55.html
 main,Sansui,P-L75,added_1.4,sansui-0020,https://www.manualslib.com/manual/3710089/Sansui-P-L75.html
-main,Sansui,P-M55,document_unverified,,https://www.manualslib.com/brand/sansui/turntable.html
+main,Sansui,P-M55,added_1.5,sansui-0047,https://www.manualslib.com/manual/4371973/Sansui-P-M55.html
 main,Sansui,P-M7,added_1.4,sansui-0022,https://www.manualslib.com/manual/3383900/Sansui-P-M7.html
 main,Sansui,P-M700,added_1.4,sansui-0023,https://www.manualslib.com/manual/3963586/Sansui-P-M700.html
 main,Sansui,P-M77,added_1.4,sansui-0024,https://www.manualslib.com/manual/4251940/Sansui-P-M77.html
@@ -3267,18 +3267,18 @@ main,Sansui,SR-2050K,variant_or_scope,,https://www.manualslib.com/brand/sansui/t
 main,Sansui,SR-222MKIV,variant_or_scope,,https://www.manualslib.com/brand/sansui/turntable.html
 main,Sansui,SR-3030,identity_unresolved,,https://www.manualslib.com/brand/sansui/turntable.html
 main,Sansui,SR-313,added_1.4,sansui-0031,https://www.hifi-wiki.de/images/3/37/Sansui_SR-313-Prospekt-1.jpg
-main,Sansui,SR-323,document_unverified,,https://www.manualslib.com/brand/sansui/turntable.html
+main,Sansui,SR-323,deferred_1.5,,https://www.manualslib.com/manual/888119/Sansui-Sr-222.html
 main,Sansui,SR-333,added_1.4,sansui-0032,https://www.hifi-wiki.de/images/a/a0/Sansui_SR-333-Prospekt-1.jpg
 main,Sansui,SR-4040 BC,added_1.4,sansui-0033,https://www.hifi-wiki.de/images/thumb/b/bb/Sansui_SR-4040_BC-Prospekt-1.jpg/1600px-Sansui_SR-4040_BC-Prospekt-1.jpg
 main,Sansui,SR-4050,added_1.4,sansui-0034,https://www.manualslib.com/manual/4371933/Sansui-Sr-4050.html
 main,Sansui,SR-4050 C,variant_or_scope,,https://www.hifi-wiki.de/index.php/Sansui_SR-4050_C
-main,Sansui,SR-5090,document_unverified,,https://www.manualslib.com/brand/sansui/turntable.html
+main,Sansui,SR-5090,deferred_1.5,,https://www.manualslib.com/manual/4368430/Sansui-Sr-535.html
 main,Sansui,SR-626,added_1.4,sansui-0037,https://www.hifi-wiki.de/images/4/4a/Sansui_SR-626-Prospekt-1.jpg
-main,Sansui,SR-7090,document_unverified,,https://www.manualslib.com/brand/sansui/turntable.html
+main,Sansui,SR-7090,deferred_1.5,,https://www.manualslib.com/manual/4368430/Sansui-Sr-535.html
 main,Sansui,SR-9219,identity_unresolved,,https://www.manualslib.com/brand/sansui/turntable.html
 main,Sansui,SR-B200,added_1.4,sansui-0043,https://www.manualslib.com/manual/4096621/Sansui-Sr-B200.html
 main,Sansui,SR-B200S,variant_or_scope,,https://www.manualslib.com/brand/sansui/turntable.html
-main,Sansui,XR-Q 5,document_unverified,,https://www.hifi-wiki.de/index.php/Sansui_XR-Q_5
+main,Sansui,XR-Q 5,deferred_1.5,,https://www.hifi-wiki.de/images/8/8b/Sansui_XR-Q_5-1982.jpg
 main,Sanyo,P-30,identity_unresolved,,https://www.hifi-wiki.de/index.php/Sanyo_P-30
 main,Sanyo,P-36,identity_unresolved,,https://www.hifi-wiki.de/index.php/Sanyo_P-36
 main,Sanyo,P-50,added_1.4,sanyo-0001,https://www.manualslib.com/manual/4364201/Sanyo-P50.html
@@ -3304,7 +3304,7 @@ main,Sanyo,TP-226,identity_unresolved,,https://www.hifi-wiki.de/index.php/Sanyo_
 main,Sanyo,TP-240,added_1.4,sanyo-0019,https://www.manualslib.com/manual/4340844/Sanyo-Tp-240.html
 main,Sanyo,TP-250,added_1.4,sanyo-0020,https://www.manualslib.com/manual/4356775/Sanyo-Tp-250.html
 main,Sanyo,TP-30,added_1.4,sanyo-0021,https://www.hifi-wiki.de/images/1/1d/Sanyo_TP-20-30-Prospekt-1980.jpg
-main,Sanyo,TP-340,document_unverified,,https://www.hifi-wiki.de/index.php/Sanyo_TP-340
+main,Sanyo,TP-340,deferred_1.5,,https://www.hifi-wiki.de/images/a/a6/Sanyo_System_340-Prospekt-1984.jpg
 main,Sanyo,TP-366,identity_unresolved,,https://www.hifi-wiki.de/index.php/Sanyo_TP-366
 main,Sanyo,TP-388,identity_unresolved,,https://www.hifi-wiki.de/index.php/Sanyo_TP-388
 main,Sanyo,TP-440,added_1.4,sanyo-0022,https://www.manualslib.com/manual/4264207/Sanyo-Tp-440.html
@@ -3321,11 +3321,11 @@ main,Sanyo,TP-82 S,added_1.4,sanyo-0025,https://www.hifi-wiki.de/images/7/7b/San
 main,Sanyo,TP-8300,identity_unresolved,,https://www.hifi-wiki.de/index.php/Sanyo_TP-8300
 main,Sanyo,TP-8500,identity_unresolved,,https://www.hifi-wiki.de/index.php/Sanyo_TP-8500
 main,Sanyo,TP-92 S,identity_unresolved,,https://www.hifi-wiki.de/index.php/Sanyo_TP-92_S
-main,Sanyo,TP-L 1,document_unverified,,https://www.hifi-wiki.de/index.php/Sanyo_TP-L_1
+main,Sanyo,TP-L 1,deferred_1.5,,https://www.hifi-wiki.de/images/2/22/Sanyo_TP-L_1-Prospekt-1978.jpg
 main,Sanyo,TP-M 15,added_1.4,sanyo-0026,https://www.manualslib.com/manual/1029490/Sanyo-Tp-M15.html
 main,Sanyo,TP-M 17,identity_unresolved,,https://www.hifi-wiki.de/index.php/Sanyo_TP-M_17
 main,Scan-Dyna,1400,added_1.4,scan-dyna-0001,https://www.hifi-wiki.de/images/3/36/Scan-Dyna_2400-Werbung-1973.jpg
-main,Scan-Dyna,1700,document_unverified,,https://www.hifi-wiki.de/index.php/Scan-Dyna_1700
+main,Scan-Dyna,1700,deferred_1.5,,https://www.hifi-wiki.de/images/f/fc/Scan-Dyna_1700-1973.jpg
 main,Schneider,6145TP,identity_unresolved,,https://www.hifi-wiki.de/index.php/Schneider_6145TP
 main,Schneider,SST100,no_primary_match,,https://www.hifi-wiki.de/index.php/Schneider_SST100
 main,Schneider,TEAM 6041 P,no_primary_match,,https://www.hifi-wiki.de/index.php/Schneider_TEAM_6041_P
@@ -3334,12 +3334,12 @@ main,Scott,PS-17,added_1.4,scott-0001,https://www.manualslib.com/manual/3734497/
 main,Scott,PS-18,no_primary_match,,https://www.hifi-wiki.de/index.php/Scott_PS-18
 main,Scott,PS-47,added_1.4,scott-0002,https://www.manualslib.com/manual/3948573/Scott-Ps47.html
 main,Scott,PS-48,no_primary_match,,https://www.hifi-wiki.de/index.php/Scott_PS-48
-main,Scott,PS-57,document_unverified,,https://www.hifi-wiki.de/index.php/Scott_PS-57
+main,Scott,PS-57,added_1.5,scott-0006,https://retronik.silicium.org/DOCUMENTS/Audiovideo/Scott/Scott-PS-17-PS-47-PS-57-PS-67-PS-76-PS-87-Service-Manual.pdf
 main,Scott,PS-67,added_1.4,scott-0003,https://www.manualslib.com/manual/3948574/Scott-Ps67.html
 main,Scott,PS-67 A,no_primary_match,,https://www.hifi-wiki.de/index.php/Scott_PS-67_A
 main,Scott,PS-68,no_primary_match,,https://www.hifi-wiki.de/index.php/Scott_PS-68
 main,Scott,PS-71,no_primary_match,,https://www.hifi-wiki.de/index.php/Scott_PS-71
-main,Scott,PS-76,document_unverified,,https://www.hifi-wiki.de/index.php/Scott_PS-76
+main,Scott,PS-76,added_1.5,scott-0005,https://www.manualslib.com/manual/3948575/Scott-Ps76.html
 main,Scott,PS-77 XV,identity_unresolved,,https://www.hifi-wiki.de/index.php/Scott_PS-77_XV
 main,Scott,PS-78,no_primary_match,,https://www.hifi-wiki.de/index.php/Scott_PS-78
 main,Scott,PS-87,added_1.4,scott-0004,https://www.manualslib.com/manual/3948576/Scott-Ps87.html
@@ -3369,7 +3369,7 @@ main,Siemens,RW 666,added_1.4,siemens-0005,https://archive.org/details/manual_RW
 main,Siemens,RW 777,added_1.4,siemens-0006,https://www.hifi-wiki.de/images/thumb/8/82/Siemens_RW-777-Prospekt-1.jpg/1600px-Siemens_RW-777-Prospekt-1.jpg
 main,Sonab,85S,no_primary_match,,https://www.hifi-wiki.de/index.php/Sonab_85S
 main,Stanton,ST-100,added_1.4,stanton-0001,https://www.manualslib.com/manual/323615/Stanton-St-100.html
-main,Stanton,ST.150 M2,document_unverified,,https://www.manualslib.com/brand/stanton/turntable.html
+main,Stanton,ST.150 M2,added_1.5,stanton-0019,https://trimacppl.com/admin/data/brands/pdf/1526030657044.pdf
 main,Stanton,STR8-100,added_1.4,stanton-0004,https://www.manualslib.com/manual/372716/Stanton-Str8-100.html
 main,Stanton,STR8-150,added_1.4,stanton-0005,https://www.manualslib.com/manual/263503/Stanton-Str8-150.html
 main,Stanton,STR8-20,added_1.4,stanton-0006,https://www.manualslib.com/manual/263501/Stanton-Str8-20.html
@@ -3379,21 +3379,21 @@ main,Stanton,STR8-80,identity_unresolved,,https://www.manualslib.com/brand/stant
 main,Stanton,STR8-90,added_1.4,stanton-0009,https://www.manualslib.com/manual/164872/Stanton-Str8-90.html
 main,Stanton,STR8.150,no_primary_match,,https://www.manua.ls/audio/turntables?p=6
 main,Stanton,STR8.150 M2,added_1.4,stanton-0003,https://www.manualslib.com/manual/3141094/Stanton-Str8-150-M2.html
-main,Stanton,T.120,document_unverified,,https://www.manualslib.com/brand/stanton/turntable.html
+main,Stanton,T.120,deferred_1.5,,https://www.manualslib.com/manual/263504/Stanton-T-12o.html
 main,Stanton,T.120C,variant_or_scope,,https://www.manualslib.com/brand/stanton/turntable.html
 main,Stanton,T.12O,variant_or_scope,,https://www.manualslib.com/brand/stanton/turntable.html
 main,Stanton,T.12OC,variant_or_scope,,https://www.manualslib.com/brand/stanton/turntable.html
-main,Stanton,T.50,document_unverified,,https://www.manualslib.com/brand/stanton/turntable.html
+main,Stanton,T.50,added_1.5,stanton-0018,https://m.media-amazon.com/images/I/A17trkVZLGL.pdf
 main,Stanton,T.5O,variant_or_scope,,https://www.manualslib.com/brand/stanton/turntable.html
 main,Stanton,T.60,added_1.4,stanton-0012,https://www.manualslib.com/manual/263507/Stanton-T-60.html
 main,Stanton,T.62 M2,added_1.4,stanton-0014,https://www.manualslib.com/manual/1263935/Stanton-T-62-M2.html
-main,Stanton,T.80,document_unverified,,https://www.manualslib.com/brand/stanton/turntable.html
+main,Stanton,T.80,deferred_1.5,,https://www.manualslib.com/manual/263508/Stanton-T-8o.html
 main,Stanton,T.8O,variant_or_scope,,https://www.manualslib.com/brand/stanton/turntable.html
 main,Stanton,T.90,added_1.4,stanton-0015,https://www.manualslib.com/manual/323623/Stanton-T-90.html
 main,Stanton,T.90 USB,added_1.4,stanton-0016,https://www.manualslib.com/manual/967171/Stanton-T-90-Usb.html
 main,Tandberg,TT 5000,added_1.4,tandberg-0001,https://www.hifi-wiki.de/images/e/ee/Tandberg_TT-5000-Prospekt-2.jpg
 main,TEAC,LP-R400,added_1.4,teac-0013,https://www.manualslib.com/manual/168797/Teac-Lp-R400.html
-main,TEAC,LP-R450,document_unverified,,https://www.manualslib.com/brand/teac/turntable.html
+main,TEAC,LP-R450,excluded_1.5,,https://teac.jp/jp/product/lp-r450/spec
 main,TEAC,LP-R500A,no_primary_match,,https://www.manua.ls/audio/turntables?p=5
 main,TEAC,LP-U200,identity_unresolved,,https://www.manualslib.com/brand/teac/turntable.html
 main,TEAC,P-490,added_1.4,teac-0015,https://www.hifi-wiki.de/images/3/38/Teac_1986-87_-_13.jpg
@@ -3507,7 +3507,7 @@ main,Thorens,TD 2001 mit RDC Teilen,no_primary_match,,https://www.hifi-wiki.de/i
 main,Thorens,TD 2010,added_1.4,thorens-0037,https://www.manualslib.com/manual/461427/Thorens-Td-2010.html
 main,Thorens,TD 203,identity_unresolved,,https://www.manualslib.com/brand/thorens/turntable.html
 main,Thorens,TD 2030,identity_unresolved,,https://www.manualslib.com/brand/thorens/turntable.html
-main,Thorens,TD 2035,document_unverified,,https://www.manualslib.com/brand/thorens/turntable.html
+main,Thorens,TD 2035,added_1.5,thorens-0064,https://aaav.gr/img/pdf/THORENS%20Product%20Information%20RRP%20May%202019.pdf
 main,Thorens,TD 204,existing,thorens-0006,https://www.thorens.com/en/items/products/turntables.html
 main,Thorens,TD 206,added_1.4,thorens-0038,https://www.manualslib.com/manual/953778/Thorens-Td-206.html
 main,Thorens,TD 226,added_1.4,thorens-0040,https://www.hifi-wiki.de/images/0/04/Thorens_TD-226-Prospekt-11.jpg
@@ -3535,8 +3535,8 @@ main,Thorens,TD 800,no_primary_match,,https://www.manua.ls/audio/turntables?p=5
 main,Thorens,TD 810,identity_unresolved,,https://www.manualslib.com/brand/thorens/turntable.html
 main,Thorens,TD 850,identity_unresolved,,https://www.manualslib.com/brand/thorens/turntable.html
 main,Thorens,TD 903,added_1.4,thorens-0059,https://www.manualslib.com/manual/1938025/Thorens-Td-903.html
-main,Thorens,TD 905,document_unverified,,https://www.manualslib.com/brand/thorens/turntable.html
-main,Thorens,TD 907,document_unverified,,https://www.manualslib.com/brand/thorens/turntable.html
+main,Thorens,TD 905,added_1.5,thorens-0062,https://audio.vn/wp-content/uploads/2017/12/thorens-900-serie-EN.pdf
+main,Thorens,TD 907,added_1.5,thorens-0063,https://audio.vn/wp-content/uploads/2017/12/thorens-900-serie-EN.pdf
 main,Thorens,TD-145 MKII Isotrack,identity_unresolved,,https://www.manualslib.com/brand/thorens/turntable.html
 main,Thorens,TD-150 II,no_primary_match,,https://www.manua.ls/audio/turntables?p=4
 main,Thorens,TD201,existing,thorens-0008,https://www.thorens.com/en/items/products/turntables.html
@@ -3546,15 +3546,15 @@ main,Toshiba,SR-220,added_1.4,toshiba-0001,https://www.hifi-wiki.de/images/5/5e/
 main,Toshiba,SR-225,no_primary_match,,https://www.hifi-wiki.de/index.php/Toshiba_SR-225
 main,Toshiba,SR-230,identity_unresolved,,https://www.hifi-wiki.de/index.php/Toshiba_SR-230
 main,Toshiba,SR-250,identity_unresolved,,https://www.manualslib.com/brand/toshiba/turntable.html
-main,Toshiba,SR-300,document_unverified,,https://www.hifi-wiki.de/index.php/Toshiba_SR-300
+main,Toshiba,SR-300,deferred_1.5,,https://www.hifi-wiki.de/images/6/64/Toshiba_SR-300-Prospekt-11.jpg
 main,Toshiba,SR-305 S,identity_unresolved,,https://www.hifi-wiki.de/index.php/Toshiba_SR-305_S
-main,Toshiba,SR-40,document_unverified,,https://www.hifi-wiki.de/index.php/Toshiba_SR-40
-main,Toshiba,SR-50,document_unverified,,https://www.hifi-wiki.de/index.php/Toshiba_SR-50
+main,Toshiba,SR-40,deferred_1.5,,https://www.hifi-wiki.de/images/a/a0/Toshiba_SR-40-Prospekt-2.jpg
+main,Toshiba,SR-50,deferred_1.5,,https://www.hifi-wiki.de/images/a/ad/Toshiba_SR-50-Prospekt-1.jpg
 main,Toshiba,SR-510,no_primary_match,,https://www.hifi-wiki.de/index.php/Toshiba_SR-510
 main,Toshiba,SR-510C,added_1.4,toshiba-0005,https://archive.org/details/manual_SR510C_SM_TOSHIBA_EN
 main,Toshiba,SR-520,identity_unresolved,,https://www.hifi-wiki.de/index.php/Toshiba_SR-520
 main,Toshiba,SR-630,no_primary_match,,https://www.hifi-wiki.de/index.php/Toshiba_SR-630
-main,Toshiba,SR-80,document_unverified,,https://www.hifi-wiki.de/index.php/Toshiba_SR-80
+main,Toshiba,SR-80,deferred_1.5,,https://www.hifi-wiki.de/images/6/6f/Toshiba_SR-80-Prospekt-1.jpg
 main,Toshiba,SR-870,no_primary_match,,https://www.hifi-wiki.de/index.php/Toshiba_SR-870
 main,Toshiba,SR-A 100,identity_unresolved,,https://www.hifi-wiki.de/index.php/Toshiba_SR-A_100
 main,Toshiba,SR-A 102,identity_unresolved,,https://www.hifi-wiki.de/index.php/Toshiba_SR-A_102
@@ -3606,7 +3606,7 @@ main,Universum,F 2536,no_primary_match,,https://www.hifi-wiki.de/index.php/Unive
 main,Universum,F 5585A,no_primary_match,,https://www.hifi-wiki.de/index.php/Universum_F_5585A
 main,Victor,QL-A 70,no_primary_match,,https://www.hifi-wiki.de/index.php/Victor_QL-A_70
 main,Victor,QL-A 95 R,no_primary_match,,https://www.hifi-wiki.de/index.php/Victor_QL-A_95_R
-main,Victor,QL-A95,document_unverified,,https://www.hifi-wiki.de/index.php/Victor_QL-A95
+main,Victor,QL-A95,added_1.5,victor-0001,https://www.hifi-wiki.de/images/f/fd/JVC_QL-A_95-1982.jpg
 main,Victor,QL-Y 33 F,no_primary_match,,https://www.hifi-wiki.de/index.php/Victor_QL-Y_33_F
 main,Victor,QL-Y 44 F,no_primary_match,,https://www.hifi-wiki.de/index.php/Victor_QL-Y_44_F
 main,Victor,QL-Y 7,no_primary_match,,https://www.hifi-wiki.de/index.php/Victor_QL-Y_7
@@ -3622,17 +3622,17 @@ main,Wega,Lab Zero Turntable,no_primary_match,,https://www.hifi-wiki.de/index.ph
 main,Wega,Modul 42 P,identity_unresolved,,https://www.hifi-wiki.de/index.php/Wega_Modul_42_P
 main,Wega,P 120 SH,added_1.4,wega-0002,https://archive.org/details/manual_P120SH_SM_WEGA_EN_DE
 main,Wega,P 3440,added_1.4,wega-0003,https://archive.org/details/manual_P3440_OM_WEGA_DE
-main,Wega,P 4410,document_unverified,,https://www.hifi-wiki.de/index.php/Wega_P_4410
+main,Wega,P 4410,deferred_1.5,,https://www.hifi-wiki.de/images/4/43/Wega_P-4410-Prospekt-1.jpg
 main,Wega,P 550,added_1.4,wega-0004,https://www.hifi-wiki.de/images/b/bf/Wega_P-550_Prospekt-1981.jpg
 main,Wega,P 700,added_1.4,wega-0005,https://www.manualslib.com/manual/3436157/Wega-P700.html
 main,Wega,P-550-SH,no_primary_match,,https://www.hifi-wiki.de/index.php/Wega_P-550-SH
 main,Yamaha,CC-101P,no_primary_match,,https://www.hifi-wiki.de/index.php/Yamaha_CC-101P
 main,Yamaha,CS-50P,no_primary_match,,https://www.hifi-wiki.de/index.php/Yamaha_CS-50P
-main,Yamaha,GT-1000,document_unverified,,https://www.hifi-wiki.de/index.php/Yamaha_GT-1000
+main,Yamaha,GT-1000,deferred_1.5,,https://www.hifi-wiki.de/images/0/08/Yamaha_GT-1000-1983.jpg
 main,Yamaha,GT-2000,identity_unresolved,,https://www.hifi-wiki.de/index.php/Yamaha_GT-2000
 main,Yamaha,GT-2000 L,variant_or_scope,,https://www.hifi-wiki.de/index.php/Yamaha_GT-2000_L
 main,Yamaha,GT-2000 X,variant_or_scope,,https://www.hifi-wiki.de/index.php/Yamaha_GT-2000_X
-main,Yamaha,GT-750,document_unverified,,https://www.hifi-wiki.de/index.php/Yamaha_GT-750
+main,Yamaha,GT-750,deferred_1.5,,https://www.hifi-wiki.de/images/b/b8/Yamaha_GT-750-1984.jpg
 main,Yamaha,GT5000BL,variant_or_scope,,https://www.manualslib.com/brand/yamaha/turntable.html
 main,Yamaha,P-05,no_primary_match,,https://www.hifi-wiki.de/index.php/Yamaha_P-05
 main,Yamaha,P-06,no_primary_match,,https://www.hifi-wiki.de/index.php/Yamaha_P-06
@@ -3675,7 +3675,7 @@ main,Yamaha,YP-1000,identity_unresolved,,https://www.hifi-wiki.de/index.php/Yama
 main,Yamaha,YP-1000 II,variant_or_scope,,https://www.hifi-wiki.de/index.php/Yamaha_YP-1000_II
 main,Yamaha,YP-301 C,no_primary_match,,https://www.hifi-wiki.de/index.php/Yamaha_YP-301_C
 main,Yamaha,YP-311,no_primary_match,,https://www.hifi-wiki.de/index.php/Yamaha_YP-311
-main,Yamaha,YP-400,document_unverified,,https://www.hifi-wiki.de/index.php/Yamaha_YP-400
+main,Yamaha,YP-400,deferred_1.5,,https://www.hifi-wiki.de/images/5/55/Yamaha_YP-400-Prospekt-1.jpg
 main,Yamaha,YP-450,no_primary_match,,https://www.hifi-wiki.de/index.php/Yamaha_YP-450
 main,Yamaha,YP-600,identity_unresolved,,https://www.hifi-wiki.de/index.php/Yamaha_YP-600
 main,Yamaha,YP-70,no_primary_match,,https://www.hifi-wiki.de/index.php/Yamaha_YP-70
@@ -3685,7 +3685,7 @@ main,Yamaha,YP-B 4,identity_unresolved,,https://www.hifi-wiki.de/index.php/Yamah
 main,Yamaha,YP-B2B,variant_or_scope,,https://www.manualslib.com/brand/yamaha/turntable.html
 main,Yamaha,YP-D 3,identity_unresolved,,https://www.hifi-wiki.de/index.php/Yamaha_YP-D_3
 main,Yamaha,YP-D 5,no_primary_match,,https://www.hifi-wiki.de/index.php/Yamaha_YP-D_5
-main,Yamaha,YP-D 51,document_unverified,,https://www.hifi-wiki.de/index.php/Yamaha_YP-D_51
+main,Yamaha,YP-D 51,deferred_1.5,,https://www.hifi-wiki.de/images/5/50/Yamaha_YP-D_51-1975.jpg
 main,Yamaha,YP-D 7,no_primary_match,,https://www.hifi-wiki.de/index.php/Yamaha_YP-D_7
 main,Yamaha,YP-D 9,no_primary_match,,https://www.hifi-wiki.de/index.php/Yamaha_YP-D_9
 quarantine,Audio-Technica,4961310147143,quarantined,,https://www.manualslib.com/brand/audio-technica/turntable.html
