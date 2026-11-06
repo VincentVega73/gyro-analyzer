@@ -10,6 +10,8 @@ The official monochrome target now has initial physical evidence from four Miche
 
 ## Overview
 
+The [turntable library](catalog/README.md) identifies 134 models from eight manufacturers and includes a reproducible JSON catalog for offline use.
+
 Gyro Analyzer observes a marker on a rotating platter while the phone remains on a stable mount. Unlike methods that put a phone on the platter and use its motion sensors, this optical method does not add the phone's mass to the rotating system. Lighting, camera geometry, image timestamps and print quality still matter.
 
 ## Implemented development-build features

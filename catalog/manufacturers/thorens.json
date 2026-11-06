@@ -1,0 +1,162 @@
+[
+  {
+    "model_id": "thorens-0001",
+    "manufacturer": "Thorens",
+    "model": "TD 404 DD",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.thorens.com/en/items/products/turntables.html",
+        "title": "Thorens — Turntables"
+      }
+    ]
+  },
+  {
+    "model_id": "thorens-0002",
+    "manufacturer": "Thorens",
+    "model": "TD 124 DD",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.thorens.com/en/items/products/turntables.html",
+        "title": "Thorens — Turntables"
+      }
+    ]
+  },
+  {
+    "model_id": "thorens-0003",
+    "manufacturer": "Thorens",
+    "model": "TD 1500",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.thorens.com/en/items/products/turntables.html",
+        "title": "Thorens — Turntables"
+      }
+    ]
+  },
+  {
+    "model_id": "thorens-0004",
+    "manufacturer": "Thorens",
+    "model": "TD 403 DD",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.thorens.com/en/items/products/turntables.html",
+        "title": "Thorens — Turntables"
+      }
+    ]
+  },
+  {
+    "model_id": "thorens-0005",
+    "manufacturer": "Thorens",
+    "model": "TD 402 DD",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.thorens.com/en/items/products/turntables.html",
+        "title": "Thorens — Turntables"
+      }
+    ]
+  },
+  {
+    "model_id": "thorens-0006",
+    "manufacturer": "Thorens",
+    "model": "TD 204",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.thorens.com/en/items/products/turntables.html",
+        "title": "Thorens — Turntables"
+      }
+    ]
+  },
+  {
+    "model_id": "thorens-0007",
+    "manufacturer": "Thorens",
+    "model": "TD 202",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.thorens.com/en/items/products/turntables.html",
+        "title": "Thorens — Turntables"
+      }
+    ]
+  },
+  {
+    "model_id": "thorens-0008",
+    "manufacturer": "Thorens",
+    "model": "TD 201",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.thorens.com/en/items/products/turntables.html",
+        "title": "Thorens — Turntables"
+      }
+    ]
+  },
+  {
+    "model_id": "thorens-0009",
+    "manufacturer": "Thorens",
+    "model": "TD 102 A",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.thorens.com/en/items/products/turntables.html",
+        "title": "Thorens — Turntables"
+      }
+    ]
+  },
+  {
+    "model_id": "thorens-0010",
+    "manufacturer": "Thorens",
+    "model": "TD 101 A",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.thorens.com/en/items/products/turntables.html",
+        "title": "Thorens — Turntables"
+      }
+    ]
+  },
+  {
+    "model_id": "thorens-0011",
+    "manufacturer": "Thorens",
+    "model": "New Reference",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.thorens.com/en/items/products/turntables.html",
+        "title": "Thorens — Turntables"
+      }
+    ]
+  },
+  {
+    "model_id": "thorens-0012",
+    "manufacturer": "Thorens",
+    "model": "TD 150",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.thorens.com/en/products/thorens-td-1500.html",
+        "title": "Thorens TD 1500 — history of the TD 150"
+      }
+    ],
+    "drive_type": {
+      "value": "belt",
+      "source": "identity"
+    }
+  }
+]

@@ -1,0 +1,196 @@
+[
+  {
+    "model_id": "technics-0001",
+    "manufacturer": "Technics",
+    "model": "SL-1200MK2",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.technics.com/global/home/sl1200/heritage.html",
+        "title": "SL-1200 — Heritage"
+      },
+      {
+        "key": "manual",
+        "url": "https://help.na.panasonic.com/wp-content/uploads/2023/02/SL1200MK2_SFNU122M06_ENG.pdf",
+        "title": "SL-1200MK2 Operating Instructions (120 V, 60 Hz) — Specifications",
+        "page": 8
+      }
+    ],
+    "drive_type": {
+      "value": "direct",
+      "source": "manual"
+    },
+    "speeds_rpm": {
+      "value": [
+        "100/3",
+        "45"
+      ],
+      "source": "manual"
+    },
+    "specifications": [
+      {
+        "name": "wow_and_flutter",
+        "original": "0.01% WRMS*",
+        "value": "0.01",
+        "unit": "%",
+        "source": "manual",
+        "method": "WRMS",
+        "condition": "Motor frequency-generator signal; platter included, record, cartridge and tonearm excluded."
+      },
+      {
+        "name": "wow_and_flutter",
+        "original": "0.025% WRMS (JIS C5521)",
+        "value": "0.025",
+        "unit": "%",
+        "source": "manual",
+        "method": "WRMS",
+        "standard": "JIS C5521"
+      },
+      {
+        "name": "wow_and_flutter",
+        "original": "±0.035% peak (IEC 98A Weighted)",
+        "value": "±0.035",
+        "unit": "%",
+        "source": "manual",
+        "method": "peak",
+        "standard": "IEC 98A",
+        "weighting": "IEC 98A Weighted"
+      }
+    ]
+  },
+  {
+    "model_id": "technics-0002",
+    "manufacturer": "Technics",
+    "model": "SL-1200MK3",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.technics.com/global/home/sl1200/heritage.html",
+        "title": "SL-1200 — Heritage"
+      }
+    ]
+  },
+  {
+    "model_id": "technics-0003",
+    "manufacturer": "Technics",
+    "model": "SL-1200MK3D",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.technics.com/global/home/sl1200/heritage.html",
+        "title": "SL-1200 — Heritage"
+      }
+    ]
+  },
+  {
+    "model_id": "technics-0004",
+    "manufacturer": "Technics",
+    "model": "SL-1200MK5",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.technics.com/global/home/sl1200/heritage.html",
+        "title": "SL-1200 — Heritage"
+      }
+    ]
+  },
+  {
+    "model_id": "technics-0005",
+    "manufacturer": "Technics",
+    "model": "SL-1200MK5G",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.technics.com/global/home/sl1200/heritage.html",
+        "title": "SL-1200 — Heritage"
+      }
+    ]
+  },
+  {
+    "model_id": "technics-0006",
+    "manufacturer": "Technics",
+    "model": "SL-1200",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.technics.com/global/home/sl1200/heritage.html",
+        "title": "SL-1200 — Heritage"
+      }
+    ]
+  },
+  {
+    "model_id": "technics-0007",
+    "manufacturer": "Technics",
+    "model": "SL-1100",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.technics.com/global/home/sl1200/heritage.html",
+        "title": "SL-1200 — Heritage"
+      }
+    ]
+  },
+  {
+    "model_id": "technics-0008",
+    "manufacturer": "Technics",
+    "model": "SP-10",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.technics.com/global/home/sl1200/heritage.html",
+        "title": "SL-1200 — Heritage"
+      }
+    ]
+  },
+  {
+    "model_id": "technics-0009",
+    "manufacturer": "Technics",
+    "model": "SL-1200LTD",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.technics.com/global/home/sl1200/heritage.html",
+        "title": "SL-1200 — Heritage"
+      }
+    ]
+  },
+  {
+    "model_id": "technics-0010",
+    "manufacturer": "Technics",
+    "model": "SL-1200MK7",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.technics.com/global/home/sl1200/heritage.html",
+        "title": "SL-1200 — Heritage"
+      }
+    ]
+  },
+  {
+    "model_id": "technics-0011",
+    "manufacturer": "Technics",
+    "model": "SL-1200GR2",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.technics.com/se/news/0024.html",
+        "title": "Technics unveils the next generation high-end turntables in its iconic SL-1200 Series"
+      }
+    ],
+    "drive_type": {
+      "value": "direct",
+      "source": "identity"
+    }
+  }
+]

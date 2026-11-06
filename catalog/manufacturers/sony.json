@@ -1,0 +1,67 @@
+[
+  {
+    "model_id": "sony-0001",
+    "manufacturer": "Sony",
+    "model": "PS-LX310BT",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.sony.jp/audio/products/PS-LX310BT/",
+        "title": "PS-LX310BT | Component Audio | Sony Japan (translated title)"
+      }
+    ]
+  },
+  {
+    "model_id": "sony-0002",
+    "manufacturer": "Sony",
+    "model": "PS-LX3BT",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.sony.jp/audio/products/PS-LX3BT/",
+        "title": "PS-LX3BT | Component Audio | Sony Japan (translated title)"
+      }
+    ]
+  },
+  {
+    "model_id": "sony-0003",
+    "manufacturer": "Sony",
+    "model": "PS-LX5BT",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.sony.jp/audio/products/PS-LX5BT/",
+        "title": "PS-LX5BT | Component Audio | Sony Japan (translated title)"
+      }
+    ]
+  },
+  {
+    "model_id": "sony-0004",
+    "manufacturer": "Sony",
+    "model": "PS-HX500",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.sony.com/electronics/support/audio-components-turntables/ps-hx500",
+        "title": "Support for PS-HX500 | Sony USA"
+      }
+    ]
+  },
+  {
+    "model_id": "sony-0005",
+    "manufacturer": "Sony",
+    "model": "PS-LX300USB",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.sony.com/electronics/support/audio-components-turntables/ps-lx300usb",
+        "title": "Support for PS-LX300USB | Sony USA"
+      }
+    ]
+  }
+]

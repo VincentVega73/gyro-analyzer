@@ -1,0 +1,288 @@
+[
+  {
+    "model_id": "rega-0001",
+    "manufacturer": "Rega",
+    "model": "Planar 1",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.rega.co.uk/about/timeline",
+        "title": "Rega Product Timeline"
+      }
+    ]
+  },
+  {
+    "model_id": "rega-0002",
+    "manufacturer": "Rega",
+    "model": "Planar 1 Plus",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.rega.co.uk/about/timeline",
+        "title": "Rega Product Timeline"
+      }
+    ]
+  },
+  {
+    "model_id": "rega-0003",
+    "manufacturer": "Rega",
+    "model": "Planar 2",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.rega.co.uk/about/timeline",
+        "title": "Rega Product Timeline"
+      }
+    ]
+  },
+  {
+    "model_id": "rega-0004",
+    "manufacturer": "Rega",
+    "model": "Planar 3",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.rega.co.uk/about/timeline",
+        "title": "Rega Product Timeline"
+      }
+    ]
+  },
+  {
+    "model_id": "rega-0005",
+    "manufacturer": "Rega",
+    "model": "Planar 6",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.rega.co.uk/about/timeline",
+        "title": "Rega Product Timeline"
+      }
+    ]
+  },
+  {
+    "model_id": "rega-0006",
+    "manufacturer": "Rega",
+    "model": "Planar 8",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.rega.co.uk/about/timeline",
+        "title": "Rega Product Timeline"
+      }
+    ]
+  },
+  {
+    "model_id": "rega-0007",
+    "manufacturer": "Rega",
+    "model": "Planar 10",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.rega.co.uk/about/timeline",
+        "title": "Rega Product Timeline"
+      }
+    ]
+  },
+  {
+    "model_id": "rega-0008",
+    "manufacturer": "Rega",
+    "model": "Planar 78",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.rega.co.uk/about/timeline",
+        "title": "Rega Product Timeline"
+      }
+    ]
+  },
+  {
+    "model_id": "rega-0009",
+    "manufacturer": "Rega",
+    "model": "Naiad",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.rega.co.uk/about/timeline",
+        "title": "Rega Product Timeline"
+      }
+    ]
+  },
+  {
+    "model_id": "rega-0010",
+    "manufacturer": "Rega",
+    "model": "RP10",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.rega.co.uk/about/timeline",
+        "title": "Rega Product Timeline"
+      }
+    ]
+  },
+  {
+    "model_id": "rega-0011",
+    "manufacturer": "Rega",
+    "model": "RP78",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.rega.co.uk/about/timeline",
+        "title": "Rega Product Timeline"
+      }
+    ]
+  },
+  {
+    "model_id": "rega-0012",
+    "manufacturer": "Rega",
+    "model": "RP8",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.rega.co.uk/about/timeline",
+        "title": "Rega Product Timeline"
+      }
+    ]
+  },
+  {
+    "model_id": "rega-0013",
+    "manufacturer": "Rega",
+    "model": "RP3",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.rega.co.uk/about/timeline",
+        "title": "Rega Product Timeline"
+      }
+    ]
+  },
+  {
+    "model_id": "rega-0014",
+    "manufacturer": "Rega",
+    "model": "RP6",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.rega.co.uk/about/timeline",
+        "title": "Rega Product Timeline"
+      }
+    ]
+  },
+  {
+    "model_id": "rega-0015",
+    "manufacturer": "Rega",
+    "model": "RP1",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.rega.co.uk/about/timeline",
+        "title": "Rega Product Timeline"
+      }
+    ]
+  },
+  {
+    "model_id": "rega-0016",
+    "manufacturer": "Rega",
+    "model": "P1",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.rega.co.uk/about/timeline",
+        "title": "Rega Product Timeline"
+      }
+    ]
+  },
+  {
+    "model_id": "rega-0017",
+    "manufacturer": "Rega",
+    "model": "P5",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.rega.co.uk/about/timeline",
+        "title": "Rega Product Timeline"
+      }
+    ]
+  },
+  {
+    "model_id": "rega-0018",
+    "manufacturer": "Rega",
+    "model": "P7",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.rega.co.uk/about/timeline",
+        "title": "Rega Product Timeline"
+      }
+    ]
+  },
+  {
+    "model_id": "rega-0019",
+    "manufacturer": "Rega",
+    "model": "P9",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.rega.co.uk/about/timeline",
+        "title": "Rega Product Timeline"
+      }
+    ]
+  },
+  {
+    "model_id": "rega-0020",
+    "manufacturer": "Rega",
+    "model": "P3 2000",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.rega.co.uk/about/timeline",
+        "title": "Rega Product Timeline"
+      }
+    ]
+  },
+  {
+    "model_id": "rega-0021",
+    "manufacturer": "Rega",
+    "model": "P2",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.rega.co.uk/about/timeline",
+        "title": "Rega Product Timeline"
+      }
+    ]
+  },
+  {
+    "model_id": "rega-0022",
+    "manufacturer": "Rega",
+    "model": "P25",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.rega.co.uk/about/timeline",
+        "title": "Rega Product Timeline"
+      }
+    ]
+  }
+]

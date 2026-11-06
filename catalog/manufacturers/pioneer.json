@@ -1,0 +1,480 @@
+[
+  {
+    "model_id": "pioneer-0001",
+    "manufacturer": "Pioneer",
+    "model": "PLA-1",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://global.pioneer/en/corp/info/history/chronology/archives/1950/",
+        "title": "History of Pioneer — 1950 to 1967"
+      }
+    ]
+  },
+  {
+    "model_id": "pioneer-0002",
+    "manufacturer": "Pioneer",
+    "model": "PL-4",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://global.pioneer/en/corp/info/history/chronology/archives/1950/",
+        "title": "History of Pioneer — 1950 to 1967"
+      }
+    ]
+  },
+  {
+    "model_id": "pioneer-0003",
+    "manufacturer": "Pioneer",
+    "model": "PL-5",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://global.pioneer/en/corp/info/history/chronology/archives/1950/",
+        "title": "History of Pioneer — 1950 to 1967"
+      }
+    ]
+  },
+  {
+    "model_id": "pioneer-0004",
+    "manufacturer": "Pioneer",
+    "model": "PL-6",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://global.pioneer/en/corp/info/history/chronology/archives/1950/",
+        "title": "History of Pioneer — 1950 to 1967"
+      }
+    ]
+  },
+  {
+    "model_id": "pioneer-0005",
+    "manufacturer": "Pioneer",
+    "model": "PL-41",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://global.pioneer/en/corp/info/history/chronology/archives/1950/",
+        "title": "History of Pioneer — 1950 to 1967"
+      }
+    ],
+    "drive_type": {
+      "value": "belt",
+      "source": "identity"
+    }
+  },
+  {
+    "model_id": "pioneer-0006",
+    "manufacturer": "Pioneer",
+    "model": "PL-25",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://global.pioneer/en/corp/info/history/chronology/archives/1950/",
+        "title": "History of Pioneer — 1950 to 1967"
+      }
+    ]
+  },
+  {
+    "model_id": "pioneer-0007",
+    "manufacturer": "Pioneer",
+    "model": "PL-31D",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://global.pioneer/en/corp/info/history/chronology/archives/1968/",
+        "title": "History of Pioneer — 1968 to 1979"
+      }
+    ]
+  },
+  {
+    "model_id": "pioneer-0008",
+    "manufacturer": "Pioneer",
+    "model": "PL-A25",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://global.pioneer/en/corp/info/history/chronology/archives/1968/",
+        "title": "History of Pioneer — 1968 to 1979"
+      }
+    ]
+  },
+  {
+    "model_id": "pioneer-0009",
+    "manufacturer": "Pioneer",
+    "model": "PL-11",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://global.pioneer/en/corp/info/history/chronology/archives/1968/",
+        "title": "History of Pioneer — 1968 to 1979"
+      }
+    ]
+  },
+  {
+    "model_id": "pioneer-0010",
+    "manufacturer": "Pioneer",
+    "model": "PL-12",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://global.pioneer/en/corp/info/history/chronology/archives/1968/",
+        "title": "History of Pioneer — 1968 to 1979"
+      }
+    ]
+  },
+  {
+    "model_id": "pioneer-0011",
+    "manufacturer": "Pioneer",
+    "model": "PL-A30",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://global.pioneer/en/corp/info/history/chronology/archives/1968/",
+        "title": "History of Pioneer — 1968 to 1979"
+      }
+    ]
+  },
+  {
+    "model_id": "pioneer-0012",
+    "manufacturer": "Pioneer",
+    "model": "PL-A20",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://global.pioneer/en/corp/info/history/chronology/archives/1968/",
+        "title": "History of Pioneer — 1968 to 1979"
+      }
+    ]
+  },
+  {
+    "model_id": "pioneer-0013",
+    "manufacturer": "Pioneer",
+    "model": "PL-41D",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://global.pioneer/en/corp/info/history/chronology/archives/1968/",
+        "title": "History of Pioneer — 1968 to 1979"
+      }
+    ]
+  },
+  {
+    "model_id": "pioneer-0014",
+    "manufacturer": "Pioneer",
+    "model": "PL-31E",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://global.pioneer/en/corp/info/history/chronology/archives/1968/",
+        "title": "History of Pioneer — 1968 to 1979"
+      }
+    ]
+  },
+  {
+    "model_id": "pioneer-0015",
+    "manufacturer": "Pioneer",
+    "model": "PL-25E",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://global.pioneer/en/corp/info/history/chronology/archives/1968/",
+        "title": "History of Pioneer — 1968 to 1979"
+      }
+    ]
+  },
+  {
+    "model_id": "pioneer-0016",
+    "manufacturer": "Pioneer",
+    "model": "PL-61",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://global.pioneer/en/corp/info/history/chronology/archives/1968/",
+        "title": "History of Pioneer — 1968 to 1979"
+      }
+    ]
+  },
+  {
+    "model_id": "pioneer-0017",
+    "manufacturer": "Pioneer",
+    "model": "PL-A200",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://global.pioneer/en/corp/info/history/chronology/archives/1968/",
+        "title": "History of Pioneer — 1968 to 1979"
+      }
+    ]
+  },
+  {
+    "model_id": "pioneer-0018",
+    "manufacturer": "Pioneer",
+    "model": "PL-1200",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://global.pioneer/en/corp/info/history/chronology/archives/1968/",
+        "title": "History of Pioneer — 1968 to 1979"
+      }
+    ],
+    "drive_type": {
+      "value": "direct",
+      "source": "identity"
+    }
+  },
+  {
+    "model_id": "pioneer-0019",
+    "manufacturer": "Pioneer",
+    "model": "PLC-1700",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://global.pioneer/en/corp/info/history/chronology/archives/1968/",
+        "title": "History of Pioneer — 1968 to 1979"
+      }
+    ],
+    "drive_type": {
+      "value": "direct",
+      "source": "identity"
+    }
+  },
+  {
+    "model_id": "pioneer-0020",
+    "manufacturer": "Pioneer",
+    "model": "PL-A205",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://global.pioneer/en/corp/info/history/chronology/archives/1968/",
+        "title": "History of Pioneer — 1968 to 1979"
+      }
+    ]
+  },
+  {
+    "model_id": "pioneer-0021",
+    "manufacturer": "Pioneer",
+    "model": "PL-1400",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://global.pioneer/en/corp/info/history/chronology/archives/1968/",
+        "title": "History of Pioneer — 1968 to 1979"
+      }
+    ],
+    "drive_type": {
+      "value": "direct",
+      "source": "identity"
+    }
+  },
+  {
+    "model_id": "pioneer-0022",
+    "manufacturer": "Pioneer",
+    "model": "PL-1100",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://global.pioneer/en/corp/info/history/chronology/archives/1968/",
+        "title": "History of Pioneer — 1968 to 1979"
+      }
+    ],
+    "drive_type": {
+      "value": "direct",
+      "source": "identity"
+    }
+  },
+  {
+    "model_id": "pioneer-0023",
+    "manufacturer": "Pioneer",
+    "model": "PL-M10",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://global.pioneer/en/corp/info/history/chronology/archives/1968/",
+        "title": "History of Pioneer — 1968 to 1979"
+      }
+    ]
+  },
+  {
+    "model_id": "pioneer-0024",
+    "manufacturer": "Pioneer",
+    "model": "PL-A58",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://global.pioneer/en/corp/info/history/chronology/archives/1968/",
+        "title": "History of Pioneer — 1968 to 1979"
+      }
+    ]
+  },
+  {
+    "model_id": "pioneer-0025",
+    "manufacturer": "Pioneer",
+    "model": "PL-A38",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://global.pioneer/en/corp/info/history/chronology/archives/1968/",
+        "title": "History of Pioneer — 1968 to 1979"
+      }
+    ]
+  },
+  {
+    "model_id": "pioneer-0026",
+    "manufacturer": "Pioneer",
+    "model": "PL-1250",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://global.pioneer/en/corp/info/history/chronology/archives/1968/",
+        "title": "History of Pioneer — 1968 to 1979"
+      }
+    ]
+  },
+  {
+    "model_id": "pioneer-0027",
+    "manufacturer": "Pioneer",
+    "model": "PL-1800",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://global.pioneer/en/corp/info/history/chronology/archives/1968/",
+        "title": "History of Pioneer — 1968 to 1979"
+      }
+    ]
+  },
+  {
+    "model_id": "pioneer-0028",
+    "manufacturer": "Pioneer",
+    "model": "PL-355",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://global.pioneer/en/corp/info/history/chronology/archives/1968/",
+        "title": "History of Pioneer — 1968 to 1979"
+      }
+    ]
+  },
+  {
+    "model_id": "pioneer-0029",
+    "manufacturer": "Pioneer",
+    "model": "PL-255",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://global.pioneer/en/corp/info/history/chronology/archives/1968/",
+        "title": "History of Pioneer — 1968 to 1979"
+      }
+    ]
+  },
+  {
+    "model_id": "pioneer-0030",
+    "manufacturer": "Pioneer",
+    "model": "PL-L1",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://global.pioneer/en/corp/info/history/chronology/archives/1968/",
+        "title": "History of Pioneer — 1968 to 1979"
+      }
+    ]
+  },
+  {
+    "model_id": "pioneer-0031",
+    "manufacturer": "Pioneer",
+    "model": "PL-70",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://global.pioneer/en/corp/info/history/chronology/archives/1968/",
+        "title": "History of Pioneer — 1968 to 1979"
+      }
+    ],
+    "drive_type": {
+      "value": "direct",
+      "source": "identity"
+    }
+  },
+  {
+    "model_id": "pioneer-0032",
+    "manufacturer": "Pioneer",
+    "model": "PLX-500",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.pioneerdj.com/en/product/dj-players-turntables/",
+        "title": "Pioneer DJ — DJ players / Turntables"
+      }
+    ],
+    "drive_type": {
+      "value": "direct",
+      "source": "identity"
+    }
+  },
+  {
+    "model_id": "pioneer-0033",
+    "manufacturer": "Pioneer",
+    "model": "PLX-1000",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.pioneerdj.com/en/product/dj-players-turntables/",
+        "title": "Pioneer DJ — DJ players / Turntables"
+      }
+    ],
+    "drive_type": {
+      "value": "direct",
+      "source": "identity"
+    }
+  },
+  {
+    "model_id": "pioneer-0034",
+    "manufacturer": "Pioneer",
+    "model": "PLX-CRSS12",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.pioneerdj.com/en/product/dj-players-turntables/",
+        "title": "Pioneer DJ — DJ players / Turntables"
+      }
+    ],
+    "drive_type": {
+      "value": "direct",
+      "source": "identity"
+    }
+  }
+]

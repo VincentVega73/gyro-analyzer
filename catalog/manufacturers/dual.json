@@ -1,0 +1,452 @@
+[
+  {
+    "model_id": "dual-0001",
+    "manufacturer": "Dual",
+    "model": "CS 329",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://dual.de/produkte/",
+        "title": "Produkte – DUAL"
+      }
+    ]
+  },
+  {
+    "model_id": "dual-0002",
+    "manufacturer": "Dual",
+    "model": "CS 429",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://dual.de/produkte/",
+        "title": "Produkte – DUAL"
+      }
+    ]
+  },
+  {
+    "model_id": "dual-0003",
+    "manufacturer": "Dual",
+    "model": "CS 529",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://dual.de/produkte/",
+        "title": "Produkte – DUAL"
+      }
+    ]
+  },
+  {
+    "model_id": "dual-0004",
+    "manufacturer": "Dual",
+    "model": "CS 629Q",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://dual.de/produkte/",
+        "title": "Produkte – DUAL"
+      }
+    ]
+  },
+  {
+    "model_id": "dual-0005",
+    "manufacturer": "Dual",
+    "model": "CS 418",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://dual.de/en/category/manual/",
+        "title": "Manual – DUAL"
+      }
+    ],
+    "drive_type": {
+      "value": "belt",
+      "source": "identity"
+    }
+  },
+  {
+    "model_id": "dual-0006",
+    "manufacturer": "Dual",
+    "model": "CS 518",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://dual.de/en/category/manual/",
+        "title": "Manual – DUAL"
+      }
+    ],
+    "drive_type": {
+      "value": "belt",
+      "source": "identity"
+    }
+  },
+  {
+    "model_id": "dual-0007",
+    "manufacturer": "Dual",
+    "model": "CS 618Q",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://dual.de/en/category/manual/",
+        "title": "Manual – DUAL"
+      }
+    ],
+    "drive_type": {
+      "value": "direct",
+      "source": "identity"
+    }
+  },
+  {
+    "model_id": "dual-0008",
+    "manufacturer": "Dual",
+    "model": "CS 718Q",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://dual.de/en/category/manual/",
+        "title": "Manual – DUAL"
+      }
+    ]
+  },
+  {
+    "model_id": "dual-0009",
+    "manufacturer": "Dual",
+    "model": "1009 F",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://dual.de/wp-content/uploads/ServiceManual_1009F.pdf",
+        "title": "Dual 1009 F Service Manual — drive wheel and speed change",
+        "page": 5
+      }
+    ],
+    "drive_type": {
+      "value": "idler",
+      "source": "identity"
+    },
+    "speeds_rpm": {
+      "value": [
+        "100/3",
+        "45",
+        "78"
+      ],
+      "source": "identity"
+    }
+  },
+  {
+    "model_id": "dual-0010",
+    "manufacturer": "Dual",
+    "model": "1009",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://dual.de/wp-content/uploads/ServiceManual_1009.pdf",
+        "title": "Dual 1009 — Service Manual",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "model_id": "dual-0011",
+    "manufacturer": "Dual",
+    "model": "1010",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://dual.de/wp-content/uploads/ServiceManual_1010.pdf",
+        "title": "Dual 1010 — Service Manual",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "model_id": "dual-0012",
+    "manufacturer": "Dual",
+    "model": "1019",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://dual.de/wp-content/uploads/ServiceManual_1019.pdf",
+        "title": "Dual 1019 — Service Manual",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "model_id": "dual-0013",
+    "manufacturer": "Dual",
+    "model": "1209",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://dual.de/wp-content/uploads/ServiceManual_1209.pdf",
+        "title": "Dual 1209 — Service Manual",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "model_id": "dual-0014",
+    "manufacturer": "Dual",
+    "model": "1210",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://dual.de/wp-content/uploads/ServiceManual_1210.pdf",
+        "title": "Dual 1210 — Service Manual",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "model_id": "dual-0015",
+    "manufacturer": "Dual",
+    "model": "1214",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://dual.de/wp-content/uploads/ServiceManual_1214.pdf",
+        "title": "Dual 1214 — Service Manual",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "model_id": "dual-0016",
+    "manufacturer": "Dual",
+    "model": "1216",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://dual.de/wp-content/uploads/ServiceManual_1216.pdf",
+        "title": "Dual 1216 — Service Manual",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "model_id": "dual-0017",
+    "manufacturer": "Dual",
+    "model": "1218",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://dual.de/wp-content/uploads/ServiceManual_1218.pdf",
+        "title": "Dual 1218 — Service Manual",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "model_id": "dual-0018",
+    "manufacturer": "Dual",
+    "model": "1219",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://dual.de/wp-content/uploads/ServiceManual_1219.pdf",
+        "title": "Dual 1219 — Service Manual",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "model_id": "dual-0019",
+    "manufacturer": "Dual",
+    "model": "1228",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://dual.de/wp-content/uploads/ServiceManual_1228.pdf",
+        "title": "Dual 1228 — Service Manual",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "model_id": "dual-0020",
+    "manufacturer": "Dual",
+    "model": "1229",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://dual.de/wp-content/uploads/ServiceManual_1229.pdf",
+        "title": "Dual 1229 — Service Manual",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "model_id": "dual-0021",
+    "manufacturer": "Dual",
+    "model": "1236",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://dual.de/wp-content/uploads/ServiceManual_1236.pdf",
+        "title": "Dual 1236 — Service Manual",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "model_id": "dual-0022",
+    "manufacturer": "Dual",
+    "model": "1239",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://dual.de/wp-content/uploads/ServiceManual_1239.pdf",
+        "title": "Dual 1239 — Service Manual",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "model_id": "dual-0023",
+    "manufacturer": "Dual",
+    "model": "1241",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://dual.de/wp-content/uploads/ServiceManual_1241.pdf",
+        "title": "Dual 1241 — Service Manual",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "model_id": "dual-0024",
+    "manufacturer": "Dual",
+    "model": "1245",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://dual.de/wp-content/uploads/ServiceManual_1245.pdf",
+        "title": "Dual 1245 — Service Manual",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "model_id": "dual-0025",
+    "manufacturer": "Dual",
+    "model": "1246",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://dual.de/wp-content/uploads/ServiceManual_1246.pdf",
+        "title": "Dual 1246 — Service Manual",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "model_id": "dual-0026",
+    "manufacturer": "Dual",
+    "model": "1249",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://dual.de/wp-content/uploads/ServiceManual_1249.pdf",
+        "title": "Dual 1249 — Service Manual",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "model_id": "dual-0027",
+    "manufacturer": "Dual",
+    "model": "601",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://dual.de/wp-content/uploads/ServiceManual_601.pdf",
+        "title": "Dual 601 — Service Manual",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "model_id": "dual-0028",
+    "manufacturer": "Dual",
+    "model": "621",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://dual.de/wp-content/uploads/ServiceManual_621.pdf",
+        "title": "Dual 621 — Service Manual",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "model_id": "dual-0029",
+    "manufacturer": "Dual",
+    "model": "701",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://dual.de/wp-content/uploads/ServiceManual_701.pdf",
+        "title": "Dual 701 — Service Manual",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "model_id": "dual-0030",
+    "manufacturer": "Dual",
+    "model": "704",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://dual.de/wp-content/uploads/ServiceManual_704.pdf",
+        "title": "Dual 704 — Service Manual",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "model_id": "dual-0031",
+    "manufacturer": "Dual",
+    "model": "721",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://dual.de/wp-content/uploads/ServiceManual_721.pdf",
+        "title": "Dual 721 — Service Manual",
+        "page": 1
+      }
+    ]
+  }
+]

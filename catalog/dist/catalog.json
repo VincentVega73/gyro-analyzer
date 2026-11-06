@@ -1,0 +1,1894 @@
+{
+  "catalog_version": "1.0.0",
+  "models": [
+    {
+      "aliases": [],
+      "manufacturer": "Audio-Technica",
+      "model": "AT-LP120XBT-USB",
+      "model_id": "audio-technica-0008",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Reading record player specifications, part 1 — Always Listening (translated title)",
+          "url": "https://www.audio-technica.co.jp/always-listening/articles/about-spec-03/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Audio-Technica",
+      "model": "AT-LP2022",
+      "model_id": "audio-technica-0010",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Reading record player specifications, part 1 — Always Listening (translated title)",
+          "url": "https://www.audio-technica.co.jp/always-listening/articles/about-spec-03/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Audio-Technica",
+      "model": "AT-LP60X",
+      "model_id": "audio-technica-0001",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "How to set up a record player (turntable) — Audio-Technica Japan FAQ (translated title)",
+          "url": "https://support.audio-technica.co.jp/answer/69cf8bc7f2038ba609331918"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Audio-Technica",
+      "model": "AT-LP60XBT",
+      "model_id": "audio-technica-0002",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "How to set up a record player (turntable) — Audio-Technica Japan FAQ (translated title)",
+          "url": "https://support.audio-technica.co.jp/answer/69cf8bc7f2038ba609331918"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "belt"
+      },
+      "manufacturer": "Audio-Technica",
+      "model": "AT-LP7",
+      "model_id": "audio-technica-0007",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Reading record player specifications, part 1 — Always Listening (translated title)",
+          "url": "https://www.audio-technica.co.jp/always-listening/articles/about-spec-03/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "belt"
+      },
+      "manufacturer": "Audio-Technica",
+      "model": "AT-LP7X",
+      "model_id": "audio-technica-0011",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "AT-LP7X — Audio-Technica Japan",
+          "url": "https://www.audio-technica.co.jp/product/AT-LP7X"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Audio-Technica",
+      "model": "AT-LP8X",
+      "model_id": "audio-technica-0009",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Reading record player specifications, part 1 — Always Listening (translated title)",
+          "url": "https://www.audio-technica.co.jp/always-listening/articles/about-spec-03/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Audio-Technica",
+      "model": "AT-PL300",
+      "model_id": "audio-technica-0003",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "How to set up a record player (turntable) — Audio-Technica Japan FAQ (translated title)",
+          "url": "https://support.audio-technica.co.jp/answer/69cf8bc7f2038ba609331918"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Audio-Technica",
+      "model": "AT-PL300BT",
+      "model_id": "audio-technica-0004",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "How to set up a record player (turntable) — Audio-Technica Japan FAQ (translated title)",
+          "url": "https://support.audio-technica.co.jp/answer/69cf8bc7f2038ba609331918"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Audio-Technica",
+      "model": "AT-PL300USB",
+      "model_id": "audio-technica-0005",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "How to set up a record player (turntable) — Audio-Technica Japan FAQ (translated title)",
+          "url": "https://support.audio-technica.co.jp/answer/69cf8bc7f2038ba609331918"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Audio-Technica",
+      "model": "AT-PL300USB2",
+      "model_id": "audio-technica-0006",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "How to set up a record player (turntable) — Audio-Technica Japan FAQ (translated title)",
+          "url": "https://support.audio-technica.co.jp/answer/69cf8bc7f2038ba609331918"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Dual",
+      "model": "1009",
+      "model_id": "dual-0010",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Dual 1009 — Service Manual",
+          "url": "https://dual.de/wp-content/uploads/ServiceManual_1009.pdf"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "idler"
+      },
+      "manufacturer": "Dual",
+      "model": "1009 F",
+      "model_id": "dual-0009",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 5,
+          "title": "Dual 1009 F Service Manual — drive wheel and speed change",
+          "url": "https://dual.de/wp-content/uploads/ServiceManual_1009F.pdf"
+        }
+      ],
+      "speeds_rpm": {
+        "source": "identity",
+        "value": [
+          "100/3",
+          "45",
+          "78"
+        ]
+      }
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Dual",
+      "model": "1010",
+      "model_id": "dual-0011",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Dual 1010 — Service Manual",
+          "url": "https://dual.de/wp-content/uploads/ServiceManual_1010.pdf"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Dual",
+      "model": "1019",
+      "model_id": "dual-0012",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Dual 1019 — Service Manual",
+          "url": "https://dual.de/wp-content/uploads/ServiceManual_1019.pdf"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Dual",
+      "model": "1209",
+      "model_id": "dual-0013",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Dual 1209 — Service Manual",
+          "url": "https://dual.de/wp-content/uploads/ServiceManual_1209.pdf"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Dual",
+      "model": "1210",
+      "model_id": "dual-0014",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Dual 1210 — Service Manual",
+          "url": "https://dual.de/wp-content/uploads/ServiceManual_1210.pdf"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Dual",
+      "model": "1214",
+      "model_id": "dual-0015",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Dual 1214 — Service Manual",
+          "url": "https://dual.de/wp-content/uploads/ServiceManual_1214.pdf"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Dual",
+      "model": "1216",
+      "model_id": "dual-0016",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Dual 1216 — Service Manual",
+          "url": "https://dual.de/wp-content/uploads/ServiceManual_1216.pdf"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Dual",
+      "model": "1218",
+      "model_id": "dual-0017",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Dual 1218 — Service Manual",
+          "url": "https://dual.de/wp-content/uploads/ServiceManual_1218.pdf"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Dual",
+      "model": "1219",
+      "model_id": "dual-0018",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Dual 1219 — Service Manual",
+          "url": "https://dual.de/wp-content/uploads/ServiceManual_1219.pdf"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Dual",
+      "model": "1228",
+      "model_id": "dual-0019",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Dual 1228 — Service Manual",
+          "url": "https://dual.de/wp-content/uploads/ServiceManual_1228.pdf"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Dual",
+      "model": "1229",
+      "model_id": "dual-0020",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Dual 1229 — Service Manual",
+          "url": "https://dual.de/wp-content/uploads/ServiceManual_1229.pdf"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Dual",
+      "model": "1236",
+      "model_id": "dual-0021",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Dual 1236 — Service Manual",
+          "url": "https://dual.de/wp-content/uploads/ServiceManual_1236.pdf"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Dual",
+      "model": "1239",
+      "model_id": "dual-0022",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Dual 1239 — Service Manual",
+          "url": "https://dual.de/wp-content/uploads/ServiceManual_1239.pdf"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Dual",
+      "model": "1241",
+      "model_id": "dual-0023",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Dual 1241 — Service Manual",
+          "url": "https://dual.de/wp-content/uploads/ServiceManual_1241.pdf"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Dual",
+      "model": "1245",
+      "model_id": "dual-0024",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Dual 1245 — Service Manual",
+          "url": "https://dual.de/wp-content/uploads/ServiceManual_1245.pdf"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Dual",
+      "model": "1246",
+      "model_id": "dual-0025",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Dual 1246 — Service Manual",
+          "url": "https://dual.de/wp-content/uploads/ServiceManual_1246.pdf"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Dual",
+      "model": "1249",
+      "model_id": "dual-0026",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Dual 1249 — Service Manual",
+          "url": "https://dual.de/wp-content/uploads/ServiceManual_1249.pdf"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Dual",
+      "model": "601",
+      "model_id": "dual-0027",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Dual 601 — Service Manual",
+          "url": "https://dual.de/wp-content/uploads/ServiceManual_601.pdf"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Dual",
+      "model": "621",
+      "model_id": "dual-0028",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Dual 621 — Service Manual",
+          "url": "https://dual.de/wp-content/uploads/ServiceManual_621.pdf"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Dual",
+      "model": "701",
+      "model_id": "dual-0029",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Dual 701 — Service Manual",
+          "url": "https://dual.de/wp-content/uploads/ServiceManual_701.pdf"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Dual",
+      "model": "704",
+      "model_id": "dual-0030",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Dual 704 — Service Manual",
+          "url": "https://dual.de/wp-content/uploads/ServiceManual_704.pdf"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Dual",
+      "model": "721",
+      "model_id": "dual-0031",
+      "sources": [
+        {
+          "key": "identity",
+          "page": 1,
+          "title": "Dual 721 — Service Manual",
+          "url": "https://dual.de/wp-content/uploads/ServiceManual_721.pdf"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Dual",
+      "model": "CS 329",
+      "model_id": "dual-0001",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Produkte – DUAL",
+          "url": "https://dual.de/produkte/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "belt"
+      },
+      "manufacturer": "Dual",
+      "model": "CS 418",
+      "model_id": "dual-0005",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Manual – DUAL",
+          "url": "https://dual.de/en/category/manual/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Dual",
+      "model": "CS 429",
+      "model_id": "dual-0002",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Produkte – DUAL",
+          "url": "https://dual.de/produkte/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "belt"
+      },
+      "manufacturer": "Dual",
+      "model": "CS 518",
+      "model_id": "dual-0006",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Manual – DUAL",
+          "url": "https://dual.de/en/category/manual/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Dual",
+      "model": "CS 529",
+      "model_id": "dual-0003",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Produkte – DUAL",
+          "url": "https://dual.de/produkte/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "direct"
+      },
+      "manufacturer": "Dual",
+      "model": "CS 618Q",
+      "model_id": "dual-0007",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Manual – DUAL",
+          "url": "https://dual.de/en/category/manual/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Dual",
+      "model": "CS 629Q",
+      "model_id": "dual-0004",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Produkte – DUAL",
+          "url": "https://dual.de/produkte/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Dual",
+      "model": "CS 718Q",
+      "model_id": "dual-0008",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Manual – DUAL",
+          "url": "https://dual.de/en/category/manual/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Michell",
+      "model": "Gyro",
+      "model_id": "michell-0007",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Reference Turntables",
+          "url": "https://www.michellaudio.com/reference-turntables"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Michell",
+      "model": "GyroDec",
+      "model_id": "michell-0002",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "About Michell Audio — Michell Timeline",
+          "url": "https://www.michellaudio.com/about"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Michell",
+      "model": "Gyro SE",
+      "model_id": "michell-0001",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "About Michell Audio — Michell Timeline",
+          "url": "https://www.michellaudio.com/about"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Michell",
+      "model": "Orbe",
+      "model_id": "michell-0003",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "About Michell Audio — Michell Timeline",
+          "url": "https://www.michellaudio.com/about"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Michell",
+      "model": "Orbe SE",
+      "model_id": "michell-0004",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "About Michell Audio — Michell Timeline",
+          "url": "https://www.michellaudio.com/about"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Michell",
+      "model": "Reference Electronic",
+      "model_id": "michell-0006",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "About Michell Audio — Michell Timeline",
+          "url": "https://www.michellaudio.com/about"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Michell",
+      "model": "Revolv",
+      "model_id": "michell-0008",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Reference Turntables",
+          "url": "https://www.michellaudio.com/reference-turntables"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Michell",
+      "model": "TecnoDec",
+      "model_id": "michell-0005",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "About Michell Audio — Michell Timeline",
+          "url": "https://www.michellaudio.com/about"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Pioneer",
+      "model": "PL-11",
+      "model_id": "pioneer-0009",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "History of Pioneer — 1968 to 1979",
+          "url": "https://global.pioneer/en/corp/info/history/chronology/archives/1968/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "direct"
+      },
+      "manufacturer": "Pioneer",
+      "model": "PL-1100",
+      "model_id": "pioneer-0022",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "History of Pioneer — 1968 to 1979",
+          "url": "https://global.pioneer/en/corp/info/history/chronology/archives/1968/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Pioneer",
+      "model": "PL-12",
+      "model_id": "pioneer-0010",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "History of Pioneer — 1968 to 1979",
+          "url": "https://global.pioneer/en/corp/info/history/chronology/archives/1968/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "direct"
+      },
+      "manufacturer": "Pioneer",
+      "model": "PL-1200",
+      "model_id": "pioneer-0018",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "History of Pioneer — 1968 to 1979",
+          "url": "https://global.pioneer/en/corp/info/history/chronology/archives/1968/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Pioneer",
+      "model": "PL-1250",
+      "model_id": "pioneer-0026",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "History of Pioneer — 1968 to 1979",
+          "url": "https://global.pioneer/en/corp/info/history/chronology/archives/1968/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "direct"
+      },
+      "manufacturer": "Pioneer",
+      "model": "PL-1400",
+      "model_id": "pioneer-0021",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "History of Pioneer — 1968 to 1979",
+          "url": "https://global.pioneer/en/corp/info/history/chronology/archives/1968/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Pioneer",
+      "model": "PL-1800",
+      "model_id": "pioneer-0027",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "History of Pioneer — 1968 to 1979",
+          "url": "https://global.pioneer/en/corp/info/history/chronology/archives/1968/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Pioneer",
+      "model": "PL-25",
+      "model_id": "pioneer-0006",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "History of Pioneer — 1950 to 1967",
+          "url": "https://global.pioneer/en/corp/info/history/chronology/archives/1950/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Pioneer",
+      "model": "PL-255",
+      "model_id": "pioneer-0029",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "History of Pioneer — 1968 to 1979",
+          "url": "https://global.pioneer/en/corp/info/history/chronology/archives/1968/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Pioneer",
+      "model": "PL-25E",
+      "model_id": "pioneer-0015",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "History of Pioneer — 1968 to 1979",
+          "url": "https://global.pioneer/en/corp/info/history/chronology/archives/1968/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Pioneer",
+      "model": "PL-31D",
+      "model_id": "pioneer-0007",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "History of Pioneer — 1968 to 1979",
+          "url": "https://global.pioneer/en/corp/info/history/chronology/archives/1968/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Pioneer",
+      "model": "PL-31E",
+      "model_id": "pioneer-0014",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "History of Pioneer — 1968 to 1979",
+          "url": "https://global.pioneer/en/corp/info/history/chronology/archives/1968/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Pioneer",
+      "model": "PL-355",
+      "model_id": "pioneer-0028",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "History of Pioneer — 1968 to 1979",
+          "url": "https://global.pioneer/en/corp/info/history/chronology/archives/1968/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Pioneer",
+      "model": "PL-4",
+      "model_id": "pioneer-0002",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "History of Pioneer — 1950 to 1967",
+          "url": "https://global.pioneer/en/corp/info/history/chronology/archives/1950/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "belt"
+      },
+      "manufacturer": "Pioneer",
+      "model": "PL-41",
+      "model_id": "pioneer-0005",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "History of Pioneer — 1950 to 1967",
+          "url": "https://global.pioneer/en/corp/info/history/chronology/archives/1950/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Pioneer",
+      "model": "PL-41D",
+      "model_id": "pioneer-0013",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "History of Pioneer — 1968 to 1979",
+          "url": "https://global.pioneer/en/corp/info/history/chronology/archives/1968/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Pioneer",
+      "model": "PL-5",
+      "model_id": "pioneer-0003",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "History of Pioneer — 1950 to 1967",
+          "url": "https://global.pioneer/en/corp/info/history/chronology/archives/1950/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Pioneer",
+      "model": "PL-6",
+      "model_id": "pioneer-0004",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "History of Pioneer — 1950 to 1967",
+          "url": "https://global.pioneer/en/corp/info/history/chronology/archives/1950/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Pioneer",
+      "model": "PL-61",
+      "model_id": "pioneer-0016",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "History of Pioneer — 1968 to 1979",
+          "url": "https://global.pioneer/en/corp/info/history/chronology/archives/1968/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "direct"
+      },
+      "manufacturer": "Pioneer",
+      "model": "PL-70",
+      "model_id": "pioneer-0031",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "History of Pioneer — 1968 to 1979",
+          "url": "https://global.pioneer/en/corp/info/history/chronology/archives/1968/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Pioneer",
+      "model": "PLA-1",
+      "model_id": "pioneer-0001",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "History of Pioneer — 1950 to 1967",
+          "url": "https://global.pioneer/en/corp/info/history/chronology/archives/1950/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Pioneer",
+      "model": "PL-A20",
+      "model_id": "pioneer-0012",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "History of Pioneer — 1968 to 1979",
+          "url": "https://global.pioneer/en/corp/info/history/chronology/archives/1968/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Pioneer",
+      "model": "PL-A200",
+      "model_id": "pioneer-0017",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "History of Pioneer — 1968 to 1979",
+          "url": "https://global.pioneer/en/corp/info/history/chronology/archives/1968/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Pioneer",
+      "model": "PL-A205",
+      "model_id": "pioneer-0020",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "History of Pioneer — 1968 to 1979",
+          "url": "https://global.pioneer/en/corp/info/history/chronology/archives/1968/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Pioneer",
+      "model": "PL-A25",
+      "model_id": "pioneer-0008",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "History of Pioneer — 1968 to 1979",
+          "url": "https://global.pioneer/en/corp/info/history/chronology/archives/1968/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Pioneer",
+      "model": "PL-A30",
+      "model_id": "pioneer-0011",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "History of Pioneer — 1968 to 1979",
+          "url": "https://global.pioneer/en/corp/info/history/chronology/archives/1968/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Pioneer",
+      "model": "PL-A38",
+      "model_id": "pioneer-0025",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "History of Pioneer — 1968 to 1979",
+          "url": "https://global.pioneer/en/corp/info/history/chronology/archives/1968/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Pioneer",
+      "model": "PL-A58",
+      "model_id": "pioneer-0024",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "History of Pioneer — 1968 to 1979",
+          "url": "https://global.pioneer/en/corp/info/history/chronology/archives/1968/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "direct"
+      },
+      "manufacturer": "Pioneer",
+      "model": "PLC-1700",
+      "model_id": "pioneer-0019",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "History of Pioneer — 1968 to 1979",
+          "url": "https://global.pioneer/en/corp/info/history/chronology/archives/1968/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Pioneer",
+      "model": "PL-L1",
+      "model_id": "pioneer-0030",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "History of Pioneer — 1968 to 1979",
+          "url": "https://global.pioneer/en/corp/info/history/chronology/archives/1968/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Pioneer",
+      "model": "PL-M10",
+      "model_id": "pioneer-0023",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "History of Pioneer — 1968 to 1979",
+          "url": "https://global.pioneer/en/corp/info/history/chronology/archives/1968/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "direct"
+      },
+      "manufacturer": "Pioneer",
+      "model": "PLX-1000",
+      "model_id": "pioneer-0033",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Pioneer DJ — DJ players / Turntables",
+          "url": "https://www.pioneerdj.com/en/product/dj-players-turntables/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "direct"
+      },
+      "manufacturer": "Pioneer",
+      "model": "PLX-500",
+      "model_id": "pioneer-0032",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Pioneer DJ — DJ players / Turntables",
+          "url": "https://www.pioneerdj.com/en/product/dj-players-turntables/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "direct"
+      },
+      "manufacturer": "Pioneer",
+      "model": "PLX-CRSS12",
+      "model_id": "pioneer-0034",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Pioneer DJ — DJ players / Turntables",
+          "url": "https://www.pioneerdj.com/en/product/dj-players-turntables/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Rega",
+      "model": "Naiad",
+      "model_id": "rega-0009",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Rega Product Timeline",
+          "url": "https://www.rega.co.uk/about/timeline"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Rega",
+      "model": "P1",
+      "model_id": "rega-0016",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Rega Product Timeline",
+          "url": "https://www.rega.co.uk/about/timeline"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Rega",
+      "model": "P2",
+      "model_id": "rega-0021",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Rega Product Timeline",
+          "url": "https://www.rega.co.uk/about/timeline"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Rega",
+      "model": "P25",
+      "model_id": "rega-0022",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Rega Product Timeline",
+          "url": "https://www.rega.co.uk/about/timeline"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Rega",
+      "model": "P3 2000",
+      "model_id": "rega-0020",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Rega Product Timeline",
+          "url": "https://www.rega.co.uk/about/timeline"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Rega",
+      "model": "P5",
+      "model_id": "rega-0017",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Rega Product Timeline",
+          "url": "https://www.rega.co.uk/about/timeline"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Rega",
+      "model": "P7",
+      "model_id": "rega-0018",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Rega Product Timeline",
+          "url": "https://www.rega.co.uk/about/timeline"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Rega",
+      "model": "P9",
+      "model_id": "rega-0019",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Rega Product Timeline",
+          "url": "https://www.rega.co.uk/about/timeline"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Rega",
+      "model": "Planar 1",
+      "model_id": "rega-0001",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Rega Product Timeline",
+          "url": "https://www.rega.co.uk/about/timeline"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Rega",
+      "model": "Planar 10",
+      "model_id": "rega-0007",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Rega Product Timeline",
+          "url": "https://www.rega.co.uk/about/timeline"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Rega",
+      "model": "Planar 1 Plus",
+      "model_id": "rega-0002",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Rega Product Timeline",
+          "url": "https://www.rega.co.uk/about/timeline"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Rega",
+      "model": "Planar 2",
+      "model_id": "rega-0003",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Rega Product Timeline",
+          "url": "https://www.rega.co.uk/about/timeline"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Rega",
+      "model": "Planar 3",
+      "model_id": "rega-0004",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Rega Product Timeline",
+          "url": "https://www.rega.co.uk/about/timeline"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Rega",
+      "model": "Planar 6",
+      "model_id": "rega-0005",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Rega Product Timeline",
+          "url": "https://www.rega.co.uk/about/timeline"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Rega",
+      "model": "Planar 78",
+      "model_id": "rega-0008",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Rega Product Timeline",
+          "url": "https://www.rega.co.uk/about/timeline"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Rega",
+      "model": "Planar 8",
+      "model_id": "rega-0006",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Rega Product Timeline",
+          "url": "https://www.rega.co.uk/about/timeline"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Rega",
+      "model": "RP1",
+      "model_id": "rega-0015",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Rega Product Timeline",
+          "url": "https://www.rega.co.uk/about/timeline"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Rega",
+      "model": "RP10",
+      "model_id": "rega-0010",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Rega Product Timeline",
+          "url": "https://www.rega.co.uk/about/timeline"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Rega",
+      "model": "RP3",
+      "model_id": "rega-0013",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Rega Product Timeline",
+          "url": "https://www.rega.co.uk/about/timeline"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Rega",
+      "model": "RP6",
+      "model_id": "rega-0014",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Rega Product Timeline",
+          "url": "https://www.rega.co.uk/about/timeline"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Rega",
+      "model": "RP78",
+      "model_id": "rega-0011",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Rega Product Timeline",
+          "url": "https://www.rega.co.uk/about/timeline"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Rega",
+      "model": "RP8",
+      "model_id": "rega-0012",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Rega Product Timeline",
+          "url": "https://www.rega.co.uk/about/timeline"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Sony",
+      "model": "PS-HX500",
+      "model_id": "sony-0004",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Support for PS-HX500 | Sony USA",
+          "url": "https://www.sony.com/electronics/support/audio-components-turntables/ps-hx500"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Sony",
+      "model": "PS-LX300USB",
+      "model_id": "sony-0005",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Support for PS-LX300USB | Sony USA",
+          "url": "https://www.sony.com/electronics/support/audio-components-turntables/ps-lx300usb"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Sony",
+      "model": "PS-LX310BT",
+      "model_id": "sony-0001",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "PS-LX310BT | Component Audio | Sony Japan (translated title)",
+          "url": "https://www.sony.jp/audio/products/PS-LX310BT/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Sony",
+      "model": "PS-LX3BT",
+      "model_id": "sony-0002",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "PS-LX3BT | Component Audio | Sony Japan (translated title)",
+          "url": "https://www.sony.jp/audio/products/PS-LX3BT/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Sony",
+      "model": "PS-LX5BT",
+      "model_id": "sony-0003",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "PS-LX5BT | Component Audio | Sony Japan (translated title)",
+          "url": "https://www.sony.jp/audio/products/PS-LX5BT/"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Technics",
+      "model": "SL-1100",
+      "model_id": "technics-0007",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "SL-1200 — Heritage",
+          "url": "https://www.technics.com/global/home/sl1200/heritage.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Technics",
+      "model": "SL-1200",
+      "model_id": "technics-0006",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "SL-1200 — Heritage",
+          "url": "https://www.technics.com/global/home/sl1200/heritage.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "direct"
+      },
+      "manufacturer": "Technics",
+      "model": "SL-1200GR2",
+      "model_id": "technics-0011",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Technics unveils the next generation high-end turntables in its iconic SL-1200 Series",
+          "url": "https://www.technics.com/se/news/0024.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Technics",
+      "model": "SL-1200LTD",
+      "model_id": "technics-0009",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "SL-1200 — Heritage",
+          "url": "https://www.technics.com/global/home/sl1200/heritage.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "manual",
+        "value": "direct"
+      },
+      "manufacturer": "Technics",
+      "model": "SL-1200MK2",
+      "model_id": "technics-0001",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "SL-1200 — Heritage",
+          "url": "https://www.technics.com/global/home/sl1200/heritage.html"
+        },
+        {
+          "key": "manual",
+          "page": 8,
+          "title": "SL-1200MK2 Operating Instructions (120 V, 60 Hz) — Specifications",
+          "url": "https://help.na.panasonic.com/wp-content/uploads/2023/02/SL1200MK2_SFNU122M06_ENG.pdf"
+        }
+      ],
+      "specifications": [
+        {
+          "condition": "Motor frequency-generator signal; platter included, record, cartridge and tonearm excluded.",
+          "method": "WRMS",
+          "name": "wow_and_flutter",
+          "original": "0.01% WRMS*",
+          "source": "manual",
+          "unit": "%",
+          "value": "0.01"
+        },
+        {
+          "method": "WRMS",
+          "name": "wow_and_flutter",
+          "original": "0.025% WRMS (JIS C5521)",
+          "source": "manual",
+          "standard": "JIS C5521",
+          "unit": "%",
+          "value": "0.025"
+        },
+        {
+          "method": "peak",
+          "name": "wow_and_flutter",
+          "original": "±0.035% peak (IEC 98A Weighted)",
+          "source": "manual",
+          "standard": "IEC 98A",
+          "unit": "%",
+          "value": "±0.035",
+          "weighting": "IEC 98A Weighted"
+        }
+      ],
+      "speeds_rpm": {
+        "source": "manual",
+        "value": [
+          "100/3",
+          "45"
+        ]
+      }
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Technics",
+      "model": "SL-1200MK3",
+      "model_id": "technics-0002",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "SL-1200 — Heritage",
+          "url": "https://www.technics.com/global/home/sl1200/heritage.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Technics",
+      "model": "SL-1200MK3D",
+      "model_id": "technics-0003",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "SL-1200 — Heritage",
+          "url": "https://www.technics.com/global/home/sl1200/heritage.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Technics",
+      "model": "SL-1200MK5",
+      "model_id": "technics-0004",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "SL-1200 — Heritage",
+          "url": "https://www.technics.com/global/home/sl1200/heritage.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Technics",
+      "model": "SL-1200MK5G",
+      "model_id": "technics-0005",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "SL-1200 — Heritage",
+          "url": "https://www.technics.com/global/home/sl1200/heritage.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Technics",
+      "model": "SL-1200MK7",
+      "model_id": "technics-0010",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "SL-1200 — Heritage",
+          "url": "https://www.technics.com/global/home/sl1200/heritage.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Technics",
+      "model": "SP-10",
+      "model_id": "technics-0008",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "SL-1200 — Heritage",
+          "url": "https://www.technics.com/global/home/sl1200/heritage.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Thorens",
+      "model": "New Reference",
+      "model_id": "thorens-0011",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Thorens — Turntables",
+          "url": "https://www.thorens.com/en/items/products/turntables.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Thorens",
+      "model": "TD 101 A",
+      "model_id": "thorens-0010",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Thorens — Turntables",
+          "url": "https://www.thorens.com/en/items/products/turntables.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Thorens",
+      "model": "TD 102 A",
+      "model_id": "thorens-0009",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Thorens — Turntables",
+          "url": "https://www.thorens.com/en/items/products/turntables.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Thorens",
+      "model": "TD 124 DD",
+      "model_id": "thorens-0002",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Thorens — Turntables",
+          "url": "https://www.thorens.com/en/items/products/turntables.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "drive_type": {
+        "source": "identity",
+        "value": "belt"
+      },
+      "manufacturer": "Thorens",
+      "model": "TD 150",
+      "model_id": "thorens-0012",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Thorens TD 1500 — history of the TD 150",
+          "url": "https://www.thorens.com/en/products/thorens-td-1500.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Thorens",
+      "model": "TD 1500",
+      "model_id": "thorens-0003",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Thorens — Turntables",
+          "url": "https://www.thorens.com/en/items/products/turntables.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Thorens",
+      "model": "TD 201",
+      "model_id": "thorens-0008",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Thorens — Turntables",
+          "url": "https://www.thorens.com/en/items/products/turntables.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Thorens",
+      "model": "TD 202",
+      "model_id": "thorens-0007",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Thorens — Turntables",
+          "url": "https://www.thorens.com/en/items/products/turntables.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Thorens",
+      "model": "TD 204",
+      "model_id": "thorens-0006",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Thorens — Turntables",
+          "url": "https://www.thorens.com/en/items/products/turntables.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Thorens",
+      "model": "TD 402 DD",
+      "model_id": "thorens-0005",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Thorens — Turntables",
+          "url": "https://www.thorens.com/en/items/products/turntables.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Thorens",
+      "model": "TD 403 DD",
+      "model_id": "thorens-0004",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Thorens — Turntables",
+          "url": "https://www.thorens.com/en/items/products/turntables.html"
+        }
+      ]
+    },
+    {
+      "aliases": [],
+      "manufacturer": "Thorens",
+      "model": "TD 404 DD",
+      "model_id": "thorens-0001",
+      "sources": [
+        {
+          "key": "identity",
+          "title": "Thorens — Turntables",
+          "url": "https://www.thorens.com/en/items/products/turntables.html"
+        }
+      ]
+    }
+  ],
+  "schema_version": 1
+}

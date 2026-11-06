@@ -1,0 +1,153 @@
+[
+  {
+    "model_id": "audio-technica-0001",
+    "manufacturer": "Audio-Technica",
+    "model": "AT-LP60X",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://support.audio-technica.co.jp/answer/69cf8bc7f2038ba609331918",
+        "title": "How to set up a record player (turntable) — Audio-Technica Japan FAQ (translated title)"
+      }
+    ]
+  },
+  {
+    "model_id": "audio-technica-0002",
+    "manufacturer": "Audio-Technica",
+    "model": "AT-LP60XBT",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://support.audio-technica.co.jp/answer/69cf8bc7f2038ba609331918",
+        "title": "How to set up a record player (turntable) — Audio-Technica Japan FAQ (translated title)"
+      }
+    ]
+  },
+  {
+    "model_id": "audio-technica-0003",
+    "manufacturer": "Audio-Technica",
+    "model": "AT-PL300",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://support.audio-technica.co.jp/answer/69cf8bc7f2038ba609331918",
+        "title": "How to set up a record player (turntable) — Audio-Technica Japan FAQ (translated title)"
+      }
+    ]
+  },
+  {
+    "model_id": "audio-technica-0004",
+    "manufacturer": "Audio-Technica",
+    "model": "AT-PL300BT",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://support.audio-technica.co.jp/answer/69cf8bc7f2038ba609331918",
+        "title": "How to set up a record player (turntable) — Audio-Technica Japan FAQ (translated title)"
+      }
+    ]
+  },
+  {
+    "model_id": "audio-technica-0005",
+    "manufacturer": "Audio-Technica",
+    "model": "AT-PL300USB",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://support.audio-technica.co.jp/answer/69cf8bc7f2038ba609331918",
+        "title": "How to set up a record player (turntable) — Audio-Technica Japan FAQ (translated title)"
+      }
+    ]
+  },
+  {
+    "model_id": "audio-technica-0006",
+    "manufacturer": "Audio-Technica",
+    "model": "AT-PL300USB2",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://support.audio-technica.co.jp/answer/69cf8bc7f2038ba609331918",
+        "title": "How to set up a record player (turntable) — Audio-Technica Japan FAQ (translated title)"
+      }
+    ]
+  },
+  {
+    "model_id": "audio-technica-0007",
+    "manufacturer": "Audio-Technica",
+    "model": "AT-LP7",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.audio-technica.co.jp/always-listening/articles/about-spec-03/",
+        "title": "Reading record player specifications, part 1 — Always Listening (translated title)"
+      }
+    ],
+    "drive_type": {
+      "value": "belt",
+      "source": "identity"
+    }
+  },
+  {
+    "model_id": "audio-technica-0008",
+    "manufacturer": "Audio-Technica",
+    "model": "AT-LP120XBT-USB",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.audio-technica.co.jp/always-listening/articles/about-spec-03/",
+        "title": "Reading record player specifications, part 1 — Always Listening (translated title)"
+      }
+    ]
+  },
+  {
+    "model_id": "audio-technica-0009",
+    "manufacturer": "Audio-Technica",
+    "model": "AT-LP8X",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.audio-technica.co.jp/always-listening/articles/about-spec-03/",
+        "title": "Reading record player specifications, part 1 — Always Listening (translated title)"
+      }
+    ]
+  },
+  {
+    "model_id": "audio-technica-0010",
+    "manufacturer": "Audio-Technica",
+    "model": "AT-LP2022",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.audio-technica.co.jp/always-listening/articles/about-spec-03/",
+        "title": "Reading record player specifications, part 1 — Always Listening (translated title)"
+      }
+    ]
+  },
+  {
+    "model_id": "audio-technica-0011",
+    "manufacturer": "Audio-Technica",
+    "model": "AT-LP7X",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.audio-technica.co.jp/product/AT-LP7X",
+        "title": "AT-LP7X — Audio-Technica Japan"
+      }
+    ],
+    "drive_type": {
+      "value": "belt",
+      "source": "identity"
+    }
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "model_id": "michell-0001",
+    "manufacturer": "Michell",
+    "model": "Gyro SE",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.michellaudio.com/about",
+        "title": "About Michell Audio — Michell Timeline"
+      }
+    ]
+  },
+  {
+    "model_id": "michell-0002",
+    "manufacturer": "Michell",
+    "model": "GyroDec",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.michellaudio.com/about",
+        "title": "About Michell Audio — Michell Timeline"
+      }
+    ]
+  },
+  {
+    "model_id": "michell-0003",
+    "manufacturer": "Michell",
+    "model": "Orbe",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.michellaudio.com/about",
+        "title": "About Michell Audio — Michell Timeline"
+      }
+    ]
+  },
+  {
+    "model_id": "michell-0004",
+    "manufacturer": "Michell",
+    "model": "Orbe SE",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.michellaudio.com/about",
+        "title": "About Michell Audio — Michell Timeline"
+      }
+    ]
+  },
+  {
+    "model_id": "michell-0005",
+    "manufacturer": "Michell",
+    "model": "TecnoDec",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.michellaudio.com/about",
+        "title": "About Michell Audio — Michell Timeline"
+      }
+    ]
+  },
+  {
+    "model_id": "michell-0006",
+    "manufacturer": "Michell",
+    "model": "Reference Electronic",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.michellaudio.com/about",
+        "title": "About Michell Audio — Michell Timeline"
+      }
+    ]
+  },
+  {
+    "model_id": "michell-0007",
+    "manufacturer": "Michell",
+    "model": "Gyro",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.michellaudio.com/reference-turntables",
+        "title": "Reference Turntables"
+      }
+    ]
+  },
+  {
+    "model_id": "michell-0008",
+    "manufacturer": "Michell",
+    "model": "Revolv",
+    "aliases": [],
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.michellaudio.com/reference-turntables",
+        "title": "Reference Turntables"
+      }
+    ]
+  }
+]
