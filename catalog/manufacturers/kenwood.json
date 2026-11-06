@@ -265,5 +265,473 @@
         "url": "https://www.manualslib.com/manual/203903/Kenwood-P-26.html"
       }
     ]
+  },
+  {
+    "manufacturer": "Kenwood",
+    "model": "KD-1033",
+    "model_id": "kenwood-0020",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_KD1033_OM_KENWOOD_EN_DE",
+        "title": "Kenwood KD-1033 — Factory manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Kenwood",
+    "model": "KD-1500",
+    "model_id": "kenwood-0021",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4268106/Kenwood-Kd-1500.html",
+        "title": "Kenwood KD-1500 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Kenwood",
+    "model": "KD-2033",
+    "model_id": "kenwood-0022",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_KD2033_OM_KENWOOD_FR_DE_NL_SE",
+        "title": "Kenwood KD-2033 — Factory manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Kenwood",
+    "model": "KD-2070",
+    "model_id": "kenwood-0023",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_KD2070_OM_KENWOOD_DE_FR_NL_SV",
+        "title": "Kenwood KD-2070 — Factory manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Kenwood",
+    "model": "KD-2100",
+    "model_id": "kenwood-0024",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.kenwood.de/support/produktarchiv/hifi/plattenspieler/",
+        "title": "Kenwood — Produktarchiv — Plattenspieler"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Kenwood",
+    "model": "KD-26 R",
+    "model_id": "kenwood-0025",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_KD26R_SM_KENWOOD_EN",
+        "title": "Kenwood KD-26 R — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Kenwood",
+    "model": "KD-3033",
+    "model_id": "kenwood-0026",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/0/06/Kenwood_KD-3033-Prospekt-1.jpg",
+        "title": "Kenwood — KD-3033 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Kenwood",
+    "model": "KD-3055",
+    "model_id": "kenwood-0027",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/3/35/Kenwood_KD-3055-Werbung.jpg",
+        "title": "Kenwood — KD-3055 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Kenwood",
+    "model": "KD-3077",
+    "model_id": "kenwood-0028",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_KD3077_SM_KENWOOD_EN",
+        "title": "Kenwood KD-3077 — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Kenwood",
+    "model": "KD-3100",
+    "model_id": "kenwood-0029",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_KD3100_OM_KENWOOD_EN_FR_DE",
+        "title": "Kenwood KD-3100 — Factory manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Kenwood",
+    "model": "KD-34 R",
+    "model_id": "kenwood-0030",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/7/7d/Kenwood_KA-KD-KT-KX-34-LSK-200_II-Prospekt-1985.jpg",
+        "title": "Kenwood — KD-34 R (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Kenwood",
+    "model": "KD-36R",
+    "model_id": "kenwood-0031",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.kenwood.de/support/produktarchiv/hifi/plattenspieler/",
+        "title": "Kenwood — Produktarchiv — Plattenspieler"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Kenwood",
+    "model": "KD-4020",
+    "model_id": "kenwood-0032",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.kenwood.de/support/produktarchiv/hifi/plattenspieler/",
+        "title": "Kenwood — Produktarchiv — Plattenspieler"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Kenwood",
+    "model": "KD-40R",
+    "model_id": "kenwood-0033",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4330419/Kenwood-Kd-40r.html",
+        "title": "Kenwood KD-40R Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Kenwood",
+    "model": "KD-4100",
+    "model_id": "kenwood-0034",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/287124/Kenwood-Kd-4100.html",
+        "title": "Kenwood KD-4100 Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Kenwood",
+    "model": "KD-492F",
+    "model_id": "kenwood-0035",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/287128/Kenwood-Kd-492f.html",
+        "title": "Kenwood KD-492F Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Kenwood",
+    "model": "KD-49F",
+    "model_id": "kenwood-0036",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.kenwood.de/support/produktarchiv/hifi/plattenspieler/",
+        "title": "Kenwood — Produktarchiv — Plattenspieler"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Kenwood",
+    "model": "KD-500",
+    "model_id": "kenwood-0037",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4343511/Kenwood-Kd-500.html",
+        "title": "Kenwood KD-500 Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Kenwood",
+    "model": "KD-5033",
+    "model_id": "kenwood-0038",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_KD5033_OM_KENWOOD_DE_NL_SE",
+        "title": "Kenwood KD-5033 — Factory manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Kenwood",
+    "model": "KD-50F",
+    "model_id": "kenwood-0039",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3490252/Kenwood-Kd-50f.html",
+        "title": "Kenwood KD-50F Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Kenwood",
+    "model": "KD-56R",
+    "model_id": "kenwood-0040",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.kenwood.de/support/produktarchiv/hifi/plattenspieler/",
+        "title": "Kenwood — Produktarchiv — Plattenspieler"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Kenwood",
+    "model": "KD-64F",
+    "model_id": "kenwood-0041",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3988251/Kenwood-Kd-64f.html",
+        "title": "Kenwood KD-64F Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Kenwood",
+    "model": "KD-66F",
+    "model_id": "kenwood-0042",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4366834/Kenwood-Kd-66f.html",
+        "title": "Kenwood KD-66F Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Kenwood",
+    "model": "KD-700D",
+    "model_id": "kenwood-0043",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4364815/Kenwood-Kd-700d.html",
+        "title": "Kenwood KD-700D Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Kenwood",
+    "model": "KD-727",
+    "model_id": "kenwood-0044",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_KD727_OM_KENWOOD_EN_DE",
+        "title": "Kenwood KD-727 — Factory manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Kenwood",
+    "model": "KD-74F",
+    "model_id": "kenwood-0045",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4261500/Kenwood-Kd-74f.html",
+        "title": "Kenwood KD-74F Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Kenwood",
+    "model": "KD-750",
+    "model_id": "kenwood-0046",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3490867/Kenwood-Kd-750.html",
+        "title": "Kenwood KD-750 Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Kenwood",
+    "model": "KD-76F",
+    "model_id": "kenwood-0047",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4198515/Kenwood-Kd-76f.html",
+        "title": "Kenwood KD-76F Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Kenwood",
+    "model": "KD-770 B",
+    "model_id": "kenwood-0048",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/c/ca/Kenwood_KA-KD-770-KT-770_L-KX-770-GE-770Prospekt-1984.jpg",
+        "title": "Kenwood — KD-770 B (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Kenwood",
+    "model": "KD-850",
+    "model_id": "kenwood-0049",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.kenwood.de/support/produktarchiv/hifi/plattenspieler/",
+        "title": "Kenwood — Produktarchiv — Plattenspieler"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Kenwood",
+    "model": "KP-3021",
+    "model_id": "kenwood-0050",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/thumb/c/cc/Kenwood_KP-3021-Prospekt-1.jpg/1000px-Kenwood_KP-3021-Prospekt-1.jpg",
+        "title": "Kenwood — KP-3021 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Kenwood",
+    "model": "KP-5021",
+    "model_id": "kenwood-0051",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/thumb/d/d7/Kenwood_KP-5021-Prospekt-1.jpg/1000px-Kenwood_KP-5021-Prospekt-1.jpg",
+        "title": "Kenwood — KP-5021 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Kenwood",
+    "model": "KP-5022",
+    "model_id": "kenwood-0052",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4317972/Kenwood-Kp-5022.html",
+        "title": "Kenwood KP-5022 Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Kenwood",
+    "model": "L-07D",
+    "model_id": "kenwood-0053",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.kenwood.de/support/produktarchiv/hifi/plattenspieler/",
+        "title": "Kenwood — Produktarchiv — Plattenspieler"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Kenwood",
+    "model": "PC-350",
+    "model_id": "kenwood-0054",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/thumb/d/dd/Kenwood_PC-350-Prospekt-1.jpg/1000px-Kenwood_PC-350-Prospekt-1.jpg",
+        "title": "Kenwood — PC-350 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Kenwood",
+    "model": "P-T400",
+    "model_id": "kenwood-0055",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/775195/Kenwood-P-T400.html",
+        "title": "Kenwood P-T400 Instruction Manual"
+      }
+    ],
+    "aliases": []
   }
 ]

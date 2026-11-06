@@ -1,0 +1,28 @@
+[
+  {
+    "manufacturer": "Nakamichi",
+    "model": "DRAGON-CT",
+    "model_id": "nakamichi-0001",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3436257/Nakamichi-Dragon-Ct.html",
+        "title": "Nakamichi DRAGON-CT Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Nakamichi",
+    "model": "TX-1000",
+    "model_id": "nakamichi-0002",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/2/25/Nakamichi_TX-1000-1981.jpg",
+        "title": "Nakamichi — TX-1000 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  }
+]

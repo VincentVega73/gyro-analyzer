@@ -1,0 +1,301 @@
+[
+  {
+    "manufacturer": "Garrard",
+    "model": "1000",
+    "model_id": "garrard-0001",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4160292/Garrard-1000.html",
+        "title": "Garrard 1000 Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Garrard",
+    "model": "125 SB",
+    "model_id": "garrard-0002",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/0/0e/Garrard_SP-25_Mk_IV-125_SB-Prospekt-1.jpg",
+        "title": "Garrard — 125 SB (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Garrard",
+    "model": "210",
+    "model_id": "garrard-0003",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1722324/Garrard-210.html",
+        "title": "Garrard 210 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Garrard",
+    "model": "3000",
+    "model_id": "garrard-0004",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3993625/Garrard-3000.html",
+        "title": "Garrard 3000 Quick Start Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Garrard",
+    "model": "301",
+    "model_id": "garrard-0005",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1080245/Garrard-301.html",
+        "title": "Garrard 301 User Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Garrard",
+    "model": "35 SB",
+    "model_id": "garrard-0006",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/a/a9/Garrard_35-125_SB-86-SB_II-Prospekt-1.jpg",
+        "title": "Garrard — 35 SB (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Garrard",
+    "model": "401",
+    "model_id": "garrard-0007",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1156154/Garrard-401.html",
+        "title": "Garrard 401 Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Garrard",
+    "model": "40B",
+    "model_id": "garrard-0008",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4101494/Garrard-40b.html",
+        "title": "Garrard 40B Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Garrard",
+    "model": "440",
+    "model_id": "garrard-0009",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1165736/Garrard-440.html",
+        "title": "Garrard 440 Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Garrard",
+    "model": "4HF",
+    "model_id": "garrard-0010",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4196836/Garrard-4hf.html",
+        "title": "Garrard 4HF Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Garrard",
+    "model": "74M",
+    "model_id": "garrard-0011",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4047861/Garrard-74m.html",
+        "title": "Garrard 74M Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Garrard",
+    "model": "80 Mk II",
+    "model_id": "garrard-0012",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4261605/Garrard-80-Mk-Ii.html",
+        "title": "Garrard 80 Mk II Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Garrard",
+    "model": "86SB",
+    "model_id": "garrard-0013",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4342021/Garrard-86sb.html",
+        "title": "Garrard 86SB Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Garrard",
+    "model": "AT6",
+    "model_id": "garrard-0014",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1013528/Garrard-At6.html",
+        "title": "Garrard AT6 Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Garrard",
+    "model": "DD75",
+    "model_id": "garrard-0015",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4062592/Garrard-Dd75.html",
+        "title": "Garrard DD75 Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Garrard",
+    "model": "LABORATORY A",
+    "model_id": "garrard-0016",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4042827/Garrard-Laboratory-A.html",
+        "title": "Garrard LABORATORY A Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Garrard",
+    "model": "SP25 MK IV",
+    "model_id": "garrard-0017",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4258779/Garrard-Sp25-Mk-Iv.html",
+        "title": "Garrard SP25 MK IV Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Garrard",
+    "model": "Synchro-Lab 72B",
+    "model_id": "garrard-0018",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4261106/Garrard-Synchro-Lab-72b.html",
+        "title": "Garrard Synchro-Lab 72B Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Garrard",
+    "model": "Synchro-Lab 95B",
+    "model_id": "garrard-0019",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4264507/Garrard-Synchro-Lab-95b.html",
+        "title": "Garrard Synchro-Lab 95B Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Garrard",
+    "model": "ZERO 100",
+    "model_id": "garrard-0020",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1513961/Garrard-Zero-100.html",
+        "title": "Garrard ZERO 100 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Garrard",
+    "model": "ZERO 100C",
+    "model_id": "garrard-0021",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3602087/Garrard-Zero-100c.html",
+        "title": "Garrard ZERO 100C Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Garrard",
+    "model": "Zero-100 SB",
+    "model_id": "garrard-0022",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/b/b2/Garrard_Zero-100_SB-Prospekt-1.jpg",
+        "title": "Garrard — Zero-100 SB (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Garrard",
+    "model": "Zero 2000B",
+    "model_id": "garrard-0023",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4259267/Garrard-Zero-2000b.html",
+        "title": "Garrard Zero 2000B Manual"
+      }
+    ],
+    "aliases": []
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "manufacturer": "Scott",
+    "model": "PS17",
+    "model_id": "scott-0001",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3734497/Scott-Ps17.html",
+        "title": "Scott PS17 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Scott",
+    "model": "PS47",
+    "model_id": "scott-0002",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3948573/Scott-Ps47.html",
+        "title": "Scott PS47 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Scott",
+    "model": "PS67",
+    "model_id": "scott-0003",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3948574/Scott-Ps67.html",
+        "title": "Scott PS67 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Scott",
+    "model": "PS87",
+    "model_id": "scott-0004",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3948576/Scott-Ps87.html",
+        "title": "Scott PS87 Service Manual"
+      }
+    ],
+    "aliases": []
+  }
+]

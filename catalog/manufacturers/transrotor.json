@@ -1,0 +1,15 @@
+[
+  {
+    "manufacturer": "Transrotor",
+    "model": "Connoisseur",
+    "model_id": "transrotor-0001",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/1/16/Grundig_Transrotor_Connoisseur-Prospekt-1992.jpg",
+        "title": "Transrotor — Connoisseur (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  }
+]

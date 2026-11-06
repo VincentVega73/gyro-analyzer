@@ -184,5 +184,590 @@
         "url": "https://www.thorens.com/en/history.html"
       }
     ]
+  },
+  {
+    "manufacturer": "Thorens",
+    "model": "TD 104",
+    "model_id": "thorens-0015",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4125529/Thorens-Td-104.html",
+        "title": "THORENS TD 104 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Thorens",
+    "model": "TD 105",
+    "model_id": "thorens-0016",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/5/5e/Thorens_TD-104-105-Prospekt-1.jpg",
+        "title": "Thorens — TD 105 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Thorens",
+    "model": "TD 111",
+    "model_id": "thorens-0017",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/b/b4/Thorens_TD-111-Prospekt-1.jpg",
+        "title": "Thorens — TD 111 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Thorens",
+    "model": "TD 115",
+    "model_id": "thorens-0018",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_TD115_SM_THORENS_EN",
+        "title": "Thorens TD 115 — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Thorens",
+    "model": "TD 121",
+    "model_id": "thorens-0019",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/3/34/Thorens_TD-121-Prospekt-1.jpg",
+        "title": "Thorens — TD 121 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Thorens",
+    "model": "TD 124",
+    "model_id": "thorens-0020",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3994972/Thorens-Td-124.html",
+        "title": "THORENS TD 124 Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Thorens",
+    "model": "TD 125",
+    "model_id": "thorens-0021",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_TD125_OM_THORENS_EN",
+        "title": "Thorens TD 125 — Factory manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Thorens",
+    "model": "TD 126MkIII ELECTRONIC",
+    "model_id": "thorens-0022",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4078095/Thorens-Td-126mkiii-Electronic.html",
+        "title": "THORENS TD 126MkIII ELECTRONIC Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Thorens",
+    "model": "TD 127",
+    "model_id": "thorens-0023",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/a/a6/Thorens_TD-127-Prospekt-1.jpg",
+        "title": "Thorens — TD 127 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Thorens",
+    "model": "TD 135",
+    "model_id": "thorens-0024",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_TD135_OM_THORENS_DE_FR",
+        "title": "Thorens TD 135 — Factory manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Thorens",
+    "model": "TD 145 MK II",
+    "model_id": "thorens-0025",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_TD145MKII_OM_THORENS_EN_DE",
+        "title": "Thorens TD 145 MK II — Factory manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Thorens",
+    "model": "TD 146",
+    "model_id": "thorens-0026",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/630066/Thorens-Td-146.html",
+        "title": "THORENS TD 146 Owner's Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Thorens",
+    "model": "TD 147",
+    "model_id": "thorens-0027",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1067615/Thorens-Td-147.html",
+        "title": "THORENS TD 147 Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Thorens",
+    "model": "TD158",
+    "model_id": "thorens-0028",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/170274/Thorens-Td158.html",
+        "title": "THORENS TD158 Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Thorens",
+    "model": "TD 1600",
+    "model_id": "thorens-0029",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1818893/Thorens-Td-1600.html",
+        "title": "THORENS TD 1600 User Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Thorens",
+    "model": "TD 160 HD",
+    "model_id": "thorens-0030",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/461426/Thorens-Td-160-Hd.html",
+        "title": "THORENS TD 160 HD User Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Thorens",
+    "model": "TD 165",
+    "model_id": "thorens-0031",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_TD165_OM_THORENS_DE_EN",
+        "title": "Thorens TD 165 — Factory manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Thorens",
+    "model": "TD 166",
+    "model_id": "thorens-0032",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4368763/Thorens-Td-166.html",
+        "title": "THORENS TD 166 Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Thorens",
+    "model": "TD 166 MKII",
+    "model_id": "thorens-0033",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4268433/Thorens-Td-166-Mkii.html",
+        "title": "THORENS TD 166 MKII Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Thorens",
+    "model": "TD 180",
+    "model_id": "thorens-0034",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1253843/Thorens-Td-180.html",
+        "title": "THORENS TD 180 Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Thorens",
+    "model": "TD 184",
+    "model_id": "thorens-0035",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4368727/Thorens-Td-184.html",
+        "title": "THORENS TD 184 Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Thorens",
+    "model": "TD 2001",
+    "model_id": "thorens-0036",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1868606/Thorens-Td-2001.html",
+        "title": "THORENS TD 2001 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Thorens",
+    "model": "TD 2010",
+    "model_id": "thorens-0037",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/461427/Thorens-Td-2010.html",
+        "title": "THORENS TD 2010 User Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Thorens",
+    "model": "TD 206",
+    "model_id": "thorens-0038",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/953778/Thorens-Td-206.html",
+        "title": "THORENS TD 206 User Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Thorens",
+    "model": "TD 224",
+    "model_id": "thorens-0039",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4129901/Thorens-Td-224.html",
+        "title": "THORENS TD 224 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Thorens",
+    "model": "TD 226",
+    "model_id": "thorens-0040",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/0/04/Thorens_TD-226-Prospekt-11.jpg",
+        "title": "Thorens — TD 226 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Thorens",
+    "model": "TD 235",
+    "model_id": "thorens-0041",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1693864/Thorens-Td-235.html",
+        "title": "THORENS TD 235 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Thorens",
+    "model": "TD 240",
+    "model_id": "thorens-0042",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/461424/Thorens-Td-240.html",
+        "title": "THORENS TD 240 Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Thorens",
+    "model": "TD 240-2",
+    "model_id": "thorens-0043",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/2320883/Thorens-Td-240-2.html",
+        "title": "THORENS TD 240-2 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Thorens",
+    "model": "TD 280 MK II",
+    "model_id": "thorens-0044",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_TD280MKII_OM_THORENS_EN_DE_FR",
+        "title": "Thorens TD 280 MK II — Factory manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Thorens",
+    "model": "TD 280 Mk IV",
+    "model_id": "thorens-0045",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1696283/Thorens-Td-280-Mk-Iv.html",
+        "title": "THORENS TD 280 Mk IV Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Thorens",
+    "model": "TD 290",
+    "model_id": "thorens-0046",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_TD290_SM_THORENS_EN",
+        "title": "Thorens TD 290 — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Thorens",
+    "model": "TD 295",
+    "model_id": "thorens-0047",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/a/a7/Thorens_TD-295-Prospekt-1996.jpg",
+        "title": "Thorens — TD 295 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Thorens",
+    "model": "TD 295 MKIV",
+    "model_id": "thorens-0048",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/461937/Thorens-Td-295-Mkiv.html",
+        "title": "THORENS TD 295 MKIV Instructions For Use Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Thorens",
+    "model": "TD 309",
+    "model_id": "thorens-0049",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/461941/Thorens-Td-309.html",
+        "title": "THORENS TD 309 User Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Thorens",
+    "model": "TD 316",
+    "model_id": "thorens-0050",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4054279/Thorens-Td-316.html",
+        "title": "THORENS TD 316 Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Thorens",
+    "model": "TD 316 MK III",
+    "model_id": "thorens-0051",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3832435/Thorens-Td-316-Mk-Iii.html",
+        "title": "THORENS TD 316 MK III Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Thorens",
+    "model": "TD 318 MK III",
+    "model_id": "thorens-0052",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/998134/Thorens-Td-318-Mk-Iii.html",
+        "title": "THORENS TD 318 MK III Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Thorens",
+    "model": "TD 320 MK II",
+    "model_id": "thorens-0053",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/2202512/Thorens-Td-320-Mk-Ii.html",
+        "title": "THORENS TD 320 MK II Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Thorens",
+    "model": "TD 321",
+    "model_id": "thorens-0054",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_TD321_SM_THORENS_EN_DE",
+        "title": "Thorens TD 321 — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Thorens",
+    "model": "TD 521",
+    "model_id": "thorens-0055",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_TD521_SM_THORENS_EN",
+        "title": "Thorens TD 521 — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Thorens",
+    "model": "TD 524",
+    "model_id": "thorens-0056",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1000287/Thorens-Td-524.html",
+        "title": "THORENS TD 524 Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Thorens",
+    "model": "TD 535",
+    "model_id": "thorens-0057",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4368740/Thorens-Td-535.html",
+        "title": "THORENS TD 535 Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Thorens",
+    "model": "TD 550",
+    "model_id": "thorens-0058",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/170267/Thorens-Td-550.html",
+        "title": "THORENS TD 550 User Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Thorens",
+    "model": "TD 903",
+    "model_id": "thorens-0059",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1938025/Thorens-Td-903.html",
+        "title": "THORENS TD 903 User Manual"
+      }
+    ],
+    "aliases": []
   }
 ]

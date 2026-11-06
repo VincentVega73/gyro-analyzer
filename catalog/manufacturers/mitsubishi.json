@@ -1,0 +1,119 @@
+[
+  {
+    "manufacturer": "Mitsubishi",
+    "model": "DP-51",
+    "model_id": "mitsubishi-0001",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/f/f0/Mitsubishi_DP-51-Prospekt-1.jpg",
+        "title": "Mitsubishi — DP-51 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Mitsubishi",
+    "model": "DP-630",
+    "model_id": "mitsubishi-0002",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3400737/Mitsubishi-Dp-630.html",
+        "title": "Mitsubishi DP-630 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Mitsubishi",
+    "model": "DP-86 DA",
+    "model_id": "mitsubishi-0003",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_DP86DA_SM_MITSUBISHI_DE",
+        "title": "Mitsubishi DP-86 DA — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Mitsubishi",
+    "model": "DP-EC 20",
+    "model_id": "mitsubishi-0004",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_DPEC20_SM_MITSUBISHI",
+        "title": "Mitsubishi DP-EC 20 — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Mitsubishi",
+    "model": "DP-EC 8",
+    "model_id": "mitsubishi-0005",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_DPEC8_OM_MITSUBISHI_EN_DE_FR_ES_NL",
+        "title": "Mitsubishi DP-EC 8 — Factory manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Mitsubishi",
+    "model": "LT-10V",
+    "model_id": "mitsubishi-0006",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3998633/Mitsubishi-Lt-10v.html",
+        "title": "Mitsubishi LT-10V Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Mitsubishi",
+    "model": "LT-20",
+    "model_id": "mitsubishi-0007",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3317741/Mitsubishi-Lt-20.html",
+        "title": "Mitsubishi LT-20 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Mitsubishi",
+    "model": "LT-30",
+    "model_id": "mitsubishi-0008",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4067700/Mitsubishi-Lt-30.html",
+        "title": "Mitsubishi LT-30 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Mitsubishi",
+    "model": "LT-5V",
+    "model_id": "mitsubishi-0009",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4262331/Mitsubishi-Lt-5v.html",
+        "title": "Mitsubishi LT-5V Service Manual"
+      }
+    ],
+    "aliases": []
+  }
+]

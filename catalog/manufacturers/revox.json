@@ -1,0 +1,80 @@
+[
+  {
+    "manufacturer": "Revox",
+    "model": "B 291",
+    "model_id": "revox-0001",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_B291_SM_REVOX",
+        "title": "Revox B 291 — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Revox",
+    "model": "B 291-S",
+    "model_id": "revox-0002",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/1/11/Revox_B-291_S-Prospekt-1.jpg",
+        "title": "Revox — B 291-S (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Revox",
+    "model": "B 790",
+    "model_id": "revox-0003",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_B790_C.DIAGRAM_REVOX",
+        "title": "Revox B 790 — Factory manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Revox",
+    "model": "B 791",
+    "model_id": "revox-0004",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_B791_SM_REVOX",
+        "title": "Revox B 791 — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Revox",
+    "model": "B795",
+    "model_id": "revox-0005",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1015110/Revox-B795.html",
+        "title": "Revox B795 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Revox",
+    "model": "STUDIOMASTER T700",
+    "model_id": "revox-0006",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/2564816/Revox-Studiomaster-T700.html",
+        "title": "Revox STUDIOMASTER T700 User Manual"
+      }
+    ],
+    "aliases": []
+  }
+]

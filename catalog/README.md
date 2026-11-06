@@ -1,25 +1,94 @@
 # Gyro Pro turntable library
 
-Edition 1.3.0 identifies 367 turntables and one related factory designation. Every record has model evidence; technical fields are optional. Factory specifications describe a model, not an owner's measurements.
+Edition 1.4.0 identifies 1,581 turntables and two related factory designations. Every record has model evidence; technical fields are optional. Factory specifications describe a model, not an owner's measurements.
 
 | Manufacturer | Models |
 | --- | ---: |
-| Audio-Technica | 26 |
-| Denon | 11 |
-| Dual | 68 |
-| Fluance | 5 |
-| Kenwood | 19 |
-| Lenco | 7 |
-| Linn | 1 |
+| ADC | 2 |
+| AVID | 1 |
+| Acoustic Signature | 2 |
+| Aiwa | 15 |
+| Akai | 35 |
+| American Audio | 1 |
+| Analogis | 1 |
+| Andover Audio | 2 |
+| Audio-Technica | 29 |
+| BASF | 1 |
+| Bang & Olufsen | 1 |
+| Blaupunkt | 3 |
+| Braun | 10 |
+| C.E.C. | 2 |
+| Cambridge Audio | 2 |
+| Clearaudio | 4 |
+| Crosley | 44 |
+| Denon | 37 |
+| Denon DJ | 1 |
+| Dr. Feickert Analogue | 3 |
+| Dual | 124 |
+| EAT | 3 |
+| Elac | 5 |
+| Fisher | 23 |
+| Fluance | 6 |
+| GPO | 2 |
+| Garrard | 23 |
+| Goodmans | 1 |
+| Grundig | 20 |
+| Harman Kardon | 5 |
+| Heco | 1 |
+| Hitachi | 39 |
+| House of Marley | 3 |
+| ITT | 6 |
+| JBL | 1 |
+| JVC | 51 |
+| Kenwood | 55 |
+| Kyocera | 2 |
+| Lenco | 63 |
+| Linn | 3 |
+| Loewe | 2 |
+| Luxman | 17 |
+| MAX | 1 |
+| Marantz | 25 |
+| McIntosh | 3 |
 | Michell | 8 |
-| Pioneer | 34 |
-| Pro-Ject | 65 |
+| Micro Seiki | 17 |
+| Mitsubishi | 9 |
+| MoFi Electronics | 3 |
+| Music Hall | 9 |
+| NAD | 4 |
+| Nakamichi | 2 |
+| Nikko | 1 |
+| Nordmende | 4 |
+| Numark | 17 |
+| Omnitronic | 2 |
+| Onkyo | 28 |
+| Philips | 27 |
+| Pioneer | 124 |
+| Pro-Ject | 71 |
 | Rega | 25 |
-| Sony | 13 |
-| TEAC | 12 |
-| Technics | 23 |
-| Thorens | 14 |
-| Yamaha | 16 |
+| Reloop | 14 |
+| Revox | 6 |
+| Rotel | 22 |
+| Saba | 5 |
+| Sansui | 46 |
+| Sanyo | 26 |
+| Scan-Dyna | 1 |
+| Scott | 4 |
+| Sharp | 1 |
+| Sherwood | 3 |
+| Siemens | 6 |
+| Sony | 110 |
+| Stanton | 17 |
+| TEAC | 31 |
+| Tandberg | 1 |
+| Technics | 106 |
+| Telefunken | 21 |
+| Thales | 1 |
+| Thorens | 59 |
+| Toshiba | 15 |
+| Transrotor | 1 |
+| Uher | 3 |
+| Wega | 5 |
+| Yamaha | 26 |
 | Ария | 1 |
 | Арктур | 1 |
 | Вега | 4 |
@@ -30,11 +99,13 @@ Edition 1.3.0 identifies 367 turntables and one related factory designation. Eve
 | Феникс | 2 |
 | Электроника | 5 |
 | Эстония | 1 |
-| **Total** | **367** |
+| **Total** | **1581** |
 
 ## Research import
 
-Edition 1.3.0 adds 213 model IDs. The [row-by-row comparison](review/research-import.csv) links archive designations to catalog IDs and records the remaining candidates. Of 3,689 main rows, 108 match prior IDs, 216 map to the 213 additions and 3,365 await verification. The separate 1,254 review-only rows remain quarantined. Candidate spellings can converge on one factory designation. Only verified factory information is used for technical fields.
+Edition 1.4.0 adds 1,214 model IDs after reviewing all 3,365 open designations. The [source review](review/source-review-1.4.csv) records a decision for each one. Confirmed records cite manufacturer pages, factory manuals or identifiable sheets from manufacturer brochures. The review retains unverified document leads separately from primary evidence.
+
+Edition 1.3.0 added 213 model IDs. The [row-by-row comparison](review/research-import.csv) links archive designations to catalog IDs and records the remaining candidates. Of 3,689 main rows, 108 match prior IDs, 216 map to the 213 additions and 3,365 were carried forward for verification in edition 1.4.0. The separate 1,254 review-only rows remain quarantined. Candidate spellings can converge on one factory designation. Only verified factory information is used for technical fields.
 
 ## Build and verify
 
@@ -55,7 +126,7 @@ From the repository root, run `python catalog/catalog.py bundle ../gyro-turntabl
 
 Manifest version 2 distinguishes licensed redraws from independent studies. For the latter, `artwork_credit` applies to the new illustration, while `construction_sources` identifies the factory manual and photographic views consulted to check the construction. The manifest also carries per-image attribution, source and license links and the visual review notes. Keep it with the images. Four original generic plates are stored once and referenced by multiple rows. The catalog validator checks every assignment and decodes all WebP files during both check and build. Adding a model requires a media assignment in the same change.
 
-[Coverage, source credits and review notes](media/REPORT.md) · [All 367 thumbnails](review/catalog-overview.png) · [Per-model research log](media/research.json)
+[Coverage, source credits and review notes](media/REPORT.md) · [All 1,581 thumbnails](review/catalog-overview.png) · [Per-model research log](media/research.json)
 
 ## Editing the data
 

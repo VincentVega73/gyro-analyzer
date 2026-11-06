@@ -29,6 +29,15 @@ class CatalogTests(unittest.TestCase):
         self.assertEqual(norm("Series ½"), norm("Series 1/2"))
         self.assertNotEqual(norm("Series 1/2"), norm("Series 12"))
 
+    def test_sl1210mk2_points_to_original_model(self):
+        rows = self.data["models"]
+        base, = lookup(rows, "Technics", "SL-1200MK2")
+        match, = lookup_matches(rows, "Technics", "SL 1210 MK2")
+        self.assertEqual(base["model_id"], match["model_id"])
+        self.assertEqual("color_variant", match["relation_type"])
+        self.assertEqual("black", match["color"])
+        self.assertEqual(1, match["source"]["page"])
+
     def test_rename_preserves_id(self):
         data = copy.deepcopy(self.data)
         item, = lookup(data["models"], "Technics", "SL1200MK2")

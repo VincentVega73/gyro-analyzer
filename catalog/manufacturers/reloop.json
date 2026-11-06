@@ -1,0 +1,185 @@
+[
+  {
+    "manufacturer": "Reloop",
+    "model": "RP1000M",
+    "model_id": "reloop-0001",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/2817107/Reloop-Rp1000m.html",
+        "title": "Reloop RP1000M Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Reloop",
+    "model": "RP2000MK2",
+    "model_id": "reloop-0002",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/2816926/Reloop-Rp2000mk2.html",
+        "title": "Reloop RP2000MK2 Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Reloop",
+    "model": "RP-4000 M3D",
+    "model_id": "reloop-0003",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://medias.audiofanzine.com/files/manuel-reloop-rp-4000-470705.pdf",
+        "title": "Reloop RP-4000 M3D — factory documentation",
+        "page": 2
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Reloop",
+    "model": "RP 4000 MK2",
+    "model_id": "reloop-0004",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/2817091/Reloop-Rp-4000-Mk2.html",
+        "title": "Reloop RP 4000 MK2 Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Reloop",
+    "model": "RP7",
+    "model_id": "reloop-0005",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4110975/Reloop-Rp7.html",
+        "title": "Reloop RP7 Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Reloop",
+    "model": "RP7000MK2",
+    "model_id": "reloop-0006",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/2250096/Reloop-Rp7000mk2.html",
+        "title": "Reloop RP7000MK2 Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Reloop",
+    "model": "RP8000",
+    "model_id": "reloop-0007",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/690226/Reloop-Rp8000.html",
+        "title": "Reloop RP8000 Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Reloop",
+    "model": "RP8000MK2",
+    "model_id": "reloop-0008",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1581509/Reloop-Rp8000mk2.html",
+        "title": "Reloop RP8000MK2 Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Reloop",
+    "model": "SPIN",
+    "model_id": "reloop-0009",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1587697/Reloop-Spin.html",
+        "title": "Reloop SPIN Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Reloop",
+    "model": "TURN2",
+    "model_id": "reloop-0010",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/2817078/Reloop-Turn2.html",
+        "title": "Reloop TURN2 Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Reloop",
+    "model": "TURN3",
+    "model_id": "reloop-0011",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/2828368/Reloop-Turn3.html",
+        "title": "Reloop TURN3 Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Reloop",
+    "model": "TURN5",
+    "model_id": "reloop-0012",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3106892/Reloop-Turn5.html",
+        "title": "Reloop TURN5 Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Reloop",
+    "model": "TURN7",
+    "model_id": "reloop-0013",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3047645/Reloop-Turn7.html",
+        "title": "Reloop TURN7 Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Reloop",
+    "model": "TURNX",
+    "model_id": "reloop-0014",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/2965802/Reloop-Turnx.html",
+        "title": "Reloop TURNX Instruction Manual"
+      }
+    ],
+    "aliases": []
+  }
+]

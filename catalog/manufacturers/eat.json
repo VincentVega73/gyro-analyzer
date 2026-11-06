@@ -1,0 +1,41 @@
+[
+  {
+    "manufacturer": "EAT",
+    "model": "C-Major",
+    "model_id": "eat-0001",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1248574/Eat-C-Major.html",
+        "title": "EAT C-Major Operating Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "EAT",
+    "model": "C-Sharp",
+    "model_id": "eat-0002",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1469116/Eat-C-Sharp.html",
+        "title": "EAT C-Sharp Instructions For Use Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "EAT",
+    "model": "Prelude",
+    "model_id": "eat-0003",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/2090250/Eat-Prelude.html",
+        "title": "EAT Prelude Instructions For Use Manual"
+      }
+    ],
+    "aliases": []
+  }
+]

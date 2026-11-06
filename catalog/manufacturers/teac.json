@@ -154,5 +154,252 @@
         "url": "https://www.manualslib.com/manual/2256203/Teac-Tn-570.html"
       }
     ]
+  },
+  {
+    "manufacturer": "TEAC",
+    "model": "LP-R400",
+    "model_id": "teac-0013",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/168797/Teac-Lp-R400.html",
+        "title": "Teac LP-R400 Owner's Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "TEAC",
+    "model": "LP-R500",
+    "model_id": "teac-0014",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/168867/Teac-Lp-R500.html",
+        "title": "Teac LP-R500 Owner's Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "TEAC",
+    "model": "P-490",
+    "model_id": "teac-0015",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/3/38/Teac_1986-87_-_13.jpg",
+        "title": "TEAC — P-490 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "TEAC",
+    "model": "P-495",
+    "model_id": "teac-0016",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/5/57/Teac_P-495-T-X_100-Prospekt-1988.jpg",
+        "title": "TEAC — P-495 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "TEAC",
+    "model": "P-50",
+    "model_id": "teac-0017",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_P50_SM_TEAC_EN",
+        "title": "TEAC P-50 — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "TEAC",
+    "model": "P-690",
+    "model_id": "teac-0018",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/3/38/Teac_1986-87_-_13.jpg",
+        "title": "TEAC — P-690 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "TEAC",
+    "model": "P-707",
+    "model_id": "teac-0019",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4342677/Teac-P-707.html",
+        "title": "Teac P-707 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "TEAC",
+    "model": "P-919",
+    "model_id": "teac-0020",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/4/4a/Teac_1986-87_-_12.jpg",
+        "title": "TEAC — P-919 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "TEAC",
+    "model": "P-A688",
+    "model_id": "teac-0021",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3986887/Teac-P-A688.html",
+        "title": "Teac P-A688 Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "TEAC",
+    "model": "PX-550",
+    "model_id": "teac-0022",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3581562/Teac-Px-550.html",
+        "title": "Teac PX-550 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "TEAC",
+    "model": "TN-180BT",
+    "model_id": "teac-0023",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3331030/Teac-Tn-180bt.html",
+        "title": "Teac TN-180BT Owner's Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "TEAC",
+    "model": "TN-3B",
+    "model_id": "teac-0024",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://teac.jp/int/product/tn-3b/top",
+        "title": "TEAC — TN-3B"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "TEAC",
+    "model": "TN-3B-SE",
+    "model_id": "teac-0025",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/2576541/Teac-Tn-3b-Se.html",
+        "title": "Teac TN-3B-SE Owner's Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "TEAC",
+    "model": "TN-400",
+    "model_id": "teac-0026",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_TN400_OM_TEAC_EN",
+        "title": "TEAC TN-400 — Factory manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "TEAC",
+    "model": "TN-4D",
+    "model_id": "teac-0027",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3309754/Teac-Tn-4d.html",
+        "title": "Teac TN-4D Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "TEAC",
+    "model": "TN-550",
+    "model_id": "teac-0028",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1187797/Teac-Tn-550.html",
+        "title": "Teac TN-550 owner's manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "TEAC",
+    "model": "TN-5BB",
+    "model_id": "teac-0029",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://teacusa.com/products/tn-5bb-analog-turntable",
+        "title": "TEAC — TN-5BB"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "TEAC",
+    "model": "TN-80C",
+    "model_id": "teac-0030",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4369631/Teac-Tn-80c.html",
+        "title": "Teac TN-80C Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "TEAC",
+    "model": "TS-F 50",
+    "model_id": "teac-0031",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_TSF50_SM_TEAC_EN",
+        "title": "TEAC TS-F 50 — Service manual"
+      }
+    ],
+    "aliases": []
   }
 ]

@@ -959,5 +959,733 @@
         "url": "https://www.manualslib.com/manual/3524145/Dual-Cs-505-3.html"
       }
     ]
+  },
+  {
+    "manufacturer": "Dual",
+    "model": "1225",
+    "model_id": "dual-0069",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3411720/Dual-1225.html",
+        "title": "Dual 1225 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Dual",
+    "model": "1235",
+    "model_id": "dual-0070",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_1235_SM_DUAL_DE",
+        "title": "Dual 1235 — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Dual",
+    "model": "1257",
+    "model_id": "dual-0071",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_1257_OM_DUAL_DE",
+        "title": "Dual 1257 — Factory manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Dual",
+    "model": "CS 1258",
+    "model_id": "dual-0072",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3410217/Dual-Cs-1258.html",
+        "title": "Dual CS 1258 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Dual",
+    "model": "CS 150 Q",
+    "model_id": "dual-0073",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3305814/Dual-Cs-150-Q.html",
+        "title": "Dual CS 150 Q Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Dual",
+    "model": "CS 2120",
+    "model_id": "dual-0074",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3410203/Dual-Cs-2120.html",
+        "title": "Dual CS 2120 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Dual",
+    "model": "CS 2215",
+    "model_id": "dual-0075",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4340947/Dual-Cs-2215.html",
+        "title": "Dual CS 2215 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Dual",
+    "model": "CS 2225 Q",
+    "model_id": "dual-0076",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3410028/Dual-Cs-2225-Q.html",
+        "title": "Dual CS 2225 Q Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Dual",
+    "model": "CS 3560",
+    "model_id": "dual-0077",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3410023/Dual-Cs-3560.html",
+        "title": "Dual CS 3560 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Dual",
+    "model": "CS 3600",
+    "model_id": "dual-0078",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3410526/Dual-Cs-3600.html",
+        "title": "Dual CS 3600 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Dual",
+    "model": "CS 3650",
+    "model_id": "dual-0079",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3410424/Dual-Cs-3650.html",
+        "title": "Dual CS 3650 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Dual",
+    "model": "CS 3700",
+    "model_id": "dual-0080",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3410223/Dual-Cs-3700.html",
+        "title": "Dual CS 3700 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Dual",
+    "model": "CS 415",
+    "model_id": "dual-0081",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_CS415_SM_DUAL_EN",
+        "title": "Dual CS 415 — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Dual",
+    "model": "CS 415-1",
+    "model_id": "dual-0082",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/6/61/Dual_CS-415-1-Prospekt-1993.jpg",
+        "title": "Dual — CS 415-1 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Dual",
+    "model": "CS 415-2",
+    "model_id": "dual-0083",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1100053/Dual-Cs-415-2.html",
+        "title": "Dual CS 415-2 Operating Instructions"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Dual",
+    "model": "CS 435",
+    "model_id": "dual-0084",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/2/2f/Dual_CS-410-435-Prospekt-1.jpg",
+        "title": "Dual — CS 435 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Dual",
+    "model": "CS 435-1",
+    "model_id": "dual-0085",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/947579/Dual-Cs-435-1.html",
+        "title": "Dual CS 435-1 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Dual",
+    "model": "CS 440",
+    "model_id": "dual-0086",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4158983/Dual-Cs-440.html",
+        "title": "Dual CS 440 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Dual",
+    "model": "CS 450",
+    "model_id": "dual-0087",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4258564/Dual-Cs-450.html",
+        "title": "Dual CS 450 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Dual",
+    "model": "CS 455",
+    "model_id": "dual-0088",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_CS455_SM_DUAL_DE",
+        "title": "Dual CS 455 — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Dual",
+    "model": "CS 455-1",
+    "model_id": "dual-0089",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1228179/Dual-Cs-455-1.html",
+        "title": "Dual CS 455-1 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Dual",
+    "model": "CS 458",
+    "model_id": "dual-0090",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1912151/Dual-Cs-458.html",
+        "title": "Dual CS 458 Instructions For Use Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Dual",
+    "model": "CS 503- 2",
+    "model_id": "dual-0091",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3304897/Dual-Cs-503-2.html",
+        "title": "Dual CS 503- 2 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Dual",
+    "model": "CS 505",
+    "model_id": "dual-0092",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_CS505_DUAL",
+        "title": "Dual CS 505 — Factory manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Dual",
+    "model": "CS 505-1",
+    "model_id": "dual-0093",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_CS5051_OM_DUAL_EN",
+        "title": "Dual CS 505-1 — Factory manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Dual",
+    "model": "CS 505-2",
+    "model_id": "dual-0094",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4260989/Dual-Cs-505-2.html",
+        "title": "Dual CS 505-2 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Dual",
+    "model": "CS 505-4",
+    "model_id": "dual-0095",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_CS5054_SM_DUAL",
+        "title": "Dual CS 505-4 — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Dual",
+    "model": "CS 506-1",
+    "model_id": "dual-0096",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/a/af/Dual_CS-506-1-Prospekt-1981.jpg",
+        "title": "Dual — CS 506-1 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Dual",
+    "model": "CS 511",
+    "model_id": "dual-0097",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3599503/Dual-Cs-511.html",
+        "title": "Dual CS 511 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Dual",
+    "model": "CS 514",
+    "model_id": "dual-0098",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3410450/Dual-Cs-514.html",
+        "title": "Dual CS 514 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Dual",
+    "model": "CS 515",
+    "model_id": "dual-0099",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3484194/Dual-Cs-515.html",
+        "title": "Dual CS 515 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Dual",
+    "model": "CS 520",
+    "model_id": "dual-0100",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3671562/Dual-Cs-520.html",
+        "title": "Dual CS 520 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Dual",
+    "model": "CS 525",
+    "model_id": "dual-0101",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3304867/Dual-Cs-525.html",
+        "title": "Dual CS 525 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Dual",
+    "model": "CS 526",
+    "model_id": "dual-0102",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/2234782/Dual-Cs-526.html",
+        "title": "Dual CS 526 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Dual",
+    "model": "CS 530",
+    "model_id": "dual-0103",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_CS530_SM_DUAL_DE",
+        "title": "Dual CS 530 — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Dual",
+    "model": "CS 540",
+    "model_id": "dual-0104",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/c/c9/Dual_CS-540-545-Prospekt-1983.jpg",
+        "title": "Dual — CS 540 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Dual",
+    "model": "CS 545",
+    "model_id": "dual-0105",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/c/c9/Dual_CS-540-545-Prospekt-1983.jpg",
+        "title": "Dual — CS 545 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Dual",
+    "model": "CS 550",
+    "model_id": "dual-0106",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1392462/Dual-Cs-550.html",
+        "title": "Dual CS 550 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Dual",
+    "model": "CS 607",
+    "model_id": "dual-0107",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4383700/Dual-Cs-607.html",
+        "title": "Dual CS 607 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Dual",
+    "model": "CS 608",
+    "model_id": "dual-0108",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/2787725/Dual-Cs-608.html",
+        "title": "Dual CS 608 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Dual",
+    "model": "CS 610 Q",
+    "model_id": "dual-0109",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3415095/Dual-Cs-610-Q.html",
+        "title": "Dual CS 610 Q Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Dual",
+    "model": "CS 616 Q",
+    "model_id": "dual-0110",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3319192/Dual-Cs-616-Q.html",
+        "title": "Dual CS 616 Q Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Dual",
+    "model": "CS 620 Q",
+    "model_id": "dual-0111",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3411729/Dual-Cs-620-Q.html",
+        "title": "Dual CS 620 Q Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Dual",
+    "model": "CS 626",
+    "model_id": "dual-0112",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/2642151/Dual-Cs-626.html",
+        "title": "Dual CS 626 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Dual",
+    "model": "CS 6270 Q",
+    "model_id": "dual-0113",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4315890/Dual-Cs-6270-Q.html",
+        "title": "Dual CS 6270 Q Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Dual",
+    "model": "CS 628",
+    "model_id": "dual-0114",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/5/53/Dual_CS-628-Prospekt-12.jpg",
+        "title": "Dual — CS 628 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Dual",
+    "model": "CS 630 Q",
+    "model_id": "dual-0115",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3411728/Dual-Cs-630-Q.html",
+        "title": "Dual CS 630 Q Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Dual",
+    "model": "CS 650 RC",
+    "model_id": "dual-0116",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/2635023/Dual-Cs-650-Rc.html",
+        "title": "Dual CS 650 RC Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Dual",
+    "model": "CS 728 Q",
+    "model_id": "dual-0117",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/f/fd/Dual_CS-728-Prospekt-1.jpg",
+        "title": "Dual — CS 728 Q (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Dual",
+    "model": "CS 741 Q",
+    "model_id": "dual-0118",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/1/13/Dual_CS-741_Q-Prospekt-1984.jpg",
+        "title": "Dual — CS 741 Q (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Dual",
+    "model": "CS 750-1",
+    "model_id": "dual-0119",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3647603/Dual-Cs-750-1.html",
+        "title": "Dual CS 750-1 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Dual",
+    "model": "CST3510",
+    "model_id": "dual-0120",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3411557/Dual-Cst3510.html",
+        "title": "Dual CST3510 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Dual",
+    "model": "DTJ 301",
+    "model_id": "dual-0121",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3328595/Dual-Dtj-301.html",
+        "title": "Dual DTJ 301 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Dual",
+    "model": "DTJ 303 USB",
+    "model_id": "dual-0122",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3299155/Dual-Dtj-303-Usb.html",
+        "title": "Dual DTJ 303 USB Operating Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Dual",
+    "model": "Golden 1",
+    "model_id": "dual-0123",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_GOLDEN1_SM_DUAL",
+        "title": "Dual Golden 1 — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Dual",
+    "model": "Primus Maximus",
+    "model_id": "dual-0124",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/2297532/Dual-Primus-Maximus.html",
+        "title": "Dual Primus Maximus Owner's Manual"
+      }
+    ],
+    "aliases": []
   }
 ]

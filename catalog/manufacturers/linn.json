@@ -12,5 +12,31 @@
         "page": 1
       }
     ]
+  },
+  {
+    "manufacturer": "Linn",
+    "model": "Axis",
+    "model_id": "linn-0002",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_AXIS_OM_LINN_EN",
+        "title": "Linn Axis — Factory manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Linn",
+    "model": "BASIK",
+    "model_id": "linn-0003",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/96120/Linn-Basik.html",
+        "title": "Linn BASIK Owner's Manual"
+      }
+    ],
+    "aliases": []
   }
 ]

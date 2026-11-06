@@ -1,0 +1,15 @@
+[
+  {
+    "manufacturer": "Bang & Olufsen",
+    "model": "Beogram 8000",
+    "model_id": "bang-olufsen-0001",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/2/20/Bang_%26_Olufsen_Beogram_8000-19811.jpg",
+        "title": "Bang & Olufsen — Beogram 8000 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  }
+]

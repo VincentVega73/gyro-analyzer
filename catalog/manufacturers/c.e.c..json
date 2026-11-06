@@ -1,0 +1,28 @@
+[
+  {
+    "manufacturer": "C.E.C.",
+    "model": "DISCO 4000",
+    "model_id": "c-e-c-0001",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3791645/C-E-C-Disco-4000.html",
+        "title": "C.E.C. DISCO 4000 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "C.E.C.",
+    "model": "ST520",
+    "model_id": "c-e-c-0002",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3520380/C-E-C-St520.html",
+        "title": "C.E.C. ST520 Owner's Manual"
+      }
+    ],
+    "aliases": []
+  }
+]

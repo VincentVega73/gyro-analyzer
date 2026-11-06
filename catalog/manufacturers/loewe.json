@@ -1,0 +1,28 @@
+[
+  {
+    "manufacturer": "Loewe",
+    "model": "RA 1010",
+    "model_id": "loewe-0001",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/1/15/Loewe_RA-1010-Prospekt-1.jpg",
+        "title": "Loewe — RA 1010 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Loewe",
+    "model": "SP 3840",
+    "model_id": "loewe-0002",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/9/90/Loewe_SP-3830-3840-3850-Prospekt-1981.jpg",
+        "title": "Loewe — SP 3840 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  }
+]

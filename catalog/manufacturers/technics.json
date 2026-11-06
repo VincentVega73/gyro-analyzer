@@ -15,6 +15,12 @@
         "url": "https://help.na.panasonic.com/wp-content/uploads/2023/02/SL1200MK2_SFNU122M06_ENG.pdf",
         "title": "SL-1200MK2 Operating Instructions (120 V, 60 Hz) — Specifications",
         "page": 8
+      },
+      {
+        "key": "service_color",
+        "url": "https://c.searspartsdirect.com/mmh/lis_pdf/OWNM/L1005403.pdf",
+        "title": "Technics Service Manual DAD84040076S0 — SL-1200MK2 / SL-1210MK2",
+        "page": 1
       }
     ],
     "drive_type": {
@@ -56,6 +62,14 @@
         "method": "peak",
         "standard": "IEC 98A",
         "weighting": "IEC 98A Weighted"
+      }
+    ],
+    "related_designations": [
+      {
+        "designation": "SL-1210MK2",
+        "type": "color_variant",
+        "source": "service_color",
+        "color": "black"
       }
     ]
   },
@@ -380,5 +394,1084 @@
       "value": "direct",
       "source": "identity"
     }
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-1015",
+    "model_id": "technics-0024",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1064672/Technics-Sl-1015.html",
+        "title": "Technics SL-1015 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-1025",
+    "model_id": "technics-0025",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/0/05/Technics_SL-1025-Prospekt-1.jpg",
+        "title": "Technics — SL-1025 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-110",
+    "model_id": "technics-0026",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_SL110_OM_TECHNICS_EN",
+        "title": "Technics SL-110 — Factory manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-120",
+    "model_id": "technics-0027",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_SL120_OM_TECHNICS_EN",
+        "title": "Technics SL-120 — Factory manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-1300",
+    "model_id": "technics-0028",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4262445/Technics-Sl-1300.html",
+        "title": "Technics SL-1300 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-1401",
+    "model_id": "technics-0029",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4155276/Technics-Sl-1401.html",
+        "title": "Technics SL-1401 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-15",
+    "model_id": "technics-0030",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4104382/Technics-Sl-15.html",
+        "title": "Technics SL-15 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-1500C",
+    "model_id": "technics-0031",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.technics.com/nz/products/premium-class/premium-class-turntables/sl-1500c.html",
+        "title": "Technics — SL-1500C"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-1600",
+    "model_id": "technics-0032",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/thumb/5/54/Technics_SL-1600-Prospekt-1.jpg/1000px-Technics_SL-1600-Prospekt-1.jpg",
+        "title": "Technics — SL-1600 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-1700",
+    "model_id": "technics-0033",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_SL1700_OM_TECHNICS_EN",
+        "title": "Technics SL-1700 — Factory manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-1800",
+    "model_id": "technics-0034",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_SL1800_OM_TECHNICS_EN",
+        "title": "Technics SL-1800 — Factory manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-20",
+    "model_id": "technics-0035",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/0/00/Technics_SL-20-Prospekt-1.jpg",
+        "title": "Technics — SL-20 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-2000",
+    "model_id": "technics-0036",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4228631/Technics-Sl-2000.html",
+        "title": "Technics SL-2000 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-220",
+    "model_id": "technics-0037",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3384246/Technics-Sl-220.html",
+        "title": "Technics SL-220 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-221",
+    "model_id": "technics-0038",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_SL221_SM_TECHNICS_EN",
+        "title": "Technics SL-221 — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-23",
+    "model_id": "technics-0039",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/thumb/8/88/Technics_SL-23-Prospekt-1.jpg/1000px-Technics_SL-23-Prospekt-1.jpg",
+        "title": "Technics — SL-23 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-230",
+    "model_id": "technics-0040",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3342403/Technics-Sl-230.html",
+        "title": "Technics SL-230 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-231",
+    "model_id": "technics-0041",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3930342/Technics-Sl-231.html",
+        "title": "Technics SL-231 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-235",
+    "model_id": "technics-0042",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4161473/Technics-Sl-235.html",
+        "title": "Technics SL-235 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-3",
+    "model_id": "technics-0043",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3664035/Technics-Sl-3.html",
+        "title": "Technics SL-3 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-3200",
+    "model_id": "technics-0044",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/899402/Technics-Sl-3200.html",
+        "title": "Technics SL-3200 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-50C",
+    "model_id": "technics-0045",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4057728/Technics-Sl-50c.html",
+        "title": "Technics SL-50C Owner's Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-5200",
+    "model_id": "technics-0046",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3596616/Technics-Sl-5200.html",
+        "title": "Technics SL-5200 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-5300",
+    "model_id": "technics-0047",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4164617/Technics-Sl-5300.html",
+        "title": "Technics SL-5300 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-6",
+    "model_id": "technics-0048",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3605357/Technics-Sl-6.html",
+        "title": "Technics SL-6 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-7",
+    "model_id": "technics-0049",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1003842/Technics-Sl-7.html",
+        "title": "Technics SL-7 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-B20",
+    "model_id": "technics-0050",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4266132/Technics-Sl-B20.html",
+        "title": "Technics SL-B20 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-B200",
+    "model_id": "technics-0051",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1375610/Technics-Sl-B200.html",
+        "title": "Technics SL-B200 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-B202",
+    "model_id": "technics-0052",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3347564/Technics-Sl-B202.html",
+        "title": "Technics SL-B202 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-B205",
+    "model_id": "technics-0053",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4059285/Technics-Sl-B205.html",
+        "title": "Technics SL-B205 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-B21",
+    "model_id": "technics-0054",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4226582/Technics-Sl-B21.html",
+        "title": "Technics SL-B21 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-B3",
+    "model_id": "technics-0055",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4232020/Technics-Sl-B3.html",
+        "title": "Technics SL-B3 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-B30",
+    "model_id": "technics-0056",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4109191/Technics-Sl-B30.html",
+        "title": "Technics SL-B30 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-B300",
+    "model_id": "technics-0057",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4347368/Technics-Sl-B300.html",
+        "title": "Technics SL-B300 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-B303",
+    "model_id": "technics-0058",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4258688/Technics-Sl-B303.html",
+        "title": "Technics SL-B303 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-B5",
+    "model_id": "technics-0059",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4139699/Technics-Sl-B5.html",
+        "title": "Technics SL-B5 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-BD2",
+    "model_id": "technics-0060",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4044461/Technics-Sl-Bd2.html",
+        "title": "Technics SL-BD2 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-BD21",
+    "model_id": "technics-0061",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3616900/Technics-Sl-Bd21.html",
+        "title": "Technics SL-BD21 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-BD3",
+    "model_id": "technics-0062",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4076388/Technics-Sl-Bd3.html",
+        "title": "Technics SL-BD3 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-D20",
+    "model_id": "technics-0063",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4370952/Technics-Sl-D20.html",
+        "title": "Technics SL-D20 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-D202",
+    "model_id": "technics-0064",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3346000/Technics-Sl-D202.html",
+        "title": "Technics SL-D202 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-D21",
+    "model_id": "technics-0065",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4165865/Technics-Sl-D21.html",
+        "title": "Technics SL-D21 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-D212",
+    "model_id": "technics-0066",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3346013/Technics-Sl-D212.html",
+        "title": "Technics SL-D212 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-D3",
+    "model_id": "technics-0067",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4076239/Technics-Sl-D3.html",
+        "title": "Technics SL-D3 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-D303",
+    "model_id": "technics-0068",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1228628/Technics-Sl-D303.html",
+        "title": "Technics SL-D303 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-D 310",
+    "model_id": "technics-0069",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_SLD310_SM_TECHNICS_EN_DE_FR_ES",
+        "title": "Technics SL-D 310 — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-D33",
+    "model_id": "technics-0070",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4370760/Technics-Sl-D33.html",
+        "title": "Technics SL-D33 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-D4",
+    "model_id": "technics-0071",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3985259/Technics-Sl-D4.html",
+        "title": "Technics SL-D4 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-DD 33",
+    "model_id": "technics-0072",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_SLDD33_SM_TECHNICS_EN",
+        "title": "Technics SL-DD 33 — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-DL5",
+    "model_id": "technics-0073",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3315591/Technics-Sl-Dl5.html",
+        "title": "Technics SL-DL5 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-J 1",
+    "model_id": "technics-0074",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_SLJ1_SM_TECHNICS",
+        "title": "Technics SL-J 1 — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-J100R",
+    "model_id": "technics-0075",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4374156/Technics-Sl-J100r.html",
+        "title": "Technics SL-J100R Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-J120",
+    "model_id": "technics-0076",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/119775/Technics-Sl-J120.html",
+        "title": "Technics SL-J120 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-J2",
+    "model_id": "technics-0077",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4265708/Technics-Sl-J2.html",
+        "title": "Technics SL-J2 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-J3",
+    "model_id": "technics-0078",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_SLJ3_SM_TECHNICS_EN_HQ",
+        "title": "Technics SL-J3 — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-J33",
+    "model_id": "technics-0079",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3725157/Technics-Sl-J33.html",
+        "title": "Technics SL-J33 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-J90",
+    "model_id": "technics-0080",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4370532/Technics-Sl-J90.html",
+        "title": "Technics SL-J90 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-L1",
+    "model_id": "technics-0081",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4365855/Technics-Sl-L1.html",
+        "title": "Technics SL-L1 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-L2",
+    "model_id": "technics-0082",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3676354/Technics-Sl-L2.html",
+        "title": "Technics SL-L2 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-M1",
+    "model_id": "technics-0083",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4264272/Technics-Sl-M1.html",
+        "title": "Technics SL-M1 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-M2",
+    "model_id": "technics-0084",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4349484/Technics-Sl-M2.html",
+        "title": "Technics SL-M2 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-M3",
+    "model_id": "technics-0085",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4372322/Technics-Sl-M3.html",
+        "title": "Technics SL-M3 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-MA1",
+    "model_id": "technics-0086",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1321981/Technics-Sl-Ma1.html",
+        "title": "Technics SL-MA1 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-Q2",
+    "model_id": "technics-0087",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3316594/Technics-Sl-Q2.html",
+        "title": "Technics SL-Q2 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-Q200",
+    "model_id": "technics-0088",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3991533/Technics-Sl-Q200.html",
+        "title": "Technics SL-Q200 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-Q 202",
+    "model_id": "technics-0089",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_SLQ202_SM_TECHNICS_EN",
+        "title": "Technics SL-Q 202 — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-Q212",
+    "model_id": "technics-0090",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3709670/Technics-Sl-Q212.html",
+        "title": "Technics SL-Q212 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-Q3",
+    "model_id": "technics-0091",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/961450/Technics-Sl-Q3.html",
+        "title": "Technics SL-Q3 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-Q30",
+    "model_id": "technics-0092",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4112671/Technics-Sl-Q30.html",
+        "title": "Technics SL-Q30 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-Q300",
+    "model_id": "technics-0093",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4370975/Technics-Sl-Q300.html",
+        "title": "Technics SL-Q300 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-Q303",
+    "model_id": "technics-0094",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3326195/Technics-Sl-Q303.html",
+        "title": "Technics SL-Q303 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-Q33",
+    "model_id": "technics-0095",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/689301/Technics-Sl-Q33.html",
+        "title": "Technics SL-Q33 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-Q5",
+    "model_id": "technics-0096",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4050472/Technics-Sl-Q5.html",
+        "title": "Technics SL-Q5 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-Q6",
+    "model_id": "technics-0097",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3683978/Technics-Sl-Q6.html",
+        "title": "Technics SL-Q6 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-QD2",
+    "model_id": "technics-0098",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4372107/Technics-Sl-Qd2.html",
+        "title": "Technics SL-QD2 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-QD22",
+    "model_id": "technics-0099",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1021002/Technics-Sl-Qd22.html",
+        "title": "Technics SL-QD22 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-QD3",
+    "model_id": "technics-0100",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_SLQD3_SM_TECHNICS",
+        "title": "Technics SL-QD3 — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-QL1",
+    "model_id": "technics-0101",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/985837/Technics-Sl-Ql1.html",
+        "title": "Technics SL-QL1 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-QL15",
+    "model_id": "technics-0102",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/906497/Technics-Sl-Ql15.html",
+        "title": "Technics SL-QL15 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-QL5",
+    "model_id": "technics-0103",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1005801/Technics-Sl-Ql5.html",
+        "title": "Technics SL-QL5 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-QX200",
+    "model_id": "technics-0104",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4332684/Technics-Sl-Qx200.html",
+        "title": "Technics SL-QX200 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-QX300",
+    "model_id": "technics-0105",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3416538/Technics-Sl-Qx300.html",
+        "title": "Technics SL-QX300 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Technics",
+    "model": "SL-V 5",
+    "model_id": "technics-0106",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_SLV5_SM_TECHNICS_EN",
+        "title": "Technics SL-V 5 — Service manual"
+      }
+    ],
+    "aliases": []
   }
 ]

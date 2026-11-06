@@ -1,0 +1,54 @@
+[
+  {
+    "manufacturer": "Nordmende",
+    "model": "RP 1261",
+    "model_id": "nordmende-0001",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/0/05/Nordmende_System_1260-Prospekt-2.jpg",
+        "title": "Nordmende — RP 1261 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Nordmende",
+    "model": "RP 1400",
+    "model_id": "nordmende-0002",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_RP1400_SM_NORDMENDE_EN_DE_FR",
+        "title": "Nordmende RP 1400 — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Nordmende",
+    "model": "RP 1650",
+    "model_id": "nordmende-0003",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/4/4b/Nordmende-RP-1650-Manual.jpg",
+        "title": "Nordmende — RP 1650 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Nordmende",
+    "model": "RP 990",
+    "model_id": "nordmende-0004",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_RP990_SM_NORDMENDE",
+        "title": "Nordmende RP 990 — Service manual"
+      }
+    ],
+    "aliases": []
+  }
+]

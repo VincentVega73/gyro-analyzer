@@ -734,5 +734,44 @@
       "source": "catalog",
       "value": "direct"
     }
+  },
+  {
+    "manufacturer": "Audio-Technica",
+    "model": "AT-LP120 USB",
+    "model_id": "audio-technica-0027",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3765558/Audio-Technica-At-Lp120-Usb.html",
+        "title": "Audio Technica AT-LP120 USB User Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Audio-Technica",
+    "model": "AT-LP3",
+    "model_id": "audio-technica-0028",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1260894/Audio-Technica-At-Lp3.html",
+        "title": "Audio Technica AT-LP3 User Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Audio-Technica",
+    "model": "AT-LPA2",
+    "model_id": "audio-technica-0029",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3789234/Audio-Technica-At-Lpa2.html",
+        "title": "Audio Technica AT-LPA2 User Manual"
+      }
+    ],
+    "aliases": []
   }
 ]

@@ -476,5 +476,1175 @@
       "value": "direct",
       "source": "identity"
     }
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-05",
+    "model_id": "pioneer-0035",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/999393/Pioneer-Pl-05.html",
+        "title": "Pioneer PL-05 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-10",
+    "model_id": "pioneer-0036",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4253529/Pioneer-Pl-10.html",
+        "title": "Pioneer PL-10 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-100",
+    "model_id": "pioneer-0037",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/888675/Pioneer-Pl-100.html",
+        "title": "Pioneer PL-100 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-112D",
+    "model_id": "pioneer-0038",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4390414/Pioneer-Pl-112d.html",
+        "title": "Pioneer PL-112D Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-115D",
+    "model_id": "pioneer-0039",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3289178/Pioneer-Pl-115d.html",
+        "title": "Pioneer PL-115D Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-117D",
+    "model_id": "pioneer-0040",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/853331/Pioneer-Pl-117d.html",
+        "title": "Pioneer PL-117D Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-120",
+    "model_id": "pioneer-0041",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3928661/Pioneer-Pl-120.html",
+        "title": "Pioneer PL-120 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-12D",
+    "model_id": "pioneer-0042",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/852304/Pioneer-Pl-12d.html",
+        "title": "Pioneer PL-12D Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-130",
+    "model_id": "pioneer-0043",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4232029/Pioneer-Pl-130.html",
+        "title": "Pioneer PL-130 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-15 D",
+    "model_id": "pioneer-0044",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/b/b8/Pioneer_PL-15_D-Prospekt-1.jpg",
+        "title": "Pioneer — PL-15 D (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-2",
+    "model_id": "pioneer-0045",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3308604/Pioneer-Pl-2.html",
+        "title": "Pioneer PL-2 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-200",
+    "model_id": "pioneer-0046",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3999665/Pioneer-Pl-200.html",
+        "title": "Pioneer PL-200 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-201Z",
+    "model_id": "pioneer-0047",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3928972/Pioneer-Pl-201z.html",
+        "title": "Pioneer PL-201Z Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-203AZ",
+    "model_id": "pioneer-0048",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3928643/Pioneer-Pl-203az.html",
+        "title": "Pioneer PL-203AZ Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-225",
+    "model_id": "pioneer-0049",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1861664/Pioneer-Pl-225.html",
+        "title": "Pioneer PL-225 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-300",
+    "model_id": "pioneer-0050",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4122714/Pioneer-Pl-300.html",
+        "title": "Pioneer PL-300 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-3000",
+    "model_id": "pioneer-0051",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_PL3000_PIONEER",
+        "title": "Pioneer PL-3000 — Factory manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-320",
+    "model_id": "pioneer-0052",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3928899/Pioneer-Pl-320.html",
+        "title": "Pioneer PL-320 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-333",
+    "model_id": "pioneer-0053",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3933442/Pioneer-Pl-333.html",
+        "title": "Pioneer PL-333 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-335",
+    "model_id": "pioneer-0054",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3292647/Pioneer-Pl-335.html",
+        "title": "Pioneer PL-335 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-3F",
+    "model_id": "pioneer-0055",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4362836/Pioneer-Pl-3f.html",
+        "title": "Pioneer PL-3F Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-400",
+    "model_id": "pioneer-0056",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_PL400_PIONEER",
+        "title": "Pioneer PL-400 — Factory manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-4000",
+    "model_id": "pioneer-0057",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/894485/Pioneer-Pl-4000.html",
+        "title": "Pioneer PL-4000 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-405",
+    "model_id": "pioneer-0058",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3931002/Pioneer-Pl-405.html",
+        "title": "Pioneer PL-405 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-445",
+    "model_id": "pioneer-0059",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3788178/Pioneer-Pl-445.html",
+        "title": "Pioneer PL-445 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-44F",
+    "model_id": "pioneer-0060",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1077773/Pioneer-Pl-44f.html",
+        "title": "Pioneer PL-44F Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-450",
+    "model_id": "pioneer-0061",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3355648/Pioneer-Pl-450.html",
+        "title": "Pioneer PL-450 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-460",
+    "model_id": "pioneer-0062",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3495796/Pioneer-Pl-460.html",
+        "title": "Pioneer PL-460 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-470",
+    "model_id": "pioneer-0063",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3312481/Pioneer-Pl-470.html",
+        "title": "Pioneer PL-470 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-50",
+    "model_id": "pioneer-0064",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/896034/Pioneer-Pl-50.html",
+        "title": "Pioneer PL-50 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-500",
+    "model_id": "pioneer-0065",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/970301/Pioneer-Pl-500.html",
+        "title": "Pioneer PL-500 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-505",
+    "model_id": "pioneer-0066",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/6/6f/Pioneer_PL-505-Prospekt-1.jpg",
+        "title": "Pioneer — PL-505 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-51",
+    "model_id": "pioneer-0067",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/888984/Pioneer-Pl-51.html",
+        "title": "Pioneer PL-51 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL 510",
+    "model_id": "pioneer-0068",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4650356/Pioneer-Pl-510.html",
+        "title": "Pioneer PL 510 Quick Start Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-512",
+    "model_id": "pioneer-0069",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1061779/Pioneer-Pl-512.html",
+        "title": "Pioneer PL-512 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-514",
+    "model_id": "pioneer-0070",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3287233/Pioneer-Pl-514.html",
+        "title": "Pioneer PL-514 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-516",
+    "model_id": "pioneer-0071",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/5/57/Pioneer_PL-516-Daten.jpg",
+        "title": "Pioneer — PL-516 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-518",
+    "model_id": "pioneer-0072",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4200702/Pioneer-Pl-518.html",
+        "title": "Pioneer PL-518 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-520",
+    "model_id": "pioneer-0073",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/888255/Pioneer-Pl-520.html",
+        "title": "Pioneer PL-520 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-530",
+    "model_id": "pioneer-0074",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/889048/Pioneer-Pl-530.html",
+        "title": "Pioneer PL-530 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-540",
+    "model_id": "pioneer-0075",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/4/46/Pioneer_PL-540-Prospekt-1.jpg",
+        "title": "Pioneer — PL-540 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-55",
+    "model_id": "pioneer-0076",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1143803/Pioneer-Pl-55.html",
+        "title": "Pioneer PL-55 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-550",
+    "model_id": "pioneer-0077",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/882120/Pioneer-Pl-550.html",
+        "title": "Pioneer PL-550 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-560",
+    "model_id": "pioneer-0078",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/796921/Pioneer-Pl-560.html",
+        "title": "Pioneer PL-560 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-570",
+    "model_id": "pioneer-0079",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4267513/Pioneer-Pl-570.html",
+        "title": "Pioneer PL-570 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-590",
+    "model_id": "pioneer-0080",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3411615/Pioneer-Pl-590.html",
+        "title": "Pioneer PL-590 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-600",
+    "model_id": "pioneer-0081",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4362943/Pioneer-Pl-600.html",
+        "title": "Pioneer PL-600 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-610",
+    "model_id": "pioneer-0082",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/887609/Pioneer-Pl-610.html",
+        "title": "Pioneer PL-610 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-630",
+    "model_id": "pioneer-0083",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3458322/Pioneer-Pl-630.html",
+        "title": "Pioneer PL-630 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-640",
+    "model_id": "pioneer-0084",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_PL640_SM_PIONEER_EN",
+        "title": "Pioneer PL-640 — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-670",
+    "model_id": "pioneer-0085",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3312306/Pioneer-Pl-670.html",
+        "title": "Pioneer PL-670 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-7",
+    "model_id": "pioneer-0086",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3337218/Pioneer-Pl-7.html",
+        "title": "Pioneer PL-7 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-707",
+    "model_id": "pioneer-0087",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3396639/Pioneer-Pl-707.html",
+        "title": "Pioneer PL-707 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-71",
+    "model_id": "pioneer-0088",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3326766/Pioneer-Pl-71.html",
+        "title": "Pioneer PL-71 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-720",
+    "model_id": "pioneer-0089",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_PL720_PIONEER",
+        "title": "Pioneer PL-720 — Factory manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-740",
+    "model_id": "pioneer-0090",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_PL740_SM_PIONEER_EN",
+        "title": "Pioneer PL-740 — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-750",
+    "model_id": "pioneer-0091",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3476173/Pioneer-Pl-750.html",
+        "title": "Pioneer PL-750 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-770",
+    "model_id": "pioneer-0092",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4263177/Pioneer-Pl-770.html",
+        "title": "Pioneer PL-770 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-8",
+    "model_id": "pioneer-0093",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4267054/Pioneer-Pl-8.html",
+        "title": "Pioneer PL-8 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-88F",
+    "model_id": "pioneer-0094",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/881311/Pioneer-Pl-88f.html",
+        "title": "Pioneer PL-88F Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-90",
+    "model_id": "pioneer-0095",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4316236/Pioneer-Pl-90.html",
+        "title": "Pioneer PL-90 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-930",
+    "model_id": "pioneer-0096",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3452464/Pioneer-Pl-930.html",
+        "title": "Pioneer PL-930 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-970",
+    "model_id": "pioneer-0097",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4016752/Pioneer-Pl-970.html",
+        "title": "Pioneer PL-970 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-990",
+    "model_id": "pioneer-0098",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/554763/Pioneer-Pl-990.html",
+        "title": "Pioneer PL-990 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-A35",
+    "model_id": "pioneer-0099",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/891036/Pioneer-Pl-A35.html",
+        "title": "Pioneer PL-A35 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-A45",
+    "model_id": "pioneer-0100",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1173817/Pioneer-Pl-A45.html",
+        "title": "Pioneer PL-A45 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-J 210",
+    "model_id": "pioneer-0101",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_PLJ210_OM_PIONEER_EN",
+        "title": "Pioneer PL-J 210 — Factory manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-J230",
+    "model_id": "pioneer-0102",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3490209/Pioneer-Pl-J230.html",
+        "title": "Pioneer PL-J230 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-J2500",
+    "model_id": "pioneer-0103",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/544524/Pioneer-Pl-J2500.html",
+        "title": "Pioneer PL-J2500 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-L1000",
+    "model_id": "pioneer-0104",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3336393/Pioneer-Pl-L1000.html",
+        "title": "Pioneer PL-L1000 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-L50",
+    "model_id": "pioneer-0105",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1138827/Pioneer-Pl-L50.html",
+        "title": "Pioneer PL-L50 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-L70",
+    "model_id": "pioneer-0106",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3372564/Pioneer-Pl-L70.html",
+        "title": "Pioneer PL-L70 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-L800",
+    "model_id": "pioneer-0107",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4340326/Pioneer-Pl-L800.html",
+        "title": "Pioneer PL-L800 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-S30",
+    "model_id": "pioneer-0108",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4165928/Pioneer-Pl-S30.html",
+        "title": "Pioneer PL-S30 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-S40",
+    "model_id": "pioneer-0109",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4258016/Pioneer-Pl-S40.html",
+        "title": "Pioneer PL-S40 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-V70",
+    "model_id": "pioneer-0110",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3340769/Pioneer-Pl-V70.html",
+        "title": "Pioneer PL-V70 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-X340",
+    "model_id": "pioneer-0111",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3614340/Pioneer-Pl-X340.html",
+        "title": "Pioneer PL-X340 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-X420",
+    "model_id": "pioneer-0112",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3361236/Pioneer-Pl-X420.html",
+        "title": "Pioneer PL-X420 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-X430",
+    "model_id": "pioneer-0113",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3396684/Pioneer-Pl-X430.html",
+        "title": "Pioneer PL-X430 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-X 5",
+    "model_id": "pioneer-0114",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_PLX5_SM_PIONEER_EN",
+        "title": "Pioneer PL-X 5 — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-X50",
+    "model_id": "pioneer-0115",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3442787/Pioneer-Pl-X50.html",
+        "title": "Pioneer PL-X50 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-X505",
+    "model_id": "pioneer-0116",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3346133/Pioneer-Pl-X505.html",
+        "title": "Pioneer PL-X505 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-X 7",
+    "model_id": "pioneer-0117",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_PLX7_SM_PIONEER_EN",
+        "title": "Pioneer PL-X 7 — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-Z460",
+    "model_id": "pioneer-0118",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_PLZ460_SM_PIONEER_EN",
+        "title": "Pioneer PL-Z460 — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-Z470",
+    "model_id": "pioneer-0119",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_PLZ470_OM_PIONEER_EN",
+        "title": "Pioneer PL-Z470 — Factory manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-Z570",
+    "model_id": "pioneer-0120",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_PLZ570_SM_PIONEER_EN",
+        "title": "Pioneer PL-Z570 — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-Z85",
+    "model_id": "pioneer-0121",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_PLZ85_OM_PIONEER_EN",
+        "title": "Pioneer PL-Z85 — Factory manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-Z91",
+    "model_id": "pioneer-0122",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3737973/Pioneer-Pl-Z91.html",
+        "title": "Pioneer PL-Z91 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-Z93",
+    "model_id": "pioneer-0123",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3285033/Pioneer-Pl-Z93.html",
+        "title": "Pioneer PL-Z93 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pioneer",
+    "model": "PL-Z94",
+    "model_id": "pioneer-0124",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3351501/Pioneer-Pl-Z94.html",
+        "title": "Pioneer PL-Z94 Service Manual"
+      }
+    ],
+    "aliases": []
   }
 ]

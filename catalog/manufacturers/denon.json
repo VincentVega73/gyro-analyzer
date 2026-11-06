@@ -165,5 +165,343 @@
         "url": "https://www.denon.com/en-gb/product/turntables/dp-450usb/DP450USB.html"
       }
     ]
+  },
+  {
+    "manufacturer": "Denon",
+    "model": "DP-1100",
+    "model_id": "denon-0012",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4234459/Denon-Dp-1100.html",
+        "title": "Denon DP-1100 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Denon",
+    "model": "DP-11F",
+    "model_id": "denon-0013",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4344361/Denon-Dp-11f.html",
+        "title": "Denon DP-11F Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Denon",
+    "model": "DP-1200",
+    "model_id": "denon-0014",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_DP1200_SM_DENON_EN",
+        "title": "Denon DP-1200 — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Denon",
+    "model": "DP-15 F",
+    "model_id": "denon-0015",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/f/fc/Denon_DP-15_F-Prospekt-1989.jpg",
+        "title": "Denon — DP-15 F (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Denon",
+    "model": "DP-26F",
+    "model_id": "denon-0016",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4263689/Denon-Dp-26f.html",
+        "title": "Denon DP-26F Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Denon",
+    "model": "DP-3000NE",
+    "model_id": "denon-0017",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3247915/Denon-Dp-3000ne.html",
+        "title": "Denon DP-3000NE Owner's Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Denon",
+    "model": "DP-30L",
+    "model_id": "denon-0018",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4069709/Denon-Dp-30l.html",
+        "title": "Denon DP-30L Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Denon",
+    "model": "DP-30L II",
+    "model_id": "denon-0019",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4354639/Denon-Dp-30l-Ii.html",
+        "title": "Denon DP-30L II Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Denon",
+    "model": "DP-31L",
+    "model_id": "denon-0020",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4363257/Denon-Dp-31l.html",
+        "title": "Denon DP-31L Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Denon",
+    "model": "DP-37F",
+    "model_id": "denon-0021",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3336862/Denon-Dp-37f.html",
+        "title": "Denon DP-37F Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Denon",
+    "model": "DP-400",
+    "model_id": "denon-0022",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1630575/Denon-Dp-400.html",
+        "title": "Denon DP-400 Owner's Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Denon",
+    "model": "DP-40F",
+    "model_id": "denon-0023",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4028359/Denon-Dp-40f.html",
+        "title": "Denon DP-40F Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Denon",
+    "model": "DP-45 F",
+    "model_id": "denon-0024",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_DP45F_SM_DENON_DE",
+        "title": "Denon DP-45 F — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Denon",
+    "model": "DP-500BT",
+    "model_id": "denon-0025",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4586056/Denon-Dp-500bt.html",
+        "title": "Denon DP-500BT Quick Start Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Denon",
+    "model": "DP-500M",
+    "model_id": "denon-0026",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/38495/Denon-Dp-500m.html",
+        "title": "Denon DP-500M Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Denon",
+    "model": "DP-57L",
+    "model_id": "denon-0027",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4231782/Denon-Dp-57l.html",
+        "title": "Denon DP-57L Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Denon",
+    "model": "DP-61 F",
+    "model_id": "denon-0028",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_DP61F_SM_DENON_EN",
+        "title": "Denon DP-61 F — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Denon",
+    "model": "DP-62L",
+    "model_id": "denon-0029",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3832599/Denon-Dp-62l.html",
+        "title": "Denon DP-62L Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Denon",
+    "model": "DP-67L",
+    "model_id": "denon-0030",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3313655/Denon-Dp-67l.html",
+        "title": "Denon DP-67L Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Denon",
+    "model": "DP-72 L",
+    "model_id": "denon-0031",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_DP72L_OM_DENON_EN",
+        "title": "Denon DP-72 L — Factory manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Denon",
+    "model": "DP-A100",
+    "model_id": "denon-0032",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/451653/Denon-Dp-A100.html",
+        "title": "Denon DP-A100 Owner's Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Denon",
+    "model": "DP-DJ101",
+    "model_id": "denon-0033",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/2652397/Denon-Dp-Dj101.html",
+        "title": "Denon DP-DJ101 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Denon",
+    "model": "DP-DJ151",
+    "model_id": "denon-0034",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1222422/Denon-Dp-Dj151.html",
+        "title": "Denon DP-DJ151 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Denon",
+    "model": "GT-300",
+    "model_id": "denon-0035",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/5/50/Denon_GT-300-700-750-DP-1200-2500-Daten.jpg",
+        "title": "Denon — GT-300 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Denon",
+    "model": "GT-700",
+    "model_id": "denon-0036",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/5/50/Denon_GT-300-700-750-DP-1200-2500-Daten.jpg",
+        "title": "Denon — GT-700 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Denon",
+    "model": "GT-750",
+    "model_id": "denon-0037",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/5/50/Denon_GT-300-700-750-DP-1200-2500-Daten.jpg",
+        "title": "Denon — GT-750 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
   }
 ]

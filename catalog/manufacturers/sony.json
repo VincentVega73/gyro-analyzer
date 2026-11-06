@@ -169,5 +169,1267 @@
         "page": 1
       }
     ]
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-11",
+    "model_id": "sony-0014",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/2591558/Sony-Ps-11.html",
+        "title": "Sony PS-11 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-110",
+    "model_id": "sony-0015",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/7/75/Sony_PS-110-160-230-Prospekt-1.jpg",
+        "title": "Sony — PS-110 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-1150",
+    "model_id": "sony-0016",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3425030/Sony-Ps-1150.html",
+        "title": "Sony PS-1150 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-1350",
+    "model_id": "sony-0017",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3336321/Sony-Ps-1350.html",
+        "title": "Sony PS-1350 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-160",
+    "model_id": "sony-0018",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/7/75/Sony_PS-110-160-230-Prospekt-1.jpg",
+        "title": "Sony — PS-160 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-212",
+    "model_id": "sony-0019",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4366090/Sony-Ps-212.html",
+        "title": "Sony PS-212 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-22",
+    "model_id": "sony-0020",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4363772/Sony-Ps-22.html",
+        "title": "Sony PS-22 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-2250",
+    "model_id": "sony-0021",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/998799/Sony-Ps-2250.html",
+        "title": "Sony PS-2250 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-230",
+    "model_id": "sony-0022",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/7/75/Sony_PS-110-160-230-Prospekt-1.jpg",
+        "title": "Sony — PS-230 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-242",
+    "model_id": "sony-0023",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3513848/Sony-Ps-242.html",
+        "title": "Sony PS-242 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-252",
+    "model_id": "sony-0024",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4374597/Sony-Ps-252.html",
+        "title": "Sony PS-252 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-2700",
+    "model_id": "sony-0025",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3343182/Sony-Ps-2700.html",
+        "title": "Sony PS-2700 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-313FA",
+    "model_id": "sony-0026",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4263303/Sony-Ps-313fa.html",
+        "title": "Sony PS-313FA Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-3300",
+    "model_id": "sony-0027",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3403670/Sony-Ps-3300.html",
+        "title": "Sony PS-3300 Owner's Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-4300",
+    "model_id": "sony-0028",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3315247/Sony-Ps-4300.html",
+        "title": "Sony PS-4300 Owner's Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-4750",
+    "model_id": "sony-0029",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3480839/Sony-Ps-4750.html",
+        "title": "Sony PS-4750 Owner's Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-5100",
+    "model_id": "sony-0030",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4329649/Sony-Ps-5100.html",
+        "title": "Sony PS-5100 Owner's Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-515",
+    "model_id": "sony-0031",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4219749/Sony-Ps-515.html",
+        "title": "Sony PS-515 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-5520",
+    "model_id": "sony-0032",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4249759/Sony-Ps-5520.html",
+        "title": "Sony PS-5520 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-636",
+    "model_id": "sony-0033",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/975940/Sony-Ps-636.html",
+        "title": "Sony PS-636 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-8750",
+    "model_id": "sony-0034",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4319857/Sony-Ps-8750.html",
+        "title": "Sony PS-8750 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-A790",
+    "model_id": "sony-0035",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4216279/Sony-Ps-A790.html",
+        "title": "Sony PS-A790 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-D705",
+    "model_id": "sony-0036",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4119889/Sony-Ps-D705.html",
+        "title": "Sony PS-D705 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-D707",
+    "model_id": "sony-0037",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4216740/Sony-Ps-D707.html",
+        "title": "Sony PS-D707 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-F5",
+    "model_id": "sony-0038",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4203480/Sony-Ps-F5.html",
+        "title": "Sony PS-F5 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-F9",
+    "model_id": "sony-0039",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1001375/Sony-Ps-F9.html",
+        "title": "Sony PS-F9 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-FL1",
+    "model_id": "sony-0040",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3438051/Sony-Ps-Fl1.html",
+        "title": "Sony PS-FL1 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-FL3",
+    "model_id": "sony-0041",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4164934/Sony-Ps-Fl3.html",
+        "title": "Sony PS-FL3 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-FL5",
+    "model_id": "sony-0042",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4107818/Sony-Ps-Fl5.html",
+        "title": "Sony PS-FL5 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-FL7",
+    "model_id": "sony-0043",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4263458/Sony-Ps-Fl7.html",
+        "title": "Sony PS-FL7 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-FL9",
+    "model_id": "sony-0044",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4365070/Sony-Ps-Fl9.html",
+        "title": "Sony PS-FL9 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-FL99",
+    "model_id": "sony-0045",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3533802/Sony-Ps-Fl99.html",
+        "title": "Sony PS-FL99 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-J20",
+    "model_id": "sony-0046",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/163366/Sony-Ps-J20.html",
+        "title": "Sony PS-J20 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-LX100",
+    "model_id": "sony-0047",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3932279/Sony-Ps-Lx100.html",
+        "title": "Sony PS-LX100 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-LX110",
+    "model_id": "sony-0048",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/587481/Sony-Ps-Lx110.html",
+        "title": "Sony PS-LX110 Operating Instructions"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-LX120",
+    "model_id": "sony-0049",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3988813/Sony-Ps-Lx120.html",
+        "title": "Sony PS-LX120 Operating Instructions"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-LX 2",
+    "model_id": "sony-0050",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/b/ba/Sony_LX-2-4-Prospekt-1981.jpg",
+        "title": "Sony — PS-LX 2 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-LX20",
+    "model_id": "sony-0051",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4374776/Sony-Ps-Lx20.html",
+        "title": "Sony PS-LX20 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-LX200H",
+    "model_id": "sony-0052",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://retronik.silicium.org/DOCUMENTS/Audiovideo/Sony/Sony-PS-LX200H-Owners-Manual.pdf",
+        "title": "Sony PS-LX200H — factory documentation",
+        "page": 1
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-LX205",
+    "model_id": "sony-0053",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3617718/Sony-Ps-Lx205.html",
+        "title": "Sony PS-LX205 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-LX210",
+    "model_id": "sony-0054",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3711952/Sony-Ps-Lx210.html",
+        "title": "Sony PS-LX210 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-LX22",
+    "model_id": "sony-0055",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3394430/Sony-Ps-Lx22.html",
+        "title": "Sony PS-LX22 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-LX230",
+    "model_id": "sony-0056",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3318215/Sony-Ps-Lx230.html",
+        "title": "Sony PS-LX230 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-LX231",
+    "model_id": "sony-0057",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3929118/Sony-Ps-Lx231.html",
+        "title": "Sony PS-LX231 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-LX295",
+    "model_id": "sony-0058",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3927940/Sony-Ps-Lx295.html",
+        "title": "Sony PS-LX295 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-LX 3",
+    "model_id": "sony-0059",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/7/74/Sony_LX-3-5-Prospekt-1981.jpg",
+        "title": "Sony — PS-LX 3 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-LX30",
+    "model_id": "sony-0060",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3739487/Sony-Ps-Lx30.html",
+        "title": "Sony PS-LX30 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-LX310",
+    "model_id": "sony-0061",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4174613/Sony-Ps-Lx310.html",
+        "title": "Sony PS-LX310 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-LX320",
+    "model_id": "sony-0062",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3487118/Sony-Ps-Lx320.html",
+        "title": "Sony PS-LX320 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-LX33",
+    "model_id": "sony-0063",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3604652/Sony-Ps-Lx33.html",
+        "title": "Sony PS-LX33 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-LX330",
+    "model_id": "sony-0064",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3548992/Sony-Ps-Lx330.html",
+        "title": "Sony PS-LX330 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-LX340",
+    "model_id": "sony-0065",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3937081/Sony-Ps-Lx340.html",
+        "title": "Sony PS-LX340 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-LX4",
+    "model_id": "sony-0066",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4316466/Sony-Ps-Lx4.html",
+        "title": "Sony PS-LX4 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-LX40",
+    "model_id": "sony-0067",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3488247/Sony-Ps-Lx40.html",
+        "title": "Sony PS-LX40 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-LX430",
+    "model_id": "sony-0068",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/964498/Sony-Ps-Lx430.html",
+        "title": "Sony PS-LX430 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-LX 431",
+    "model_id": "sony-0069",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/b/ba/Sony_PS-LX_100-431-X_555_ES-Prospekt-1991.jpg",
+        "title": "Sony — PS-LX 431 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-LX45",
+    "model_id": "sony-0070",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4374601/Sony-Ps-Lx45.html",
+        "title": "Sony PS-LX45 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-LX46",
+    "model_id": "sony-0071",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4184997/Sony-Ps-Lx46.html",
+        "title": "Sony PS-LX46 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-LX49",
+    "model_id": "sony-0072",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1056907/Sony-Ps-Lx49.html",
+        "title": "Sony PS-LX49 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-LX 5",
+    "model_id": "sony-0073",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/7/74/Sony_LX-3-5-Prospekt-1981.jpg",
+        "title": "Sony — PS-LX 5 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-LX50",
+    "model_id": "sony-0074",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3015050/Sony-Ps-Lx50.html",
+        "title": "Sony PS-LX50 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-LX500",
+    "model_id": "sony-0075",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4170411/Sony-Ps-Lx500.html",
+        "title": "Sony PS-LX500 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-LX510",
+    "model_id": "sony-0076",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3417017/Sony-Ps-Lx510.html",
+        "title": "Sony PS-LX510 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-LX52",
+    "model_id": "sony-0077",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4055341/Sony-Ps-Lx52.html",
+        "title": "Sony PS-LX52 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-LX60",
+    "model_id": "sony-0078",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/987546/Sony-Ps-Lx60.html",
+        "title": "Sony PS-LX60 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-LX62",
+    "model_id": "sony-0079",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4338534/Sony-Ps-Lx62.html",
+        "title": "Sony PS-LX62 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-LX7",
+    "model_id": "sony-0080",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3998496/Sony-Ps-Lx7.html",
+        "title": "Sony PS-LX7 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-LX70",
+    "model_id": "sony-0081",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4263397/Sony-Ps-Lx70.html",
+        "title": "Sony PS-LX70 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-LX76",
+    "model_id": "sony-0082",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/856126/Sony-Ps-Lx76.html",
+        "title": "Sony PS-LX76 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-LX910",
+    "model_id": "sony-0083",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4349768/Sony-Ps-Lx910.html",
+        "title": "Sony PS-LX910 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-P7X",
+    "model_id": "sony-0084",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3585040/Sony-Ps-P7x.html",
+        "title": "Sony PS-P7X Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-Q7",
+    "model_id": "sony-0085",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3373106/Sony-Ps-Q7.html",
+        "title": "Sony PS-Q7 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-T1",
+    "model_id": "sony-0086",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3537477/Sony-Ps-T1.html",
+        "title": "Sony PS-T1 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-T22",
+    "model_id": "sony-0087",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4338933/Sony-Ps-T22.html",
+        "title": "Sony PS-T22 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-T25",
+    "model_id": "sony-0088",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3999525/Sony-Ps-T25.html",
+        "title": "Sony PS-T25 Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-T 30",
+    "model_id": "sony-0089",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/0/04/Sony_PS-T_30-X_40-60-Prospekt-1.jpg",
+        "title": "Sony — PS-T 30 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-V701",
+    "model_id": "sony-0090",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4266150/Sony-Ps-V701.html",
+        "title": "Sony PS-V701 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-V 715",
+    "model_id": "sony-0091",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/4/4e/Sony_PS-LX-60-V_715-Prospekt-1988.jpg",
+        "title": "Sony — PS-V 715 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-V901",
+    "model_id": "sony-0092",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4252600/Sony-Ps-V901.html",
+        "title": "Sony PS-V901 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-X35",
+    "model_id": "sony-0093",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4372828/Sony-Ps-X35.html",
+        "title": "Sony PS-X35 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-X4",
+    "model_id": "sony-0094",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4164931/Sony-Ps-X4.html",
+        "title": "Sony PS-X4 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-X40",
+    "model_id": "sony-0095",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3554970/Sony-Ps-X40.html",
+        "title": "Sony PS-X40 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-X45",
+    "model_id": "sony-0096",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4340654/Sony-Ps-X45.html",
+        "title": "Sony PS-X45 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-X5",
+    "model_id": "sony-0097",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3444775/Sony-Ps-X5.html",
+        "title": "Sony PS-X5 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-X50",
+    "model_id": "sony-0098",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3313610/Sony-Ps-X50.html",
+        "title": "Sony PS-X50 Owner's Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-X500",
+    "model_id": "sony-0099",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3335134/Sony-Ps-X500.html",
+        "title": "Sony PS-X500 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-X55",
+    "model_id": "sony-0100",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1074738/Sony-Ps-X55.html",
+        "title": "Sony PS-X55 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-X555ES",
+    "model_id": "sony-0101",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4271297/Sony-Ps-X555es.html",
+        "title": "Sony PS-X555ES Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-X6",
+    "model_id": "sony-0102",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1020697/Sony-Ps-X6.html",
+        "title": "Sony PS-X6 Owner's Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-X60",
+    "model_id": "sony-0103",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1021026/Sony-Ps-X60.html",
+        "title": "Sony PS-X60 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-X65",
+    "model_id": "sony-0104",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3989614/Sony-Ps-X65.html",
+        "title": "Sony PS-X65 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-X7",
+    "model_id": "sony-0105",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/575757/Sony-Ps-X7.html",
+        "title": "Sony PS-X7 Owner's Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-X70",
+    "model_id": "sony-0106",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4267527/Sony-Ps-X70.html",
+        "title": "Sony PS-X70 Owner's Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-X700",
+    "model_id": "sony-0107",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3416995/Sony-Ps-X700.html",
+        "title": "Sony PS-X700 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-X75",
+    "model_id": "sony-0108",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3318367/Sony-Ps-X75.html",
+        "title": "Sony PS-X75 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-X800",
+    "model_id": "sony-0109",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4261374/Sony-Ps-X800.html",
+        "title": "Sony PS-X800 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sony",
+    "model": "PS-X9",
+    "model_id": "sony-0110",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3405103/Sony-Ps-X9.html",
+        "title": "Sony PS-X9 Service Manual"
+      }
+    ],
+    "aliases": []
   }
 ]

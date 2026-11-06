@@ -1,0 +1,15 @@
+[
+  {
+    "manufacturer": "Heco",
+    "model": "2001",
+    "model_id": "heco-0001",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/7/7b/Heco_2001-Prospekt-1977.jpg",
+        "title": "Heco — 2001 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  }
+]

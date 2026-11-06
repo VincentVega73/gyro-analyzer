@@ -1,0 +1,197 @@
+[
+  {
+    "manufacturer": "Toshiba",
+    "model": "SR-220",
+    "model_id": "toshiba-0001",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/5/5e/Toshiba_SR-220-Prospekt-1.jpg",
+        "title": "Toshiba — SR-220 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Toshiba",
+    "model": "SR-255",
+    "model_id": "toshiba-0002",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/890968/Toshiba-Sr-255.html",
+        "title": "Toshiba SR-255 Owner's Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Toshiba",
+    "model": "SR-355",
+    "model_id": "toshiba-0003",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/2/2c/Toshiba_SR-355-Prospekt-1.jpg",
+        "title": "Toshiba — SR-355 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Toshiba",
+    "model": "SR-370",
+    "model_id": "toshiba-0004",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4318198/Toshiba-Sr-370.html",
+        "title": "Toshiba SR-370 Owner's Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Toshiba",
+    "model": "SR-510C",
+    "model_id": "toshiba-0005",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_SR510C_SM_TOSHIBA_EN",
+        "title": "Toshiba SR-510C — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Toshiba",
+    "model": "SR-A230",
+    "model_id": "toshiba-0006",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4164499/Toshiba-Sr-A230.html",
+        "title": "Toshiba SR-A230 Quick Start Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Toshiba",
+    "model": "SR-F 200",
+    "model_id": "toshiba-0007",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/9/9e/Toshiba_SR-F_200-Prospekt-11.jpg",
+        "title": "Toshiba — SR-F 200 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Toshiba",
+    "model": "SR-F 225",
+    "model_id": "toshiba-0008",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/9/95/Toshiba_SM-D_30-Prospekt-1979.jpg",
+        "title": "Toshiba — SR-F 225 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Toshiba",
+    "model": "SR-F 530",
+    "model_id": "toshiba-0009",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/9/98/Toshiba_SR-F_530-Prospekt-1.jpg",
+        "title": "Toshiba — SR-F 530 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Toshiba",
+    "model": "SR-F770",
+    "model_id": "toshiba-0010",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_SRF770_SM_TOSHIBA_EN",
+        "title": "Toshiba SR-F770 — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Toshiba",
+    "model": "SR-FX 70",
+    "model_id": "toshiba-0011",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/9/9f/Toshiba_SR-FX_70-Bericht-1979.jpg",
+        "title": "Toshiba — SR-FX 70 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Toshiba",
+    "model": "SR-M70",
+    "model_id": "toshiba-0012",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4354683/Toshiba-Sr-M70.html",
+        "title": "Toshiba SR-M70 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Toshiba",
+    "model": "SR-Q 200",
+    "model_id": "toshiba-0013",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/0/05/Toshiba_SR-Q_200-Prospekt-1.jpg",
+        "title": "Toshiba — SR-Q 200 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Toshiba",
+    "model": "SR-Q 660",
+    "model_id": "toshiba-0014",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_SRQ660_SM_TOSHIBA_EN",
+        "title": "Toshiba SR-Q 660 — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Toshiba",
+    "model": "SR-V10",
+    "model_id": "toshiba-0015",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4341123/Toshiba-Sr-V10.html",
+        "title": "Toshiba SR-V10 Service Manual"
+      }
+    ],
+    "aliases": []
+  }
+]

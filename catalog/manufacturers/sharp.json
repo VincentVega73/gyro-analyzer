@@ -1,0 +1,15 @@
+[
+  {
+    "manufacturer": "Sharp",
+    "model": "RP-117H",
+    "model_id": "sharp-0001",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_RP117H_SHARP",
+        "title": "Sharp RP-117H — Factory manual"
+      }
+    ],
+    "aliases": []
+  }
+]

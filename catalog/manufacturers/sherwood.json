@@ -1,0 +1,41 @@
+[
+  {
+    "manufacturer": "Sherwood",
+    "model": "PF-1170 R",
+    "model_id": "sherwood-0001",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/1/19/Sherwood_PF-1170-Prospekt-1990.jpg",
+        "title": "Sherwood — PF-1170 R (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sherwood",
+    "model": "PM-1270",
+    "model_id": "sherwood-0002",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3789412/Sherwood-Pm-1270.html",
+        "title": "Sherwood PM-1270 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sherwood",
+    "model": "PM-9805",
+    "model_id": "sherwood-0003",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/386703/Sherwood-Pm-9805.html",
+        "title": "Sherwood PM-9805 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  }
+]

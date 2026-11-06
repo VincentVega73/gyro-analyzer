@@ -1,0 +1,665 @@
+[
+  {
+    "manufacturer": "JVC",
+    "model": "AL-E534B",
+    "model_id": "jvc-0001",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4127984/Jvc-Al-E534b.html",
+        "title": "JVC AL-E534B Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "JVC",
+    "model": "AL-F50B",
+    "model_id": "jvc-0002",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/2984108/Jvc-Al-F50b.html",
+        "title": "JVC AL-F50B Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "JVC",
+    "model": "AL-F55B",
+    "model_id": "jvc-0003",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4181405/Jvc-Al-F55b.html",
+        "title": "JVC AL-F55B Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "JVC",
+    "model": "JL-A1",
+    "model_id": "jvc-0004",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4265520/Jvc-Jl-A1.html",
+        "title": "JVC JL-A1 Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "JVC",
+    "model": "JL-A15",
+    "model_id": "jvc-0005",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3323932/Jvc-Jl-A15.html",
+        "title": "JVC JL-A15 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "JVC",
+    "model": "JL-A 20",
+    "model_id": "jvc-0006",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/2/2d/JVC_JL-A_20-Prospekt-2.jpg",
+        "title": "JVC — JL-A 20 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "JVC",
+    "model": "JL-A40",
+    "model_id": "jvc-0007",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4169196/Jvc-Jl-A40.html",
+        "title": "JVC JL-A40 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "JVC",
+    "model": "Jl-B31 M",
+    "model_id": "jvc-0008",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3994052/Jvc-Jl-B31-M.html",
+        "title": "JVC Jl-B31 M Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "JVC",
+    "model": "JL-B44",
+    "model_id": "jvc-0009",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4264146/Jvc-Jl-B44.html",
+        "title": "JVC JL-B44 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "JVC",
+    "model": "JL-F30",
+    "model_id": "jvc-0010",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4101900/Jvc-Jl-F30.html",
+        "title": "JVC JL-F30 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "JVC",
+    "model": "JL-F 35",
+    "model_id": "jvc-0011",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/c/cd/JVC_JL-F_35-Prospekt-1.jpg",
+        "title": "JVC — JL-F 35 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "JVC",
+    "model": "JL-F45",
+    "model_id": "jvc-0012",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3684108/Jvc-Jl-F45.html",
+        "title": "JVC JL-F45 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "JVC",
+    "model": "JL-F50",
+    "model_id": "jvc-0013",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4262262/Jvc-Jl-F50.html",
+        "title": "JVC JL-F50 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "JVC",
+    "model": "L-A10",
+    "model_id": "jvc-0014",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3436237/Jvc-L-A10.html",
+        "title": "JVC L-A10 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "JVC",
+    "model": "L-A11",
+    "model_id": "jvc-0015",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3422213/Jvc-L-A11.html",
+        "title": "JVC L-A11 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "JVC",
+    "model": "L-A120",
+    "model_id": "jvc-0016",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4344851/Jvc-L-A120.html",
+        "title": "JVC L-A120 User Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "JVC",
+    "model": "L-A 31",
+    "model_id": "jvc-0017",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_LA31_SM_JVC_EN",
+        "title": "JVC L-A 31 — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "JVC",
+    "model": "L-A55",
+    "model_id": "jvc-0018",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4261180/Jvc-L-A55.html",
+        "title": "JVC L-A55 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "JVC",
+    "model": "L-AX1",
+    "model_id": "jvc-0019",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3589780/Jvc-L-Ax1.html",
+        "title": "JVC L-AX1 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "JVC",
+    "model": "L-AX 3",
+    "model_id": "jvc-0020",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/c/c8/JVC_L-AX_3-Prospekt-1984.jpg",
+        "title": "JVC — L-AX 3 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "JVC",
+    "model": "L-E22",
+    "model_id": "jvc-0021",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3606719/Jvc-L-E22.html",
+        "title": "JVC L-E22 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "JVC",
+    "model": "L-E 33",
+    "model_id": "jvc-0022",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/1/15/JVC_L-E_33-Prospekt-1983.jpg",
+        "title": "JVC — L-E 33 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "JVC",
+    "model": "L-E600",
+    "model_id": "jvc-0023",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3344631/Jvc-L-E600.html",
+        "title": "JVC L-E600 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "JVC",
+    "model": "L-F210",
+    "model_id": "jvc-0024",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4169004/Jvc-L-F210.html",
+        "title": "JVC L-F210 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "JVC",
+    "model": "L-F 41",
+    "model_id": "jvc-0025",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/9/97/JVC_L-F_41-Prospekt-2.jpg",
+        "title": "JVC — L-F 41 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "JVC",
+    "model": "L-F66",
+    "model_id": "jvc-0026",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1135805/Jvc-L-F66.html",
+        "title": "JVC L-F66 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "JVC",
+    "model": "L-FX 4",
+    "model_id": "jvc-0027",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/5/59/JVC_L-FX_4-Prospekt-1984.jpg",
+        "title": "JVC — L-FX 4 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "JVC",
+    "model": "L-L1",
+    "model_id": "jvc-0028",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3291041/Jvc-L-L1.html",
+        "title": "JVC L-L1 Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "JVC",
+    "model": "QL-10",
+    "model_id": "jvc-0029",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3544002/Jvc-Ql-10.html",
+        "title": "JVC QL-10 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "JVC",
+    "model": "QL-5",
+    "model_id": "jvc-0030",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3343133/Jvc-Ql-5.html",
+        "title": "JVC QL-5 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "JVC",
+    "model": "QL-7",
+    "model_id": "jvc-0031",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4372975/Jvc-Ql-7.html",
+        "title": "JVC QL-7 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "JVC",
+    "model": "QL-A2",
+    "model_id": "jvc-0032",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/855553/Jvc-Ql-A2.html",
+        "title": "JVC QL-A2 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "JVC",
+    "model": "QL-A200",
+    "model_id": "jvc-0033",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4101360/Jvc-Ql-A200.html",
+        "title": "JVC QL-A200 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "JVC",
+    "model": "QL-A 5",
+    "model_id": "jvc-0034",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/a/a2/JVC_QL-A_5-5_R-Prospekt-1.jpg",
+        "title": "JVC — QL-A 5 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "JVC",
+    "model": "QL-A7",
+    "model_id": "jvc-0035",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3590349/Jvc-Ql-A7.html",
+        "title": "JVC QL-A7 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "JVC",
+    "model": "QL-A75",
+    "model_id": "jvc-0036",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4168392/Jvc-Ql-A75.html",
+        "title": "JVC QL-A75 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "JVC",
+    "model": "QL-E 55",
+    "model_id": "jvc-0037",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/9/98/JVC_QL-E_55-Prospekt-1983.jpg",
+        "title": "JVC — QL-E 55 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "JVC",
+    "model": "QL-F300",
+    "model_id": "jvc-0038",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3415530/Jvc-Ql-F300.html",
+        "title": "JVC QL-F300 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "JVC",
+    "model": "QL-F 320",
+    "model_id": "jvc-0039",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/d/da/JVC_QL-F_320-Prospekt-1.jpg",
+        "title": "JVC — QL-F 320 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "JVC",
+    "model": "QL-F4",
+    "model_id": "jvc-0040",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4230948/Jvc-Ql-F4.html",
+        "title": "JVC QL-F4 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "JVC",
+    "model": "QL-F6",
+    "model_id": "jvc-0041",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1306931/Jvc-Ql-F6.html",
+        "title": "JVC QL-F6 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "JVC",
+    "model": "QL-F61",
+    "model_id": "jvc-0042",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4508434/Jvc-Ql-F61.html",
+        "title": "JVC QL-F61 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "JVC",
+    "model": "QL-FX 5",
+    "model_id": "jvc-0043",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/1/1e/JVC_QL-FX_5-Prospekt-1984.jpg",
+        "title": "JVC — QL-FX 5 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "JVC",
+    "model": "QL-L2",
+    "model_id": "jvc-0044",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3715348/Jvc-Ql-L2.html",
+        "title": "JVC QL-L2 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "JVC",
+    "model": "QL-Y3F",
+    "model_id": "jvc-0045",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3658017/Jvc-Ql-Y3f.html",
+        "title": "JVC QL-Y3F Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "JVC",
+    "model": "QL-Y55F",
+    "model_id": "jvc-0046",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3964652/Jvc-Ql-Y55f.html",
+        "title": "JVC QL-Y55F Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "JVC",
+    "model": "QL-Y5F",
+    "model_id": "jvc-0047",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4267579/Jvc-Ql-Y5f.html",
+        "title": "JVC QL-Y5F Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "JVC",
+    "model": "QL-Y5SF",
+    "model_id": "jvc-0048",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3316360/Jvc-Ql-Y5sf.html",
+        "title": "JVC QL-Y5SF Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "JVC",
+    "model": "QL-Y66F",
+    "model_id": "jvc-0049",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4229541/Jvc-Ql-Y66f.html",
+        "title": "JVC QL-Y66F Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "JVC",
+    "model": "QL-Y7",
+    "model_id": "jvc-0050",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_QLY7_OM_JVC_EN",
+        "title": "JVC QL-Y7 — Factory manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "JVC",
+    "model": "SRP-473E",
+    "model_id": "jvc-0051",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4544025/Jvc-Srp-473e.html",
+        "title": "JVC SRP-473E Service Manual"
+      }
+    ],
+    "aliases": []
+  }
+]

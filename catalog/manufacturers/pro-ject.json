@@ -1785,5 +1785,86 @@
         "url": "https://www.project-audio.com/en/archive/"
       }
     ]
+  },
+  {
+    "manufacturer": "Pro-Ject",
+    "model": "Debut Carbon Phono USB",
+    "model_id": "pro-ject-0066",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.sarte-audio.com/sites/default/files/folletos/debutcarbonphonousb1_copy.pdf",
+        "title": "Pro-Ject Debut Carbon Phono USB — factory documentation",
+        "page": 1
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pro-Ject",
+    "model": "Essential III Bluetooth",
+    "model_id": "pro-ject-0067",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://gzhls.at/blob/ldb/f/1/9/a/59f0c61db3e784052c0a208d1426b26660ea.pdf",
+        "title": "Pro-Ject Essential III Bluetooth — factory documentation",
+        "page": 1
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pro-Ject",
+    "model": "Signature 12.2",
+    "model_id": "pro-ject-0068",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.project-audio.com/en/product/signature-12-2/",
+        "title": "Pro-Ject — Signature 12.2"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pro-Ject",
+    "model": "T1",
+    "model_id": "pro-ject-0069",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.project-audio.com/wp-content/uploads/2022/01/T1-EN.pdf",
+        "title": "Pro-Ject T1 — factory documentation",
+        "page": 1
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pro-Ject",
+    "model": "X1",
+    "model_id": "pro-ject-0070",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.project-audio.com/en/product/x1/",
+        "title": "Pro-Ject — X1"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Pro-Ject",
+    "model": "X2",
+    "model_id": "pro-ject-0071",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.project-audio.com/en/product/x2/",
+        "title": "Pro-Ject — X2"
+      }
+    ],
+    "aliases": []
   }
 ]

@@ -1,0 +1,457 @@
+[
+  {
+    "manufacturer": "Akai",
+    "model": "AP-001",
+    "model_id": "akai-0001",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_AP001_SM_AKAI_EN",
+        "title": "Akai AP-001 — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Akai",
+    "model": "AP-002",
+    "model_id": "akai-0002",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3341131/Akai-Ap-002.html",
+        "title": "Akai AP-002 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Akai",
+    "model": "AP-003",
+    "model_id": "akai-0003",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3398454/Akai-Ap-003.html",
+        "title": "Akai AP-003 Operator's Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Akai",
+    "model": "AP-004",
+    "model_id": "akai-0004",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3570661/Akai-Ap-004.html",
+        "title": "Akai AP-004 Service Manual And Parts List"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Akai",
+    "model": "AP-005",
+    "model_id": "akai-0005",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/903469/Akai-Ap-005.html",
+        "title": "Akai AP-005 Operator's Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Akai",
+    "model": "AP-006",
+    "model_id": "akai-0006",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4097479/Akai-Ap-006.html",
+        "title": "Akai AP-006 Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Akai",
+    "model": "AP-007",
+    "model_id": "akai-0007",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4156654/Akai-Ap-007.html",
+        "title": "Akai AP-007 Service Manual And Parts List"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Akai",
+    "model": "AP-100",
+    "model_id": "akai-0008",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3359843/Akai-Ap-100.html",
+        "title": "Akai AP-100 Operator's Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Akai",
+    "model": "AP-103",
+    "model_id": "akai-0009",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3398425/Akai-Ap-103.html",
+        "title": "Akai AP-103 Operator's Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Akai",
+    "model": "AP-207",
+    "model_id": "akai-0010",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3365079/Akai-Ap-207.html",
+        "title": "Akai AP-207 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Akai",
+    "model": "AP-307",
+    "model_id": "akai-0011",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_AP307_SM_AKAI",
+        "title": "Akai AP-307 — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Akai",
+    "model": "AP-420",
+    "model_id": "akai-0012",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3940928/Akai-Ap-420.html",
+        "title": "Akai AP-420 Service Manual And Parts List"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Akai",
+    "model": "AP-A305",
+    "model_id": "akai-0013",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3930289/Akai-Ap-A305.html",
+        "title": "Akai AP-A305 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Akai",
+    "model": "AP-A510",
+    "model_id": "akai-0014",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3341250/Akai-Ap-A510.html",
+        "title": "Akai AP-A510 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Akai",
+    "model": "AP-B 20 C",
+    "model_id": "akai-0015",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/e/ef/Akai_AP-D_20_C_Prospekt-1.jpg",
+        "title": "Akai — AP-B 20 C (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Akai",
+    "model": "AP-B21",
+    "model_id": "akai-0016",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3432223/Akai-Ap-B21.html",
+        "title": "Akai AP-B21 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Akai",
+    "model": "AP-D30",
+    "model_id": "akai-0017",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3476886/Akai-Ap-D30.html",
+        "title": "Akai AP-D30 Operator's Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Akai",
+    "model": "AP-D33",
+    "model_id": "akai-0018",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3934553/Akai-Ap-D33.html",
+        "title": "Akai AP-D33 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Akai",
+    "model": "AP-D40",
+    "model_id": "akai-0019",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3341254/Akai-Ap-D40.html",
+        "title": "Akai AP-D40 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Akai",
+    "model": "AP-L45",
+    "model_id": "akai-0020",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3718534/Akai-Ap-L45.html",
+        "title": "Akai AP-L45 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Akai",
+    "model": "AP-M11",
+    "model_id": "akai-0021",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3415280/Akai-Ap-M11.html",
+        "title": "Akai AP-M11 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Akai",
+    "model": "AP-M 300",
+    "model_id": "akai-0022",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3728477/Akai-Ap-M-300.html",
+        "title": "Akai AP-M 300 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Akai",
+    "model": "AP-M313",
+    "model_id": "akai-0023",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3341039/Akai-Ap-M313.html",
+        "title": "Akai AP-M313 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Akai",
+    "model": "AP-M33",
+    "model_id": "akai-0024",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3728875/Akai-Ap-M33.html",
+        "title": "Akai AP-M33 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Akai",
+    "model": "AP-M 459",
+    "model_id": "akai-0025",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3512988/Akai-Ap-M-459.html",
+        "title": "Akai AP-M 459 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Akai",
+    "model": "AP-M50",
+    "model_id": "akai-0026",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3363145/Akai-Ap-M50.html",
+        "title": "Akai AP-M50 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Akai",
+    "model": "AP-M600",
+    "model_id": "akai-0027",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_APM600_SM_AKAI_EN",
+        "title": "Akai AP-M600 — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Akai",
+    "model": "AP-M719",
+    "model_id": "akai-0028",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3414332/Akai-Ap-M719.html",
+        "title": "Akai AP-M719 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Akai",
+    "model": "AP-M77",
+    "model_id": "akai-0029",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3341255/Akai-Ap-M77.html",
+        "title": "Akai AP-M77 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Akai",
+    "model": "AP-Q310",
+    "model_id": "akai-0030",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3341172/Akai-Ap-Q310.html",
+        "title": "Akai AP-Q310 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Akai",
+    "model": "AP-Q 50 C",
+    "model_id": "akai-0031",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/3/36/Akai_AP-Q_50_Prospekt-1.jpg",
+        "title": "Akai — AP-Q 50 C (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Akai",
+    "model": "AP-Q55",
+    "model_id": "akai-0032",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3934554/Akai-Ap-Q55.html",
+        "title": "Akai AP-Q55 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Akai",
+    "model": "AP-Q60",
+    "model_id": "akai-0033",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3930290/Akai-Ap-Q60.html",
+        "title": "Akai AP-Q60 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Akai",
+    "model": "AP-Q70",
+    "model_id": "akai-0034",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4342352/Akai-Ap-Q70.html",
+        "title": "Akai AP-Q70 Operator's Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Akai",
+    "model": "AP-Q 80 C",
+    "model_id": "akai-0035",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/3/3a/Akai_AP-Q_80_C-Prospekt-1.jpg",
+        "title": "Akai — AP-Q 80 C (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  }
+]

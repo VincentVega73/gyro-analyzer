@@ -1,0 +1,28 @@
+[
+  {
+    "manufacturer": "Cambridge Audio",
+    "model": "Alva ST",
+    "model_id": "cambridge-audio-0001",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.cambridgeaudio.com/usa/en/products/hi-fi/alva/alva-st",
+        "title": "Cambridge Audio — Alva ST"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Cambridge Audio",
+    "model": "Alva TT v2",
+    "model_id": "cambridge-audio-0002",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.cambridgeaudio.com/usa/en/products/hi-fi/alva/alva-tt-v2",
+        "title": "Cambridge Audio — Alva TT v2"
+      }
+    ],
+    "aliases": []
+  }
+]

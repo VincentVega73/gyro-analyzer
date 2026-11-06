@@ -1,0 +1,41 @@
+[
+  {
+    "manufacturer": "MoFi Electronics",
+    "model": "MasterDeck",
+    "model_id": "mofi-electronics-0001",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.mofielectronics.com/collections/turntables",
+        "title": "MoFi Electronics — Turntables"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "MoFi Electronics",
+    "model": "StudioDeck",
+    "model_id": "mofi-electronics-0002",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.mofielectronics.com/collections/turntables",
+        "title": "MoFi Electronics — Turntables"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "MoFi Electronics",
+    "model": "UltraDeck",
+    "model_id": "mofi-electronics-0003",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.mofielectronics.com/collections/turntables",
+        "title": "MoFi Electronics — Turntables"
+      }
+    ],
+    "aliases": []
+  }
+]

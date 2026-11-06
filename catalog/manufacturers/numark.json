@@ -1,0 +1,223 @@
+[
+  {
+    "manufacturer": "Numark",
+    "model": "NTX1000",
+    "model_id": "numark-0001",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1264262/Numark-Ntx1000.html",
+        "title": "Numark NTX1000 User Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Numark",
+    "model": "PT-01",
+    "model_id": "numark-0002",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/113499/Numark-Pt-01.html",
+        "title": "Numark PT-01 Quick Start Owner's Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Numark",
+    "model": "PT01 Scratch",
+    "model_id": "numark-0003",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.numark.com/product/pt01-scratch",
+        "title": "Numark — PT01 Scratch"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Numark",
+    "model": "PT01 Touring",
+    "model_id": "numark-0004",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.numark.com/product/pt01-touring",
+        "title": "Numark — PT01 Touring"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Numark",
+    "model": "PT02",
+    "model_id": "numark-0005",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3760105/Numark-Pt02.html",
+        "title": "Numark PT02 User Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Numark",
+    "model": "TT-100",
+    "model_id": "numark-0006",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/113498/Numark-Tt-100.html",
+        "title": "Numark TT-100 Owner's Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Numark",
+    "model": "TT-1510",
+    "model_id": "numark-0007",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/300902/Numark-Tt-1510.html",
+        "title": "Numark TT-1510 User Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Numark",
+    "model": "TT-1520",
+    "model_id": "numark-0008",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/113497/Numark-Tt-1520.html",
+        "title": "Numark TT-1520 User Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Numark",
+    "model": "TT1600",
+    "model_id": "numark-0009",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/300903/Numark-Tt1600.html",
+        "title": "Numark TT1600 Quick Start Owner's Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Numark",
+    "model": "TT1625",
+    "model_id": "numark-0010",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/640794/Numark-Tt1625.html",
+        "title": "Numark TT1625 Quick Start Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Numark",
+    "model": "TT-1650",
+    "model_id": "numark-0011",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/113501/Numark-Tt-1650.html",
+        "title": "Numark TT-1650 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Numark",
+    "model": "TT1700",
+    "model_id": "numark-0012",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/300904/Numark-Tt1700.html",
+        "title": "Numark TT1700 Owner's Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Numark",
+    "model": "TT1910",
+    "model_id": "numark-0013",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/113500/Numark-Tt1910.html",
+        "title": "Numark TT1910 Owner's Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Numark",
+    "model": "TT-200",
+    "model_id": "numark-0014",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/300907/Numark-Tt200.html",
+        "title": "Numark TT-200 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Numark",
+    "model": "TT500",
+    "model_id": "numark-0015",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/113440/Numark-Tt500.html",
+        "title": "Numark TT500 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Numark",
+    "model": "TTUSB",
+    "model_id": "numark-0016",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/113504/Numark-Ttusb.html",
+        "title": "Numark TTUSB Quick Start Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Numark",
+    "model": "TTX USB",
+    "model_id": "numark-0017",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/591740/Numark-Ttx-Usb.html",
+        "title": "Numark TTX USB Quick Start Owner's Manual"
+      }
+    ],
+    "aliases": []
+  }
+]

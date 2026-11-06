@@ -1,0 +1,223 @@
+[
+  {
+    "manufacturer": "Luxman",
+    "model": "P-102",
+    "model_id": "luxman-0001",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_P102_LUXMAN",
+        "title": "Luxman P-102 — Factory manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Luxman",
+    "model": "P-406",
+    "model_id": "luxman-0002",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4265649/Luxman-P-406.html",
+        "title": "Luxman P-406 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Luxman",
+    "model": "PD-121",
+    "model_id": "luxman-0003",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_PD121_OM_LUXMAN_EN",
+        "title": "Luxman PD-121 — Factory manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Luxman",
+    "model": "PD-151",
+    "model_id": "luxman-0004",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/6/63/Luxman_PD-151-Prospekt-2019.jpg",
+        "title": "Luxman — PD-151 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Luxman",
+    "model": "PD-151 MARK II",
+    "model_id": "luxman-0005",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.luxman.com/product/detail.php?id=42",
+        "title": "Luxman — PD-151 MARK II"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Luxman",
+    "model": "PD-171AL",
+    "model_id": "luxman-0006",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1740589/Luxman-Pd-171al.html",
+        "title": "Luxman PD-171AL Owner's Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Luxman",
+    "model": "PD-272",
+    "model_id": "luxman-0007",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_PD272_OM_LUXMAN_EN",
+        "title": "Luxman PD-272 — Factory manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Luxman",
+    "model": "PD 282",
+    "model_id": "luxman-0008",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4370366/Luxman-Pd-282.html",
+        "title": "Luxman PD 282 Owner's Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Luxman",
+    "model": "PD-284",
+    "model_id": "luxman-0009",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_PD284_OM_LUXMAN_EN",
+        "title": "Luxman PD-284 — Factory manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Luxman",
+    "model": "PD-289",
+    "model_id": "luxman-0010",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4369666/Luxman-Pd-289.html",
+        "title": "Luxman PD-289 Owner's Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Luxman",
+    "model": "PD290",
+    "model_id": "luxman-0011",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4369680/Luxman-Pd290.html",
+        "title": "Luxman PD290 Owner's Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Luxman",
+    "model": "PD300",
+    "model_id": "luxman-0012",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4373633/Luxman-Pd300.html",
+        "title": "Luxman PD300 Owner's Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Luxman",
+    "model": "PD-370",
+    "model_id": "luxman-0013",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3499805/Luxman-Pd-370.html",
+        "title": "Luxman PD-370 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Luxman",
+    "model": "PD-375",
+    "model_id": "luxman-0014",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3347012/Luxman-Pd-375.html",
+        "title": "Luxman PD-375 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Luxman",
+    "model": "PD441",
+    "model_id": "luxman-0015",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4545482/Luxman-Pd441.html",
+        "title": "Luxman PD441 Owner's Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Luxman",
+    "model": "PD444",
+    "model_id": "luxman-0016",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1005693/Luxman-Pd444.html",
+        "title": "Luxman PD444 Owner's Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Luxman",
+    "model": "PX-101",
+    "model_id": "luxman-0017",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1227711/Luxman-Px-101.html",
+        "title": "Luxman PX-101 Service Manual"
+      }
+    ],
+    "aliases": []
+  }
+]

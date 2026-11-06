@@ -1,0 +1,15 @@
+[
+  {
+    "manufacturer": "AVID",
+    "model": "Ingenium",
+    "model_id": "avid-0001",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.avidhifi.com/turntables/ingenium-turntable",
+        "title": "AVID — Ingenium"
+      }
+    ],
+    "aliases": []
+  }
+]

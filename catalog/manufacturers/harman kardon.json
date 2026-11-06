@@ -1,0 +1,67 @@
+[
+  {
+    "manufacturer": "Harman Kardon",
+    "model": "Rabco ST5",
+    "model_id": "harman-kardon-0001",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/279326/Harman-Kardon-Rabco-St5.html",
+        "title": "Harman Kardon Rabco ST5 Owner's Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Harman Kardon",
+    "model": "Rabco ST-7",
+    "model_id": "harman-kardon-0002",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/279331/Harman-Kardon-Rabco-St-7.html",
+        "title": "Harman Kardon Rabco ST-7 Owner's Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Harman Kardon",
+    "model": "Rabco ST8",
+    "model_id": "harman-kardon-0003",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/279328/Harman-Kardon-Rabco-St8.html",
+        "title": "Harman Kardon Rabco ST8 Owner's Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Harman Kardon",
+    "model": "T40",
+    "model_id": "harman-kardon-0004",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/279138/Harman-Kardon-T40.html",
+        "title": "Harman Kardon T40 Owner's Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Harman Kardon",
+    "model": "T-60",
+    "model_id": "harman-kardon-0005",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/350406/Harman-Kardon-T-60.html",
+        "title": "Harman Kardon T-60 Owner's Manual"
+      }
+    ],
+    "aliases": []
+  }
+]

@@ -1,0 +1,223 @@
+[
+  {
+    "manufacturer": "Stanton",
+    "model": "ST-100",
+    "model_id": "stanton-0001",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/323615/Stanton-St-100.html",
+        "title": "Stanton ST-100 User Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Stanton",
+    "model": "ST.150",
+    "model_id": "stanton-0002",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/323620/Stanton-St-150.html",
+        "title": "Stanton ST.150 Owner's Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Stanton",
+    "model": "STR8.150 M2",
+    "model_id": "stanton-0003",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3141094/Stanton-Str8-150-M2.html",
+        "title": "Stanton STR8.150 M2 Quick Start Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Stanton",
+    "model": "STR8-100",
+    "model_id": "stanton-0004",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/372716/Stanton-Str8-100.html",
+        "title": "Stanton STR8-100 Owner's Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Stanton",
+    "model": "STR8-150",
+    "model_id": "stanton-0005",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/263503/Stanton-Str8-150.html",
+        "title": "Stanton STR8-150 Owner's Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Stanton",
+    "model": "STR8-20",
+    "model_id": "stanton-0006",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/263501/Stanton-Str8-20.html",
+        "title": "Stanton STR8-20 Operating Instructions"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Stanton",
+    "model": "STR8-30",
+    "model_id": "stanton-0007",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/323621/Stanton-Str8-30.html",
+        "title": "Stanton STR8-30 Operating Instructions"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Stanton",
+    "model": "STR8-50",
+    "model_id": "stanton-0008",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/2503007/Stanton-Str8-50.html",
+        "title": "Stanton STR8-50 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Stanton",
+    "model": "STR8-90",
+    "model_id": "stanton-0009",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/164872/Stanton-Str8-90.html",
+        "title": "Stanton STR8-90 Owner's Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Stanton",
+    "model": "T.52",
+    "model_id": "stanton-0010",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/164884/Stanton-T-52.html",
+        "title": "Stanton T.52 User Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Stanton",
+    "model": "T.55 USB",
+    "model_id": "stanton-0011",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/263510/Stanton-T-55-Usb.html",
+        "title": "Stanton T.55 USB User Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Stanton",
+    "model": "T.60",
+    "model_id": "stanton-0012",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/263507/Stanton-T-60.html",
+        "title": "Stanton T.60 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Stanton",
+    "model": "T.62",
+    "model_id": "stanton-0013",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/164887/Stanton-T-62.html",
+        "title": "Stanton T.62 User Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Stanton",
+    "model": "T.62 M2",
+    "model_id": "stanton-0014",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1263935/Stanton-T-62-M2.html",
+        "title": "Stanton T.62 M2 Quick Start Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Stanton",
+    "model": "T.90",
+    "model_id": "stanton-0015",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/323623/Stanton-T-90.html",
+        "title": "Stanton T.90 User Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Stanton",
+    "model": "T.90 USB",
+    "model_id": "stanton-0016",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/967171/Stanton-T-90-Usb.html",
+        "title": "Stanton T.90 USB User Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Stanton",
+    "model": "t.92 usb",
+    "model_id": "stanton-0017",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1200566/Stanton-T-92-Usb.html",
+        "title": "Stanton t.92 usb User Manual"
+      }
+    ],
+    "aliases": []
+  }
+]

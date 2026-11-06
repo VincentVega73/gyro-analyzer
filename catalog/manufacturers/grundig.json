@@ -1,0 +1,262 @@
+[
+  {
+    "manufacturer": "Grundig",
+    "model": "P 100",
+    "model_id": "grundig-0001",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/e/e4/Grundig_P-50-100-Prospekt-1.jpg",
+        "title": "Grundig — P 100 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Grundig",
+    "model": "PS 1020",
+    "model_id": "grundig-0002",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_PS1020_OM_GRUNDIG_EN_DE_FR",
+        "title": "Grundig PS 1020 — Factory manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Grundig",
+    "model": "PS 1600",
+    "model_id": "grundig-0003",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_PS1600_SM_GRUNDIG_DE",
+        "title": "Grundig PS 1600 — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Grundig",
+    "model": "PS 1700",
+    "model_id": "grundig-0004",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_PS1700_OM_GRUNDIG_EN_DE_FR",
+        "title": "Grundig PS 1700 — Factory manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Grundig",
+    "model": "PS 1850",
+    "model_id": "grundig-0005",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4396925/Grundig-Ps-1850.html",
+        "title": "Grundig PS 1850 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Grundig",
+    "model": "PS 20",
+    "model_id": "grundig-0006",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_PS20_SM_GRUNDIG_DE",
+        "title": "Grundig PS 20 — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Grundig",
+    "model": "PS 2000",
+    "model_id": "grundig-0007",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/a/a9/Grundig_PS-2000-Prospekt-1980.jpg",
+        "title": "Grundig — PS 2000 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Grundig",
+    "model": "PS 2500",
+    "model_id": "grundig-0008",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/b/b7/Grundig_PS-2500-Prospekt-1981.jpg",
+        "title": "Grundig — PS 2500 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Grundig",
+    "model": "PS 2600",
+    "model_id": "grundig-0009",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/3/31/Grundig_PS-_Prospekt-1983.jpg",
+        "title": "Grundig — PS 2600 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Grundig",
+    "model": "PS 30",
+    "model_id": "grundig-0010",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_PS30_SM_GRUNDIG_DE",
+        "title": "Grundig PS 30 — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Grundig",
+    "model": "PS 3000",
+    "model_id": "grundig-0011",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_PS3000_OM_GRUNDIG_EN",
+        "title": "Grundig PS 3000 — Factory manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Grundig",
+    "model": "PS 35",
+    "model_id": "grundig-0012",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_PS35_SM_GRUNDIG_EN",
+        "title": "Grundig PS 35 — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Grundig",
+    "model": "PS 3500",
+    "model_id": "grundig-0013",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4368899/Grundig-Ps-3500.html",
+        "title": "Grundig PS 3500 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Grundig",
+    "model": "PS 3600",
+    "model_id": "grundig-0014",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/3/31/Grundig_PS-_Prospekt-1983.jpg",
+        "title": "Grundig — PS 3600 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Grundig",
+    "model": "PS 4000",
+    "model_id": "grundig-0015",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/5/5b/Grundig_PS-2000-3000-4000-Prospekt-1980.jpg",
+        "title": "Grundig — PS 4000 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Grundig",
+    "model": "PS 4200",
+    "model_id": "grundig-0016",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/f/f9/Grundig_CCF-PS-T-V-4000-Prospekt-1988.jpg",
+        "title": "Grundig — PS 4200 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Grundig",
+    "model": "PS 4300",
+    "model_id": "grundig-0017",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3736227/Grundig-Ps-4300.html",
+        "title": "Grundig PS 4300 Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Grundig",
+    "model": "PS 5600",
+    "model_id": "grundig-0018",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_PS5600_SM_GRUNDIG_DE",
+        "title": "Grundig PS 5600 — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Grundig",
+    "model": "PS 6000",
+    "model_id": "grundig-0019",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/3/31/Grundig_PS-_Prospekt-1983.jpg",
+        "title": "Grundig — PS 6000 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Grundig",
+    "model": "PS 7500",
+    "model_id": "grundig-0020",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/0/0b/Grundig_PS-1700-2750-7500-7550-Prospekt-1985.jpg",
+        "title": "Grundig — PS 7500 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  }
+]

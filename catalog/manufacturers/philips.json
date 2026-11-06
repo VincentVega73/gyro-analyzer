@@ -1,0 +1,353 @@
+[
+  {
+    "manufacturer": "Philips",
+    "model": "202 Electronic",
+    "model_id": "philips-0001",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/4/4d/Philips_202-Electronic-Prospekt-1.jpg",
+        "title": "Philips — 202 Electronic (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Philips",
+    "model": "209 S Electronic",
+    "model_id": "philips-0002",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/9/92/Philips_209_S_Electronic-Prospekt-1.jpg",
+        "title": "Philips — 209 S Electronic (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Philips",
+    "model": "212 Electronic",
+    "model_id": "philips-0003",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/f/fd/Philips_GA_212_electronic-Prospekt-1.jpg",
+        "title": "Philips — 212 Electronic (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Philips",
+    "model": "AF 677",
+    "model_id": "philips-0004",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/3/3c/Philips_AF-677-777-Prospekt-1.jpg",
+        "title": "Philips — AF 677 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Philips",
+    "model": "AF 685",
+    "model_id": "philips-0005",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/4/42/Philips_AF-684-685-Prospekt-1.jpg",
+        "title": "Philips — AF 685 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Philips",
+    "model": "AF 729",
+    "model_id": "philips-0006",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1044580/Philips-Af-729.html",
+        "title": "Philips AF 729 User Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Philips",
+    "model": "AF 777",
+    "model_id": "philips-0007",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/3/3c/Philips_AF-677-777-Prospekt-1.jpg",
+        "title": "Philips — AF 777 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Philips",
+    "model": "22AF867",
+    "model_id": "philips-0008",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4153306/Philips-22af867.html",
+        "title": "Philips 22AF867 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Philips",
+    "model": "AF 877",
+    "model_id": "philips-0009",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1012620/Philips-Af-877.html",
+        "title": "Philips AF 877 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Philips",
+    "model": "AF 977",
+    "model_id": "philips-0010",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/1/19/Philips_AF-977-Prospekt-1.jpg",
+        "title": "Philips — AF 977 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Philips",
+    "model": "F 7122",
+    "model_id": "philips-0011",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/6/63/Philips_F-7122-Prospekt-1983.jpg",
+        "title": "Philips — F 7122 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Philips",
+    "model": "F 7212",
+    "model_id": "philips-0012",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_F7212_SM_PHILIPS_DE_NL_FR_EN_IT_ES_DK",
+        "title": "Philips F 7212 — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Philips",
+    "model": "F 7213",
+    "model_id": "philips-0013",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_F7213_PHILIPS",
+        "title": "Philips F 7213 — Factory manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Philips",
+    "model": "F 7215",
+    "model_id": "philips-0014",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_F7215_SM_PHILIPS_EN",
+        "title": "Philips F 7215 — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Philips",
+    "model": "F 7222",
+    "model_id": "philips-0015",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/d/d5/Philips_F-7222-Prospekt-1983.jpg",
+        "title": "Philips — F 7222 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Philips",
+    "model": "F 7226",
+    "model_id": "philips-0016",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/0/0c/Philips_F-7226-Prospekt-1983.jpg",
+        "title": "Philips — F 7226 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Philips",
+    "model": "FP 140",
+    "model_id": "philips-0017",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/3/3c/Philips_FP-140-Prospekt-1985.jpg",
+        "title": "Philips — FP 140 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Philips",
+    "model": "FP 142",
+    "model_id": "philips-0018",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/b/bc/Philips_FP-142-Prospekt-1985.jpg",
+        "title": "Philips — FP 142 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Philips",
+    "model": "FP 146",
+    "model_id": "philips-0019",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/b/bd/Philips_FP-146-Prospekt-1985.jpg",
+        "title": "Philips — FP 146 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Philips",
+    "model": "GA 212",
+    "model_id": "philips-0020",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_GA212_OM_PHILIPS_EN_DE_FR_IT_ES_NL_SV_PT",
+        "title": "Philips GA 212 — Factory manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Philips",
+    "model": "GA 230",
+    "model_id": "philips-0021",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/8/87/Philips_GA-230-Prospekt-1.jpg",
+        "title": "Philips — GA 230 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Philips",
+    "model": "GA 308",
+    "model_id": "philips-0022",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/0/0b/Philips_GA_308-Prospekt-1.jpg",
+        "title": "Philips — GA 308 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Philips",
+    "model": "GA312",
+    "model_id": "philips-0023",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4343239/Philips-Ga312.html",
+        "title": "Philips GA312 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Philips",
+    "model": "GA 317",
+    "model_id": "philips-0024",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/3/3c/Philips_GA-317-Prospekt-1.jpg",
+        "title": "Philips — GA 317 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Philips",
+    "model": "GA 408",
+    "model_id": "philips-0025",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/2/2e/Philips_GA-408-Prospekt-1.jpg",
+        "title": "Philips — GA 408 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Philips",
+    "model": "GA 427",
+    "model_id": "philips-0026",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/b/b2/Philips_GA-427-Prospekt-1.jpg",
+        "title": "Philips — GA 427 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Philips",
+    "model": "GA 437",
+    "model_id": "philips-0027",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/d/d9/Philips_GA-437-Prospekt-1.jpg",
+        "title": "Philips — GA 437 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  }
+]

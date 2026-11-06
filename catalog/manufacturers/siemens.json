@@ -1,0 +1,80 @@
+[
+  {
+    "manufacturer": "Siemens",
+    "model": "RW 222",
+    "model_id": "siemens-0001",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/d/d0/Siemens_RW-222-Prospekt-1980.jpg",
+        "title": "Siemens — RW 222 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Siemens",
+    "model": "RW 346",
+    "model_id": "siemens-0002",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/9/90/Siemens_RW-346-Prospekt-1970.jpg",
+        "title": "Siemens — RW 346 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Siemens",
+    "model": "RW 446",
+    "model_id": "siemens-0003",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/4/48/Siemens_RW-446-Prospekt-1973.jpg",
+        "title": "Siemens — RW 446 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Siemens",
+    "model": "RW 555",
+    "model_id": "siemens-0004",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_RW555_SM_SIEMENS_DE_EN",
+        "title": "Siemens RW 555 — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Siemens",
+    "model": "RW 666",
+    "model_id": "siemens-0005",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_RW666_SM_SIEMENS_EN",
+        "title": "Siemens RW 666 — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Siemens",
+    "model": "RW 777",
+    "model_id": "siemens-0006",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/thumb/8/82/Siemens_RW-777-Prospekt-1.jpg/1600px-Siemens_RW-777-Prospekt-1.jpg",
+        "title": "Siemens — RW 777 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  }
+]

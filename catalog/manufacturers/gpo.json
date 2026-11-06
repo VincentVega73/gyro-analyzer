@@ -1,0 +1,28 @@
+[
+  {
+    "manufacturer": "GPO",
+    "model": "Bermuda",
+    "model_id": "gpo-0001",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.gporetro.com/record-players/gpo-bermuda/",
+        "title": "GPO — Bermuda"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "GPO",
+    "model": "Stylo II",
+    "model_id": "gpo-0002",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.gporetro.com/record-players/gpo-stylo-ii/",
+        "title": "GPO — Stylo II"
+      }
+    ],
+    "aliases": []
+  }
+]

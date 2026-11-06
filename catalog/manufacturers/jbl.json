@@ -1,0 +1,15 @@
+[
+  {
+    "manufacturer": "JBL",
+    "model": "Spinner BT",
+    "model_id": "jbl-0001",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.jbl.com/SPINNER-BT.html",
+        "title": "JBL — Spinner BT"
+      }
+    ],
+    "aliases": []
+  }
+]

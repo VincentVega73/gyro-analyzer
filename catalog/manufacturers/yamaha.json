@@ -226,5 +226,135 @@
       "value": "direct",
       "source": "identity"
     }
+  },
+  {
+    "manufacturer": "Yamaha",
+    "model": "GT-5000",
+    "model_id": "yamaha-0017",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1728147/Yamaha-Gt-5000.html",
+        "title": "Yamaha GT-5000 Owner's Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Yamaha",
+    "model": "P-07",
+    "model_id": "yamaha-0018",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/427108/Yamaha-P-07.html",
+        "title": "Yamaha P-07 Owner's Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Yamaha",
+    "model": "P-220",
+    "model_id": "yamaha-0019",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/8/88/Yamaha_P-220-320-520-Prospekt-1.jpg",
+        "title": "Yamaha — P-220 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Yamaha",
+    "model": "P-350",
+    "model_id": "yamaha-0020",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/0/08/Yamaha_P-350-550-750-Prospekt-1.jpg",
+        "title": "Yamaha — P-350 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Yamaha",
+    "model": "P-450",
+    "model_id": "yamaha-0021",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/340198/Yamaha-P-450.html",
+        "title": "Yamaha P-450 Owner's Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Yamaha",
+    "model": "P-520",
+    "model_id": "yamaha-0022",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/341364/Yamaha-P-520.html",
+        "title": "Yamaha P-520 Owner's Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Yamaha",
+    "model": "P-550",
+    "model_id": "yamaha-0023",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/8/84/Yamaha_P-550-Prospekt-1.jpg",
+        "title": "Yamaha — P-550 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Yamaha",
+    "model": "P-850",
+    "model_id": "yamaha-0024",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/341365/Yamaha-P-850.html",
+        "title": "Yamaha P-850 Owner's Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Yamaha",
+    "model": "YP-B 2",
+    "model_id": "yamaha-0025",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/d/d5/Yamaha_YP-B_2-Prospekt-1.jpg",
+        "title": "Yamaha — YP-B 2 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Yamaha",
+    "model": "YP-D8",
+    "model_id": "yamaha-0026",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4270467/Yamaha-Yp-D8.html",
+        "title": "Yamaha YP-D8 Service Manual"
+      }
+    ],
+    "aliases": []
   }
 ]

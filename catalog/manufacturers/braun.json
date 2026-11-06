@@ -1,0 +1,132 @@
+[
+  {
+    "manufacturer": "Braun",
+    "model": "P 701",
+    "model_id": "braun-0001",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/e/ec/Braun_P_701-Prospekt-1.jpg",
+        "title": "Braun — P 701 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Braun",
+    "model": "PDS 550",
+    "model_id": "braun-0002",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_PDS550_SM_BRAUN",
+        "title": "Braun PDS 550 — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Braun",
+    "model": "PS 1000",
+    "model_id": "braun-0003",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_PS1000_SM_BRAUN_DE",
+        "title": "Braun PS 1000 — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Braun",
+    "model": "PS 350",
+    "model_id": "braun-0004",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/0/01/Braun_PS-350-358-Prospekt-1.jpg",
+        "title": "Braun — PS 350 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Braun",
+    "model": "PS 358",
+    "model_id": "braun-0005",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_PS358_SM_BRAUN_DE",
+        "title": "Braun PS 358 — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Braun",
+    "model": "PS 450",
+    "model_id": "braun-0006",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_PS450_SM_BRAUN_DE",
+        "title": "Braun PS 450 — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Braun",
+    "model": "PS 458",
+    "model_id": "braun-0007",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/a/a7/Braun_PS-450-458-Prospekt-1.jpg",
+        "title": "Braun — PS 458 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Braun",
+    "model": "PS 500",
+    "model_id": "braun-0008",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_PS500_SM_BRAUN",
+        "title": "Braun PS 500 — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Braun",
+    "model": "PS 550 S",
+    "model_id": "braun-0009",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/5/5a/Braun_PS-550_S-Prospekt-1.jpg",
+        "title": "Braun — PS 550 S (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Braun",
+    "model": "PSQ 500",
+    "model_id": "braun-0010",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/f/f6/Braun_PS-PSQ-500-Prospekt-1.jpg",
+        "title": "Braun — PSQ 500 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  }
+]

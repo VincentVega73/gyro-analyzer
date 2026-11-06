@@ -89,5 +89,733 @@
         "url": "https://www.manualslib.com/manual/4536865/Lenco-Ls-700.html"
       }
     ]
+  },
+  {
+    "manufacturer": "Lenco",
+    "model": "B 52",
+    "model_id": "lenco-0008",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_B52_OM_LENCO_EN",
+        "title": "Lenco B 52 — Factory manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Lenco",
+    "model": "B 55",
+    "model_id": "lenco-0009",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_B55_PC_LENCO_EN",
+        "title": "Lenco B 55 — Factory manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Lenco",
+    "model": "L 133",
+    "model_id": "lenco-0010",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/d/d5/Lenco_L-133-Prospekt-1977.jpg",
+        "title": "Lenco — L 133 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Lenco",
+    "model": "L-174",
+    "model_id": "lenco-0011",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/2381449/Lenco-L-174.html",
+        "title": "LENCO L-174 User Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Lenco",
+    "model": "L-175",
+    "model_id": "lenco-0012",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/721372/Lenco-L-175.html",
+        "title": "LENCO L-175 User Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Lenco",
+    "model": "L-30",
+    "model_id": "lenco-0013",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1545321/Lenco-L-30.html",
+        "title": "LENCO L-30 User Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Lenco",
+    "model": "L 3000",
+    "model_id": "lenco-0014",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4183774/Lenco-L-3000.html",
+        "title": "LENCO L 3000 Instructions For Use Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Lenco",
+    "model": "L-3807",
+    "model_id": "lenco-0015",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/362634/Lenco-L-3807.html",
+        "title": "LENCO L-3807 Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Lenco",
+    "model": "L-3808",
+    "model_id": "lenco-0016",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1113499/Lenco-L-3808.html",
+        "title": "LENCO L-3808 User Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Lenco",
+    "model": "L-3809",
+    "model_id": "lenco-0017",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/2340562/Lenco-L-3809.html",
+        "title": "LENCO L-3809 User Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Lenco",
+    "model": "L-3810",
+    "model_id": "lenco-0018",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3036756/Lenco-L-3810.html",
+        "title": "LENCO L-3810 User Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Lenco",
+    "model": "L-3818",
+    "model_id": "lenco-0019",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/2861601/Lenco-L-3818.html",
+        "title": "LENCO L-3818 User Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Lenco",
+    "model": "L-3828",
+    "model_id": "lenco-0020",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3174110/Lenco-L-3828.html",
+        "title": "LENCO L-3828 User Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Lenco",
+    "model": "L-3865",
+    "model_id": "lenco-0021",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/362619/Lenco-L-3865.html",
+        "title": "LENCO L-3865 Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Lenco",
+    "model": "L-401",
+    "model_id": "lenco-0022",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3777298/Lenco-L-401.html",
+        "title": "LENCO L-401 User Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Lenco",
+    "model": "L-455",
+    "model_id": "lenco-0023",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3633459/Lenco-L-455.html",
+        "title": "LENCO L-455 User Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Lenco",
+    "model": "L 70",
+    "model_id": "lenco-0024",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4030898/Lenco-L-70.html",
+        "title": "LENCO L 70 Operating Instructions"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Lenco",
+    "model": "L-80 USB",
+    "model_id": "lenco-0025",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/91664/Lenco-L-80-Usb.html",
+        "title": "LENCO L-80 USB User Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Lenco",
+    "model": "L-81 USB",
+    "model_id": "lenco-0026",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/741920/Lenco-L-81-Usb.html",
+        "title": "LENCO L-81 USB Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Lenco",
+    "model": "L-85",
+    "model_id": "lenco-0027",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/979377/Lenco-L-85.html",
+        "title": "LENCO L-85 Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Lenco",
+    "model": "L-86",
+    "model_id": "lenco-0028",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1391943/Lenco-L-86.html",
+        "title": "LENCO L-86 user manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Lenco",
+    "model": "L-90",
+    "model_id": "lenco-0029",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/637744/Lenco-L-90.html",
+        "title": "LENCO L-90 User Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Lenco",
+    "model": "L-91",
+    "model_id": "lenco-0030",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/2285192/Lenco-L-91.html",
+        "title": "LENCO L-91 User Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Lenco",
+    "model": "L-92",
+    "model_id": "lenco-0031",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/2205372/Lenco-L-92.html",
+        "title": "LENCO L-92 User Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Lenco",
+    "model": "LBT-120",
+    "model_id": "lenco-0032",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/2203443/Lenco-Lbt-120.html",
+        "title": "LENCO LBT-120 User Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Lenco",
+    "model": "LBT-188",
+    "model_id": "lenco-0033",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/2144913/Lenco-Lbt-188.html",
+        "title": "LENCO LBT-188 User Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Lenco",
+    "model": "LBT-189",
+    "model_id": "lenco-0034",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3635324/Lenco-Lbt-189.html",
+        "title": "LENCO LBT-189 User Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Lenco",
+    "model": "LBT-190",
+    "model_id": "lenco-0035",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/2303279/Lenco-Lbt-190.html",
+        "title": "LENCO LBT-190 User Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Lenco",
+    "model": "LBT-215",
+    "model_id": "lenco-0036",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3600056/Lenco-Lbt-215.html",
+        "title": "LENCO LBT-215 User Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Lenco",
+    "model": "LBT-225",
+    "model_id": "lenco-0037",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3016613/Lenco-Lbt-225.html",
+        "title": "LENCO LBT-225 User Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Lenco",
+    "model": "LBT-335",
+    "model_id": "lenco-0038",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3293615/Lenco-Lbt-335.html",
+        "title": "LENCO LBT-335 User Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Lenco",
+    "model": "LBTA-165",
+    "model_id": "lenco-0039",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3638815/Lenco-Lbta-165.html",
+        "title": "LENCO LBTA-165 User Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Lenco",
+    "model": "LS-10",
+    "model_id": "lenco-0040",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/2230621/Lenco-Ls-10.html",
+        "title": "LENCO LS-10 User Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Lenco",
+    "model": "LS-100",
+    "model_id": "lenco-0041",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/2146059/Lenco-Ls-100.html",
+        "title": "LENCO LS-100 User Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Lenco",
+    "model": "LS-101",
+    "model_id": "lenco-0042",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/2330133/Lenco-Ls-101.html",
+        "title": "LENCO LS-101 User Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Lenco",
+    "model": "LS-15",
+    "model_id": "lenco-0043",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3655370/Lenco-Ls-15.html",
+        "title": "LENCO LS-15 User Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Lenco",
+    "model": "LS-200",
+    "model_id": "lenco-0044",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4390514/Lenco-Ls-200.html",
+        "title": "LENCO LS-200 User Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Lenco",
+    "model": "LS-300",
+    "model_id": "lenco-0045",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1828586/Lenco-Ls-300.html",
+        "title": "LENCO LS-300 User Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Lenco",
+    "model": "LS-40",
+    "model_id": "lenco-0046",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1789014/Lenco-Ls-40.html",
+        "title": "LENCO LS-40 User Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Lenco",
+    "model": "LS-410",
+    "model_id": "lenco-0047",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/2540636/Lenco-Ls-410.html",
+        "title": "LENCO LS-410 user manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Lenco",
+    "model": "LS-430",
+    "model_id": "lenco-0048",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/2570680/Lenco-Ls-430.html",
+        "title": "LENCO LS-430 User Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Lenco",
+    "model": "LS-440",
+    "model_id": "lenco-0049",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/2913873/Lenco-Ls-440.html",
+        "title": "LENCO LS-440 User Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Lenco",
+    "model": "LS-470",
+    "model_id": "lenco-0050",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3392956/Lenco-Ls-470.html",
+        "title": "LENCO LS-470 User Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Lenco",
+    "model": "LS-480",
+    "model_id": "lenco-0051",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/2788343/Lenco-Ls-480.html",
+        "title": "LENCO LS-480 User Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Lenco",
+    "model": "LS-50",
+    "model_id": "lenco-0052",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1243233/Lenco-Ls-50.html",
+        "title": "LENCO LS-50 User Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Lenco",
+    "model": "LS-55",
+    "model_id": "lenco-0053",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3121275/Lenco-Ls-55.html",
+        "title": "LENCO LS-55 User Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Lenco",
+    "model": "LS-60",
+    "model_id": "lenco-0054",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4130914/Lenco-Ls-60.html",
+        "title": "LENCO LS-60 Quick Start Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Lenco",
+    "model": "LS-600",
+    "model_id": "lenco-0055",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3226154/Lenco-Ls-600.html",
+        "title": "LENCO LS-600 User Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Lenco",
+    "model": "LS-66",
+    "model_id": "lenco-0056",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3639525/Lenco-Ls-66.html",
+        "title": "LENCO LS-66 User Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Lenco",
+    "model": "LSA-071",
+    "model_id": "lenco-0057",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3633816/Lenco-Lsa-071.html",
+        "title": "LENCO LSA-071 User Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Lenco",
+    "model": "Classic Phono TT-10",
+    "model_id": "lenco-0058",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/2100007/Lenco-Classic-Phono-Tt-10.html",
+        "title": "LENCO Classic Phono TT-10 User Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Lenco",
+    "model": "Classic Phono TT-115",
+    "model_id": "lenco-0059",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/2784065/Lenco-Classic-Phono-Tt-115.html",
+        "title": "LENCO Classic Phono TT-115 User Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Lenco",
+    "model": "TT-13",
+    "model_id": "lenco-0060",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/2532245/Lenco-Tt-13.html",
+        "title": "LENCO TT-13 User Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Lenco",
+    "model": "Classic Phono TT-33",
+    "model_id": "lenco-0061",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1597664/Lenco-Classic-Phono-Tt-33.html",
+        "title": "LENCO Classic Phono TT-33 User Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Lenco",
+    "model": "Classic Phono TT-34",
+    "model_id": "lenco-0062",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/2303756/Lenco-Classic-Phono-Tt-34.html",
+        "title": "LENCO Classic Phono TT-34 User Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Lenco",
+    "model": "Classic Phono TT-41",
+    "model_id": "lenco-0063",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/2845314/Lenco-Classic-Phono-Tt-41.html",
+        "title": "LENCO Classic Phono TT-41 User Manual"
+      }
+    ],
+    "aliases": []
   }
 ]

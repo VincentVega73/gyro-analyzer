@@ -1,0 +1,340 @@
+[
+  {
+    "manufacturer": "Sanyo",
+    "model": "P50",
+    "model_id": "sanyo-0001",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4364201/Sanyo-P50.html",
+        "title": "Sanyo P50 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sanyo",
+    "model": "PLUS Q25",
+    "model_id": "sanyo-0002",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4372944/Sanyo-Plus-Q25.html",
+        "title": "Sanyo PLUS Q25 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sanyo",
+    "model": "PLUS Q40",
+    "model_id": "sanyo-0003",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4368665/Sanyo-Plus-Q40.html",
+        "title": "Sanyo PLUS Q40 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sanyo",
+    "model": "PLUS Q50",
+    "model_id": "sanyo-0004",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/2640322/Sanyo-Plus-Q50.html",
+        "title": "Sanyo PLUS Q50 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sanyo",
+    "model": "PLUS Q60",
+    "model_id": "sanyo-0005",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4373494/Sanyo-Plus-Q60.html",
+        "title": "Sanyo PLUS Q60 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sanyo",
+    "model": "TP 1000",
+    "model_id": "sanyo-0006",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4366508/Sanyo-Tp-1000.html",
+        "title": "Sanyo TP 1000 Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sanyo",
+    "model": "TP1005",
+    "model_id": "sanyo-0007",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/905664/Sanyo-Tp1005.html",
+        "title": "Sanyo TP1005 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sanyo",
+    "model": "TP 1010",
+    "model_id": "sanyo-0008",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4366598/Sanyo-Tp-1010.html",
+        "title": "Sanyo TP 1010 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sanyo",
+    "model": "TP 1012",
+    "model_id": "sanyo-0009",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3466188/Sanyo-Tp-1012.html",
+        "title": "Sanyo TP 1012 Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sanyo",
+    "model": "TP-1014",
+    "model_id": "sanyo-0010",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/a/a8/Sanyo_TP-20-1014-1024-Prospekt-1980.jpg",
+        "title": "Sanyo — TP-1014 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sanyo",
+    "model": "TP 1020",
+    "model_id": "sanyo-0011",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4366548/Sanyo-Tp-1020.html",
+        "title": "Sanyo TP 1020 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sanyo",
+    "model": "TP 1024",
+    "model_id": "sanyo-0012",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1041872/Sanyo-Tp-1024.html",
+        "title": "Sanyo TP 1024 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sanyo",
+    "model": "TP-1030",
+    "model_id": "sanyo-0013",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/4/46/Sanyo_TP-1030-Prospekt-19791.jpg",
+        "title": "Sanyo — TP-1030 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sanyo",
+    "model": "TP-1100",
+    "model_id": "sanyo-0014",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_TP1100_OM_SANYO_DE",
+        "title": "Sanyo TP-1100 — Factory manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sanyo",
+    "model": "TP-1200",
+    "model_id": "sanyo-0015",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_TP1200_SM_SANYO_EN",
+        "title": "Sanyo TP-1200 — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sanyo",
+    "model": "TP-1400",
+    "model_id": "sanyo-0016",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_TP1400_SM_SANYO_EN",
+        "title": "Sanyo TP-1400 — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sanyo",
+    "model": "TP20",
+    "model_id": "sanyo-0017",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4164842/Sanyo-Tp20.html",
+        "title": "Sanyo TP20 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sanyo",
+    "model": "TP220",
+    "model_id": "sanyo-0018",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1013076/Sanyo-Tp220.html",
+        "title": "Sanyo TP220 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sanyo",
+    "model": "TP 240",
+    "model_id": "sanyo-0019",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4340844/Sanyo-Tp-240.html",
+        "title": "Sanyo TP 240 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sanyo",
+    "model": "TP 250",
+    "model_id": "sanyo-0020",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4356775/Sanyo-Tp-250.html",
+        "title": "Sanyo TP 250 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sanyo",
+    "model": "TP-30",
+    "model_id": "sanyo-0021",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/1/1d/Sanyo_TP-20-30-Prospekt-1980.jpg",
+        "title": "Sanyo — TP-30 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sanyo",
+    "model": "TP 440",
+    "model_id": "sanyo-0022",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4264207/Sanyo-Tp-440.html",
+        "title": "Sanyo TP 440 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sanyo",
+    "model": "TP-625",
+    "model_id": "sanyo-0023",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/0/0b/Sanyo_TP-625-Prospekt-1.jpg",
+        "title": "Sanyo — TP-625 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sanyo",
+    "model": "TP-725",
+    "model_id": "sanyo-0024",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_TP725_SM_SANYO_EN",
+        "title": "Sanyo TP-725 — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sanyo",
+    "model": "TP-82 S",
+    "model_id": "sanyo-0025",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/7/7b/Sanyo_TP-82_S-Prospekt-1972.jpg",
+        "title": "Sanyo — TP-82 S (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sanyo",
+    "model": "TP M15",
+    "model_id": "sanyo-0026",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1029490/Sanyo-Tp-M15.html",
+        "title": "Sanyo TP M15 Service Manual"
+      }
+    ],
+    "aliases": []
+  }
+]

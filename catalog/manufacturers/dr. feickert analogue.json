@@ -1,0 +1,41 @@
+[
+  {
+    "manufacturer": "Dr. Feickert Analogue",
+    "model": "Blackbird",
+    "model_id": "dr-feickert-analogue-0001",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://feickert.de/en/turntables.html",
+        "title": "Dr. Feickert Analogue — Turntables"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Dr. Feickert Analogue",
+    "model": "Volare",
+    "model_id": "dr-feickert-analogue-0002",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://feickert.de/en/turntables.html",
+        "title": "Dr. Feickert Analogue — Turntables"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Dr. Feickert Analogue",
+    "model": "Woodpecker",
+    "model_id": "dr-feickert-analogue-0003",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://feickert.de/en/turntables.html",
+        "title": "Dr. Feickert Analogue — Turntables"
+      }
+    ],
+    "aliases": []
+  }
+]

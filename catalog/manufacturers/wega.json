@@ -1,0 +1,67 @@
+[
+  {
+    "manufacturer": "Wega",
+    "model": "JPS 352 P",
+    "model_id": "wega-0001",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_JPS352P_OM_WEGA_DE",
+        "title": "Wega JPS 352 P — Factory manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Wega",
+    "model": "P 120 SH",
+    "model_id": "wega-0002",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_P120SH_SM_WEGA_EN_DE",
+        "title": "Wega P 120 SH — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Wega",
+    "model": "P 3440",
+    "model_id": "wega-0003",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_P3440_OM_WEGA_DE",
+        "title": "Wega P 3440 — Factory manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Wega",
+    "model": "P 550",
+    "model_id": "wega-0004",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/b/bf/Wega_P-550_Prospekt-1981.jpg",
+        "title": "Wega — P 550 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Wega",
+    "model": "P700",
+    "model_id": "wega-0005",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3436157/Wega-P700.html",
+        "title": "Wega P700 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  }
+]

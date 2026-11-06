@@ -1,0 +1,577 @@
+[
+  {
+    "manufacturer": "Crosley",
+    "model": "C100BT",
+    "model_id": "crosley-0001",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/2177936/Crosley-C100bt.html",
+        "title": "Crosley C100BT Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Crosley",
+    "model": "C200",
+    "model_id": "crosley-0002",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1707765/Crosley-C200.html",
+        "title": "Crosley C200 Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Crosley",
+    "model": "C20A",
+    "model_id": "crosley-0003",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/2370638/Crosley-C20a.html",
+        "title": "Crosley C20A Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Crosley",
+    "model": "C300",
+    "model_id": "crosley-0004",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4152513/Crosley-C300.html",
+        "title": "Crosley C300 Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Crosley",
+    "model": "C3A",
+    "model_id": "crosley-0005",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1661521/Crosley-C3a.html",
+        "title": "Crosley C3A instruction manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Crosley",
+    "model": "C6",
+    "model_id": "crosley-0006",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://crosbit-res.cloudinary.com/image/upload/manual/C6B-C6Turntable-REV072321.pdf",
+        "title": "Crosley C6 — factory documentation",
+        "page": 1
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Crosley",
+    "model": "C62",
+    "model_id": "crosley-0007",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://static1.squarespace.com/static/5e9834001377c962da42c768/t/5fd372d861e42a1f6cb88c1b/1607693019314/C62A_-_C62_Shelf_System.pdf",
+        "title": "Crosley C62 — factory documentation",
+        "page": 1
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Crosley",
+    "model": "C65A",
+    "model_id": "crosley-0008",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3682131/Crosley-C65a.html",
+        "title": "Crosley C65A Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Crosley",
+    "model": "C8A",
+    "model_id": "crosley-0009",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3794582/Crosley-C8a.html",
+        "title": "Crosley C8A Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Crosley",
+    "model": "C92",
+    "model_id": "crosley-0010",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3701689/Crosley-C92.html",
+        "title": "Crosley C92 Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Crosley",
+    "model": "CR-48",
+    "model_id": "crosley-0011",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/33645/Crosley-Cr-48.html",
+        "title": "Crosley CR-48 Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Crosley",
+    "model": "CR6004A",
+    "model_id": "crosley-0012",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/767414/Crosley-Cr6004a.html",
+        "title": "Crosley CR6004A Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Crosley",
+    "model": "CR6005A",
+    "model_id": "crosley-0013",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/604537/Crosley-Cr6005a.html",
+        "title": "Crosley CR6005A Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Crosley",
+    "model": "CR6007A",
+    "model_id": "crosley-0014",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/604535/Crosley-Cr6007a.html",
+        "title": "Crosley CR6007A Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Crosley",
+    "model": "CR6008A",
+    "model_id": "crosley-0015",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/737377/Crosley-Cr6008a.html",
+        "title": "Crosley CR6008A Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Crosley",
+    "model": "CR6010A",
+    "model_id": "crosley-0016",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1238756/Crosley-Cr6010a.html",
+        "title": "Crosley CR6010A Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Crosley",
+    "model": "CR6012A",
+    "model_id": "crosley-0017",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/2251452/Crosley-Cr6012a.html",
+        "title": "Crosley CR6012A Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Crosley",
+    "model": "CR6016A",
+    "model_id": "crosley-0018",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/812076/Crosley-Cr6016a.html",
+        "title": "Crosley CR6016A Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Crosley",
+    "model": "CR6017A",
+    "model_id": "crosley-0019",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1702503/Crosley-Cr6017a.html",
+        "title": "Crosley CR6017A Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Crosley",
+    "model": "CR6019A",
+    "model_id": "crosley-0020",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/871979/Crosley-Cr6019a.html",
+        "title": "Crosley CR6019A Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Crosley",
+    "model": "CR6023A",
+    "model_id": "crosley-0021",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/2258592/Crosley-Cr6023a.html",
+        "title": "Crosley CR6023A Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Crosley",
+    "model": "CR6026A",
+    "model_id": "crosley-0022",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/2364982/Crosley-Cr6026a.html",
+        "title": "Crosley CR6026A Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Crosley",
+    "model": "CR6033A",
+    "model_id": "crosley-0023",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://res.cloudinary.com/crosbit/image/upload/manual/CR6033A_-_Otto.pdf",
+        "title": "Crosley CR6033A — factory documentation",
+        "page": 1
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Crosley",
+    "model": "CR6034A",
+    "model_id": "crosley-0024",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/2653641/Crosley-Cr6034a.html",
+        "title": "Crosley CR6034A instruction manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Crosley",
+    "model": "CR6035A",
+    "model_id": "crosley-0025",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3889533/Crosley-Cr6035a.html",
+        "title": "Crosley CR6035A Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Crosley",
+    "model": "CR6038A",
+    "model_id": "crosley-0026",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/2345085/Crosley-Cr6038a.html",
+        "title": "Crosley CR6038A Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Crosley",
+    "model": "CR6040A",
+    "model_id": "crosley-0027",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/2684838/Crosley-Cr6040a.html",
+        "title": "Crosley CR6040A Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Crosley",
+    "model": "CR6042A",
+    "model_id": "crosley-0028",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/2787453/Crosley-Cr6042a.html",
+        "title": "Crosley CR6042A Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Crosley",
+    "model": "CR6043A",
+    "model_id": "crosley-0029",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/2650630/Crosley-Cr6043a.html",
+        "title": "Crosley CR6043A Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Crosley",
+    "model": "CR6045A",
+    "model_id": "crosley-0030",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4086007/Crosley-Cr6045a.html",
+        "title": "Crosley CR6045A Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Crosley",
+    "model": "CR6046A",
+    "model_id": "crosley-0031",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4209760/Crosley-Cr6046a.html",
+        "title": "Crosley CR6046A Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Crosley",
+    "model": "CR6048A",
+    "model_id": "crosley-0032",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3704238/Crosley-Cr6048a.html",
+        "title": "Crosley CR6048A Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Crosley",
+    "model": "CR6236A",
+    "model_id": "crosley-0033",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/2899805/Crosley-Cr6236a.html",
+        "title": "Crosley CR6236A Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Crosley",
+    "model": "CR6250A",
+    "model_id": "crosley-0034",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1171446/Crosley-Cr6250a.html",
+        "title": "Crosley CR6250A Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Crosley",
+    "model": "CR6252A",
+    "model_id": "crosley-0035",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/2358593/Crosley-Cr6252a.html",
+        "title": "Crosley CR6252A Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Crosley",
+    "model": "CR6253A",
+    "model_id": "crosley-0036",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/2378139/Crosley-Cr6253a.html",
+        "title": "Crosley CR6253A Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Crosley",
+    "model": "CR6255A",
+    "model_id": "crosley-0037",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/2896698/Crosley-Cr6255a.html",
+        "title": "Crosley CR6255A Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Crosley",
+    "model": "CR7502A",
+    "model_id": "crosley-0038",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4195919/Crosley-Cr7502a.html",
+        "title": "Crosley CR7502A Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Crosley",
+    "model": "CR7503A",
+    "model_id": "crosley-0039",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4569379/Crosley-Cr7503a.html",
+        "title": "Crosley CR7503A Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Crosley",
+    "model": "CR79",
+    "model_id": "crosley-0040",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/33619/Crosley-Cr79.html",
+        "title": "Crosley CR79 Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Crosley",
+    "model": "CR8005",
+    "model_id": "crosley-0041",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3554489/Crosley-Cr8005.html",
+        "title": "Crosley CR8005 Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Crosley",
+    "model": "CR8009",
+    "model_id": "crosley-0042",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/2660694/Crosley-Cr8009.html",
+        "title": "Crosley CR8009 Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Crosley",
+    "model": "CR8017A",
+    "model_id": "crosley-0043",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/2322511/Crosley-Cr8017a.html",
+        "title": "Crosley CR8017A Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Crosley",
+    "model": "CR8019A",
+    "model_id": "crosley-0044",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3360993/Crosley-Cr8019a.html",
+        "title": "Crosley CR8019A Instruction Manual"
+      }
+    ],
+    "aliases": []
+  }
+]

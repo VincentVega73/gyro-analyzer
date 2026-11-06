@@ -1,0 +1,41 @@
+[
+  {
+    "manufacturer": "McIntosh",
+    "model": "MT10",
+    "model_id": "mcintosh-0001",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/516793/Mcintosh-Mt10.html",
+        "title": "McIntosh MT10 Owner's Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "McIntosh",
+    "model": "MT2",
+    "model_id": "mcintosh-0002",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1370720/Mcintosh-Mt2.html",
+        "title": "McIntosh MT2 Owner's Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "McIntosh",
+    "model": "MT5",
+    "model_id": "mcintosh-0003",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3400281/Mcintosh-Mt5.html",
+        "title": "McIntosh MT5 Owner's Manual"
+      }
+    ],
+    "aliases": []
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "manufacturer": "Tandberg",
+    "model": "TT 5000",
+    "model_id": "tandberg-0001",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/e/ee/Tandberg_TT-5000-Prospekt-2.jpg",
+        "title": "Tandberg — TT 5000 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  }
+]

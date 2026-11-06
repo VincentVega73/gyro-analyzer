@@ -1,0 +1,28 @@
+[
+  {
+    "manufacturer": "Omnitronic",
+    "model": "DD-4220",
+    "model_id": "omnitronic-0001",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/874448/Omnitronic-Dd-4220.html",
+        "title": "Omnitronic DD-4220 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Omnitronic",
+    "model": "DD-5250",
+    "model_id": "omnitronic-0002",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/925139/Omnitronic-Dd-5250.html",
+        "title": "Omnitronic DD-5250 User Manual"
+      }
+    ],
+    "aliases": []
+  }
+]

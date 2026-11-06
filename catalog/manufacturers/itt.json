@@ -1,0 +1,80 @@
+[
+  {
+    "manufacturer": "ITT",
+    "model": "HiFi 4010",
+    "model_id": "itt-0001",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/7/79/ITT_Hifi-4010-4020-4040-4060-Prospekt-1.jpg",
+        "title": "ITT — HiFi 4010 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "ITT",
+    "model": "HiFi 8011",
+    "model_id": "itt-0002",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_HIFI8011_OM_ITT_EN_DE",
+        "title": "ITT HiFi 8011 — Factory manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "ITT",
+    "model": "Hifi 8013",
+    "model_id": "itt-0003",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/2/28/ITT_8013-Prospekt-1.jpg",
+        "title": "ITT — Hifi 8013 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "ITT",
+    "model": "HiFi 8015",
+    "model_id": "itt-0004",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/6/6a/ITT_Hifi_8015-Prospekt-1.jpg",
+        "title": "ITT — HiFi 8015 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "ITT",
+    "model": "HiFi 9010",
+    "model_id": "itt-0005",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/4/46/ITT_Hifi-9010-9021-9031-Prospekt-1.jpg",
+        "title": "ITT — HiFi 9010 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "ITT",
+    "model": "HiFi 9011",
+    "model_id": "itt-0006",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/7/73/ITT_Hifi_9011-9021-9041-9061-Prospekt-1983.jpg",
+        "title": "ITT — HiFi 9011 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  }
+]

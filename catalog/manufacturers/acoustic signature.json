@@ -1,0 +1,29 @@
+[
+  {
+    "manufacturer": "Acoustic Signature",
+    "model": "MAXIMUS Neo",
+    "model_id": "acoustic-signature-0001",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/2302236/Acoustic-Signature-Maximus-Neo.html",
+        "title": "Acoustic Signature MAXIMUS Neo Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Acoustic Signature",
+    "model": "Tornado Neo",
+    "model_id": "acoustic-signature-0002",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.acoustic-signature.com/files/downloads/manuals/manual-tornado-neo-en-de.pdf",
+        "title": "Acoustic Signature Tornado Neo — factory documentation",
+        "page": 2
+      }
+    ],
+    "aliases": []
+  }
+]

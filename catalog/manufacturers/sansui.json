@@ -1,0 +1,600 @@
+[
+  {
+    "manufacturer": "Sansui",
+    "model": "FR-3060",
+    "model_id": "sansui-0001",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4509064/Sansui-Fr-3060.html",
+        "title": "Sansui FR-3060 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sansui",
+    "model": "FR-4060",
+    "model_id": "sansui-0002",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3288999/Sansui-Fr-4060.html",
+        "title": "Sansui FR-4060 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sansui",
+    "model": "FR-5080S",
+    "model_id": "sansui-0003",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3487541/Sansui-Fr-5080s.html",
+        "title": "Sansui FR-5080S Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sansui",
+    "model": "FR-D25",
+    "model_id": "sansui-0004",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3082394/Sansui-Fr-D25.html",
+        "title": "Sansui FR-D25 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sansui",
+    "model": "FR-D3",
+    "model_id": "sansui-0005",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4370777/Sansui-Fr-D3.html",
+        "title": "Sansui FR-D3 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sansui",
+    "model": "FR-D 35",
+    "model_id": "sansui-0006",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/f/fe/Sansui_FR-D_35-55-XR-Q-11-Werbung.jpg",
+        "title": "Sansui — FR-D 35 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sansui",
+    "model": "FR-D4",
+    "model_id": "sansui-0007",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3399682/Sansui-Fr-D4.html",
+        "title": "Sansui FR-D4 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sansui",
+    "model": "FR-D55",
+    "model_id": "sansui-0008",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4069697/Sansui-Fr-D55.html",
+        "title": "Sansui FR-D55 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sansui",
+    "model": "FR-Q5",
+    "model_id": "sansui-0009",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4233433/Sansui-Fr-Q5.html",
+        "title": "Sansui FR-Q5 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sansui",
+    "model": "P-1000",
+    "model_id": "sansui-0010",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3710698/Sansui-P-1000.html",
+        "title": "Sansui P-1000 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sansui",
+    "model": "P-D31",
+    "model_id": "sansui-0011",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4370770/Sansui-P-D31.html",
+        "title": "Sansui P-D31 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sansui",
+    "model": "P-E350",
+    "model_id": "sansui-0012",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3606925/Sansui-P-E350.html",
+        "title": "Sansui P-E350 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sansui",
+    "model": "P-E750",
+    "model_id": "sansui-0013",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4372016/Sansui-P-E750.html",
+        "title": "Sansui P-E750 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sansui",
+    "model": "P-L40",
+    "model_id": "sansui-0014",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3938447/Sansui-P-L40.html",
+        "title": "Sansui P-L40 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sansui",
+    "model": "P-L41",
+    "model_id": "sansui-0015",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4268739/Sansui-P-L41.html",
+        "title": "Sansui P-L41 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sansui",
+    "model": "P-L45",
+    "model_id": "sansui-0016",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3682166/Sansui-P-L45.html",
+        "title": "Sansui P-L45 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sansui",
+    "model": "P-L50",
+    "model_id": "sansui-0017",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3520300/Sansui-P-L50.html",
+        "title": "Sansui P-L50 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sansui",
+    "model": "P-L51",
+    "model_id": "sansui-0018",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4147808/Sansui-P-L51.html",
+        "title": "Sansui P-L51 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sansui",
+    "model": "P-L55",
+    "model_id": "sansui-0019",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3946061/Sansui-P-L55.html",
+        "title": "Sansui P-L55 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sansui",
+    "model": "P-L75",
+    "model_id": "sansui-0020",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3710089/Sansui-P-L75.html",
+        "title": "Sansui P-L75 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sansui",
+    "model": "P-L95R",
+    "model_id": "sansui-0021",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4093211/Sansui-P-L95r.html",
+        "title": "Sansui P-L95R Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sansui",
+    "model": "P-M7",
+    "model_id": "sansui-0022",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3383900/Sansui-P-M7.html",
+        "title": "Sansui P-M7 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sansui",
+    "model": "P-M700",
+    "model_id": "sansui-0023",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3963586/Sansui-P-M700.html",
+        "title": "Sansui P-M700 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sansui",
+    "model": "P-M77",
+    "model_id": "sansui-0024",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4251940/Sansui-P-M77.html",
+        "title": "Sansui P-M77 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sansui",
+    "model": "SR-1050",
+    "model_id": "sansui-0025",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_SR1050_SM_SANSUI",
+        "title": "Sansui SR-1050 — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sansui",
+    "model": "SR-2020",
+    "model_id": "sansui-0026",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4378872/Sansui-Sr-2020.html",
+        "title": "Sansui SR-2020 User Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sansui",
+    "model": "SR-2050",
+    "model_id": "sansui-0027",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_SR2050_SM_SANSUI",
+        "title": "Sansui SR-2050 — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sansui",
+    "model": "SR-212",
+    "model_id": "sansui-0028",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4370676/Sansui-Sr-212.html",
+        "title": "Sansui SR-212 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sansui",
+    "model": "SR-222",
+    "model_id": "sansui-0029",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_SR222_OM_SANSUI_EN_DE_FR",
+        "title": "Sansui SR-222 — Factory manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sansui",
+    "model": "SR-232",
+    "model_id": "sansui-0030",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4370765/Sansui-Sr-232.html",
+        "title": "Sansui SR-232 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sansui",
+    "model": "SR-313",
+    "model_id": "sansui-0031",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/3/37/Sansui_SR-313-Prospekt-1.jpg",
+        "title": "Sansui — SR-313 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sansui",
+    "model": "SR-333",
+    "model_id": "sansui-0032",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/a/a0/Sansui_SR-333-Prospekt-1.jpg",
+        "title": "Sansui — SR-333 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sansui",
+    "model": "SR-4040 BC",
+    "model_id": "sansui-0033",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/thumb/b/bb/Sansui_SR-4040_BC-Prospekt-1.jpg/1600px-Sansui_SR-4040_BC-Prospekt-1.jpg",
+        "title": "Sansui — SR-4040 BC (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sansui",
+    "model": "SR-4050",
+    "model_id": "sansui-0034",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4371933/Sansui-Sr-4050.html",
+        "title": "Sansui SR-4050 User Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sansui",
+    "model": "SR-525",
+    "model_id": "sansui-0035",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4102938/Sansui-Sr-525.html",
+        "title": "Sansui SR-525 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sansui",
+    "model": "SR-535",
+    "model_id": "sansui-0036",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4368430/Sansui-Sr-535.html",
+        "title": "Sansui SR-535 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sansui",
+    "model": "SR-626",
+    "model_id": "sansui-0037",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/4/4a/Sansui_SR-626-Prospekt-1.jpg",
+        "title": "Sansui — SR-626 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sansui",
+    "model": "SR-636",
+    "model_id": "sansui-0038",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_SR636_OM_SANSUI_DE_EN_FR",
+        "title": "Sansui SR-636 — Factory manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sansui",
+    "model": "SR-717",
+    "model_id": "sansui-0039",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3660085/Sansui-Sr-717.html",
+        "title": "Sansui SR-717 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sansui",
+    "model": "SR-737",
+    "model_id": "sansui-0040",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/f/f1/Sansui_SR-737-Prospekt-1.jpg",
+        "title": "Sansui — SR-737 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sansui",
+    "model": "SR-838",
+    "model_id": "sansui-0041",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4265603/Sansui-Sr-838.html",
+        "title": "Sansui SR-838 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sansui",
+    "model": "SR-929",
+    "model_id": "sansui-0042",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3595909/Sansui-Sr-929.html",
+        "title": "Sansui SR-929 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sansui",
+    "model": "SR-B200",
+    "model_id": "sansui-0043",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4096621/Sansui-Sr-B200.html",
+        "title": "Sansui SR-B200 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sansui",
+    "model": "XR-Q11",
+    "model_id": "sansui-0044",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4337704/Sansui-Xr-Q11.html",
+        "title": "Sansui XR-Q11 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sansui",
+    "model": "XR-Q7",
+    "model_id": "sansui-0045",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4370705/Sansui-Xr-Q7.html",
+        "title": "Sansui XR-Q7 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Sansui",
+    "model": "XR-Q9",
+    "model_id": "sansui-0046",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/891943/Sansui-Xr-Q9.html",
+        "title": "Sansui XR-Q9 Service Manual"
+      }
+    ],
+    "aliases": []
+  }
+]

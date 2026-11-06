@@ -1,0 +1,223 @@
+[
+  {
+    "manufacturer": "Micro Seiki",
+    "model": "BL-51",
+    "model_id": "micro-seiki-0001",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1016359/Micro-Seiki-Bl-51.html",
+        "title": "Micro Seiki BL-51 Operating Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Micro Seiki",
+    "model": "DD-20",
+    "model_id": "micro-seiki-0002",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/3/33/Micro_Seiki_DD-20-Werbung-1977.jpg",
+        "title": "Micro Seiki — DD-20 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Micro Seiki",
+    "model": "DD-31",
+    "model_id": "micro-seiki-0003",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4357659/Micro-Seiki-Dd-31.html",
+        "title": "Micro Seiki DD-31 Operating Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Micro Seiki",
+    "model": "DD-33",
+    "model_id": "micro-seiki-0004",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1166035/Micro-Seiki-Dd-33.html",
+        "title": "Micro Seiki DD-33 Operating Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Micro Seiki",
+    "model": "DD-35",
+    "model_id": "micro-seiki-0005",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1005797/Micro-Seiki-Dd-35.html",
+        "title": "Micro Seiki DD-35 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Micro Seiki",
+    "model": "DD-40",
+    "model_id": "micro-seiki-0006",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1009003/Micro-Seiki-Dd-40.html",
+        "title": "Micro Seiki DD-40 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Micro Seiki",
+    "model": "DDX-1000",
+    "model_id": "micro-seiki-0007",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4113591/Micro-Seiki-Ddx-1000.html",
+        "title": "Micro Seiki DDX-1000 Operating Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Micro Seiki",
+    "model": "DQ-41",
+    "model_id": "micro-seiki-0008",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/3/3c/Micro_Seiki_DD-31-DQ-41-Prospekt-1.jpg",
+        "title": "Micro Seiki — DQ-41 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Micro Seiki",
+    "model": "DQ-43",
+    "model_id": "micro-seiki-0009",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/3/3b/Micro_Seiki_DQ-43-Prospekt-1.jpg",
+        "title": "Micro Seiki — DQ-43 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Micro Seiki",
+    "model": "DQL-120",
+    "model_id": "micro-seiki-0010",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1012638/Micro-Seiki-Dql-120.html",
+        "title": "Micro Seiki DQL-120 Operating Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Micro Seiki",
+    "model": "DQX-500",
+    "model_id": "micro-seiki-0011",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4189370/Micro-Seiki-Dqx-500.html",
+        "title": "Micro Seiki DQX-500 Operating Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Micro Seiki",
+    "model": "MB-12ST",
+    "model_id": "micro-seiki-0012",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1018787/Micro-Seiki-Mb-12st.html",
+        "title": "Micro Seiki MB-12ST Operating Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Micro Seiki",
+    "model": "MB-15",
+    "model_id": "micro-seiki-0013",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/a/a4/Micro_Seiki_MB-15-Werbung-1978.jpg",
+        "title": "Micro Seiki — MB-15 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Micro Seiki",
+    "model": "MR-322",
+    "model_id": "micro-seiki-0014",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/6/6d/Micro_Seiki_MR-122-222-322-Prospekt-1.jpg",
+        "title": "Micro Seiki — MR-322 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Micro Seiki",
+    "model": "MR-622",
+    "model_id": "micro-seiki-0015",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/c/c7/Micro_Seiki_MR-622-Prospekt-1.jpg",
+        "title": "Micro Seiki — MR-622 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Micro Seiki",
+    "model": "Solid-5",
+    "model_id": "micro-seiki-0016",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/2/2e/Micro_Seiki_Solid-5-Prospekt-1.jpg",
+        "title": "Micro Seiki — Solid-5 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Micro Seiki",
+    "model": "SX-555FVW",
+    "model_id": "micro-seiki-0017",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/1/16/Micro_Seiki_SX-555_FVW-Prospekt-1.jpg",
+        "title": "Micro Seiki — SX-555FVW (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  }
+]

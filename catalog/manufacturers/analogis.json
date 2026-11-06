@@ -1,0 +1,15 @@
+[
+  {
+    "manufacturer": "Analogis",
+    "model": "Dreher",
+    "model_id": "analogis-0001",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/2094578/Analogis-Dreher.html",
+        "title": "Analogis Dreher Instructions For Use Manual"
+      }
+    ],
+    "aliases": []
+  }
+]

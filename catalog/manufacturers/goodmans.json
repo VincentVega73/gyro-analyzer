@@ -1,0 +1,15 @@
+[
+  {
+    "manufacturer": "Goodmans",
+    "model": "MT.1000",
+    "model_id": "goodmans-0001",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/e/e8/Goodmans_Maxamp_30-MT.1000-StereoMax-Prospekt-1.jpg",
+        "title": "Goodmans — MT.1000 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  }
+]

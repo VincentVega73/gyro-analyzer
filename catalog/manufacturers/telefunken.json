@@ -1,0 +1,275 @@
+[
+  {
+    "manufacturer": "Telefunken",
+    "model": "CS 10",
+    "model_id": "telefunken-0001",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_CS10_SM_TELEFUNKEN_EN_DE_FR",
+        "title": "Telefunken CS 10 — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Telefunken",
+    "model": "CS 20",
+    "model_id": "telefunken-0002",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_CS20_SM_TELEFUNKEN_EN_DE_FR",
+        "title": "Telefunken CS 20 — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Telefunken",
+    "model": "Hifi 210",
+    "model_id": "telefunken-0003",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/1/15/Telefunken_Hifi_210-Prospekt-1.jpg",
+        "title": "Telefunken — Hifi 210 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Telefunken",
+    "model": "HS 800",
+    "model_id": "telefunken-0004",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/b/be/Telefunken_HA-HC-HR-HS-HT-Rack-800-Prospekt-1.jpg",
+        "title": "Telefunken — HS 800 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Telefunken",
+    "model": "HS 850",
+    "model_id": "telefunken-0005",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4263380/Telefunken-Hs-850.html",
+        "title": "Telefunken HS 850 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Telefunken",
+    "model": "HS 860",
+    "model_id": "telefunken-0006",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_HS860_SM_TELEFUNKEN_EN_DE_FR",
+        "title": "Telefunken HS 860 — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Telefunken",
+    "model": "HS 880",
+    "model_id": "telefunken-0007",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/a/ae/Telefunken_HS-880-Prospekt-1991.jpg",
+        "title": "Telefunken — HS 880 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Telefunken",
+    "model": "RS 100",
+    "model_id": "telefunken-0008",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/2/2a/Telefunken_RA-RS-RT-100-RX-100-HC-730_T-Prospekt-1.jpg",
+        "title": "Telefunken — RS 100 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Telefunken",
+    "model": "RS 120 CX",
+    "model_id": "telefunken-0009",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/a/ad/Telefunken_RC-RR-100-RX-120_CX-Prospekt-1.jpg",
+        "title": "Telefunken — RS 120 CX (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Telefunken",
+    "model": "RS 220 CX",
+    "model_id": "telefunken-0010",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3751352/Telefunken-Rs-220-Cx.html",
+        "title": "Telefunken RS 220 CX Service Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Telefunken",
+    "model": "RS 30",
+    "model_id": "telefunken-0011",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_RS30_SM_TELEFUNKEN",
+        "title": "Telefunken RS 30 — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Telefunken",
+    "model": "S 400",
+    "model_id": "telefunken-0012",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/1/1c/Telefunken_S-400-Prospekt-1977.jpg",
+        "title": "Telefunken — S 400 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Telefunken",
+    "model": "S 500",
+    "model_id": "telefunken-0013",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/9/94/Telefunken_S-500-Prospekt-1.jpg",
+        "title": "Telefunken — S 500 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Telefunken",
+    "model": "S 800",
+    "model_id": "telefunken-0014",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/9/9e/Telefunken_S-800-Prospekt-1.jpg",
+        "title": "Telefunken — S 800 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Telefunken",
+    "model": "S 900",
+    "model_id": "telefunken-0015",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/5/59/Telefunken_S-900-Prospekt-1.jpg",
+        "title": "Telefunken — S 900 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Telefunken",
+    "model": "Studio 220",
+    "model_id": "telefunken-0016",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/d/d2/Telefunken_Studio_220-Prospekt-1.jpg",
+        "title": "Telefunken — Studio 220 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Telefunken",
+    "model": "W 215",
+    "model_id": "telefunken-0017",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/7/7e/Telefunken_W-215-Prospekt-1.jpg",
+        "title": "Telefunken — W 215 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Telefunken",
+    "model": "W 230",
+    "model_id": "telefunken-0018",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/1/13/Telefunken_W-230-Prospekt-1.jpg",
+        "title": "Telefunken — W 230 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Telefunken",
+    "model": "W 233",
+    "model_id": "telefunken-0019",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/d/da/Telefunken_W-233-Prospekt-1.jpg",
+        "title": "Telefunken — W 233 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Telefunken",
+    "model": "W 240",
+    "model_id": "telefunken-0020",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/8/8a/Telefunken_W-240-Prospekt-1.jpg",
+        "title": "Telefunken — W 240 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Telefunken",
+    "model": "W 250",
+    "model_id": "telefunken-0021",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/b/b4/Telefunken_W-250-Prospekt-1.jpg",
+        "title": "Telefunken — W 250 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  }
+]

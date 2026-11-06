@@ -1,0 +1,15 @@
+[
+  {
+    "manufacturer": "BASF",
+    "model": "8120",
+    "model_id": "basf-0001",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/e/e5/BASF_8120-Prospekt-1.jpg",
+        "title": "BASF — 8120 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  }
+]

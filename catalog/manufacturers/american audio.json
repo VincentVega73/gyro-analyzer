@@ -1,0 +1,16 @@
+[
+  {
+    "manufacturer": "American Audio",
+    "model": "TTD-2400",
+    "model_id": "american-audio-0001",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://images.thomann.de/pics/prod/193226_manual.pdf",
+        "title": "American Audio TTD-2400 — factory documentation",
+        "page": 3
+      }
+    ],
+    "aliases": []
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "manufacturer": "Uher",
+    "model": "PS 936",
+    "model_id": "uher-0001",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_PS936_SM_UHER_DE",
+        "title": "Uher PS 936 — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Uher",
+    "model": "PS 950",
+    "model_id": "uher-0002",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_PS950_UHER",
+        "title": "Uher PS 950 — Factory manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Uher",
+    "model": "UTT-340",
+    "model_id": "uher-0003",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/a/a6/Uher_UTT-340-Test-1992.jpg",
+        "title": "Uher — UTT-340 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  }
+]

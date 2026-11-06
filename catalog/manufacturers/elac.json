@@ -1,0 +1,67 @@
+[
+  {
+    "manufacturer": "Elac",
+    "model": "2000 E",
+    "model_id": "elac-0001",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/thumb/7/74/ELAC2000E.jpg/1024px-ELAC2000E.jpg",
+        "title": "Elac — 2000 E (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Elac",
+    "model": "Miraphon 20",
+    "model_id": "elac-0002",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/3/32/Elac_Miraphon_20-Prospekt-1968.jpg",
+        "title": "Elac — Miraphon 20 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Elac",
+    "model": "PC 846",
+    "model_id": "elac-0003",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/thumb/9/91/Elac_plattenspieler_PC846-006.jpg/1024px-Elac_plattenspieler_PC846-006.jpg",
+        "title": "Elac — PC 846 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Elac",
+    "model": "PC 900",
+    "model_id": "elac-0004",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/thumb/a/a5/Elac_PC-900-910-Prospekt-1.jpg/1024px-Elac_PC-900-910-Prospekt-1.jpg",
+        "title": "Elac — PC 900 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Elac",
+    "model": "PC 910",
+    "model_id": "elac-0005",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/thumb/a/a5/Elac_PC-900-910-Prospekt-1.jpg/1024px-Elac_PC-900-910-Prospekt-1.jpg",
+        "title": "Elac — PC 910 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "manufacturer": "Denon DJ",
+    "model": "VL12 PRIME",
+    "model_id": "denon-dj-0001",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://support.denondj.com/en/support/solutions/articles/69000814186-denon-dj-vl12-prime-frequently-asked-questions",
+        "title": "Denon DJ — VL12 PRIME"
+      }
+    ],
+    "aliases": []
+  }
+]

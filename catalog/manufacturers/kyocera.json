@@ -1,0 +1,28 @@
+[
+  {
+    "manufacturer": "Kyocera",
+    "model": "PL-601",
+    "model_id": "kyocera-0001",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3288457/Kyocera-Pl-601.html",
+        "title": "Kyocera PL-601 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Kyocera",
+    "model": "PL-701",
+    "model_id": "kyocera-0002",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4143836/Kyocera-Pl-701.html",
+        "title": "Kyocera PL-701 Instruction Manual"
+      }
+    ],
+    "aliases": []
+  }
+]

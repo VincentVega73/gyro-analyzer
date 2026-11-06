@@ -1,0 +1,54 @@
+[
+  {
+    "manufacturer": "Clearaudio",
+    "model": "Concept",
+    "model_id": "clearaudio-0001",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/628262/Clearaudio-Concept.html",
+        "title": "Clearaudio Concept User Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Clearaudio",
+    "model": "concept Signature",
+    "model_id": "clearaudio-0002",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3358761/Clearaudio-Concept-Signature.html",
+        "title": "Clearaudio concept Signature User Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Clearaudio",
+    "model": "Innovation",
+    "model_id": "clearaudio-0003",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.clearaudio.de/en/produkt-laufwerk-innovation/",
+        "title": "Clearaudio — Innovation"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Clearaudio",
+    "model": "Performance DC",
+    "model_id": "clearaudio-0004",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/724318/Clearaudio-Performance-Dc.html",
+        "title": "Clearaudio Performance DC User Manual"
+      }
+    ],
+    "aliases": []
+  }
+]

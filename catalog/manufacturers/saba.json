@@ -1,0 +1,67 @@
+[
+  {
+    "manufacturer": "Saba",
+    "model": "CSP 355",
+    "model_id": "saba-0001",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4363665/Saba-Csp-355.html",
+        "title": "Saba CSP 355 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Saba",
+    "model": "CSP 380",
+    "model_id": "saba-0002",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4361277/Saba-Csp-380.html",
+        "title": "Saba CSP 380 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Saba",
+    "model": "PSP 350",
+    "model_id": "saba-0003",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/0/0e/Saba_PSP-350-Prospekt-1980.jpg",
+        "title": "Saba — PSP 350 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Saba",
+    "model": "PSP 480",
+    "model_id": "saba-0004",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_PSP480_SM_SABA_EN_DE_FR",
+        "title": "Saba PSP 480 — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Saba",
+    "model": "RP 1010",
+    "model_id": "saba-0005",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/4/46/Saba_RP-1010-Prospekt-1989.jpg",
+        "title": "Saba — RP 1010 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  }
+]

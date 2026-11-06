@@ -1,0 +1,509 @@
+[
+  {
+    "manufacturer": "Hitachi",
+    "model": "HT-20S",
+    "model_id": "hitachi-0001",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4152956/Hitachi-Ht-20s.html",
+        "title": "Hitachi HT-20S Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Hitachi",
+    "model": "HT-320",
+    "model_id": "hitachi-0002",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4147064/Hitachi-Ht-320.html",
+        "title": "Hitachi HT-320 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Hitachi",
+    "model": "HT-324",
+    "model_id": "hitachi-0003",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3989983/Hitachi-Ht-324.html",
+        "title": "Hitachi HT-324 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Hitachi",
+    "model": "HT -350",
+    "model_id": "hitachi-0004",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3344012/Hitachi-Ht-350.html",
+        "title": "Hitachi HT -350 Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Hitachi",
+    "model": "HT-353",
+    "model_id": "hitachi-0005",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_HT353_SM_HITACHI_EN",
+        "title": "Hitachi HT-353 — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Hitachi",
+    "model": "HT-354",
+    "model_id": "hitachi-0006",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3778050/Hitachi-Ht-354.html",
+        "title": "Hitachi HT-354 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Hitachi",
+    "model": "HT-355",
+    "model_id": "hitachi-0007",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/c/cc/Hitachi_HT-353-355-460-463-550-Prospekt-1.jpg",
+        "title": "Hitachi — HT-355 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Hitachi",
+    "model": "HT-356",
+    "model_id": "hitachi-0008",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_HT356_SM_HITACHI_EN",
+        "title": "Hitachi HT-356 — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Hitachi",
+    "model": "HT-40S",
+    "model_id": "hitachi-0009",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_HT40S_SM_HITACHI_EN",
+        "title": "Hitachi HT-40S — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Hitachi",
+    "model": "HT-41S",
+    "model_id": "hitachi-0010",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_HT41S_SM_HITACHI_EN",
+        "title": "Hitachi HT-41S — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Hitachi",
+    "model": "HT-463",
+    "model_id": "hitachi-0011",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_HT463_SM_HITACHI_EN_FR_DE",
+        "title": "Hitachi HT-463 — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Hitachi",
+    "model": "HT464",
+    "model_id": "hitachi-0012",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3381119/Hitachi-Ht464.html",
+        "title": "Hitachi HT464 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Hitachi",
+    "model": "HT-466",
+    "model_id": "hitachi-0013",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3409523/Hitachi-Ht-466.html",
+        "title": "Hitachi HT-466 Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Hitachi",
+    "model": "HT-500",
+    "model_id": "hitachi-0014",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/b/be/Hitachi_HT-500-Prospekt-1983.jpg",
+        "title": "Hitachi — HT-500 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Hitachi",
+    "model": "HT-50 S",
+    "model_id": "hitachi-0015",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/9/97/Hitachi_HT-50_S-Prospekt-1981.jpg",
+        "title": "Hitachi — HT-50 S (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Hitachi",
+    "model": "HT-550",
+    "model_id": "hitachi-0016",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3672231/Hitachi-Ht-550.html",
+        "title": "Hitachi HT-550 Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Hitachi",
+    "model": "HT-60S",
+    "model_id": "hitachi-0017",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4229741/Hitachi-Ht-60s.html",
+        "title": "Hitachi HT-60S Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Hitachi",
+    "model": "HT-61S",
+    "model_id": "hitachi-0018",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3486980/Hitachi-Ht-61s.html",
+        "title": "Hitachi HT-61S Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Hitachi",
+    "model": "HT-65S",
+    "model_id": "hitachi-0019",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4261104/Hitachi-Ht-65s.html",
+        "title": "Hitachi HT-65S Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Hitachi",
+    "model": "HT-660",
+    "model_id": "hitachi-0020",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4216132/Hitachi-Ht-660.html",
+        "title": "Hitachi HT-660 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Hitachi",
+    "model": "HT-66 S",
+    "model_id": "hitachi-0021",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/8/87/Hitachi_HT-66_S-Prospekt-1981.jpg",
+        "title": "Hitachi — HT-66 S (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Hitachi",
+    "model": "HT-6 M",
+    "model_id": "hitachi-0022",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_HT6M_SM_HITACHI_EN",
+        "title": "Hitachi HT-6 M — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Hitachi",
+    "model": "HT-7 A",
+    "model_id": "hitachi-0023",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/1/15/Hitachi_HT-7_A-Prospekt-1987.jpg",
+        "title": "Hitachi — HT-7 A (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Hitachi",
+    "model": "HT-840",
+    "model_id": "hitachi-0024",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/6/6b/Hitachi_HT-840-PS-48-58-Prospekt-1977.jpg",
+        "title": "Hitachi — HT-840 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Hitachi",
+    "model": "HT-860",
+    "model_id": "hitachi-0025",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_HT860_OM_HITACHI_DE",
+        "title": "Hitachi HT-860 — Factory manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Hitachi",
+    "model": "HT-L 303",
+    "model_id": "hitachi-0026",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/2/2d/Hitachi_HT-L_303-Prospekt-1983.jpg",
+        "title": "Hitachi — HT-L 303 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Hitachi",
+    "model": "HT-L 33",
+    "model_id": "hitachi-0027",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/b/b3/Hitachi_HT-L_33-Prospekt-1983.jpg",
+        "title": "Hitachi — HT-L 33 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Hitachi",
+    "model": "HT-L5",
+    "model_id": "hitachi-0028",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4349011/Hitachi-Ht-L5.html",
+        "title": "Hitachi HT-L5 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Hitachi",
+    "model": "HT-L55",
+    "model_id": "hitachi-0029",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1361273/Hitachi-Ht-L55.html",
+        "title": "Hitachi HT-L55 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Hitachi",
+    "model": "HT-L70",
+    "model_id": "hitachi-0030",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4032959/Hitachi-Ht-L70.html",
+        "title": "Hitachi HT-L70 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Hitachi",
+    "model": "HT-MD30",
+    "model_id": "hitachi-0031",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3305716/Hitachi-Ht-Md30.html",
+        "title": "Hitachi HT-MD30 Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Hitachi",
+    "model": "HT-MD 40",
+    "model_id": "hitachi-0032",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_HTMD40_OM_HITACHI_DE_FR_IT_NL_ES_SE",
+        "title": "Hitachi HT-MD 40 — Factory manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Hitachi",
+    "model": "HT-MD 46",
+    "model_id": "hitachi-0033",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_HTMD46_SM_HITACHI_EN_DE_FR",
+        "title": "Hitachi HT-MD 46 — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Hitachi",
+    "model": "HT-R10",
+    "model_id": "hitachi-0034",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3937076/Hitachi-Ht-R10.html",
+        "title": "Hitachi HT-R10 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Hitachi",
+    "model": "PS-17",
+    "model_id": "hitachi-0035",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3673838/Hitachi-Ps-17.html",
+        "title": "Hitachi PS-17 Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Hitachi",
+    "model": "PS-33",
+    "model_id": "hitachi-0036",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/1/1d/Hitachi_PS-33-Prospekt-1.jpg",
+        "title": "Hitachi — PS-33 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Hitachi",
+    "model": "PS-38",
+    "model_id": "hitachi-0037",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3418727/Hitachi-Ps-38.html",
+        "title": "Hitachi PS-38 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Hitachi",
+    "model": "PS-48",
+    "model_id": "hitachi-0038",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3343918/Hitachi-Ps-48.html",
+        "title": "Hitachi PS-48 Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Hitachi",
+    "model": "PS-58",
+    "model_id": "hitachi-0039",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4331850/Hitachi-Ps-58.html",
+        "title": "Hitachi PS-58 Service Manual"
+      }
+    ],
+    "aliases": []
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "manufacturer": "Andover Audio",
+    "model": "SpinDeck 2",
+    "model_id": "andover-audio-0001",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.andoveraudio.com/products/andover-spindeck-2",
+        "title": "Andover Audio — SpinDeck 2"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Andover Audio",
+    "model": "SpinDeck Max",
+    "model_id": "andover-audio-0002",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.andoveraudio.com/pages/spindeck-max-1",
+        "title": "Andover Audio — SpinDeck Max"
+      }
+    ],
+    "aliases": []
+  }
+]

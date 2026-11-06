@@ -1,0 +1,15 @@
+[
+  {
+    "manufacturer": "Nikko",
+    "model": "NP-550",
+    "model_id": "nikko-0001",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/d/d8/Nikko_NP-550-750-Prospekt-1985.jpg",
+        "title": "Nikko — NP-550 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  }
+]

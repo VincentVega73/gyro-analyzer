@@ -1,0 +1,16 @@
+[
+  {
+    "manufacturer": "MAX",
+    "model": "VP-100",
+    "model_id": "max-0001",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://storage.yandexcloud.net/technopark.instructions/730600/instruction/instrukciya-proigryvatel-vinilovyh-plastinok-max-vp-100-blue.pdf",
+        "title": "MAX VP-100 — factory documentation",
+        "page": 1
+      }
+    ],
+    "aliases": []
+  }
+]

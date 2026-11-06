@@ -1,0 +1,54 @@
+[
+  {
+    "manufacturer": "NAD",
+    "model": "5025",
+    "model_id": "nad-0001",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3988567/Nad-5025.html",
+        "title": "NAD 5025 Instructions For Installation And Operation Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "NAD",
+    "model": "5120",
+    "model_id": "nad-0002",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/363740/Nad-5120.html",
+        "title": "NAD 5120 Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "NAD",
+    "model": "C 558",
+    "model_id": "nad-0003",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1320479/Nad-C-558.html",
+        "title": "NAD C 558 Owner's Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "NAD",
+    "model": "C 588",
+    "model_id": "nad-0004",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3110224/Nad-C-588.html",
+        "title": "NAD C 588 Owner's Manual"
+      }
+    ],
+    "aliases": []
+  }
+]

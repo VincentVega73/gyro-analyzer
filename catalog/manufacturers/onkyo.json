@@ -1,0 +1,366 @@
+[
+  {
+    "manufacturer": "Onkyo",
+    "model": "CP-1010A",
+    "model_id": "onkyo-0001",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/699138/Onkyo-Cp-1010a.html",
+        "title": "Onkyo CP-1010A Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Onkyo",
+    "model": "CP-1011F",
+    "model_id": "onkyo-0002",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_CP1011F_SM_ONKYO",
+        "title": "Onkyo CP-1011F — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Onkyo",
+    "model": "CP-1015A",
+    "model_id": "onkyo-0003",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4166594/Onkyo-Cp-1015a.html",
+        "title": "Onkyo CP-1015A Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Onkyo",
+    "model": "CP-1017A",
+    "model_id": "onkyo-0004",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4171289/Onkyo-Cp-1017a.html",
+        "title": "Onkyo CP-1017A Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Onkyo",
+    "model": "CP-101A",
+    "model_id": "onkyo-0005",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/302376/Onkyo-Cp-101a.html",
+        "title": "Onkyo CP-101A Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Onkyo",
+    "model": "CP-1022A",
+    "model_id": "onkyo-0006",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/699319/Onkyo-Cp-1022a.html",
+        "title": "Onkyo CP-1022A Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Onkyo",
+    "model": "CP-1027F",
+    "model_id": "onkyo-0007",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/746110/Onkyo-Cp-1027f.html",
+        "title": "Onkyo CP-1027F Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Onkyo",
+    "model": "CP-1028RT",
+    "model_id": "onkyo-0008",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/b/b2/Onkyo_CP-1028_RT-Prospekt-1.jpg",
+        "title": "Onkyo — CP-1028RT (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Onkyo",
+    "model": "CP-1033A",
+    "model_id": "onkyo-0009",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4056890/Onkyo-Cp-1033a.html",
+        "title": "Onkyo CP-1033A Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Onkyo",
+    "model": "CP-1037F",
+    "model_id": "onkyo-0010",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/720714/Onkyo-Cp-1037f.html",
+        "title": "Onkyo CP-1037F Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Onkyo",
+    "model": "CP-1044F",
+    "model_id": "onkyo-0011",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/744713/Onkyo-Cp-1044f.html",
+        "title": "Onkyo CP-1044F Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Onkyo",
+    "model": "CP-1046F",
+    "model_id": "onkyo-0012",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3345355/Onkyo-Cp-1046f.html",
+        "title": "Onkyo CP-1046F Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Onkyo",
+    "model": "CP-1050",
+    "model_id": "onkyo-0013",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/875158/Onkyo-Cp-1050.html",
+        "title": "Onkyo CP-1050 Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Onkyo",
+    "model": "CP-1050D",
+    "model_id": "onkyo-0014",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1346288/Onkyo-Cp-1050d.html",
+        "title": "Onkyo CP-1050D Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Onkyo",
+    "model": "CP-1055F",
+    "model_id": "onkyo-0015",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3496169/Onkyo-Cp-1055f.html",
+        "title": "Onkyo CP-1055F Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Onkyo",
+    "model": "CP-1057F",
+    "model_id": "onkyo-0016",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/700228/Onkyo-Cp-1057f.html",
+        "title": "Onkyo CP-1057F Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Onkyo",
+    "model": "CP-1116A",
+    "model_id": "onkyo-0017",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_CP1116A_SM_ONKYO_EN",
+        "title": "Onkyo CP-1116A — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Onkyo",
+    "model": "CP-1130F",
+    "model_id": "onkyo-0018",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4347470/Onkyo-Cp-1130f.html",
+        "title": "Onkyo CP-1130F Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Onkyo",
+    "model": "CP-1150F",
+    "model_id": "onkyo-0019",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4251369/Onkyo-Cp-1150f.html",
+        "title": "Onkyo CP-1150F Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Onkyo",
+    "model": "CP-1200A",
+    "model_id": "onkyo-0020",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/900643/Onkyo-Cp-1200a.html",
+        "title": "Onkyo CP-1200A Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Onkyo",
+    "model": "CP-1260F",
+    "model_id": "onkyo-0021",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3650420/Onkyo-Cp-1260f.html",
+        "title": "Onkyo CP-1260F Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Onkyo",
+    "model": "CP-1280F",
+    "model_id": "onkyo-0022",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_CP1280F_SM_ONKYO_EN",
+        "title": "Onkyo CP-1280F — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Onkyo",
+    "model": "CP-1400A",
+    "model_id": "onkyo-0023",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/e/e5/Onkyo_CP-1400_A-Prospekt-1995.jpg",
+        "title": "Onkyo — CP-1400A (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Onkyo",
+    "model": "CP-30M",
+    "model_id": "onkyo-0024",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_CP30M_SM_ONKYO_EN",
+        "title": "Onkyo CP-30M — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Onkyo",
+    "model": "CP-5000A",
+    "model_id": "onkyo-0025",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3607637/Onkyo-Cp-5000a.html",
+        "title": "Onkyo CP-5000A Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Onkyo",
+    "model": "CP-60A",
+    "model_id": "onkyo-0026",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3606398/Onkyo-Cp-60a.html",
+        "title": "Onkyo CP-60A Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Onkyo",
+    "model": "PL-33",
+    "model_id": "onkyo-0027",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_PL33_SM_ONKYO_EN",
+        "title": "Onkyo PL-33 — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Onkyo",
+    "model": "PX-100M",
+    "model_id": "onkyo-0028",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_PX100M_OM_ONKYO_EN_DE",
+        "title": "Onkyo PX-100M — Factory manual"
+      }
+    ],
+    "aliases": []
+  }
+]

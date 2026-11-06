@@ -1,0 +1,28 @@
+[
+  {
+    "manufacturer": "ADC",
+    "model": "1700 DD",
+    "model_id": "adc-0001",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/9/98/ADC_1700_DD-Werbung-1978.jpg",
+        "title": "ADC — 1700 DD (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "ADC",
+    "model": "Accutrac 4000",
+    "model_id": "adc-0002",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/3/32/ADC_Accutrac_4000-1976.jpg",
+        "title": "ADC — Accutrac 4000 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  }
+]

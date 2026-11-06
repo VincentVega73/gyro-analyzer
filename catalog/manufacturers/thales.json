@@ -1,0 +1,15 @@
+[
+  {
+    "manufacturer": "Thales",
+    "model": "TTT-Compact II",
+    "model_id": "thales-0001",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1746837/Thales-Ttt-Compact-Ii.html",
+        "title": "Thales TTT-Compact II Manual"
+      }
+    ],
+    "aliases": []
+  }
+]

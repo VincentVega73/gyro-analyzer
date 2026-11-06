@@ -1,0 +1,197 @@
+[
+  {
+    "manufacturer": "Aiwa",
+    "model": "AP-2200",
+    "model_id": "aiwa-0001",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4263463/Aiwa-Ap-2200.html",
+        "title": "Aiwa AP-2200 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Aiwa",
+    "model": "AP-2300",
+    "model_id": "aiwa-0002",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/6/60/Aiwa_AP-2300-2400-Prospekt-1.jpg",
+        "title": "Aiwa — AP-2300 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Aiwa",
+    "model": "AP-2400",
+    "model_id": "aiwa-0003",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/6/60/Aiwa_AP-2300-2400-Prospekt-1.jpg",
+        "title": "Aiwa — AP-2400 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Aiwa",
+    "model": "AP-2500",
+    "model_id": "aiwa-0004",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4342256/Aiwa-Ap-2500.html",
+        "title": "Aiwa AP-2500 User Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Aiwa",
+    "model": "AP-D 30",
+    "model_id": "aiwa-0005",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/6/61/Aiwa_AP-D_30-Prospekt-1.jpg",
+        "title": "Aiwa — AP-D 30 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Aiwa",
+    "model": "AP-D 50",
+    "model_id": "aiwa-0006",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/4/4a/Aiwa_AP-D_50-Prospekt-1.jpg",
+        "title": "Aiwa — AP-D 50 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Aiwa",
+    "model": "AP-S400H",
+    "model_id": "aiwa-0007",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3582008/Aiwa-Ap-S400h.html",
+        "title": "Aiwa AP-S400H Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Aiwa",
+    "model": "LP-3000",
+    "model_id": "aiwa-0008",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4048923/Aiwa-Lp-3000.html",
+        "title": "Aiwa LP-3000 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Aiwa",
+    "model": "LX-110",
+    "model_id": "aiwa-0009",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4062431/Aiwa-Lx-110.html",
+        "title": "Aiwa LX-110 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Aiwa",
+    "model": "LX-330",
+    "model_id": "aiwa-0010",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3451244/Aiwa-Lx-330.html",
+        "title": "Aiwa LX-330 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Aiwa",
+    "model": "LX-50",
+    "model_id": "aiwa-0011",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3398175/Aiwa-Lx-50.html",
+        "title": "Aiwa LX-50 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Aiwa",
+    "model": "PX-E45",
+    "model_id": "aiwa-0012",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_PXE45_SM_AIWA_EN",
+        "title": "Aiwa PX-E45 — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Aiwa",
+    "model": "PX-E80",
+    "model_id": "aiwa-0013",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3450605/Aiwa-Px-E80.html",
+        "title": "Aiwa PX-E80 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Aiwa",
+    "model": "PX-E850",
+    "model_id": "aiwa-0014",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/207100/Aiwa-Px-E850.html",
+        "title": "Aiwa PX-E850 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Aiwa",
+    "model": "PX-E860",
+    "model_id": "aiwa-0015",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/207101/Aiwa-Px-E860.html",
+        "title": "Aiwa PX-E860 Operating Instructions"
+      }
+    ],
+    "aliases": []
+  }
+]

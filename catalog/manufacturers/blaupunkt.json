@@ -1,0 +1,41 @@
+[
+  {
+    "manufacturer": "Blaupunkt",
+    "model": "P-110",
+    "model_id": "blaupunkt-0001",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/1/1b/Blaupunkt_P-110-Prospekt-1.jpg",
+        "title": "Blaupunkt — P-110 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Blaupunkt",
+    "model": "P-240",
+    "model_id": "blaupunkt-0002",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/5/56/Blaupunkt_P-240-Prospekt-1.jpg",
+        "title": "Blaupunkt — P-240 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Blaupunkt",
+    "model": "XP-240",
+    "model_id": "blaupunkt-0003",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/e/e1/Blaupunkt_XP-240-Prospekt-1.jpg",
+        "title": "Blaupunkt — XP-240 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  }
+]

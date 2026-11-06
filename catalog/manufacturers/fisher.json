@@ -1,0 +1,301 @@
+[
+  {
+    "manufacturer": "Fisher",
+    "model": "MT-101",
+    "model_id": "fisher-0001",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3638279/Fisher-Mt-101.html",
+        "title": "Fisher MT-101 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Fisher",
+    "model": "MT-250",
+    "model_id": "fisher-0002",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_MT250_SM_FISHER",
+        "title": "Fisher MT-250 — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Fisher",
+    "model": "MT-275",
+    "model_id": "fisher-0003",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4369147/Fisher-Mt-275.html",
+        "title": "Fisher MT-275 Operating Instructions Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Fisher",
+    "model": "MT-6211",
+    "model_id": "fisher-0004",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3684769/Fisher-Mt-6211.html",
+        "title": "Fisher MT-6211 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Fisher",
+    "model": "MT-6225",
+    "model_id": "fisher-0005",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4349901/Fisher-Mt-6225.html",
+        "title": "Fisher MT-6225 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Fisher",
+    "model": "MT-6250",
+    "model_id": "fisher-0006",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3959776/Fisher-Mt-6250.html",
+        "title": "Fisher MT-6250 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Fisher",
+    "model": "MT-6310",
+    "model_id": "fisher-0007",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3403853/Fisher-Mt-6310.html",
+        "title": "Fisher MT-6310 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Fisher",
+    "model": "MT-6321",
+    "model_id": "fisher-0008",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/c/ce/Fisher_MT-6321-Prospekt-1.jpg",
+        "title": "Fisher — MT-6321 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Fisher",
+    "model": "MT-6330",
+    "model_id": "fisher-0009",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_MT6330_SM_FISHER_EN",
+        "title": "Fisher MT-6330 — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Fisher",
+    "model": "MT-6350",
+    "model_id": "fisher-0010",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4369509/Fisher-Mt-6350.html",
+        "title": "Fisher MT-6350 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Fisher",
+    "model": "MT-6355",
+    "model_id": "fisher-0011",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_MT6355_SM_FISHER_EN",
+        "title": "Fisher MT-6355 — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Fisher",
+    "model": "MT-6360",
+    "model_id": "fisher-0012",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_MT6360_FISHER",
+        "title": "Fisher MT-6360 — Factory manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Fisher",
+    "model": "MT-640",
+    "model_id": "fisher-0013",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/b/b5/Fisher_MT-275-640_B-Prospekt-1.jpg",
+        "title": "Fisher — MT-640 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Fisher",
+    "model": "MT-715",
+    "model_id": "fisher-0014",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4350503/Fisher-Mt-715.html",
+        "title": "Fisher MT-715 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Fisher",
+    "model": "MT-730",
+    "model_id": "fisher-0015",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3347693/Fisher-Mt-730.html",
+        "title": "Fisher MT-730 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Fisher",
+    "model": "MT-750",
+    "model_id": "fisher-0016",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3346600/Fisher-Mt-750.html",
+        "title": "Fisher MT-750 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Fisher",
+    "model": "MT-872",
+    "model_id": "fisher-0017",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3639247/Fisher-Mt-872.html",
+        "title": "Fisher MT-872 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Fisher",
+    "model": "MT-885R",
+    "model_id": "fisher-0018",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3958253/Fisher-Mt-885r.html",
+        "title": "Fisher MT-885R Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Fisher",
+    "model": "MT-890",
+    "model_id": "fisher-0019",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4367159/Fisher-Mt-890.html",
+        "title": "Fisher MT-890 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Fisher",
+    "model": "MT-9040",
+    "model_id": "fisher-0020",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/6/69/Fisher_MT_Prospekt-1992.jpg",
+        "title": "Fisher — MT-9040 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Fisher",
+    "model": "MT-9055",
+    "model_id": "fisher-0021",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/6/69/Fisher_MT_Prospekt-1992.jpg",
+        "title": "Fisher — MT-9055 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Fisher",
+    "model": "MT-9060",
+    "model_id": "fisher-0022",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/6/69/Fisher_MT_Prospekt-1992.jpg",
+        "title": "Fisher — MT-9060 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Fisher",
+    "model": "MT-M 700",
+    "model_id": "fisher-0023",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_MTM700_OM_FISHER_DE_FR_EN_SV",
+        "title": "Fisher MT-M 700 — Factory manual"
+      }
+    ],
+    "aliases": []
+  }
+]

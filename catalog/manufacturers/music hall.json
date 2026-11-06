@@ -1,0 +1,121 @@
+[
+  {
+    "manufacturer": "Music Hall",
+    "model": "classic",
+    "model_id": "music-hall-0001",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4173998/Music-Hall-Classic.html",
+        "title": "MUSIC HALL classic Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Music Hall",
+    "model": "mmf-1.3",
+    "model_id": "music-hall-0002",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1256042/Music-Hall-Mmf-1-3.html",
+        "title": "MUSIC HALL mmf-1.3 Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Music Hall",
+    "model": "mmf-1.5",
+    "model_id": "music-hall-0003",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3113677/Music-Hall-Mmf-1-5.html",
+        "title": "MUSIC HALL mmf-1.5 Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Music Hall",
+    "model": "MMF-2.3",
+    "model_id": "music-hall-0004",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.reichmann-audiosysteme.de/inhalt/de/manual/musichall_mmf23.pdf",
+        "title": "Music Hall MMF-2.3 — factory documentation",
+        "page": 1
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Music Hall",
+    "model": "MMF-3.3",
+    "model_id": "music-hall-0005",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.musichallaudio.com/products/music-hall-mmf-3-3-turntable",
+        "title": "Music Hall — MMF-3.3"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Music Hall",
+    "model": "MMF-5.3",
+    "model_id": "music-hall-0006",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.musichallaudio.com/products/music-hall-mmf-5-3-turntable",
+        "title": "Music Hall — MMF-5.3"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Music Hall",
+    "model": "MMF-7.3",
+    "model_id": "music-hall-0007",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.musichallaudio.com/products/music-hall-mmf-7-3-turntable",
+        "title": "Music Hall — MMF-7.3"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Music Hall",
+    "model": "MMF-9.3",
+    "model_id": "music-hall-0008",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://werner-musica.com/wp-content/uploads/2023/05/Music_hall_mmf-9.3-MANUAL.pdf?srsltid=AfmBOopj93VxNd4Bhjm1XW6aXJrLvenp48D-f1u2c-VN8ZJngge0qxPr",
+        "title": "Music Hall MMF-9.3 — factory documentation",
+        "page": 2
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Music Hall",
+    "model": "stealth",
+    "model_id": "music-hall-0009",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/2382720/Music-Hall-Stealth.html",
+        "title": "MUSIC HALL stealth Instruction Manual"
+      }
+    ],
+    "aliases": []
+  }
+]

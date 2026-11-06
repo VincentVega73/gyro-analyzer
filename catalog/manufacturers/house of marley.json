@@ -1,0 +1,41 @@
+[
+  {
+    "manufacturer": "House of Marley",
+    "model": "Stir It Up",
+    "model_id": "house-of-marley-0001",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://thehouseofmarley.com/pages/customer-support-instruction-books",
+        "title": "House of Marley — Stir It Up"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "House of Marley",
+    "model": "Stir It Up Lux",
+    "model_id": "house-of-marley-0002",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.thehouseofmarley.com/faq-stir-it-up-lux",
+        "title": "House of Marley — Stir It Up Lux"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "House of Marley",
+    "model": "Stir It Up Wireless",
+    "model_id": "house-of-marley-0003",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://thehouseofmarley.com/pages/faq-stir-it-up-wireless-bluetooth-turntable",
+        "title": "House of Marley — Stir It Up Wireless"
+      }
+    ],
+    "aliases": []
+  }
+]

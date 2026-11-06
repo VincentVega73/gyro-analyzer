@@ -1,0 +1,327 @@
+[
+  {
+    "manufacturer": "Marantz",
+    "model": "6050",
+    "model_id": "marantz-0001",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4077528/Marantz-6050.html",
+        "title": "Marantz 6050 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Marantz",
+    "model": "6100",
+    "model_id": "marantz-0002",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_6100_SM_MARANTZ_EN",
+        "title": "Marantz 6100 — Service manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Marantz",
+    "model": "6150",
+    "model_id": "marantz-0003",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://archive.org/details/manual_6150_MARANTZ",
+        "title": "Marantz 6150 — Factory manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Marantz",
+    "model": "6200",
+    "model_id": "marantz-0004",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/3/32/Marantz_6200-Prospekt-1.jpg",
+        "title": "Marantz — 6200 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Marantz",
+    "model": "6270Q",
+    "model_id": "marantz-0005",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4263655/Marantz-6270q.html",
+        "title": "Marantz 6270Q Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Marantz",
+    "model": "6300",
+    "model_id": "marantz-0006",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/888497/Marantz-6300.html",
+        "title": "Marantz 6300 User Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Marantz",
+    "model": "SLT-12",
+    "model_id": "marantz-0007",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4509172/Marantz-Slt-12.html",
+        "title": "Marantz SLT-12 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Marantz",
+    "model": "TT-1000",
+    "model_id": "marantz-0008",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/4/49/Marantz_TT-1000-Prospekt-1982.jpg",
+        "title": "Marantz — TT-1000 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Marantz",
+    "model": "TT-120 CT",
+    "model_id": "marantz-0009",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/d/db/MB12.jpg",
+        "title": "Marantz — TT-120 CT (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Marantz",
+    "model": "TT-130 CT",
+    "model_id": "marantz-0010",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/6/64/Marantz_TT-140-240-340-Prospekt-1984.jpg",
+        "title": "Marantz — TT-130 CT (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Marantz",
+    "model": "TT-15S1",
+    "model_id": "marantz-0011",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/99081/Marantz-Tt-15s1.html",
+        "title": "Marantz TT-15S1 User Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Marantz",
+    "model": "TT-2000",
+    "model_id": "marantz-0012",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/8/85/Marantz_TT-2000-4000-6000-Prospekt-1981.jpg",
+        "title": "Marantz — TT-2000 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Marantz",
+    "model": "TT2200",
+    "model_id": "marantz-0013",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/940226/Marantz-Tt2200.html",
+        "title": "Marantz TT2200 Owner's Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Marantz",
+    "model": "TT-221 CT",
+    "model_id": "marantz-0014",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/d/db/MB12.jpg",
+        "title": "Marantz — TT-221 CT (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Marantz",
+    "model": "TT-240 CT",
+    "model_id": "marantz-0015",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/6/64/Marantz_TT-140-240-340-Prospekt-1984.jpg",
+        "title": "Marantz — TT-240 CT (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Marantz",
+    "model": "TT-320 CT",
+    "model_id": "marantz-0016",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/7/74/MB11.jpg",
+        "title": "Marantz — TT-320 CT (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Marantz",
+    "model": "TT333",
+    "model_id": "marantz-0017",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/3648789/Marantz-Tt333.html",
+        "title": "Marantz TT333 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Marantz",
+    "model": "TT-340 CT",
+    "model_id": "marantz-0018",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/6/64/Marantz_TT-140-240-340-Prospekt-1984.jpg",
+        "title": "Marantz — TT-340 CT (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Marantz",
+    "model": "TT4000",
+    "model_id": "marantz-0019",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4315905/Marantz-Tt4000.html",
+        "title": "Marantz TT4000 Owner's Instruction Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Marantz",
+    "model": "TT42",
+    "model_id": "marantz-0020",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/350608/Marantz-Tt42.html",
+        "title": "Marantz TT42 User Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Marantz",
+    "model": "TT420",
+    "model_id": "marantz-0021",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/4054764/Marantz-Tt420.html",
+        "title": "Marantz TT420 Service Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Marantz",
+    "model": "TT-440 CT",
+    "model_id": "marantz-0022",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/a/a0/Marantz_TT-440-530-Prospekt-1984.jpg",
+        "title": "Marantz — TT-440 CT (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Marantz",
+    "model": "TT5005",
+    "model_id": "marantz-0023",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/619700/Marantz-Tt5005.html",
+        "title": "Marantz TT5005 Owner's Manual"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Marantz",
+    "model": "TT-6000",
+    "model_id": "marantz-0024",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/8/85/Marantz_TT-2000-4000-6000-Prospekt-1981.jpg",
+        "title": "Marantz — TT-6000 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "manufacturer": "Marantz",
+    "model": "TT8001",
+    "model_id": "marantz-0025",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.manualslib.com/manual/1254771/Marantz-Tt8001.html",
+        "title": "Marantz TT8001 Service Manual"
+      }
+    ],
+    "aliases": []
+  }
+]

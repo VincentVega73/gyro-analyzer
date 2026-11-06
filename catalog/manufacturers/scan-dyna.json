@@ -1,0 +1,15 @@
+[
+  {
+    "manufacturer": "Scan-Dyna",
+    "model": "1400",
+    "model_id": "scan-dyna-0001",
+    "sources": [
+      {
+        "key": "identity",
+        "url": "https://www.hifi-wiki.de/images/3/36/Scan-Dyna_2400-Werbung-1973.jpg",
+        "title": "Scan-Dyna — 1400 (factory brochure, reproduced sheet)"
+      }
+    ],
+    "aliases": []
+  }
+]
