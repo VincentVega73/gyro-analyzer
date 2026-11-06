@@ -191,6 +191,14 @@
     "drive_type": {
       "value": "direct",
       "source": "identity"
-    }
+    },
+    "related_designations": [
+      {
+        "designation": "SL-1210GR2",
+        "type": "color_variant",
+        "source": "identity",
+        "color": "black"
+      }
+    ]
   }
 ]

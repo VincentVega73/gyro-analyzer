@@ -1,6 +1,6 @@
 # Gyro Pro turntable library
 
-Edition 1.0.0 identifies 134 turntables. Every record has model evidence; technical fields are optional. Factory specifications describe a model, not an owner's measurements.
+Edition 1.1.0 identifies 134 turntables and one related factory designation. Every record has model evidence; technical fields are optional. Factory specifications describe a model, not an owner's measurements.
 
 | Manufacturer | Models |
 | --- | ---: |
@@ -36,11 +36,69 @@ After dependency installation these commands work offline. The check validates t
 - Lookup ignores case, spacing and punctuation but keeps digits and revision suffixes. Conflicting aliases stop the build and identify the records requiring review.
 - Submit corrections via an Issue with primary evidence, then a reviewed PR. Private entries made in the app are not submitted automatically.
 
+## Searching by the designation on the turntable
+
+Use an alias for a documented second name of the same model. For a separately labelled finish, use a related designation when the manufacturer explicitly identifies the color pairing. Give a technically distinct revision its own model ID. Ignore punctuation, spaces and case in all three cases. All normalized labels must be unique within each manufacturer.
+
+Schema 2 adds an optional field. Schema 1 rejected additional model properties, so strict version 1 readers need an update. Existing individual records remain valid without the field. The legacy Python function `lookup` still returns full records for names and aliases. Use `lookup_matches` or the CLI for designation-aware results. The CLI requires a manufacturer and reads the built asset. An empty result is `[]`. Specifications accessed later by model ID describe the base record. Only the facts in the relation itself are attributed to the matched finish.
+
+The SL-1200GR2 record links its variant to the existing local source key:
+
+```json
+{
+  "related_designations": [
+    {
+      "color": "black",
+      "designation": "SL-1210GR2",
+      "source": "identity",
+      "type": "color_variant"
+    }
+  ]
+}
+```
+
+```console
+python catalog/catalog.py lookup Technics SL-1200GR2
+```
+
+```json
+[
+  {
+    "model_id": "technics-0011",
+    "base_model": "SL-1200GR2",
+    "match_type": "name",
+    "matched_designation": "SL-1200GR2"
+  }
+]
+```
+
+```console
+python catalog/catalog.py lookup Technics SL-1210GR2
+```
+
+```json
+[
+  {
+    "model_id": "technics-0011",
+    "base_model": "SL-1200GR2",
+    "match_type": "related_designation",
+    "matched_designation": "SL-1210GR2",
+    "relation_type": "color_variant",
+    "source": {
+      "key": "identity",
+      "title": "Technics unveils the next generation high-end turntables in its iconic SL-1200 Series",
+      "url": "https://www.technics.com/se/news/0024.html"
+    },
+    "color": "black"
+  }
+]
+```
+
 ## Exclusions and identity decisions
 
 - Michell Gyro SE, GyroDec and the new Gyro are separate records. A Gyro SE MK II setup guide does not establish equivalence with every Gyro SE. Its revision-specific parameters were not copied into the family record.
-- SL-1210GR2 was not counted separately or added as an alias: the [joint announcement](https://www.technics.com/se/news/0024.html) presents it as the black counterpart to SL-1200GR2. SL-1200LTD was retained because Technics identifies a pitch reset function as well as a different finish.
-- Rega Record Store Day 2016 RP1 and Thorens TD 124 DD 140th Anniversary were not counted on the basis of artwork or a commemorative bundle. TD 1600 TP 160 and TD 1601 TP 160 were deferred until the base model and tonearm configurations can be documented separately.
+- SL-1210GR2 is the black counterpart to the silver SL-1200GR2. Both names resolve to technics-0011. See the [Technics joint announcement](https://www.technics.com/se/news/0024.html). SL-1200LTD was retained because Technics identifies a pitch reset function as well as a different finish.
+- Rega Record Store Day 2016 RP1 and Thorens TD 124 DD 140th Anniversary were not counted on the basis of artwork or a commemorative bundle. See the [Rega timeline](https://www.rega.co.uk/about/timeline) and [Thorens lineup](https://www.thorens.com/en/items/products/turntables.html). TD 1600 TP 160 and TD 1601 TP 160 were deferred until the base model and tonearm configurations can be documented separately.
 - Sony PS-LX150H and PS-LX350H were deferred because the individual support pages could not be verified for this edition.
 
 ## Two complete records

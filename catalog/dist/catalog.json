@@ -1,5 +1,5 @@
 {
-  "catalog_version": "1.0.0",
+  "catalog_version": "1.1.0",
   "models": [
     {
       "aliases": [],
@@ -1570,6 +1570,14 @@
       "manufacturer": "Technics",
       "model": "SL-1200GR2",
       "model_id": "technics-0011",
+      "related_designations": [
+        {
+          "color": "black",
+          "designation": "SL-1210GR2",
+          "source": "identity",
+          "type": "color_variant"
+        }
+      ],
       "sources": [
         {
           "key": "identity",
@@ -1890,5 +1898,5 @@
       ]
     }
   ],
-  "schema_version": 1
+  "schema_version": 2
 }

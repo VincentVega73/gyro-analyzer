@@ -30,9 +30,42 @@ def norm(name):
     return "".join(c for c in unicodedata.normalize("NFKC", name).casefold() if c.isalnum())
 
 
+def designations(row):
+    yield "name", row["model"], None
+    for alias in row["aliases"]:
+        yield "alias", alias, None
+    for relation in row.get("related_designations", []):
+        yield "related_designation", relation["designation"], relation
+
+
+def matches(records, manufacturer, name):
+    brand, query = norm(manufacturer), norm(name)
+    for row in records:
+        if norm(row["manufacturer"]) == brand:
+            for kind, label, relation in designations(row):
+                if norm(label) == query:
+                    yield row, kind, label, relation
+
+
 def lookup(records, manufacturer, name):
-    return [r for r in records if norm(r["manufacturer"]) == norm(manufacturer)
-            and norm(name) in {norm(x) for x in [r["model"], *r["aliases"]]}]
+    """Legacy API returns full model records for names and aliases."""
+    return [row for row, _, _, relation in matches(records, manufacturer, name)
+            if relation is None]
+
+
+def lookup_matches(records, manufacturer, name):
+    """Return identity and evidence. Technical fields belong to the base record."""
+    results = []
+    for row, kind, label, relation in matches(records, manufacturer, name):
+        result = {"model_id": row["model_id"], "base_model": row["model"],
+                  "match_type": kind, "matched_designation": label}
+        if relation is not None:
+            result["relation_type"] = relation["type"]
+            result["source"] = next(s for s in row["sources"] if s["key"] == relation["source"])
+            if "color" in relation:
+                result["color"] = relation["color"]
+        results.append(result)
+    return results
 
 
 def validate(data):
@@ -41,7 +74,7 @@ def validate(data):
     for e in validator.iter_errors(data):
         raise ValueError(f"{e.json_path}: {e.message}")
     ids, canonical = set(), set()
-    names = defaultdict(set)
+    names = defaultdict(list)
     for row in data["models"]:
         mid = row["model_id"]
         brand = norm(row["manufacturer"])
@@ -61,16 +94,16 @@ def validate(data):
         facts = row.get("specifications", []) + [row[k] for k in ("drive_type", "speeds_rpm") if k in row]
         if any(f["source"] not in keys for f in facts):
             raise ValueError(f"{mid}: unknown source key")
-        local = set()
-        for label in [row["model"], *row["aliases"]]:
+        for kind, label, relation in designations(row):
             n = norm(label)
-            if not n or n in local:
-                raise ValueError(f"{mid}: empty or redundant alias {label}")
-            names[brand, n].add(mid)
-            local.add(n)
-    collisions = {k: sorted(v) for k, v in names.items() if len(v) > 1}
+            if not n:
+                raise ValueError(f"{mid}: empty normalized {kind} {label!r}")
+            if relation is not None and relation["source"] not in keys:
+                raise ValueError(f"{mid}: {label!r}: unknown source {relation['source']!r}")
+            names[brand, n].append(f"{mid} {kind} {label!r}")
+    collisions = {k: v for k, v in names.items() if len(v) > 1}
     if collisions:
-        raise ValueError(f"Alias collisions (review separately): {collisions}")
+        raise ValueError(f"Designation collisions: {collisions}")
 
 
 def collect():
@@ -90,9 +123,19 @@ def collect():
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("action", choices=["check", "build"])
+    commands = parser.add_subparsers(dest="action", required=True)
+    commands.add_parser("check")
+    commands.add_parser("build")
+    search = commands.add_parser("lookup")
+    search.add_argument("manufacturer")
+    search.add_argument("query")
     args = parser.parse_args()
     try:
+        if args.action == "lookup":
+            data = read(OUTPUT)
+            validate(data)
+            print(json.dumps(lookup_matches(data["models"], args.manufacturer, args.query), indent=2))
+            return
         data = collect()
         content = (json.dumps(data, ensure_ascii=False, indent=2, sort_keys=True) + "\n").encode("utf-8")
         if args.action == "build":
