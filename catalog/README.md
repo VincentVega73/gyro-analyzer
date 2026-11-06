@@ -35,7 +35,15 @@ python -m unittest discover -s catalog
 python catalog/catalog.py build
 ```
 
-After dependency installation these commands work offline. The check validates the data and compares the committed artifact byte for byte. The build sorts records by manufacturer, model and ID, sorts object keys and writes UTF-8 without BOM, with LF endings. To bundle the [built JSON](dist/catalog.json) in Android, copy it to `app/src/main/assets/turntables/catalog.json` during app assembly. Reading this asset requires no GitHub request.
+After dependency installation these commands work offline. The check validates the data and compares the committed artifact byte for byte. The build sorts records by manufacturer, model and ID, sorts object keys and writes UTF-8 without BOM, with LF endings. The offline package contains the data, illustrations and credits.
+
+## Offline illustrations
+
+From the repository root, run `python catalog/catalog.py bundle ../gyro-turntables-assets.zip` after installing the dependencies above. Extract the ZIP into `app/src/main/assets/`. The archive root is `turntables/`; the catalog is `turntables/catalog.json` and the illustration manifest is `turntables/media/manifest.json`. Resolve a model ID in `assignments`, then open its `path` relative to the manifest directory. Render its `caption` verbatim. It either identifies the pictured model or says «Условное изображение». Use the separate `related_designations` entry when looking up a related name. It has its own caption decision and adds no model ID.
+
+The manifest also carries per-image attribution, source and license links and the visual review notes. Keep it with the images. Four original generic plates are stored once and referenced by multiple rows. The catalog validator checks every assignment and decodes all WebP files during both check and build. Adding a model requires a media assignment in the same change.
+
+[Coverage, source credits and review notes](media/REPORT.md) · [All 154 thumbnails](review/catalog-overview.png) · [Per-model research log](media/research.json)
 
 ## Editing the data
 

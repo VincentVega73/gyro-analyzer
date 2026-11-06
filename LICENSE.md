@@ -10,6 +10,10 @@ The full license is in [CC-BY-4.0.txt](LICENSES/CC-BY-4.0.txt); the authoritativ
 
 Suggested attribution: "Gyro Analyzer documentation / Official Gyro Optical Target, Copyright 2026 Sergey Kravchinskiy, CC BY 4.0, <https://github.com/VincentVega73/gyro-analyzer>". Identify the target version and describe any modifications.
 
+## Turntable illustrations
+
+The four original generic illustrations are distributed under CC BY 4.0. Each model-specific WebP uses the license of its main reference as identified in the [illustration credits](catalog/media/REPORT.md) and the [offline attribution manifest](catalog/media/manifest.json). Retain the credits, modification notices and license links with the images, including when distributing the overview sheets.
+
 ## Excluded materials
 
 Gyro Analyzer branding, logos and visual identity: all rights reserved by Sergey Kravchinskiy. No trademark rights or endorsement are granted. The PDF copyright grant permits reproduction and adaptation of the target document; the brand reservation does not withdraw that grant or impose additional copyright restrictions on licensed material.

@@ -2,10 +2,14 @@
 import argparse
 import json
 import sys
+import tempfile
 import unicodedata
 from collections import defaultdict
 from pathlib import Path
 from urllib.parse import urlsplit
+from zipfile import ZipFile, ZipInfo
+
+from illustrations import validate_illustrations
 
 from jsonschema import Draft202012Validator
 
@@ -136,6 +140,8 @@ def main():
     commands = parser.add_subparsers(dest="action", required=True)
     commands.add_parser("check")
     commands.add_parser("build")
+    bundle = commands.add_parser("bundle", help="write the offline Android assets ZIP")
+    bundle.add_argument("output", type=Path)
     search = commands.add_parser("lookup")
     search.add_argument("manufacturer")
     search.add_argument("query")
@@ -147,12 +153,25 @@ def main():
             print(json.dumps(lookup_matches(data["models"], args.manufacturer, args.query), ensure_ascii=False, indent=2))
             return
         data = collect()
+        media = ROOT / "media"
+        manifest = media / "manifest.json"
+        paths = validate_illustrations(data["models"], read(manifest), media)
         content = (json.dumps(data, ensure_ascii=False, indent=2, sort_keys=True) + "\n").encode("utf-8")
         if args.action == "build":
             OUTPUT.parent.mkdir(exist_ok=True)
             OUTPUT.write_bytes(content)
         elif not OUTPUT.exists() or OUTPUT.read_bytes() != content:
             raise ValueError("catalog/dist/catalog.json is missing or stale; run build")
+        if args.action == "bundle":
+            if args.output.suffix.lower() != ".zip":
+                raise ValueError("Bundle output must be a .zip file")
+            with tempfile.TemporaryDirectory(dir=args.output.parent) as staging:
+                packed = Path(staging) / "assets.zip"
+                with ZipFile(packed, "w") as archive:
+                    archive.writestr(ZipInfo("turntables/catalog.json"), content)
+                    for path in ["manifest.json", *paths]:
+                        archive.writestr(ZipInfo("turntables/media/" + path), (media / path).read_bytes())
+                packed.replace(args.output)
         print(f"{args.action}: OK, {len(data['models'])} models")
     except (ValueError, OSError) as exc:
         sys.exit(str(exc))

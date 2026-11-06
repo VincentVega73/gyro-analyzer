@@ -1,0 +1,96 @@
+"""Validate offline illustration assignments and resolve source-backed captions."""
+import re
+from pathlib import Path, PurePosixPath
+from urllib.parse import urlsplit
+
+from PIL import Image
+
+
+FALLBACKS = {"neutral", "classic", "open", "linear"}
+GENERIC_CAPTION = "Условное изображение"
+
+
+def check_file(root, relative):
+    if not isinstance(relative, str) or not re.fullmatch(
+        r"(models|fallbacks)/[a-z0-9-]+\.webp", relative
+    ):
+        raise ValueError(f"Unsafe illustration path: {relative!r}")
+    path = (root / PurePosixPath(relative)).resolve()
+    if not path.is_relative_to(root.resolve()):
+        raise ValueError(f"Illustration outside media directory: {relative}")
+    try:
+        with Image.open(path) as image:
+            if image.format != "WEBP" or image.size != (960, 720) or image.n_frames != 1:
+                raise ValueError(f"Expected a single 960 x 720 WebP: {relative}")
+            image.load()
+    except OSError as exc:
+        raise ValueError(f"Unreadable illustration: {relative}") from exc
+
+
+def check_evidence(entry):
+    source, review = entry.get("reference"), entry.get("visual_review")
+    required = ("page", "author", "title", "depicted", "identification", "license", "license_url", "changes")
+    if not isinstance(source, dict) or not all(
+        isinstance(source.get(key), str) and source[key].strip() for key in required
+    ):
+        raise ValueError("Missing model reference or attribution")
+    for key in ("page", "license_url"):
+        url = urlsplit(source[key])
+        if url.scheme not in ("https", "http") or not url.hostname:
+            raise ValueError(f"Invalid source {key}")
+    for extra in entry.get("additional_references", []):
+        if not isinstance(extra, dict) or not all(
+            isinstance(extra.get(key), str) and extra[key].strip() for key in required
+        ) or extra["depicted"] != entry["caption"]:
+            raise ValueError("Missing supporting reference details")
+    if source["depicted"] != entry["caption"]:
+        raise ValueError("Depicted model differs from caption")
+    if not isinstance(review, dict) or not all(
+        isinstance(review.get(key), str) and review[key].strip() for key in ("full_size", "card_size")
+    ):
+        raise ValueError("Missing visual review at both sizes")
+
+
+def validate_illustrations(models, manifest, root):
+    if not isinstance(manifest, dict) or manifest.get("version") != 1 or not isinstance(manifest.get("assignments"), list):
+        raise ValueError("Invalid illustration manifest")
+    names = {row["model_id"]: (row["model"] if row["manufacturer"].casefold() in row["model"].casefold()
+                             else f"{row['manufacturer']} {row['model']}") for row in models}
+    seen, paths = set(), {f"fallbacks/{name}.webp" for name in FALLBACKS}
+    for entry in manifest["assignments"]:
+        if not isinstance(entry, dict):
+            raise ValueError("Invalid illustration assignment")
+        mid = entry.get("model_id")
+        if mid not in names or mid in seen:
+            raise ValueError(f"Unknown or duplicate illustration ID: {mid}")
+        seen.add(mid)
+        kind, path = entry.get("kind"), entry.get("path")
+        if kind == "generic":
+            if entry.get("caption") != GENERIC_CAPTION or path not in {f"fallbacks/{x}.webp" for x in FALLBACKS}:
+                raise ValueError(f"{mid}: invalid conditional illustration or caption")
+        elif kind == "model":
+            if path != f"models/{mid}.webp" or entry.get("caption") != names[mid]:
+                raise ValueError(f"{mid}: wrong model path or depicted designation")
+            check_evidence(entry)
+        else:
+            raise ValueError(f"{mid}: unknown illustration kind")
+        paths.add(path)
+    if seen != names.keys():
+        raise ValueError(f"Missing illustration assignments: {sorted(names.keys() - seen)}")
+    # Color variants use a labeled fallback until given a separate visual review.
+    related = {(r["model_id"], item["designation"]) for r in models for item in r.get("related_designations", [])}
+    for entry in manifest.get("related_designations", []):
+        key = (entry.get("model_id"), entry.get("designation"))
+        if key not in related or entry.get("kind") != "generic" or entry.get("caption") != GENERIC_CAPTION:
+            raise ValueError(f"Invalid related illustration: {key}")
+        if entry.get("path") not in {f"fallbacks/{x}.webp" for x in FALLBACKS}:
+            raise ValueError(f"Invalid related fallback: {key}")
+        related.remove(key)
+    if related:
+        raise ValueError(f"Missing related designations: {sorted(related)}")
+    for path in sorted(paths):
+        check_file(root, path)
+    files = {p.relative_to(root).as_posix() for p in root.rglob("*.webp")}
+    if files != paths:
+        raise ValueError(f"Unassigned media files: {sorted(files - paths)}")
+    return sorted(paths)

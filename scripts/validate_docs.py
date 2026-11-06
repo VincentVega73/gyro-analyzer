@@ -14,13 +14,17 @@ allowed={'.md','.pdf','.svg','.png','.json','.yml','.yaml','.py','.txt'}
 for p in ROOT.rglob('*'):
     if not p.is_file() or any(part in {'.git','node_modules','__pycache__'} for part in p.relative_to(ROOT).parts):continue
     relative=p.relative_to(ROOT).as_posix()
+    media_image = p.suffix == '.webp' and relative.startswith(('catalog/media/models/', 'catalog/media/fallbacks/'))
+    if media_image:continue
     if p.suffix not in allowed and p.name not in {'.gitignore','.gitattributes'}:errors.append('Forbidden file type: '+relative)
     if p.suffix in {'.png','.pdf'}:continue
     text=p.read_text(encoding='utf-8')
     # Factory designations and transcriptions retain their source language.
     catalog_text = (relative.startswith('catalog/manufacturers/') and p.suffix == '.json') or relative in {
-        'catalog/dist/catalog.json', 'catalog/catalog.py', 'catalog/test_catalog.py', 'catalog/README.md'}
-    if re.search(r'[\u4e00-\u9fff]' if catalog_text else r'[\u0400-\u052f\u4e00-\u9fff]',text):errors.append('Non-English script needs review: '+relative)
+        'catalog/dist/catalog.json', 'catalog/catalog.py', 'catalog/test_catalog.py', 'catalog/README.md', 'catalog/illustrations.py',
+        'catalog/media/manifest.json', 'catalog/media/research.json', 'catalog/media/REPORT.md'}
+    # Research records preserve multilingual source titles, captions and queries.
+    if relative != 'catalog/media/research.json' and re.search(r'[\u4e00-\u9fff]' if catalog_text else r'[\u0400-\u052f\u4e00-\u9fff]',text):errors.append('Non-English script needs review: '+relative)
     # Common secret formats, local private paths and application-source markers.
     patterns=[r'gh[pousr]_[A-Za-z0-9]{30,}',r'github_pat_[A-Za-z0-9_]{30,}',r'AKIA[A-Z0-9]{16}',r'-----BEGIN [A-Z ]*PRIVATE KEY-----',r'[A-Z]:\\Users\\',r'package\s+ru\.gyro\.tachometer',r'(?i)(password|token|api_key)\s*[:=]\s*[\"\x27][A-Za-z0-9_-]{20,}']
     for pattern in patterns:

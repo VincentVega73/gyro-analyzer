@@ -1,0 +1,1082 @@
+{
+  "version": 1,
+  "assignments": [
+    {
+      "model_id": "audio-technica-0008",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/classic.webp"
+    },
+    {
+      "model_id": "audio-technica-0010",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "audio-technica-0001",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "audio-technica-0002",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "audio-technica-0007",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/classic.webp"
+    },
+    {
+      "model_id": "audio-technica-0011",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/classic.webp"
+    },
+    {
+      "model_id": "audio-technica-0009",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "audio-technica-0003",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "audio-technica-0004",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "audio-technica-0005",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "audio-technica-0006",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "dual-0010",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/classic.webp"
+    },
+    {
+      "model_id": "dual-0009",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "dual-0011",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "dual-0012",
+      "kind": "model",
+      "caption": "Dual 1019",
+      "path": "models/dual-0012.webp",
+      "reference": {
+        "page": "https://commons.wikimedia.org/wiki/File:Dual_1019_-_top_(13054461235).jpg",
+        "title": "File:Dual 1019 - top (13054461235).jpg",
+        "author": "Jacques from Cape Town, South Africa",
+        "depicted": "Dual 1019",
+        "identification": "The source caption or file title names the depicted turntable.",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "changes": "Reference redrawn in graphite, lettering and surroundings omitted; framed and encoded in WebP."
+      },
+      "visual_review": {
+        "full_size": "Compared the stepped wood base, concentric mat, straight arm, left speed selector and right control arc. Removed an extra knob from the first draft.",
+        "card_size": "The wood frame, wide platter ring and opposite control panels remain distinct."
+      }
+    },
+    {
+      "model_id": "dual-0013",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "dual-0014",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "dual-0015",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "dual-0016",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "dual-0017",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "dual-0018",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/classic.webp"
+    },
+    {
+      "model_id": "dual-0019",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "dual-0020",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/classic.webp"
+    },
+    {
+      "model_id": "dual-0021",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "dual-0022",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "dual-0023",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "dual-0024",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "dual-0025",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "dual-0026",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "dual-0027",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "dual-0028",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "dual-0029",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "dual-0030",
+      "kind": "model",
+      "caption": "Dual 704",
+      "path": "models/dual-0030.webp",
+      "reference": {
+        "page": "https://www.flickr.com/photos/12577725@N05/6083009087",
+        "title": "Dual 704",
+        "author": "touhotus",
+        "depicted": "Dual 704",
+        "identification": "The source caption or file title names the depicted turntable.",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "changes": "Reference redrawn in graphite, lettering and surroundings omitted; framed and encoded in WebP."
+      },
+      "visual_review": {
+        "full_size": "Compared the smoked closed lid, parked straight arm and rectangular headshell, mat and front-right lever; headphones removed. The first draft omitted the headshell.",
+        "card_size": "The closed cover and right-side pickup remain recognizable."
+      }
+    },
+    {
+      "model_id": "dual-0031",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "dual-0001",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "dual-0005",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/classic.webp"
+    },
+    {
+      "model_id": "dual-0002",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "dual-0006",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/classic.webp"
+    },
+    {
+      "model_id": "dual-0003",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "dual-0007",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/classic.webp"
+    },
+    {
+      "model_id": "dual-0004",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "dual-0008",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "michell-0007",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "michell-0002",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "michell-0001",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/open.webp"
+    },
+    {
+      "model_id": "michell-0003",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "michell-0004",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "michell-0006",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "michell-0008",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "michell-0005",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "pioneer-0009",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "pioneer-0022",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "pioneer-0010",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "pioneer-0018",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/classic.webp"
+    },
+    {
+      "model_id": "pioneer-0026",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "pioneer-0021",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "pioneer-0027",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "pioneer-0006",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "pioneer-0029",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "pioneer-0015",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "pioneer-0007",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "pioneer-0014",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "pioneer-0028",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "pioneer-0002",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "pioneer-0005",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/classic.webp"
+    },
+    {
+      "model_id": "pioneer-0013",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "pioneer-0003",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "pioneer-0004",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "pioneer-0016",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/classic.webp"
+    },
+    {
+      "model_id": "pioneer-0031",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "pioneer-0001",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/classic.webp"
+    },
+    {
+      "model_id": "pioneer-0012",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "pioneer-0017",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "pioneer-0020",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "pioneer-0008",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "pioneer-0011",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "pioneer-0025",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "pioneer-0024",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "pioneer-0019",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "pioneer-0030",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/linear.webp"
+    },
+    {
+      "model_id": "pioneer-0023",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "pioneer-0033",
+      "kind": "model",
+      "caption": "Pioneer PLX-1000",
+      "path": "models/pioneer-0033.webp",
+      "reference": {
+        "page": "https://commons.wikimedia.org/wiki/File:Pioneer_PLX_1000_turntable_(23759260846).jpg",
+        "title": "File:Pioneer PLX 1000 turntable (23759260846).jpg",
+        "author": "Peter VanLane",
+        "depicted": "Pioneer PLX-1000",
+        "identification": "The source caption or file title names the depicted turntable.",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "changes": "Reference redrawn in graphite, lettering and surroundings omitted; framed and encoded in WebP."
+      },
+      "visual_review": {
+        "full_size": "Compared the oblique chassis, platter, round start button, pitch track and bent arm. The record and cartridge are specific to the source unit.",
+        "card_size": "The angled plinth and the front start/stop circle remain recognizable."
+      }
+    },
+    {
+      "model_id": "pioneer-0032",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "pioneer-0034",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "rega-0009",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "rega-0016",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "rega-0021",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/classic.webp"
+    },
+    {
+      "model_id": "rega-0022",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "rega-0020",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "rega-0017",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "rega-0018",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "rega-0019",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "rega-0001",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "rega-0007",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "rega-0002",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/classic.webp"
+    },
+    {
+      "model_id": "rega-0003",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/classic.webp"
+    },
+    {
+      "model_id": "rega-0004",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/classic.webp"
+    },
+    {
+      "model_id": "rega-0005",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "rega-0008",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "rega-0006",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/open.webp"
+    },
+    {
+      "model_id": "rega-0015",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "rega-0010",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/classic.webp"
+    },
+    {
+      "model_id": "rega-0013",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "rega-0014",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "rega-0011",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "rega-0012",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/classic.webp"
+    },
+    {
+      "model_id": "sony-0004",
+      "kind": "model",
+      "caption": "Sony PS-HX500",
+      "path": "models/sony-0004.webp",
+      "reference": {
+        "page": "https://commons.wikimedia.org/wiki/File:Sony_Turntable_PS-HX500_(23851285663).jpg",
+        "title": "File:Sony Turntable PS-HX500 (23851285663).jpg",
+        "author": "Maurizio Pesce from Milan, Italia",
+        "depicted": "Sony PS-HX500",
+        "identification": "The source caption or file title names the depicted turntable.",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "changes": "Reference redrawn in graphite, lettering and surroundings omitted; framed and encoded in WebP."
+      },
+      "visual_review": {
+        "full_size": "Compared the rectangular plinth, raised clear lid, two hinge positions and parked arm in the documented right-side view.",
+        "card_size": "The lid outline and pickup remain separable from the platter."
+      }
+    },
+    {
+      "model_id": "sony-0005",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "sony-0001",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/classic.webp"
+    },
+    {
+      "model_id": "sony-0002",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "sony-0003",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "technics-0007",
+      "kind": "model",
+      "caption": "Technics SL-1100",
+      "path": "models/technics-0007.webp",
+      "reference": {
+        "page": "https://commons.wikimedia.org/wiki/File:Technics_SL-1100_with_Acos_Lustre_GST1_tonearm_(12082009746).jpg",
+        "title": "File:Technics SL-1100 with Acos Lustre GST1 tonearm (12082009746).jpg",
+        "author": "Jacques from Cape Town, South Africa",
+        "depicted": "Technics SL-1100",
+        "identification": "The source caption or file title names the depicted turntable.",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "changes": "Reference redrawn in graphite, lettering and surroundings omitted; framed and encoded in WebP."
+      },
+      "visual_review": {
+        "full_size": "Compared the divided top plate, two front stop/start keys, single selector slot and pair of rotary adjustments. This photographed example has an Acos Lustre GST1 arm.",
+        "card_size": "The contrasting arm panel and separate front controls remain legible."
+      }
+    },
+    {
+      "model_id": "technics-0006",
+      "kind": "model",
+      "caption": "Technics SL-1200",
+      "path": "models/technics-0006.webp",
+      "reference": {
+        "page": "https://commons.wikimedia.org/wiki/File:Technics_SL-1200_Original_1972.jpg",
+        "title": "File:Technics SL-1200 Original 1972.jpg",
+        "author": "BMRR",
+        "depicted": "Technics SL-1200",
+        "identification": "The source caption or file title names the depicted turntable.",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "changes": "Reference redrawn in graphite, lettering and surroundings omitted; framed and encoded in WebP."
+      },
+      "visual_review": {
+        "full_size": "Original 1972 version: selector slot and two knobs at left, no later pitch slider; checked arm base, hinge positions, mat and feet.",
+        "card_size": "The early front-left control arrangement remains distinct from MK2."
+      }
+    },
+    {
+      "model_id": "technics-0011",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "technics-0009",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "technics-0001",
+      "kind": "model",
+      "caption": "Technics SL-1200MK2",
+      "path": "models/technics-0001.webp",
+      "reference": {
+        "page": "https://commons.wikimedia.org/wiki/File:Technics_SL-1200MK2-2.jpg",
+        "title": "File:Technics SL-1200MK2-2.jpg",
+        "author": "Dydric (photograph); 32bitmaschine (crop/sharpen); Lämpel (distortion correction)",
+        "depicted": "Technics SL-1200MK2",
+        "identification": "The source caption or file title names the depicted turntable.",
+        "license": "CC BY-SA 2.5",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+        "changes": "Reference redrawn in graphite, lettering and surroundings omitted; framed and encoded in WebP."
+      },
+      "visual_review": {
+        "full_size": "The case, right-hand S arm, pitch slider, front-left speed keys and the circular adapter at the rear left correspond to the source. The cartridge shown belongs to this photographed unit.",
+        "card_size": "The platter, long pitch track and arm remain distinct."
+      }
+    },
+    {
+      "model_id": "technics-0002",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "technics-0003",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "technics-0004",
+      "kind": "model",
+      "caption": "Technics SL-1200MK5",
+      "path": "models/technics-0004.webp",
+      "reference": {
+        "page": "https://commons.wikimedia.org/w/index.php?curid=10710727",
+        "title": "Technics SL-1200Mk5",
+        "author": "Dave Walker from Royal Oak, MI, USA",
+        "depicted": "Technics SL-1200MK5",
+        "identification": "The source caption or file title names the depicted turntable.",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "changes": "Reference redrawn in graphite, lettering and surroundings omitted; framed and encoded in WebP."
+      },
+      "visual_review": {
+        "full_size": "Compared the silver unit at right in the overall photograph and its exact-model overhead detail. Checked the small reset button directly below the pitch slider and front-left controls in the corrected plate.",
+        "card_size": "The reset control under the pitch track and near-overhead arm layout remain visible."
+      },
+      "additional_references": [
+        {
+          "page": "https://commons.wikimedia.org/w/index.php?curid=116007854",
+          "title": "Technics SL-1200MK5 Direct Drive Turntable System with Ortofon cartridge (2017-01-21 22.33.27 piqsels.com en)",
+          "author": "Unidentified photographer, via Piqsels",
+          "depicted": "Technics SL-1200MK5",
+          "identification": "Top plate bears SL-1200MK5; used only for control registration.",
+          "license": "CC0 1.0",
+          "license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+          "changes": "Reference redrawn in graphite, lettering and surroundings omitted; framed and encoded in WebP."
+        }
+      ]
+    },
+    {
+      "model_id": "technics-0005",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "technics-0010",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "technics-0008",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "thorens-0011",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "thorens-0010",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/classic.webp"
+    },
+    {
+      "model_id": "thorens-0009",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/classic.webp"
+    },
+    {
+      "model_id": "thorens-0002",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/classic.webp"
+    },
+    {
+      "model_id": "thorens-0012",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "thorens-0003",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/classic.webp"
+    },
+    {
+      "model_id": "thorens-0008",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/classic.webp"
+    },
+    {
+      "model_id": "thorens-0007",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/classic.webp"
+    },
+    {
+      "model_id": "thorens-0006",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/classic.webp"
+    },
+    {
+      "model_id": "thorens-0005",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/classic.webp"
+    },
+    {
+      "model_id": "thorens-0004",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/classic.webp"
+    },
+    {
+      "model_id": "thorens-0001",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/classic.webp"
+    },
+    {
+      "model_id": "aria-0001",
+      "kind": "model",
+      "caption": "Ария-102-стерео",
+      "path": "models/aria-0001.webp",
+      "reference": {
+        "page": "https://commons.wikimedia.org/wiki/File:USSR._Turntables_Arija_102._img-01.jpg",
+        "title": "File:USSR. Turntables Arija 102. img-01.jpg",
+        "author": "Dmitry Makeev",
+        "depicted": "Ария-102-стерео",
+        "identification": "The source caption or file title names the depicted turntable.",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "changes": "Reference redrawn in graphite, lettering and surroundings omitted; framed and encoded in WebP."
+      },
+      "visual_review": {
+        "full_size": "Compared the straight arm and semicircular base, silver rectangular body, strobe platter and the separate front control groups against the complete unit.",
+        "card_size": "The dark front band and straight arm remain distinct."
+      }
+    },
+    {
+      "model_id": "arktur-0001",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/classic.webp"
+    },
+    {
+      "model_id": "vega-0001",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/classic.webp"
+    },
+    {
+      "model_id": "vega-0002",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/classic.webp"
+    },
+    {
+      "model_id": "vega-0003",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/classic.webp"
+    },
+    {
+      "model_id": "vega-0004",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/classic.webp"
+    },
+    {
+      "model_id": "impuls-0001",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/classic.webp"
+    },
+    {
+      "model_id": "korvet-0002",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/classic.webp"
+    },
+    {
+      "model_id": "korvet-0001",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/classic.webp"
+    },
+    {
+      "model_id": "orfey-0001",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "radiotehnika-0001",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "radiotehnika-0002",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "feniks-0001",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/classic.webp"
+    },
+    {
+      "model_id": "feniks-0002",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "elektronika-0001",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/classic.webp"
+    },
+    {
+      "model_id": "elektronika-0004",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/classic.webp"
+    },
+    {
+      "model_id": "elektronika-0002",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/classic.webp"
+    },
+    {
+      "model_id": "elektronika-0003",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/classic.webp"
+    },
+    {
+      "model_id": "elektronika-0005",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    },
+    {
+      "model_id": "estoniya-0001",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/classic.webp"
+    }
+  ],
+  "related_designations": [
+    {
+      "model_id": "technics-0011",
+      "designation": "SL-1210GR2",
+      "kind": "generic",
+      "caption": "Условное изображение",
+      "path": "fallbacks/neutral.webp"
+    }
+  ],
+  "generic_credit": {
+    "title": "Four original generic turntable studies",
+    "credit": "Gyro Pro catalog",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/"
+  }
+}
