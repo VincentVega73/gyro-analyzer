@@ -12,7 +12,7 @@ Suggested attribution: "Gyro Analyzer documentation / Official Gyro Optical Targ
 
 ## Turntable illustrations
 
-The four original generic illustrations are distributed under CC BY 4.0. Each model-specific WebP uses the license of its main reference as identified in the [illustration credits](catalog/media/REPORT.md) and the [offline attribution manifest](catalog/media/manifest.json). Retain the credits, modification notices and license links with the images, including when distributing the overview sheets.
+The four original generic illustrations and independent studies marked `independent_study` are distributed under CC BY 4.0. Each redraw made from a licensed image uses the license of its main reference as identified in the [illustration credits](catalog/media/REPORT.md) and the [offline attribution manifest](catalog/media/manifest.json). Retain the credits, modification notices and license links with the images, including when distributing the overview sheets.
 
 ## Excluded materials
 

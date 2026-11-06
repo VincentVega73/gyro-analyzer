@@ -1343,13 +1343,7 @@
       "openverse_query": "\"Michell Gyro SE\"",
       "commons_results_review_queue": 5,
       "openverse_result_count": 5,
-      "outcome": "generic",
-      "reason": "rights_unconfirmed",
-      "note": "The manufacturer distinguishes Gyro SE from GyroDec. Photos of a Technics SL-1500 mentioning a former Gyro SE do not depict it. No adaptation grant located for the exact Gyro SE photos reviewed.",
-      "construction": {
-        "page": "https://www.whathifi.com/reviews/michell-gyro-se-cusis-s",
-        "basis": "Three-point open spider plinth, pictured with a pivot arm."
-      },
+      "outcome": "model",
       "discovered_page_sample": [
         "https://commons.wikimedia.org/wiki/File:Victoria_Daily_Times_(1922-03-18)_(IA_victoriadailytimes19220318).pdf",
         "https://commons.wikimedia.org/wiki/File:A_list_of_the_officers_claiming,_..._1663_(IA_bim_early-english-books-1641-1700_a-list-of-the-officers-c_1663).pdf",
@@ -1360,6 +1354,43 @@
         "https://www.michellaudio.com/about",
         "https://www.whathifi.com/reviews/michell-gyro-se-cusis-s",
         "https://www.flickr.com/photos/nathanmarciniak/3970178629/"
+      ],
+      "creation": "independent_study",
+      "render_prompt": "Create a new independently composed engineering plate of the original silver Michell Gyro SE spider edition, NOT the full-plinth GyroDec and NOT the new Gyro. Construct the image from these equipment facts. Landscape 4:3, entirely on pure white, centered whole unit with equal generous margins; view nearly level from FRONT, shifted 12 degrees to the LEFT and elevated only 13 degrees, to show the space below the platter. Precise fine graphite outlines with light parallel hatching. No text. The dominant disc is a thick BLACK smooth platter, flat empty top with short spindle; below its rim hang exactly SIX evenly spaced short vertical polished brass cylindrical inertia weights on the platter underside, several visible with others occluded. Below the weights a separate light silver suspended cast subchassis forms a low gently curved generously cut-away circular frame wrapping around the platter footprint with an extension for the pivot arm on the right. Beneath the subchassis is a CLEAR acrylic three-legged spider supported by three small conical feet; three smooth cylindrical suspension tower caps at the extremities (separate from the six moving platter weights). Distinct freestanding cylindrical motor pod in a cutout toward the back LEFT drives a thin round belt around the platter rim; do not put motor in the centre. Circular raised armboard on the back RIGHT with conventional mounted straight dark pivot arm parked on right angled forward; it is one illustrative fitted arm, avoid cartridge details. No rectangular plinth, no lid, no record, no room, no lettering, no border, no arrows. Form follows the functional geometry, not any particular photograph. CRITICAL reconstruction corrections: support points form a triangle seen from the front: ONLY TWO tower caps and feet are visible, one at front LEFT and one at front RIGHT of the chassis, separated by the entire width of the platter. The third tower is at REAR CENTRE hidden by the platter. No tower, foot or projection anywhere in the middle of the front arc. The front edge is a broad continuous curved silver arc with a small flush circular medallion at its midpoint. Two triangular voids left and right of the central bearing spoke are partly visible behind that arc. Feet at left and right flare wider toward the floor (small metal leveling bells). Arms of clear spider curve inward between the feet and largely disappear beneath the chassis. LEFT motor has its OWN freestanding cylindrical base sitting on floor and rising through an opening at the back left. Platter inertia weights hang from the UNDERside near rim, occluded in rear half, NO distracting colors use grayscale only. At right the conventional tonearm must be COMPLETE, counterweight behind pivot, dark tapered arm reaching forward and gently INWARD ending in a dark flat integral headshell and visibly modeled cartridge/stylus near the front-right platter edge. Do not draw a bare tube missing its headshell. View from a low front-left oblique angle with NO lid, NO big acrylic base or rectangular box. Balance woodcut fine hatch and engineering realism.",
+      "input_images": [],
+      "construction_sources": [
+        {
+          "type": "manual",
+          "organization": "Michell Engineering",
+          "title": "Gyro SE MK II Pictorial Setup Instructions",
+          "page": "https://img1.wsimg.com/blobby/go/e7b4a121-5138-4561-863c-f34797d271ca/downloads/Gyro%20SE%20MK%20II%20Setup.pdf?ver=1650974794626",
+          "locator": "pp. 2, 5, 6; steps 4, 12, 16",
+          "detail": "Triangular spider, suspended casting, left motor opening, right armboard and belt routing on the documented SE assembly."
+        },
+        {
+          "type": "photograph",
+          "organization": "Lefflers",
+          "title": "Michell Engineering Gyro SE — product gallery",
+          "page": "https://www.lefflers.se/produkt/michell-engineering-gyro-se",
+          "locator": "https://www.lefflers.se/assets/uploads/products/2991/700_michell_engineering_gyro_se1.jpg",
+          "detail": "Low side view: separate cylindrical motor, belt and under-platter weights."
+        },
+        {
+          "type": "photograph",
+          "organization": "Lefflers",
+          "title": "Michell Engineering Gyro SE — product gallery",
+          "page": "https://www.lefflers.se/produkt/michell-engineering-gyro-se",
+          "locator": "https://www.lefflers.se/assets/uploads/products/2991/700_michell_engineering_gyro_se2.jpg",
+          "detail": "Opposite side: pivot on the raised circular armboard and conical foot below the casting."
+        },
+        {
+          "type": "photograph",
+          "organization": "Lefflers",
+          "title": "Michell Engineering Gyro SE — product gallery",
+          "page": "https://www.lefflers.se/produkt/michell-engineering-gyro-se",
+          "locator": "https://www.lefflers.se/assets/uploads/products/2991/700_michell_engineering_gyro_se3.jpg",
+          "detail": "Front assembly: floating perimeter, two forward suspension towers."
+        }
       ]
     },
     {
@@ -4371,19 +4402,49 @@
       "openverse_query": "\"Арктур-006-стерео\"",
       "commons_results_review_queue": 0,
       "openverse_result_count": 0,
-      "outcome": "generic",
-      "reason": "rights_unconfirmed",
-      "note": "Factory manual, leaf 4, fig. 2: complete Arktur-006, hinged lid and pivot arm. Neither the scanned manual nor the museum photo credits establish adaptation and distribution rights. The Commons Arktur-004 is a different model.",
-      "construction": {
-        "page": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/arktur006in.djvu",
-        "leaf": 4,
-        "basis": "General arrangement: enclosed plinth and pivoting pickup."
-      },
+      "outcome": "model",
       "discovered_page_sample": [],
       "examined_candidates": [
         "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/arktur006in.djvu",
         "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/arktur006s.html",
         "https://commons.wikimedia.org/wiki/Category:Unitra_G602"
+      ],
+      "creation": "independent_study",
+      "render_prompt": "New independently composed engineering plate of the complete silver Berdsk Arktur-006-stereo record player from the G-2021-equipped series. Construct this ORIGINAL graphite drawing from these technical facts. Landscape 4:3, pure white, centered with generous consistent margins. Camera: almost frontal orthographic view from slightly to the front RIGHT, elevation 34 degrees; keeps top and front fascia visible. Flat, broad low rectangular light silver housing with a thin dark bottom seam, width about 1.2 times its depth. Hinged transparent smoked rectangular dust lid raised at the REAR. Main black platter/mat on left with radial narrow grooves and short center spindle; silver rim with two rings of stroboscope dots. A small angled strobe viewer just forward/left of platter. At back right, round metal pivot pedestal with tonearm counterweight behind it; silver S-curved arm runs forward on right with small angled headshell and stylus. On the top at the far right, IN FRONT of arm base, a SINGLE slim vertical control strip: two small round fine adjustment knobs in tandem and two rectangular keys at its front, one for speed and one for stop. A small switch on a horizontally inset nameplate toward the LEFT on the FRONT vertical fascia. Keep the fascia otherwise bare. No row of buttons below the platter, no pitch slider, no additional rotary controls, no text, no numbers or logos, no radio components, no record. Fine disciplined graphite outlines and light hatching, whole apparatus including open lid. Do not stylize as a Technics DJ deck.",
+      "input_images": [],
+      "construction_sources": [
+        {
+          "type": "manual",
+          "organization": "Бердский радиозавод",
+          "title": "Арктур-006-стерео — руководство по эксплуатации",
+          "page": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/arktur006in.djvu",
+          "locator": "Scan leaf 4, printed pp. 6–7, fig. 2 and control legend",
+          "detail": "Platter, lid, arm, strobe viewer, two speed trims, speed and stop keys, front mains switch."
+        },
+        {
+          "type": "photograph",
+          "organization": "Отечественная радиотехника XX века (archive)",
+          "title": "Арктур-006-стерео — фотосерия",
+          "page": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/arktur006s.html",
+          "locator": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/arktur006_00.jpg",
+          "detail": "Silver example, open hinged cover, right-hand pivot and single control strip."
+        },
+        {
+          "type": "photograph",
+          "organization": "Отечественная радиотехника XX века (archive)",
+          "title": "Арктур-006-стерео — фотосерия",
+          "page": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/arktur006s.html",
+          "locator": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/arktur006_01.jpg",
+          "detail": "Second example confirms arm and controls; finish differs."
+        },
+        {
+          "type": "photograph",
+          "organization": "Отечественная радиотехника XX века (archive)",
+          "title": "Арктур-006-стерео — фотосерия",
+          "page": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/arktur006s.html",
+          "locator": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/arktur006_03.jpg",
+          "detail": "Low front view confirms shallow rectangular case and front switch position."
+        }
       ]
     },
     {

@@ -27,8 +27,48 @@ def check_file(root, relative):
         raise ValueError(f"Unreadable illustration: {relative}") from exc
 
 
+def check_construction_study(entry):
+    sources = entry.get("construction_sources")
+    if not isinstance(sources, list) or "reference" in entry or "additional_references" in entry:
+        raise ValueError("Independent study requires a separate construction evidence list")
+    photos, manuals = set(), set()
+    for source in sources:
+        if not isinstance(source, dict) or not all(
+            isinstance(source.get(k), str) and source[k].strip()
+            for k in ("title", "organization", "page", "detail", "locator", "type")
+        ):
+            raise ValueError("Incomplete construction source")
+        url = urlsplit(source["page"])
+        if url.scheme not in ("http", "https") or not url.hostname:
+            raise ValueError("Invalid construction source URL")
+        location = (source["page"], source["locator"])
+        if source["type"] == "photograph":
+            photos.add(location)
+        elif source["type"] == "manual":
+            manuals.add(location)
+        else:
+            raise ValueError("Unknown construction source type")
+    if len(photos) < 2 or not manuals:
+        raise ValueError("Two distinct photo views and a factory manual are required")
+    credit = entry.get("artwork_credit")
+    if not isinstance(credit, dict) or not all(isinstance(credit.get(k), str)
+            and credit[k].strip() for k in ("credit", "license", "license_url")):
+        raise ValueError("Missing independent artwork credit")
+
+
 def check_evidence(entry):
-    source, review = entry.get("reference"), entry.get("visual_review")
+    review = entry.get("visual_review")
+    if not isinstance(review, dict) or not all(
+        isinstance(review.get(key), str) and review[key].strip() for key in ("full_size", "card_size")
+    ):
+        raise ValueError("Missing visual review at both sizes")
+    mode = entry.get("creation", "reference_redraw")
+    if mode == "independent_study":
+        check_construction_study(entry)
+        return
+    if mode != "reference_redraw":
+        raise ValueError("Unknown illustration creation mode")
+    source = entry.get("reference")
     required = ("page", "author", "title", "depicted", "identification", "license", "license_url", "changes")
     if not isinstance(source, dict) or not all(
         isinstance(source.get(key), str) and source[key].strip() for key in required
@@ -45,14 +85,11 @@ def check_evidence(entry):
             raise ValueError("Missing supporting reference details")
     if source["depicted"] != entry["caption"]:
         raise ValueError("Depicted model differs from caption")
-    if not isinstance(review, dict) or not all(
-        isinstance(review.get(key), str) and review[key].strip() for key in ("full_size", "card_size")
-    ):
-        raise ValueError("Missing visual review at both sizes")
+
 
 
 def validate_illustrations(models, manifest, root):
-    if not isinstance(manifest, dict) or manifest.get("version") != 1 or not isinstance(manifest.get("assignments"), list):
+    if not isinstance(manifest, dict) or manifest.get("version") != 2 or not isinstance(manifest.get("assignments"), list):
         raise ValueError("Invalid illustration manifest")
     names = {row["model_id"]: (row["model"] if row["manufacturer"].casefold() in row["model"].casefold()
                              else f"{row['manufacturer']} {row['model']}") for row in models}

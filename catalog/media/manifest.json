@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "assignments": [
     {
       "model_id": "audio-technica-0008",
@@ -295,9 +295,53 @@
     },
     {
       "model_id": "michell-0001",
-      "kind": "generic",
-      "caption": "Условное изображение",
-      "path": "fallbacks/open.webp"
+      "kind": "model",
+      "caption": "Michell Gyro SE",
+      "path": "models/michell-0001.webp",
+      "creation": "independent_study",
+      "artwork_credit": {
+        "credit": "Gyro Pro catalog",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "construction_sources": [
+        {
+          "type": "manual",
+          "organization": "Michell Engineering",
+          "title": "Gyro SE MK II Pictorial Setup Instructions",
+          "page": "https://img1.wsimg.com/blobby/go/e7b4a121-5138-4561-863c-f34797d271ca/downloads/Gyro%20SE%20MK%20II%20Setup.pdf?ver=1650974794626",
+          "locator": "pp. 2, 5, 6; steps 4, 12, 16",
+          "detail": "Triangular spider, suspended casting, left motor opening, right armboard and belt routing on the documented SE assembly."
+        },
+        {
+          "type": "photograph",
+          "organization": "Lefflers",
+          "title": "Michell Engineering Gyro SE — product gallery",
+          "page": "https://www.lefflers.se/produkt/michell-engineering-gyro-se",
+          "locator": "https://www.lefflers.se/assets/uploads/products/2991/700_michell_engineering_gyro_se1.jpg",
+          "detail": "Low side view: separate cylindrical motor, belt and under-platter weights."
+        },
+        {
+          "type": "photograph",
+          "organization": "Lefflers",
+          "title": "Michell Engineering Gyro SE — product gallery",
+          "page": "https://www.lefflers.se/produkt/michell-engineering-gyro-se",
+          "locator": "https://www.lefflers.se/assets/uploads/products/2991/700_michell_engineering_gyro_se2.jpg",
+          "detail": "Opposite side: pivot on the raised circular armboard and conical foot below the casting."
+        },
+        {
+          "type": "photograph",
+          "organization": "Lefflers",
+          "title": "Michell Engineering Gyro SE — product gallery",
+          "page": "https://www.lefflers.se/produkt/michell-engineering-gyro-se",
+          "locator": "https://www.lefflers.se/assets/uploads/products/2991/700_michell_engineering_gyro_se3.jpg",
+          "detail": "Front assembly: floating perimeter, two forward suspension towers."
+        }
+      ],
+      "visual_review": {
+        "full_size": "Checked separated motor, open spider, low suspended casting, two forward towers, weights beneath the platter and right armboard. Fitted arm is illustrative.",
+        "card_size": "The motor, under-platter weights and open chassis remain distinct."
+      }
     },
     {
       "model_id": "michell-0003",
@@ -951,9 +995,53 @@
     },
     {
       "model_id": "arktur-0001",
-      "kind": "generic",
-      "caption": "Условное изображение",
-      "path": "fallbacks/classic.webp"
+      "kind": "model",
+      "caption": "Арктур-006-стерео",
+      "path": "models/arktur-0001.webp",
+      "creation": "independent_study",
+      "artwork_credit": {
+        "credit": "Gyro Pro catalog",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "construction_sources": [
+        {
+          "type": "manual",
+          "organization": "Бердский радиозавод",
+          "title": "Арктур-006-стерео — руководство по эксплуатации",
+          "page": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/arktur006in.djvu",
+          "locator": "Scan leaf 4, printed pp. 6–7, fig. 2 and control legend",
+          "detail": "Platter, lid, arm, strobe viewer, two speed trims, speed and stop keys, front mains switch."
+        },
+        {
+          "type": "photograph",
+          "organization": "Отечественная радиотехника XX века (archive)",
+          "title": "Арктур-006-стерео — фотосерия",
+          "page": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/arktur006s.html",
+          "locator": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/arktur006_00.jpg",
+          "detail": "Silver example, open hinged cover, right-hand pivot and single control strip."
+        },
+        {
+          "type": "photograph",
+          "organization": "Отечественная радиотехника XX века (archive)",
+          "title": "Арктур-006-стерео — фотосерия",
+          "page": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/arktur006s.html",
+          "locator": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/arktur006_01.jpg",
+          "detail": "Second example confirms arm and controls; finish differs."
+        },
+        {
+          "type": "photograph",
+          "organization": "Отечественная радиотехника XX века (archive)",
+          "title": "Арктур-006-стерео — фотосерия",
+          "page": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/arktur006s.html",
+          "locator": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/arktur006_03.jpg",
+          "detail": "Low front view confirms shallow rectangular case and front switch position."
+        }
+      ],
+      "visual_review": {
+        "full_size": "Checked raised lid, silver rectangular housing, front switch, left platter and strobe, right-hand curved arm, paired trims and two front control keys.",
+        "card_size": "Lid, platter and narrow right control strip remain identifiable."
+      }
     },
     {
       "model_id": "vega-0001",

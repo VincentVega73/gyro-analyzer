@@ -43,6 +43,18 @@ class IllustrationTests(unittest.TestCase):
                 with self.assertRaises(ValueError):
                     validate_illustrations(self.models, doc, self.media)
 
+    def test_independent_study_requires_distinct_views_and_manual(self):
+        from illustrations import check_evidence
+        study = next(r for r in self.manifest["assignments"] if r.get("creation") == "independent_study")
+        check_evidence(study)
+        manual = next(r for r in study["construction_sources"] if r["type"] == "manual")
+        photos = [r for r in study["construction_sources"] if r["type"] == "photograph"]
+        for sources in (photos, [manual, photos[0], photos[0]]):
+            with self.assertRaises(ValueError):
+                check_evidence(dict(study, construction_sources=sources))
+        with self.assertRaises(ValueError):
+            check_evidence(dict(study, reference={}))
+
     def test_invalid_files(self):
         from PIL import Image
         with tempfile.TemporaryDirectory() as tmp:
