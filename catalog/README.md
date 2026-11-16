@@ -1,6 +1,6 @@
 # Gyro Pro turntable library
 
-Edition 1.5.0 identifies 1,639 turntables and four related factory designations. Every record has model evidence; technical fields are optional. Factory specifications describe a model, not an owner's measurements.
+Edition 1.5.1 identifies 1,639 turntables and four related factory designations. Every record has model evidence; technical fields are optional. Factory specifications describe a model, not an owner's measurements.
 
 | Manufacturer | Models |
 | --- | ---: |
@@ -105,7 +105,7 @@ Edition 1.5.0 identifies 1,639 turntables and four related factory designations.
 
 ## Research import
 
-Edition 1.5.0 reviewed 162 document leads and enriched the 50-model priority shortlist. The [iteration report](review/ITERATION-1.5.md) links the decision log, priority coverage and per-model source/ZIP/APK image checks.
+Edition 1.5.1 reviewed 162 document leads and enriched the 50-model priority shortlist. The [iteration report](review/ITERATION-1.5.md) links the decision log, priority coverage and per-model source/ZIP/APK image checks.
 
 Edition 1.4.0 added 1,214 model IDs after reviewing all 3,365 open designations. The [source review](review/source-review-1.4.csv) records a decision for each one. Confirmed records cite manufacturer pages, factory manuals or identifiable sheets from manufacturer brochures. The review retains unverified document leads separately from primary evidence.
 
