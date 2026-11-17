@@ -93,7 +93,7 @@ def validate_illustrations(models, manifest, root):
         raise ValueError("Invalid illustration manifest")
     names = {row["model_id"]: (row["model"] if row["manufacturer"].casefold() in row["model"].casefold()
                              else f"{row['manufacturer']} {row['model']}") for row in models}
-    seen, paths = set(), {f"fallbacks/{name}.webp" for name in FALLBACKS}
+    seen, paths = set(), set()
     for entry in manifest["assignments"]:
         if not isinstance(entry, dict):
             raise ValueError("Invalid illustration assignment")
@@ -122,12 +122,14 @@ def validate_illustrations(models, manifest, root):
             raise ValueError(f"Invalid related illustration: {key}")
         if entry.get("path") not in {f"fallbacks/{x}.webp" for x in FALLBACKS}:
             raise ValueError(f"Invalid related fallback: {key}")
+        paths.add(entry["path"])
         related.remove(key)
     if related:
         raise ValueError(f"Missing related designations: {sorted(related)}")
-    for path in sorted(paths):
+    library_paths = paths | {f"fallbacks/{name}.webp" for name in FALLBACKS}
+    for path in sorted(library_paths):
         check_file(root, path)
     files = {p.relative_to(root).as_posix() for p in root.rglob("*.webp")}
-    if files != paths:
-        raise ValueError(f"Unassigned media files: {sorted(files - paths)}")
+    if files != library_paths:
+        raise ValueError(f"Unassigned media files: {sorted(files - library_paths)}")
     return sorted(paths)

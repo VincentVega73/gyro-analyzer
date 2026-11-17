@@ -145,7 +145,7 @@ def main():
                         row.update(status="изображение или привязка ошибочны", reason=column + ": " + row[column])
             rows.append(row)
     problems.extend("unknown ID " + mid for mid in sorted(set(assignments) - ids))
-    problems.extend("unassigned file " + p for p in sorted({p for p in real_paths if p.lower().endswith(".webp")} - used))
+    problems.extend("unassigned file " + p for p in sorted({p for p in real_paths if p.lower().endswith(".webp")} - used - {f"fallbacks/{name}.webp" for name in FALLBACKS}))
     table(out / "images-audit.csv", list(rows[0]), rows)
     errors = [dict(model_id=r["model_id"], issue=r["reason"], next_action="Проверить источник и исправить назначение")
               for r in rows if r["status"] not in ("модельный эскиз доступен", "условный эскиз доступен")]
