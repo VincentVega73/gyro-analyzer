@@ -1,7 +1,9 @@
 # Android candidate image coverage
 
-The debug Android snapshot contains 1,639 models. All 20 pilot models and two models from batch 2 (Rega Planar 2 and Planar 10) have individual drawings. Coverage is 22/1,639 (1.34%). The remaining 1,617 model cards and four related designations use captioned generic artwork. The package contains 22 individual drawings and three distinct generic drawings. No individual drawing is shared. The target is 820 models; 798 more verified assignments are needed.
+The debug APK and AAB contain 40 individually illustrated models out of 1,639 (2.44%). The other 1,599 model cards and four related designations use generic artwork. There are 40 unique model drawings, three generic drawings and zero shared model drawings. Another 780 verified assignments are needed to reach 820.
 
-Model-specific observations, source pages, view locators and manuals are recorded in the media manifest. The pilot revisions include the front controls of the Sony PS-LX520 and Dual CS 329, the three radial supports of the Korvet, the Vega fascia, and the separate pitch adjustments and start/stop controls of the Technics SL-1100. Artwork was selected from independent studies. Text-only generation was used for new and corrected drawings.
+Batch 2 contains four Rega, four Dual and twelve Pro-Ject turntables. Eighteen new drawings join the existing Planar 2 and Planar 10. The manufacturer's product views and manual for each addition are indexed in the offline media manifest. The final pass corrected the CS 429 rotary selector, the front-right controls of Signature 10 and the perforated VT-E clamp.
 
-[20-model pilot sheet](../review/pilot/android-pilot-status.jpg) · [Batch 2 contact sheet](../review/batch-02/contact.jpg) · [Model-by-model package audit](../review/images-audit.csv) · [Coverage by brand](../review/images-by-brand.csv)
+All 15 catalog tests passed. The package audit found zero errors. All catalog entries in the APK and AAB matched the source ZIP byte for byte. The emulator decoded every assigned image and passed both catalog UI scenarios in airplane mode (three Android tests). The contact sheet uses the same twenty WebP files as the app. The batch inventory records their SHA-256 digests.
+
+[Pilot sheet](../review/pilot/android-pilot-status.jpg) · [Batch 2 sheet](../review/batch-02/contact.jpg) · [Batch inventory](../review/batch-02/models.json) · [Audit by model](../review/images-audit.csv) · [Coverage by brand](../review/images-by-brand.csv)
