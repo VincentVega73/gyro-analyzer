@@ -1,0 +1,14 @@
+{
+  "before_models": 1639,
+  "after_models": 1639,
+  "before_specific": 2,
+  "after_specific": 40,
+  "new_specific": 38,
+  "coverage_percent": 2.4405125076266017,
+  "gap_to_820": 780,
+  "unique_assigned_files": 43,
+  "prior_sketches_unchanged": {
+    "michell-0001": true,
+    "arktur-0001": true
+  }
+}

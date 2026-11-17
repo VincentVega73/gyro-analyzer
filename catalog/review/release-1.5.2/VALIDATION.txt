@@ -1,0 +1,5 @@
+Catalog 1.5.2: 1639 stable model IDs; 40 independent model illustrations, 1599 generic assignments, no family assignments. Four related designations remain explicitly generic.
+38 more individually illustrated models than 1.5.1 baseline v14. 40/1639 = 2.44%; gap to target 820 is 780.
+43 referenced WebP files, each 960x720. Both prior individual illustrations remain byte-identical.
+Catalog unittest discovery: 15 tests passed on 2026-11-18. Android preliminary 1.1.1: all 43 WebPs decoded successfully. This is not final signed-release acceptance.
+Source descriptions, construction references, attribution and visual review are retained in media/manifest.json and media/research.json; earlier study evidence remains in the original catalog worktree. Candidate decisions include superseded revisions and nine photo-permission gaps.
