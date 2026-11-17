@@ -68,11 +68,11 @@ audio-technica-0012,Audio-Technica,AT-LP2X,generic,fallbacks/neutral.webp,Усл
 audio-technica-0028,Audio-Technica,AT-LP3,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,visual_review_pending,условный эскиз доступен
 audio-technica-0014,Audio-Technica,AT-LP3XBT,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,Просмотрена миниатюра: читаемая подпись «Условное изображение».,visual_review_pending,условный эскиз доступен
 audio-technica-0018,Audio-Technica,AT-LP5X,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,Просмотрена миниатюра: читаемая подпись «Условное изображение».,visual_review_pending,условный эскиз доступен
-audio-technica-0001,Audio-Technica,AT-LP60X,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,Просмотрена миниатюра: читаемая подпись «Условное изображение».,source_not_found,условный эскиз доступен
+audio-technica-0001,Audio-Technica,AT-LP60X,model,models/audio-technica-0001.webp,Audio-Technica AT-LP60X,OK,OK,OK,Просмотрена миниатюра: читаемая подпись «Условное изображение».,,модельный эскиз доступен
 audio-technica-0002,Audio-Technica,AT-LP60XBT,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,Просмотрена миниатюра: читаемая подпись «Условное изображение».,source_not_found,условный эскиз доступен
 audio-technica-0024,Audio-Technica,AT-LP60XBT-USB,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,visual_review_pending,условный эскиз доступен
 audio-technica-0015,Audio-Technica,AT-LP60XUSB,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,Просмотрена миниатюра: читаемая подпись «Условное изображение».,visual_review_pending,условный эскиз доступен
-audio-technica-0007,Audio-Technica,AT-LP7,generic,fallbacks/classic.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,rights_unconfirmed,условный эскиз доступен
+audio-technica-0007,Audio-Technica,AT-LP7,model,models/audio-technica-0007.webp,Audio-Technica AT-LP7,OK,OK,OK,не просматривался в этой итерации,,модельный эскиз доступен
 audio-technica-0025,Audio-Technica,AT-LP70X,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,visual_review_pending,условный эскиз доступен
 audio-technica-0016,Audio-Technica,AT-LP70XBT,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,Просмотрена миниатюра: читаемая подпись «Условное изображение».,visual_review_pending,условный эскиз доступен
 audio-technica-0011,Audio-Technica,AT-LP7X,generic,fallbacks/classic.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,rights_unconfirmed,условный эскиз доступен
@@ -212,7 +212,7 @@ dual-0043,Dual,1010 F,generic,fallbacks/neutral.webp,Условное изобр
 dual-0042,Dual,1011,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,visual_review_pending,условный эскиз доступен
 dual-0041,Dual,1015,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,visual_review_pending,условный эскиз доступен
 dual-0040,Dual,1015 F,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,visual_review_pending,условный эскиз доступен
-dual-0012,Dual,1019,model,models/dual-0012.webp,Dual 1019,OK,OK,OK,не просматривался в этой итерации,,модельный эскиз доступен
+dual-0012,Dual,1019,generic,fallbacks/classic.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,Индивидуальный рисунок ожидает проверки.,условный эскиз доступен
 dual-0013,Dual,1209,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,rights_unconfirmed,условный эскиз доступен
 dual-0014,Dual,1210,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,model_unconfirmed,условный эскиз доступен
 dual-0039,Dual,1211,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,visual_review_pending,условный эскиз доступен
@@ -259,7 +259,7 @@ dual-0047,Dual,606,generic,fallbacks/neutral.webp,Условное изобра�
 dual-0028,Dual,621,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,rights_unconfirmed,условный эскиз доступен
 dual-0046,Dual,622,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,visual_review_pending,условный эскиз доступен
 dual-0029,Dual,701,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,incomplete_view,условный эскиз доступен
-dual-0030,Dual,704,model,models/dual-0030.webp,Dual 704,OK,OK,OK,не просматривался в этой итерации,,модельный эскиз доступен
+dual-0030,Dual,704,generic,fallbacks/classic.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,Индивидуальный рисунок ожидает проверки.,условный эскиз доступен
 dual-0031,Dual,721,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,rights_unconfirmed,условный эскиз доступен
 dual-0072,Dual,CS 1258,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,visual_review_pending,условный эскиз доступен
 dual-0073,Dual,CS 150 Q,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,visual_review_pending,условный эскиз доступен
@@ -277,7 +277,7 @@ dual-0061,Dual,CS 410,generic,fallbacks/neutral.webp,Условное изобр
 dual-0081,Dual,CS 415,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,visual_review_pending,условный эскиз доступен
 dual-0082,Dual,CS 415-1,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,visual_review_pending,условный эскиз доступен
 dual-0083,Dual,CS 415-2,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,visual_review_pending,условный эскиз доступен
-dual-0005,Dual,CS 418,generic,fallbacks/classic.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,rights_unconfirmed,условный эскиз доступен
+dual-0005,Dual,CS 418,model,models/dual-0005.webp,Dual CS 418,OK,OK,OK,не просматривался в этой итерации,,модельный эскиз доступен
 dual-0002,Dual,CS 429,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,source_not_found,условный эскиз доступен
 dual-0127,Dual,CS 431,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,visual_review_pending,условный эскиз доступен
 dual-0084,Dual,CS 435,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,visual_review_pending,условный эскиз доступен
@@ -955,7 +955,7 @@ pioneer-0023,Pioneer,PL-M10,generic,fallbacks/neutral.webp,Условное из
 pioneer-0108,Pioneer,PL-S30,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,visual_review_pending,условный эскиз доступен
 pioneer-0109,Pioneer,PL-S40,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,visual_review_pending,условный эскиз доступен
 pioneer-0110,Pioneer,PL-V70,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,visual_review_pending,условный эскиз доступен
-pioneer-0033,Pioneer,PLX-1000,model,models/pioneer-0033.webp,Pioneer PLX-1000,OK,OK,OK,не просматривался в этой итерации,,модельный эскиз доступен
+pioneer-0033,Pioneer,PLX-1000,generic,fallbacks/classic.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,Индивидуальный рисунок ожидает проверки.,условный эскиз доступен
 pioneer-0111,Pioneer,PL-X340,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,visual_review_pending,условный эскиз доступен
 pioneer-0112,Pioneer,PL-X420,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,visual_review_pending,условный эскиз доступен
 pioneer-0113,Pioneer,PL-X430,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,visual_review_pending,условный эскиз доступен
@@ -991,7 +991,7 @@ pro-ject-0033,Pro-Ject,Debut E HP,generic,fallbacks/neutral.webp,Условно�
 pro-ject-0031,Pro-Ject,Debut EVO 2,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,Просмотрена миниатюра: читаемая подпись «Условное изображение».,visual_review_pending,условный эскиз доступен
 pro-ject-0044,Pro-Ject,Debut III,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,Просмотрена миниатюра: читаемая подпись «Условное изображение».,visual_review_pending,условный эскиз доступен
 pro-ject-0045,Pro-Ject,Debut PRO,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,Просмотрена миниатюра: читаемая подпись «Условное изображение».,visual_review_pending,условный эскиз доступен
-pro-ject-0002,Pro-Ject,Debut PRO B,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,visual_review_pending,условный эскиз доступен
+pro-ject-0002,Pro-Ject,Debut PRO B,model,models/pro-ject-0002.webp,Pro-Ject Debut PRO B,OK,OK,OK,не просматривался в этой итерации,,модельный эскиз доступен
 pro-ject-0046,Pro-Ject,Debut PRO S,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,visual_review_pending,условный эскиз доступен
 pro-ject-0003,Pro-Ject,Debut PRO S Balanced,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,visual_review_pending,условный эскиз доступен
 pro-ject-0001,Pro-Ject,Debut RecordMaster II,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,Просмотрена миниатюра: читаемая подпись «Условное изображение».,visual_review_pending,условный эскиз доступен
@@ -1014,7 +1014,7 @@ pro-ject-0057,Pro-Ject,Primary E Phono,generic,fallbacks/neutral.webp,Услов
 pro-ject-0058,Pro-Ject,RPM 1.3 Genie,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,visual_review_pending,условный эскиз доступен
 pro-ject-0059,Pro-Ject,RPM 10.1 Evolution,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,visual_review_pending,условный эскиз доступен
 pro-ject-0008,Pro-Ject,RPM 10 Carbon,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,visual_review_pending,условный эскиз доступен
-pro-ject-0007,Pro-Ject,RPM 1 Carbon,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,visual_review_pending,условный эскиз доступен
+pro-ject-0007,Pro-Ject,RPM 1 Carbon,model,models/pro-ject-0007.webp,Pro-Ject RPM 1 Carbon,OK,OK,OK,не просматривался в этой итерации,,модельный эскиз доступен
 pro-ject-0016,Pro-Ject,RPM 3 Carbon,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,visual_review_pending,условный эскиз доступен
 pro-ject-0060,Pro-Ject,RPM 5.1,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,visual_review_pending,условный эскиз доступен
 pro-ject-0009,Pro-Ject,RPM 5 Carbon,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,visual_review_pending,условный эскиз доступен
@@ -1052,7 +1052,7 @@ rega-0020,Rega,P3 2000,generic,fallbacks/neutral.webp,Условное изоб�
 rega-0017,Rega,P5,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,source_not_found,условный эскиз доступен
 rega-0018,Rega,P7,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,source_not_found,условный эскиз доступен
 rega-0019,Rega,P9,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,source_not_found,условный эскиз доступен
-rega-0001,Rega,Planar 1,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,Просмотрена миниатюра: читаемая подпись «Условное изображение».,source_not_found,условный эскиз доступен
+rega-0001,Rega,Planar 1,model,models/rega-0001.webp,Rega Planar 1,OK,OK,OK,Просмотрена миниатюра: читаемая подпись «Условное изображение».,,модельный эскиз доступен
 rega-0007,Rega,Planar 10,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,source_not_found,условный эскиз доступен
 rega-0002,Rega,Planar 1 Plus,generic,fallbacks/classic.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,rights_unconfirmed,условный эскиз доступен
 rega-0003,Rega,Planar 2,generic,fallbacks/classic.webp,Условное изображение,OK,OK,OK,Просмотрена миниатюра: читаемая подпись «Условное изображение».,model_unconfirmed,условный эскиз доступен
@@ -1245,7 +1245,7 @@ sony-0042,Sony,PS-FL5,generic,fallbacks/neutral.webp,Условное изобр
 sony-0043,Sony,PS-FL7,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,visual_review_pending,условный эскиз доступен
 sony-0044,Sony,PS-FL9,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,visual_review_pending,условный эскиз доступен
 sony-0045,Sony,PS-FL99,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,visual_review_pending,условный эскиз доступен
-sony-0004,Sony,PS-HX500,model,models/sony-0004.webp,Sony PS-HX500,OK,OK,OK,не просматривался в этой итерации,,модельный эскиз доступен
+sony-0004,Sony,PS-HX500,generic,fallbacks/classic.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,Индивидуальный рисунок ожидает проверки.,условный эскиз доступен
 sony-0046,Sony,PS-J20,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,visual_review_pending,условный эскиз доступен
 sony-0047,Sony,PS-LX100,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,visual_review_pending,условный эскиз доступен
 sony-0048,Sony,PS-LX110,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,visual_review_pending,условный эскиз доступен
@@ -1267,7 +1267,7 @@ sony-0060,Sony,PS-LX30,generic,fallbacks/neutral.webp,Условное изоб�
 sony-0008,Sony,PS-LX300H,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,visual_review_pending,условный эскиз доступен
 sony-0005,Sony,PS-LX300USB,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,source_not_found,условный эскиз доступен
 sony-0061,Sony,PS-LX310,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,visual_review_pending,условный эскиз доступен
-sony-0001,Sony,PS-LX310BT,generic,fallbacks/classic.webp,Условное изображение,OK,OK,OK,Просмотрена миниатюра: читаемая подпись «Условное изображение».,rights_unconfirmed,условный эскиз доступен
+sony-0001,Sony,PS-LX310BT,model,models/sony-0001.webp,Sony PS-LX310BT,OK,OK,OK,Просмотрена миниатюра: читаемая подпись «Условное изображение».,,модельный эскиз доступен
 sony-0062,Sony,PS-LX320,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,visual_review_pending,условный эскиз доступен
 sony-0063,Sony,PS-LX33,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,visual_review_pending,условный эскиз доступен
 sony-0064,Sony,PS-LX330,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,visual_review_pending,условный эскиз доступен
@@ -1379,17 +1379,17 @@ technics-0015,Technics,SL-10,generic,fallbacks/neutral.webp,Условное и�
 technics-0024,Technics,SL-1015,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,visual_review_pending,условный эскиз доступен
 technics-0025,Technics,SL-1025,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,visual_review_pending,условный эскиз доступен
 technics-0026,Technics,SL-110,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,visual_review_pending,условный эскиз доступен
-technics-0007,Technics,SL-1100,model,models/technics-0007.webp,Technics SL-1100,OK,OK,OK,не просматривался в этой итерации,,модельный эскиз доступен
+technics-0007,Technics,SL-1100,generic,fallbacks/classic.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,Индивидуальный рисунок ожидает проверки.,условный эскиз доступен
 technics-0027,Technics,SL-120,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,visual_review_pending,условный эскиз доступен
-technics-0006,Technics,SL-1200,model,models/technics-0006.webp,Technics SL-1200,OK,OK,OK,не просматривался в этой итерации,,модельный эскиз доступен
+technics-0006,Technics,SL-1200,generic,fallbacks/classic.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,Индивидуальный рисунок ожидает проверки.,условный эскиз доступен
 technics-0011,Technics,SL-1200GR2,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,source_not_found,условный эскиз доступен
 technics-0009,Technics,SL-1200LTD,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,model_unconfirmed,условный эскиз доступен
-technics-0001,Technics,SL-1200MK2,model,models/technics-0001.webp,Technics SL-1200MK2,OK,OK,OK,Просмотрена миниатюра: рисунок и подпись соответствуют принятому модельному эскизу.,,модельный эскиз доступен
+technics-0001,Technics,SL-1200MK2,generic,fallbacks/classic.webp,Условное изображение,OK,OK,OK,Просмотрена миниатюра: рисунок и подпись соответствуют принятому модельному эскизу.,Индивидуальный рисунок ожидает проверки.,условный эскиз доступен
 technics-0002,Technics,SL-1200MK3,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,source_not_found,условный эскиз доступен
 technics-0003,Technics,SL-1200MK3D,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,Просмотрена миниатюра: читаемая подпись «Условное изображение».,source_not_found,условный эскиз доступен
-technics-0004,Technics,SL-1200MK5,model,models/technics-0004.webp,Technics SL-1200MK5,OK,OK,OK,Просмотрена миниатюра: рисунок и подпись соответствуют принятому модельному эскизу.,,модельный эскиз доступен
+technics-0004,Technics,SL-1200MK5,generic,fallbacks/classic.webp,Условное изображение,OK,OK,OK,Просмотрена миниатюра: рисунок и подпись соответствуют принятому модельному эскизу.,Индивидуальный рисунок ожидает проверки.,условный эскиз доступен
 technics-0005,Technics,SL-1200MK5G,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,source_not_found,условный эскиз доступен
-technics-0010,Technics,SL-1200MK7,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,Просмотрена миниатюра: читаемая подпись «Условное изображение».,source_not_found,условный эскиз доступен
+technics-0010,Technics,SL-1200MK7,model,models/technics-0010.webp,Technics SL-1200MK7,OK,OK,OK,Просмотрена миниатюра: читаемая подпись «Условное изображение».,,модельный эскиз доступен
 technics-0028,Technics,SL-1300,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,visual_review_pending,условный эскиз доступен
 technics-0029,Technics,SL-1401,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,visual_review_pending,условный эскиз доступен
 technics-0030,Technics,SL-15,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,visual_review_pending,условный эскиз доступен
@@ -1618,7 +1618,7 @@ yamaha-0015,Yamaha,YP-D4,generic,fallbacks/neutral.webp,Условное изо�
 yamaha-0013,Yamaha,YP-D6,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,visual_review_pending,условный эскиз доступен
 yamaha-0016,Yamaha,YP-D71,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,visual_review_pending,условный эскиз доступен
 yamaha-0026,Yamaha,YP-D8,generic,fallbacks/neutral.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,visual_review_pending,условный эскиз доступен
-aria-0001,Ария,Ария-102-стерео,model,models/aria-0001.webp,Ария-102-стерео,OK,OK,OK,не просматривался в этой итерации,,модельный эскиз доступен
+aria-0001,Ария,Ария-102-стерео,generic,fallbacks/classic.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,Индивидуальный рисунок ожидает проверки.,условный эскиз доступен
 arktur-0001,Арктур,Арктур-006-стерео,model,models/arktur-0001.webp,Арктур-006-стерео,OK,OK,OK,Просмотрена миниатюра: рисунок и подпись соответствуют принятому модельному эскизу.,,модельный эскиз доступен
 vega-0001,Вега,Вега-106-стерео,generic,fallbacks/classic.webp,Условное изображение,OK,OK,OK,Просмотрена миниатюра: читаемая подпись «Условное изображение».,rights_unconfirmed,условный эскиз доступен
 vega-0002,Вега,Вега-ЭП-110-стерео,generic,fallbacks/classic.webp,Условное изображение,OK,OK,OK,не просматривался в этой итерации,rights_unconfirmed,условный эскиз доступен

@@ -1,13 +1,9 @@
-# Android candidate image coverage — catalog 1.5.1
+# Android candidate image coverage
 
-| Mutually exclusive category | Models |
-| --- | ---: |
-| Individual model sketch | 2 |
-| Shared family illustration | 0 |
-| Labeled generic illustration | 1637 |
-| Missing or corrupt | 0 |
-| Total | 1639 |
+The checked debug APK and AAB contain 1,639 models. Ten have individual illustrations (0.61%). The remaining 1,629 use labeled generic illustrations. Four related designations also use labeled generic illustrations. The package contains ten unique model drawings and four unique fallback images.
 
-Related designations: 4 generic, 0 missing or corrupt. Six unique WebP files are bundled. The independent-study images are Michell Gyro SE and Arcturus 006.
+The eight additions are Technics SL-1200MK7, Sony PS-LX310BT, Audio-Technica AT-LP60X and AT-LP7, Rega Planar 1, Pro-Ject RPM 1 Carbon and Debut PRO B, and Dual CS 418. Michell Gyro SE and Arcturus 006 were already included. Each model assignment records its construction evidence in the media manifest.
 
-See [policy alignment and affected assignments](../review/ANDROID-RC-MEDIA-POLICY.md). Nine prior reference-redraw files and their evidence remain under `catalog/review/deferred-originals/`; they are not part of the Android bundle. No new artwork was generated.
+Catalog validation and all 15 catalog tests passed. The package audit reported zero errors. All offline catalog files in the APK and AAB matched the catalog ZIP byte for byte. The coverage target is 820 models. Another 810 individual verified assignments are needed.
+
+[Coverage by manufacturer](../review/images-by-brand.csv) · [Model audit](../review/images-audit.csv) · [Earlier media policy baseline](../review/ANDROID-RC-MEDIA-POLICY.md)
