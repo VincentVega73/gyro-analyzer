@@ -15,9 +15,45 @@
     },
     {
       "model_id": "audio-technica-0001",
-      "kind": "generic",
-      "caption": "Условное изображение",
-      "path": "fallbacks/neutral.webp"
+      "kind": "model",
+      "caption": "Audio-Technica AT-LP60X",
+      "path": "models/audio-technica-0001.webp",
+      "creation": "independent_study",
+      "artwork_credit": {
+        "credit": "Gyro Pro catalog",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "construction_sources": [
+        {
+          "type": "photograph",
+          "organization": "www.audio-technica.com",
+          "title": "Audio-Technica AT-LP60X product view",
+          "page": "https://www.audio-technica.com/en-gb/at-lp60x",
+          "locator": "https://www.audio-technica.com/media/catalog/product/cache/4c54125f062bf26160bb6e241a5e0899/a/t/at-lp60x_01.png",
+          "detail": "Low automatic deck, integrated straight arm, separated front control groups."
+        },
+        {
+          "type": "photograph",
+          "organization": "www.audio-technica.com",
+          "title": "Audio-Technica AT-LP60X product view",
+          "page": "https://www.audio-technica.com/en-gb/at-lp60x",
+          "locator": "https://www.audio-technica.com/media/converted/catalog/product/a/t/at-lp60x_overview_middle.webp",
+          "detail": "Low automatic deck, integrated straight arm, separated front control groups."
+        },
+        {
+          "type": "manual",
+          "organization": "Audio-Technica",
+          "title": "Audio-Technica AT-LP60X operating instructions",
+          "page": "https://www.manualslib.com/manual/3370891/Audio-Techica-At-Lp60x.html",
+          "locator": "Model overview and control layout",
+          "detail": "Low automatic deck, integrated straight arm, separated front control groups."
+        }
+      ],
+      "visual_review": {
+        "full_size": "Low automatic deck, integrated straight arm, separated front control groups.",
+        "card_size": "Silhouette and arm location distinguishable in the contact-sheet thumbnail."
+      }
     },
     {
       "model_id": "audio-technica-0002",
@@ -27,9 +63,45 @@
     },
     {
       "model_id": "audio-technica-0007",
-      "kind": "generic",
-      "caption": "Условное изображение",
-      "path": "fallbacks/classic.webp"
+      "kind": "model",
+      "caption": "Audio-Technica AT-LP7",
+      "path": "models/audio-technica-0007.webp",
+      "creation": "independent_study",
+      "artwork_credit": {
+        "credit": "Gyro Pro catalog",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "construction_sources": [
+        {
+          "type": "photograph",
+          "organization": "www.audio-technica.com",
+          "title": "Audio-Technica AT-LP7 product view",
+          "page": "https://www.audio-technica.com/en-us/at-lp7",
+          "locator": "https://www.audio-technica.com/media/catalog/product/cache/4c54125f062bf26160bb6e241a5e0899/a/t/at-lp7_01.png",
+          "detail": "Thick dark platter, curved arm and isolated front-left selector."
+        },
+        {
+          "type": "photograph",
+          "organization": "www.turntablelab.com",
+          "title": "Audio-Technica AT-LP7 product view",
+          "page": "https://www.turntablelab.com/products/audio-technica-at-lp7-turntable",
+          "locator": "https://www.turntablelab.com/cdn/shop/files/audio-technica-at-lp7-turntable4.jpg?v=1693340246",
+          "detail": "Thick dark platter, curved arm and isolated front-left selector."
+        },
+        {
+          "type": "manual",
+          "organization": "Audio-Technica",
+          "title": "Audio-Technica AT-LP7 operating instructions",
+          "page": "https://www.manualslib.com/manual/3370885/Audio-Techica-At-Lp7.html",
+          "locator": "Model overview and control layout",
+          "detail": "Thick dark platter, curved arm and isolated front-left selector."
+        }
+      ],
+      "visual_review": {
+        "full_size": "Thick dark platter, curved arm and isolated front-left selector.",
+        "card_size": "Silhouette and arm location distinguishable in the contact-sheet thumbnail."
+      }
     },
     {
       "model_id": "audio-technica-0011",
@@ -213,9 +285,45 @@
     },
     {
       "model_id": "dual-0005",
-      "kind": "generic",
-      "caption": "Условное изображение",
-      "path": "fallbacks/classic.webp"
+      "kind": "model",
+      "caption": "Dual CS 418",
+      "path": "models/dual-0005.webp",
+      "creation": "independent_study",
+      "artwork_credit": {
+        "credit": "Gyro Pro catalog",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "construction_sources": [
+        {
+          "type": "photograph",
+          "organization": "dual.de",
+          "title": "Dual CS 418 product view",
+          "page": "https://dual.de/en/products/cs-418/",
+          "locator": "https://dual.de/wp-content/uploads/dual_cs_418_1.jpg",
+          "detail": "Manual selector at front right, detachable headshell and bright platter edge."
+        },
+        {
+          "type": "photograph",
+          "organization": "www.whathifi.com",
+          "title": "Dual CS 418 product view",
+          "page": "https://www.whathifi.com/reviews/dual-cs-418",
+          "locator": "https://cdn.mos.cms.futurecdn.net/XjCcKzg2SVaLzmtwxDkHun.jpg",
+          "detail": "Manual selector at front right, detachable headshell and bright platter edge."
+        },
+        {
+          "type": "manual",
+          "organization": "Dual",
+          "title": "Dual CS 418 operating instructions",
+          "page": "https://dual.de/wp-content/uploads/BDA-CS-418_manual_V4_DE_EN.pdf",
+          "locator": "Model overview and control layout",
+          "detail": "Manual selector at front right, detachable headshell and bright platter edge."
+        }
+      ],
+      "visual_review": {
+        "full_size": "Manual selector at front right, detachable headshell and bright platter edge.",
+        "card_size": "Silhouette and arm location distinguishable in the contact-sheet thumbnail."
+      }
     },
     {
       "model_id": "dual-0002",
@@ -599,9 +707,45 @@
     },
     {
       "model_id": "rega-0001",
-      "kind": "generic",
-      "caption": "Условное изображение",
-      "path": "fallbacks/neutral.webp"
+      "kind": "model",
+      "caption": "Rega Planar 1",
+      "path": "models/rega-0001.webp",
+      "creation": "independent_study",
+      "artwork_credit": {
+        "credit": "Gyro Pro catalog",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "construction_sources": [
+        {
+          "type": "photograph",
+          "organization": "www.rega.co.uk",
+          "title": "Rega Planar 1 product view",
+          "page": "https://www.rega.co.uk/products/planar-1",
+          "locator": "https://www.rega.co.uk/assets/uploads/heroes/_gr-1200px/planar-1-matt-hero-01.jpg",
+          "detail": "Plain rectangular deck, straight arm and uninterrupted top surface."
+        },
+        {
+          "type": "photograph",
+          "organization": "www.rega.co.uk",
+          "title": "Rega Planar 1 product view",
+          "page": "https://www.rega.co.uk/products/planar-1",
+          "locator": "https://www.rega.co.uk/assets/uploads/heroes/_gr-1200px/planar-1-matt-hero-02.jpg",
+          "detail": "Plain rectangular deck, straight arm and uninterrupted top surface."
+        },
+        {
+          "type": "manual",
+          "organization": "Rega",
+          "title": "Rega Planar 1 operating instructions",
+          "page": "https://www.rega.co.uk/download/Planar-1---User-Manual-Multilingual---Ver-10.pdf",
+          "locator": "Model overview and control layout",
+          "detail": "Plain rectangular deck, straight arm and uninterrupted top surface."
+        }
+      ],
+      "visual_review": {
+        "full_size": "Plain rectangular deck, straight arm and uninterrupted top surface.",
+        "card_size": "Silhouette and arm location distinguishable in the contact-sheet thumbnail."
+      }
     },
     {
       "model_id": "rega-0007",
@@ -695,9 +839,45 @@
     },
     {
       "model_id": "sony-0001",
-      "kind": "generic",
-      "caption": "Условное изображение",
-      "path": "fallbacks/classic.webp"
+      "kind": "model",
+      "caption": "Sony PS-LX310BT",
+      "path": "models/sony-0001.webp",
+      "creation": "independent_study",
+      "artwork_credit": {
+        "credit": "Gyro Pro catalog",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "construction_sources": [
+        {
+          "type": "photograph",
+          "organization": "www.sony.jp",
+          "title": "Sony PS-LX310BT product view",
+          "page": "https://www.sony.jp/audio/products/PS-LX310BT/",
+          "locator": "https://www.sony.jp/products/picture/ps-lx310bt.jpg",
+          "detail": "Front-left Bluetooth control, right selectors and slim automatic deck."
+        },
+        {
+          "type": "photograph",
+          "organization": "www.sony.jp",
+          "title": "Sony PS-LX310BT product view",
+          "page": "https://www.sony.jp/audio/products/PS-LX310BT/",
+          "locator": "https://www.sony.jp/products/picture/y_ps-lx310bt_top_bluetooth_situation.jpg",
+          "detail": "Front-left Bluetooth control, right selectors and slim automatic deck."
+        },
+        {
+          "type": "manual",
+          "organization": "Sony",
+          "title": "Sony PS-LX310BT operating instructions",
+          "page": "https://resources.sevenoakssoundandvision.co.uk/images/manuals/PS-LX310BT.pdf",
+          "locator": "Model overview and control layout",
+          "detail": "Front-left Bluetooth control, right selectors and slim automatic deck."
+        }
+      ],
+      "visual_review": {
+        "full_size": "Front-left Bluetooth control, right selectors and slim automatic deck.",
+        "card_size": "Silhouette and arm location distinguishable in the contact-sheet thumbnail."
+      }
     },
     {
       "model_id": "sony-0002",
@@ -767,9 +947,45 @@
     },
     {
       "model_id": "technics-0010",
-      "kind": "generic",
-      "caption": "Условное изображение",
-      "path": "fallbacks/neutral.webp"
+      "kind": "model",
+      "caption": "Technics SL-1200MK7",
+      "path": "models/technics-0010.webp",
+      "creation": "independent_study",
+      "artwork_credit": {
+        "credit": "Gyro Pro catalog",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "construction_sources": [
+        {
+          "type": "photograph",
+          "organization": "us.technics.com",
+          "title": "Technics SL-1200MK7 product view",
+          "page": "https://us.technics.com/products/direct-drive-turntable-system-sl-1200mk7",
+          "locator": "https://us.technics.com/cdn/shop/products/ShopifySL_1200MK7S_1_1800x.jpg?v=1655765457",
+          "detail": "S arm, bearing bridge, separate start pad and pitch slider."
+        },
+        {
+          "type": "photograph",
+          "organization": "www.djkit.com",
+          "title": "Technics SL-1200MK7 product view",
+          "page": "https://www.djkit.com/products/technics-sl-1200mk7-turntable",
+          "locator": "https://www.djkit.com/cdn/shop/files/technics-sl1200-mk7_top.webp?v=1749513042",
+          "detail": "S arm, bearing bridge, separate start pad and pitch slider."
+        },
+        {
+          "type": "manual",
+          "organization": "Technics",
+          "title": "Technics SL-1200MK7 operating instructions",
+          "page": "https://help.na.panasonic.com/wp-content/uploads/2023/02/SL1200MK7_TQBM0410_ENG_FRE.pdf",
+          "locator": "Printed page 8, parts identification",
+          "detail": "S arm, bearing bridge, separate start pad and pitch slider."
+        }
+      ],
+      "visual_review": {
+        "full_size": "S arm, bearing bridge, separate start pad and pitch slider.",
+        "card_size": "Silhouette and arm location distinguishable in the contact-sheet thumbnail."
+      }
     },
     {
       "model_id": "technics-0008",
@@ -1855,9 +2071,45 @@
     },
     {
       "model_id": "pro-ject-0002",
-      "kind": "generic",
-      "caption": "Условное изображение",
-      "path": "fallbacks/neutral.webp"
+      "kind": "model",
+      "caption": "Pro-Ject Debut PRO B",
+      "path": "models/pro-ject-0002.webp",
+      "creation": "independent_study",
+      "artwork_credit": {
+        "credit": "Gyro Pro catalog",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "construction_sources": [
+        {
+          "type": "photograph",
+          "organization": "www.project-audio.com",
+          "title": "Pro-Ject Debut PRO B product view",
+          "page": "https://www.project-audio.com/en/product/debut-pro-b/",
+          "locator": "https://i0.wp.com/www.project-audio.com/wp-content/uploads/2024/07/Debut-PRO-B-main.jpg?fit=1618%2C1080&ssl=1",
+          "detail": "Satin dark platter, central recess, small left toggle and contrasting arm bearing."
+        },
+        {
+          "type": "photograph",
+          "organization": "www.project-audio.com",
+          "title": "Pro-Ject Debut PRO B product view",
+          "page": "https://www.project-audio.com/en/product/debut-pro-b/",
+          "locator": "https://i0.wp.com/www.project-audio.com/wp-content/uploads/2024/07/Debut-PRO-B-rear.jpg?fit=1618%2C1080&ssl=1",
+          "detail": "Satin dark platter, central recess, small left toggle and contrasting arm bearing."
+        },
+        {
+          "type": "manual",
+          "organization": "Pro-Ject",
+          "title": "Pro-Ject Debut PRO B operating instructions",
+          "page": "https://www.project-audio.com/wp-content/uploads/2024/07/Debut-Pro-B-Manual.pdf",
+          "locator": "Model overview and control layout",
+          "detail": "Satin dark platter, central recess, small left toggle and contrasting arm bearing."
+        }
+      ],
+      "visual_review": {
+        "full_size": "Satin dark platter, central recess, small left toggle and contrasting arm bearing.",
+        "card_size": "Silhouette and arm location distinguishable in the contact-sheet thumbnail."
+      }
     },
     {
       "model_id": "pro-ject-0003",
@@ -1885,9 +2137,45 @@
     },
     {
       "model_id": "pro-ject-0007",
-      "kind": "generic",
-      "caption": "Условное изображение",
-      "path": "fallbacks/neutral.webp"
+      "kind": "model",
+      "caption": "Pro-Ject RPM 1 Carbon",
+      "path": "models/pro-ject-0007.webp",
+      "creation": "independent_study",
+      "artwork_credit": {
+        "credit": "Gyro Pro catalog",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "construction_sources": [
+        {
+          "type": "photograph",
+          "organization": "www.project-audio.com",
+          "title": "Pro-Ject RPM 1 Carbon product view",
+          "page": "https://www.project-audio.com/en/product/rpm-1-carbon/",
+          "locator": "https://i0.wp.com/www.project-audio.com/wp-content/uploads/2018/03/RPM-1-Carbon-white.jpg?fit=1618%2C1080&ssl=1",
+          "detail": "Separate left motor, right carbon arm, full black mat and pale perimeter."
+        },
+        {
+          "type": "photograph",
+          "organization": "www.crutchfield.com",
+          "title": "Pro-Ject RPM 1 Carbon product view",
+          "page": "https://www.crutchfield.com/p_2521140015/Reviews/Pro-Ject-RPM-1-Carbon-Gloss-White.html",
+          "locator": "https://images.crutchfieldonline.com/products/2021/3/252/g2521140015-o_other0.jpg",
+          "detail": "Separate left motor, right carbon arm, full black mat and pale perimeter."
+        },
+        {
+          "type": "manual",
+          "organization": "Pro-Ject",
+          "title": "Pro-Ject RPM 1 Carbon operating instructions",
+          "page": "https://www.project-audio.com/wp-content/uploads/2018/03/Manual_RPM1-Carbon.pdf",
+          "locator": "Model overview and control layout",
+          "detail": "Separate left motor, right carbon arm, full black mat and pale perimeter."
+        }
+      ],
+      "visual_review": {
+        "full_size": "Separate left motor, right carbon arm, full black mat and pale perimeter.",
+        "card_size": "Silhouette and arm location distinguishable in the contact-sheet thumbnail."
+      }
     },
     {
       "model_id": "pro-ject-0008",
