@@ -1,9 +1,7 @@
 # Android candidate image coverage
 
-The checked debug APK and AAB contain 1,639 models. Ten have individual illustrations (0.61%). The remaining 1,629 use labeled generic illustrations. Four related designations also use labeled generic illustrations. The package contains ten unique model drawings and four unique fallback images.
+The debug Android snapshot contains 1,639 models. All 20 pilot models and two models from batch 2 (Rega Planar 2 and Planar 10) have individual drawings. Coverage is 22/1,639 (1.34%). The remaining 1,617 model cards and four related designations use captioned generic artwork. The package contains 22 individual drawings and three distinct generic drawings. No individual drawing is shared. The target is 820 models; 798 more verified assignments are needed.
 
-The eight additions are Technics SL-1200MK7, Sony PS-LX310BT, Audio-Technica AT-LP60X and AT-LP7, Rega Planar 1, Pro-Ject RPM 1 Carbon and Debut PRO B, and Dual CS 418. Michell Gyro SE and Arcturus 006 were already included. Each model assignment records its construction evidence in the media manifest.
+Model-specific observations, source pages, view locators and manuals are recorded in the media manifest. The pilot revisions include the front controls of the Sony PS-LX520 and Dual CS 329, the three radial supports of the Korvet, the Vega fascia, and the separate pitch adjustments and start/stop controls of the Technics SL-1100. Artwork was selected from independent studies. Text-only generation was used for new and corrected drawings.
 
-Catalog validation and all 15 catalog tests passed. The package audit reported zero errors. All offline catalog files in the APK and AAB matched the catalog ZIP byte for byte. The coverage target is 820 models. Another 810 individual verified assignments are needed.
-
-[Coverage by manufacturer](../review/images-by-brand.csv) · [Model audit](../review/images-audit.csv) · [Earlier media policy baseline](../review/ANDROID-RC-MEDIA-POLICY.md)
+[20-model pilot sheet](../review/pilot/android-pilot-status.jpg) · [Batch 2 contact sheet](../review/batch-02/contact.jpg) · [Model-by-model package audit](../review/images-audit.csv) · [Coverage by brand](../review/images-by-brand.csv)
