@@ -279,9 +279,45 @@
     },
     {
       "model_id": "dual-0001",
-      "kind": "generic",
-      "caption": "Условное изображение",
-      "path": "fallbacks/neutral.webp"
+      "kind": "model",
+      "caption": "Dual CS 329",
+      "path": "models/dual-0001.webp",
+      "creation": "independent_study",
+      "construction_sources": [
+        {
+          "type": "photograph",
+          "title": "Dual CS 329 product view",
+          "organization": "dual.de",
+          "page": "https://dual.de/en/products/cs-329/",
+          "locator": "https://dual.de/wp-content/uploads/dual_cs_329_1.jpg",
+          "detail": "Three dark front buttons, right deck selector, straight arm and shallow bright platter edge."
+        },
+        {
+          "type": "photograph",
+          "title": "Dual CS 329 product view",
+          "organization": "www.ldlc.com",
+          "page": "https://www.ldlc.com/en/product/PB00698579.html",
+          "locator": "https://media.ldlc.com/r1600/ld/products/00/06/26/79/LD0006267958.jpg",
+          "detail": "Three dark front buttons, right deck selector, straight arm and shallow bright platter edge."
+        },
+        {
+          "type": "manual",
+          "organization": "Dual",
+          "title": "Dual CS 329 manufacturer documentation",
+          "page": "https://dual.de/wp-content/uploads/BDA-CS-329_manual_V1_DE_EN.pdf",
+          "locator": "Operating elements",
+          "detail": "Three dark front buttons, right deck selector, straight arm and shallow bright platter edge."
+        }
+      ],
+      "artwork_credit": {
+        "credit": "Gyro Pro catalog",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "visual_review": {
+        "full_size": "Three dark front buttons, right deck selector, straight arm and shallow bright platter edge.",
+        "card_size": "Platter profile, tonearm position and control grouping remain visible at 320 by 240."
+      }
     },
     {
       "model_id": "dual-0005",
@@ -539,9 +575,45 @@
     },
     {
       "model_id": "pioneer-0005",
-      "kind": "generic",
-      "caption": "Условное изображение",
-      "path": "fallbacks/classic.webp"
+      "kind": "model",
+      "caption": "Pioneer PL-41",
+      "path": "models/pioneer-0005.webp",
+      "creation": "independent_study",
+      "construction_sources": [
+        {
+          "type": "photograph",
+          "title": "Pioneer PL-41 product view",
+          "organization": "global.pioneer",
+          "page": "https://global.pioneer/en/corp/info/history/chronology/archives/1950/",
+          "locator": "https://global.pioneer/en/corp/info/history/chronology/archives/1950/img/PL-41.jpg",
+          "detail": "Deep wood surround, inset dark top, curved metal arm and light sector plate at front right."
+        },
+        {
+          "type": "photograph",
+          "title": "Pioneer PL-41 product view",
+          "organization": "holthill.com",
+          "page": "https://holthill.com/products/pioneer-pl-41-manual-belt-driven-and-full-manual",
+          "locator": "https://holthill.com/cdn/shop/files/PioneerPL-4107_2048x.jpg?v=1700674335",
+          "detail": "Deep wood surround, inset dark top, curved metal arm and light sector plate at front right."
+        },
+        {
+          "type": "manual",
+          "organization": "Pioneer",
+          "title": "Pioneer PL-41 manufacturer documentation",
+          "page": "https://akdatabase.com/AKview/albums/userpics/10004/Pioneer%20PL41%20Owners.pdf",
+          "locator": "Functions of controls",
+          "detail": "Deep wood surround, inset dark top, curved metal arm and light sector plate at front right."
+        }
+      ],
+      "artwork_credit": {
+        "credit": "Gyro Pro catalog",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "visual_review": {
+        "full_size": "Deep wood surround, inset dark top, curved metal arm and light sector plate at front right.",
+        "card_size": "Platter profile, tonearm position and control grouping remain visible at 320 by 240."
+      }
     },
     {
       "model_id": "pioneer-0013",
@@ -749,9 +821,45 @@
     },
     {
       "model_id": "rega-0007",
-      "kind": "generic",
-      "caption": "Условное изображение",
-      "path": "fallbacks/neutral.webp"
+      "kind": "model",
+      "caption": "Rega Planar 10",
+      "path": "models/rega-0007.webp",
+      "creation": "independent_study",
+      "construction_sources": [
+        {
+          "type": "photograph",
+          "title": "Rega Planar 10 product view",
+          "organization": "www.rega.co.uk",
+          "page": "https://www.rega.co.uk/products/planar-10",
+          "locator": "https://www.rega.co.uk/assets/uploads/heroes/_gr-1200px/planar-10-hero-01.jpg",
+          "detail": "Exposed skeletal base, continuous white ceramic platter face, metal spindle and polished right arm."
+        },
+        {
+          "type": "photograph",
+          "title": "Rega Planar 10 product view",
+          "organization": "www.rega.co.uk",
+          "page": "https://www.rega.co.uk/products/planar-10",
+          "locator": "https://www.rega.co.uk/assets/uploads/heroes/_gr-1200px/planar-10-hero-02.jpg",
+          "detail": "Exposed skeletal base, continuous white ceramic platter face, metal spindle and polished right arm."
+        },
+        {
+          "type": "manual",
+          "organization": "Rega",
+          "title": "Rega Planar 10 manufacturer documentation",
+          "page": "https://www.rega.co.uk/download/d1050man-a00-1-web.pdf",
+          "locator": "English setup, turntable contents",
+          "detail": "Exposed skeletal base, continuous white ceramic platter face, metal spindle and polished right arm."
+        }
+      ],
+      "artwork_credit": {
+        "credit": "Gyro Pro catalog",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "visual_review": {
+        "full_size": "Exposed skeletal base, continuous white ceramic platter face, metal spindle and polished right arm.",
+        "card_size": "Platter profile, tonearm position and control grouping remain visible at 320 by 240."
+      }
     },
     {
       "model_id": "rega-0002",
@@ -761,9 +869,45 @@
     },
     {
       "model_id": "rega-0003",
-      "kind": "generic",
-      "caption": "Условное изображение",
-      "path": "fallbacks/classic.webp"
+      "kind": "model",
+      "caption": "Rega Planar 2",
+      "path": "models/rega-0003.webp",
+      "creation": "independent_study",
+      "construction_sources": [
+        {
+          "type": "photograph",
+          "title": "Rega Planar 2 product view",
+          "organization": "www.rega.co.uk",
+          "page": "https://www.rega.co.uk/products/planar-2",
+          "locator": "https://www.rega.co.uk/assets/uploads/product-intro-landscape/_900px/top-down-planar-2-white.jpg",
+          "detail": "Rectangular plinth, glass edge beneath dark mat, tapered right arm and clear upper deck."
+        },
+        {
+          "type": "photograph",
+          "title": "Rega Planar 2 product view",
+          "organization": "www.rega.co.uk",
+          "page": "https://www.rega.co.uk/products/planar-2",
+          "locator": "https://www.rega.co.uk/assets/uploads/module-2-and-3-images/_800px/module-2-planar-2-%281%29.jpg",
+          "detail": "Rectangular plinth, glass edge beneath dark mat, tapered right arm and clear upper deck."
+        },
+        {
+          "type": "manual",
+          "organization": "Rega",
+          "title": "Rega Planar 2 manufacturer documentation",
+          "page": "https://www.rega.co.uk/download/Planar_2_-_User_Manual_Multilingual_-_Ver_6.pdf",
+          "locator": "Platter and tonearm setup",
+          "detail": "Rectangular plinth, glass edge beneath dark mat, tapered right arm and clear upper deck."
+        }
+      ],
+      "artwork_credit": {
+        "credit": "Gyro Pro catalog",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "visual_review": {
+        "full_size": "Rectangular plinth, glass edge beneath dark mat, tapered right arm and clear upper deck.",
+        "card_size": "Platter profile, tonearm position and control grouping remain visible at 320 by 240."
+      }
     },
     {
       "model_id": "rega-0004",
@@ -785,9 +929,45 @@
     },
     {
       "model_id": "rega-0006",
-      "kind": "generic",
-      "caption": "Условное изображение",
-      "path": "fallbacks/open.webp"
+      "kind": "model",
+      "caption": "Rega Planar 8",
+      "path": "models/rega-0006.webp",
+      "creation": "independent_study",
+      "construction_sources": [
+        {
+          "type": "photograph",
+          "title": "Rega Planar 8 product view",
+          "organization": "www.rega.co.uk",
+          "page": "https://www.rega.co.uk/products/planar-8",
+          "locator": "https://www.rega.co.uk/assets/uploads/heroes/_gr-1200px/planar-8-hero-01.jpg",
+          "detail": "Tinted glass exposes the skeletal frame; black straight arm rests beside the platter."
+        },
+        {
+          "type": "photograph",
+          "title": "Rega Planar 8 product view",
+          "organization": "www.rega.co.uk",
+          "page": "https://www.rega.co.uk/products/planar-8",
+          "locator": "https://www.rega.co.uk/assets/uploads/heroes/_gr-1200px/planar-8-hero-02.jpg",
+          "detail": "Tinted glass exposes the skeletal frame; black straight arm rests beside the platter."
+        },
+        {
+          "type": "manual",
+          "organization": "Rega",
+          "title": "Rega Planar 8 manufacturer documentation",
+          "page": "https://www.rega.co.uk/download/pl8-multi-lingual-manual.pdf",
+          "locator": "Plinth and tonearm assembly",
+          "detail": "Tinted glass exposes the skeletal frame; black straight arm rests beside the platter."
+        }
+      ],
+      "artwork_credit": {
+        "credit": "Gyro Pro catalog",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "visual_review": {
+        "full_size": "Tinted glass exposes the skeletal frame; black straight arm rests beside the platter.",
+        "card_size": "Platter profile, tonearm position and control grouping remain visible at 320 by 240."
+      }
     },
     {
       "model_id": "rega-0015",
@@ -893,9 +1073,45 @@
     },
     {
       "model_id": "technics-0007",
-      "kind": "generic",
-      "caption": "Условное изображение",
-      "path": "fallbacks/classic.webp"
+      "kind": "model",
+      "caption": "Technics SL-1100",
+      "path": "models/technics-0007.webp",
+      "creation": "independent_study",
+      "construction_sources": [
+        {
+          "type": "photograph",
+          "title": "Technics SL-1100 product view",
+          "organization": "goodrecordclub.com",
+          "page": "https://goodrecordclub.com/products/technics-sl-1100-direct-drive-player-system",
+          "locator": "https://goodrecordclub.com/cdn/shop/files/IMG_3203.jpg?v=1754483085",
+          "detail": "Pair of speed adjustments and adjacent start/stop keys on platter deck; separate light arm panel, S arm and lifter."
+        },
+        {
+          "type": "photograph",
+          "title": "Technics SL-1100 product view",
+          "organization": "audio-database.com",
+          "page": "https://audio-database.com/TechnicsPanasonic/player/sl-1100.html",
+          "locator": "https://audio-database.com/TechnicsPanasonic/player/sl-1100.JPG",
+          "detail": "Pair of speed adjustments and adjacent start/stop keys on platter deck; separate light arm panel, S arm and lifter."
+        },
+        {
+          "type": "manual",
+          "organization": "Technics",
+          "title": "Technics SL-1100 manufacturer documentation",
+          "page": "https://tile.loc.gov/storage-services/master/mbrs/recording_preservation/manuals/Technics%20by%20Panasonic%20LS-1100A%20Direct%20Drive%20Player%20System.pdf",
+          "locator": "Figs. 1 and 3",
+          "detail": "Pair of speed adjustments and adjacent start/stop keys on platter deck; separate light arm panel, S arm and lifter."
+        }
+      ],
+      "artwork_credit": {
+        "credit": "Gyro Pro catalog",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "visual_review": {
+        "full_size": "Pair of speed adjustments and adjacent start/stop keys on platter deck; separate light arm panel, S arm and lifter.",
+        "card_size": "Platter profile, tonearm position and control grouping remain visible at 320 by 240."
+      }
     },
     {
       "model_id": "technics-0006",
@@ -1013,9 +1229,45 @@
     },
     {
       "model_id": "thorens-0002",
-      "kind": "generic",
-      "caption": "Условное изображение",
-      "path": "fallbacks/classic.webp"
+      "kind": "model",
+      "caption": "Thorens TD 124 DD",
+      "path": "models/thorens-0002.webp",
+      "creation": "independent_study",
+      "construction_sources": [
+        {
+          "type": "photograph",
+          "title": "Thorens TD 124 DD product view",
+          "organization": "www.thorens.com",
+          "page": "https://www.thorens.com/en/items/products/turntables.html",
+          "locator": "https://www.thorens.com/en/assets/components/phpthumbof/cache/20200623_Thorens_TD_124_DD_04_72_%281%29.1ec5836b97f4e81f31ca36361809de3a.jpg",
+          "detail": "Rounded motor chassis, triangular left sector, oval right control and separate right armboard."
+        },
+        {
+          "type": "photograph",
+          "title": "Thorens TD 124 DD product view",
+          "organization": "kleintechnik.de",
+          "page": "https://kleintechnik.de/thorens-hifi-plattenspieler/thorens-td-124-dd",
+          "locator": "https://kleintechnik.de/img/Thorens_TD_124_DD_05.jpg",
+          "detail": "Rounded motor chassis, triangular left sector, oval right control and separate right armboard."
+        },
+        {
+          "type": "manual",
+          "organization": "Thorens",
+          "title": "Thorens TD 124 DD manufacturer documentation",
+          "page": "https://www.thorens.com/assets/downloads/TD%20124%20DD/en/bda-thorens-td-124-dd.pdf",
+          "locator": "Controls and setup",
+          "detail": "Rounded motor chassis, triangular left sector, oval right control and separate right armboard."
+        }
+      ],
+      "artwork_credit": {
+        "credit": "Gyro Pro catalog",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "visual_review": {
+        "full_size": "Rounded motor chassis, triangular left sector, oval right control and separate right armboard.",
+        "card_size": "Platter profile, tonearm position and control grouping remain visible at 320 by 240."
+      }
     },
     {
       "model_id": "thorens-0012",
@@ -1025,9 +1277,45 @@
     },
     {
       "model_id": "thorens-0003",
-      "kind": "generic",
-      "caption": "Условное изображение",
-      "path": "fallbacks/classic.webp"
+      "kind": "model",
+      "caption": "Thorens TD 1500",
+      "path": "models/thorens-0003.webp",
+      "creation": "independent_study",
+      "construction_sources": [
+        {
+          "type": "photograph",
+          "title": "Thorens TD 1500 product view",
+          "organization": "www.thorens.com",
+          "page": "https://www.thorens.com/en/items/products/turntables.html",
+          "locator": "https://www.thorens.com/en/assets/components/phpthumbof/cache/20210722-thorens-td1500-blk-hgl-39-72.4f4509cd95af2bbfe641e21766fb25c5.jpg",
+          "detail": "Straight-edged walnut surround, light motor plate, single left selector and dark armboard."
+        },
+        {
+          "type": "photograph",
+          "title": "Thorens TD 1500 product view",
+          "organization": "www.athensproaudio.gr",
+          "page": "https://www.athensproaudio.gr/en/thorens-td-1500-walnut-high-gloss.html",
+          "locator": "https://www.athensproaudio.gr/storage/i3commerce/images/t/h/thorens_td_1500_walnut_high_gloss_athensproaudio9_1.jpg",
+          "detail": "Straight-edged walnut surround, light motor plate, single left selector and dark armboard."
+        },
+        {
+          "type": "manual",
+          "organization": "Thorens",
+          "title": "Thorens TD 1500 manufacturer documentation",
+          "page": "https://www.thorens.com/assets/downloads/TD%201500/en/bda-td-1500.pdf",
+          "locator": "TP150 and speed selector",
+          "detail": "Straight-edged walnut surround, light motor plate, single left selector and dark armboard."
+        }
+      ],
+      "artwork_credit": {
+        "credit": "Gyro Pro catalog",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "visual_review": {
+        "full_size": "Straight-edged walnut surround, light motor plate, single left selector and dark armboard.",
+        "card_size": "Platter profile, tonearm position and control grouping remain visible at 320 by 240."
+      }
     },
     {
       "model_id": "thorens-0008",
@@ -1123,9 +1411,45 @@
     },
     {
       "model_id": "vega-0001",
-      "kind": "generic",
-      "caption": "Условное изображение",
-      "path": "fallbacks/classic.webp"
+      "kind": "model",
+      "caption": "Вега-106-стерео",
+      "path": "models/vega-0001.webp",
+      "creation": "independent_study",
+      "construction_sources": [
+        {
+          "type": "photograph",
+          "title": "Вега-106-стерео product view",
+          "organization": "rw6ase.narod.ru",
+          "page": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/wega106s.html",
+          "locator": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/wega106s0.jpg",
+          "detail": "Thin brushed control fascia: indicator then square key on left, adjacent pair on right; dark deck and ringed mat."
+        },
+        {
+          "type": "photograph",
+          "title": "Вега-106-стерео product view",
+          "organization": "www.ria.com",
+          "page": "https://www.ria.com/proigryvatel-vinila-vega-106-stereo-207789581.html",
+          "locator": "https://cdn.riastatic.com/photosnew/general/adv_photo/proigryvatel-vinila-vega-106-stereo__17720201m.jpg",
+          "detail": "Thin brushed control fascia: indicator then square key on left, adjacent pair on right; dark deck and ringed mat."
+        },
+        {
+          "type": "manual",
+          "organization": "Вега",
+          "title": "Вега-106-стерео manufacturer documentation",
+          "page": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/wega106st_instr.djvu",
+          "locator": "Front control layout",
+          "detail": "Thin brushed control fascia: indicator then square key on left, adjacent pair on right; dark deck and ringed mat."
+        }
+      ],
+      "artwork_credit": {
+        "credit": "Gyro Pro catalog",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "visual_review": {
+        "full_size": "Thin brushed control fascia: indicator then square key on left, adjacent pair on right; dark deck and ringed mat.",
+        "card_size": "Platter profile, tonearm position and control grouping remain visible at 320 by 240."
+      }
     },
     {
       "model_id": "vega-0002",
@@ -1159,9 +1483,45 @@
     },
     {
       "model_id": "korvet-0001",
-      "kind": "generic",
-      "caption": "Условное изображение",
-      "path": "fallbacks/classic.webp"
+      "kind": "model",
+      "caption": "ЭП-003 «Корвет»",
+      "path": "models/korvet-0001.webp",
+      "creation": "independent_study",
+      "construction_sources": [
+        {
+          "type": "photograph",
+          "title": "ЭП-003 «Корвет» product view",
+          "organization": "rw6ase.narod.ru",
+          "page": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/korwet003.html",
+          "locator": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/korwet003_00_.jpg",
+          "detail": "Raised hub and three radial supports over dark platter; distinctive spherical bearing and round right control cluster."
+        },
+        {
+          "type": "photograph",
+          "title": "ЭП-003 «Корвет» product view",
+          "organization": "habr.com",
+          "page": "https://habr.com/ru/articles/551330/",
+          "locator": "https://habrastorage.org/getpro/habr/upload_files/748/63f/6a1/74863f6a11136a4eca6f8b71a05dc7f8.jpeg",
+          "detail": "Raised hub and three radial supports over dark platter; distinctive spherical bearing and round right control cluster."
+        },
+        {
+          "type": "manual",
+          "organization": "Корвет",
+          "title": "ЭП-003 «Корвет» manufacturer documentation",
+          "page": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/korwet003in.djvu",
+          "locator": "Platter and tonearm assembly",
+          "detail": "Raised hub and three radial supports over dark platter; distinctive spherical bearing and round right control cluster."
+        }
+      ],
+      "artwork_credit": {
+        "credit": "Gyro Pro catalog",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "visual_review": {
+        "full_size": "Raised hub and three radial supports over dark platter; distinctive spherical bearing and round right control cluster.",
+        "card_size": "Platter profile, tonearm position and control grouping remain visible at 320 by 240."
+      }
     },
     {
       "model_id": "orfey-0001",
@@ -1213,9 +1573,45 @@
     },
     {
       "model_id": "elektronika-0003",
-      "kind": "generic",
-      "caption": "Условное изображение",
-      "path": "fallbacks/classic.webp"
+      "kind": "model",
+      "caption": "Электроника ЭП-017-стерео",
+      "path": "models/elektronika-0003.webp",
+      "creation": "independent_study",
+      "construction_sources": [
+        {
+          "type": "photograph",
+          "title": "Электроника ЭП-017-стерео product view",
+          "organization": "rw6ase.narod.ru",
+          "page": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/elektronika_ep017.html",
+          "locator": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/elektronika_ep017_00.jpg",
+          "detail": "Short straight arm, silver deck, low front-right keys and strobe band on platter."
+        },
+        {
+          "type": "photograph",
+          "title": "Электроника ЭП-017-стерео product view",
+          "organization": "www.njuskalo.hr",
+          "page": "https://www.njuskalo.hr/gramofoni/gramofon-elektronika-ep-017-stereo-oglas-41505252",
+          "locator": "https://www.njuskalo.hr/image-xlsize/gramofoni/gramofon-elektronika-ep-017-stereo-slika-202525708.jpg",
+          "detail": "Short straight arm, silver deck, low front-right keys and strobe band on platter."
+        },
+        {
+          "type": "manual",
+          "organization": "Электроника",
+          "title": "Электроника ЭП-017-стерео manufacturer documentation",
+          "page": "https://rw6ase.narod.ru/index1/gram_zapis/ep_s_el/elektronika_ep017.djvu",
+          "locator": "Operating controls",
+          "detail": "Short straight arm, silver deck, low front-right keys and strobe band on platter."
+        }
+      ],
+      "artwork_credit": {
+        "credit": "Gyro Pro catalog",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "visual_review": {
+        "full_size": "Short straight arm, silver deck, low front-right keys and strobe band on platter.",
+        "card_size": "Platter profile, tonearm position and control grouping remain visible at 320 by 240."
+      }
     },
     {
       "model_id": "elektronika-0005",
@@ -1549,9 +1945,45 @@
     },
     {
       "model_id": "sony-0007",
-      "kind": "generic",
-      "caption": "Условное изображение",
-      "path": "fallbacks/neutral.webp"
+      "kind": "model",
+      "caption": "Sony PS-LX520",
+      "path": "models/sony-0007.webp",
+      "creation": "independent_study",
+      "construction_sources": [
+        {
+          "type": "photograph",
+          "title": "Sony PS-LX520 product view",
+          "organization": "www.springair.de",
+          "page": "https://www.springair.de/en/sony-ps-lx-520/h65697",
+          "locator": "https://www.springair.de/media/f2/37/39/1720480798/65697b.jpg?ts=1728763890",
+          "detail": "Rear tracking carriage, slotted rubber mat, isolated power key and grouped right keys."
+        },
+        {
+          "type": "photograph",
+          "title": "Sony PS-LX520 product view",
+          "organization": "hifi-wiki.com",
+          "page": "https://hifi-wiki.com/index.php/Sony_PS-LX_520",
+          "locator": "https://hifi-wiki.com/images/d/d6/Sony_LX-520-1986.jpg",
+          "detail": "Rear tracking carriage, slotted rubber mat, isolated power key and grouped right keys."
+        },
+        {
+          "type": "manual",
+          "organization": "Sony",
+          "title": "Sony PS-LX520 manufacturer documentation",
+          "page": "https://retronik.silicium.org/DOCUMENTS/Audiovideo/Sony/Sony-PS-LX520-Service-Manual.pdf",
+          "locator": "p. 3, front panel",
+          "detail": "Rear tracking carriage, slotted rubber mat, isolated power key and grouped right keys."
+        }
+      ],
+      "artwork_credit": {
+        "credit": "Gyro Pro catalog",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "visual_review": {
+        "full_size": "Rear tracking carriage, slotted rubber mat, isolated power key and grouped right keys.",
+        "card_size": "Platter profile, tonearm position and control grouping remain visible at 320 by 240."
+      }
     },
     {
       "model_id": "sony-0008",
