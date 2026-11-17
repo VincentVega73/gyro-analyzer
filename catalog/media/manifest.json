@@ -363,27 +363,171 @@
     },
     {
       "model_id": "dual-0002",
-      "kind": "generic",
-      "caption": "Условное изображение",
-      "path": "fallbacks/neutral.webp"
+      "kind": "model",
+      "caption": "Dual CS 429",
+      "path": "models/dual-0002.webp",
+      "creation": "independent_study",
+      "construction_sources": [
+        {
+          "type": "photograph",
+          "organization": "Dual",
+          "title": "CS 429 - DUAL",
+          "page": "https://dual.de/en/products/automatic/cs-429/",
+          "locator": "https://dual.de/wp-content/uploads/dual_cs_429_1.jpg",
+          "detail": "Right control group and separate rotary selector"
+        },
+        {
+          "type": "photograph",
+          "organization": "Dual",
+          "title": "CS 429 - DUAL",
+          "page": "https://dual.de/en/products/automatic/cs-429/",
+          "locator": "https://dual.de/wp-content/uploads/dual_cs_429_4.jpg",
+          "detail": "Right control group and separate rotary selector"
+        },
+        {
+          "type": "manual",
+          "organization": "Dual",
+          "title": "Dual CS 429 — DUAL CS 429 Manual V4 DE EN",
+          "page": "https://dual.de/wp-content/uploads/BDA-CS-429_manual_V4_DE_EN.pdf",
+          "locator": "PDF page 12",
+          "detail": "Manufacturer document used to identify the assembly and model revision."
+        }
+      ],
+      "artwork_credit": {
+        "credit": "Gyro Pro catalog",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "visual_review": {
+        "full_size": "Black rectangular plinth, simple pivot, shallow metal platter rim, small buttons beside a large rotary selector at the far right.",
+        "card_size": "Right control group and separate rotary selector."
+      }
     },
     {
       "model_id": "dual-0006",
-      "kind": "generic",
-      "caption": "Условное изображение",
-      "path": "fallbacks/classic.webp"
+      "kind": "model",
+      "caption": "Dual CS 518",
+      "path": "models/dual-0006.webp",
+      "creation": "independent_study",
+      "construction_sources": [
+        {
+          "type": "photograph",
+          "organization": "Dual",
+          "title": "CS 518 - DUAL",
+          "page": "https://dual.de/en/products/manual/cs-518/",
+          "locator": "https://dual.de/wp-content/uploads/dual_cs_518_s_4.jpg",
+          "detail": "Single speed dial and open gimbal"
+        },
+        {
+          "type": "photograph",
+          "organization": "Dual",
+          "title": "CS 518 - DUAL",
+          "page": "https://dual.de/en/products/manual/cs-518/",
+          "locator": "https://dual.de/wp-content/uploads/dual_cs_518_s_5.jpg",
+          "detail": "Single speed dial and open gimbal"
+        },
+        {
+          "type": "manual",
+          "organization": "Dual",
+          "title": "Dual CS 518 — DUAL CS 518 Manual V4 DE EN",
+          "page": "https://dual.de/wp-content/uploads/BDA-CS-518_manual_V4_DE_EN.pdf",
+          "locator": "PDF page 12",
+          "detail": "Manufacturer document used to identify the assembly and model revision."
+        }
+      ],
+      "artwork_credit": {
+        "credit": "Gyro Pro catalog",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "visual_review": {
+        "full_size": "Dual CS 518 manual. Rectangular black plinth, black mat on bright shallow metal platter, straight black tonearm with distinctive open pivot gimbal yoke and detachable headshell, single small speed rotary dial on front right small rectangular plate.",
+        "card_size": "Single speed dial and open gimbal."
+      }
     },
     {
       "model_id": "dual-0003",
-      "kind": "generic",
-      "caption": "Условное изображение",
-      "path": "fallbacks/neutral.webp"
+      "kind": "model",
+      "caption": "Dual CS 529",
+      "path": "models/dual-0003.webp",
+      "creation": "independent_study",
+      "construction_sources": [
+        {
+          "type": "photograph",
+          "organization": "Dual",
+          "title": "CS 529 - DUAL",
+          "page": "https://dual.de/en/products/automatic/cs-529/",
+          "locator": "https://dual.de/wp-content/uploads/Dual_CS529_s_4.jpg",
+          "detail": "Wooden front, gimbal and automatic control pad"
+        },
+        {
+          "type": "photograph",
+          "organization": "Dual",
+          "title": "CS 529 - DUAL",
+          "page": "https://dual.de/en/products/automatic/cs-529/",
+          "locator": "https://dual.de/wp-content/uploads/Dual_CS529_b_5.jpg",
+          "detail": "Wooden front, gimbal and automatic control pad"
+        },
+        {
+          "type": "manual",
+          "organization": "Dual",
+          "title": "Dual CS 529 — DUAL CS 529 Manual V1 DE EN",
+          "page": "https://dual.de/wp-content/uploads/BDA_CS_529_V1_manual_DE_EN.pdf",
+          "locator": "PDF page 1",
+          "detail": "Manufacturer document used to identify the assembly and model revision."
+        }
+      ],
+      "artwork_credit": {
+        "credit": "Gyro Pro catalog",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "visual_review": {
+        "full_size": "Dual CS 529 automatic. Walnut rectangular box, aluminium platter silver lip with black mat, right front dark rectangular control panel with rotary selector and small buttons, straight black arm with prominent twin gimbal support and detachable headshell.",
+        "card_size": "Wooden front, gimbal and automatic control pad."
+      }
     },
     {
       "model_id": "dual-0007",
-      "kind": "generic",
-      "caption": "Условное изображение",
-      "path": "fallbacks/classic.webp"
+      "kind": "model",
+      "caption": "Dual CS 618Q",
+      "path": "models/dual-0007.webp",
+      "creation": "independent_study",
+      "construction_sources": [
+        {
+          "type": "photograph",
+          "organization": "Dual",
+          "title": "CS 618Q - DUAL",
+          "page": "https://dual.de/en/products/manual/cs-618q/",
+          "locator": "https://dual.de/wp-content/uploads/dual_cs_618q_4.jpg",
+          "detail": "Metal arm bearing and right-hand selector"
+        },
+        {
+          "type": "photograph",
+          "organization": "Dual",
+          "title": "CS 618Q - DUAL",
+          "page": "https://dual.de/en/products/manual/cs-618q/",
+          "locator": "https://dual.de/wp-content/uploads/dual_cs_618q_6.jpg",
+          "detail": "Metal arm bearing and right-hand selector"
+        },
+        {
+          "type": "manual",
+          "organization": "Dual",
+          "title": "Dual CS 618Q — DUAL CS 618Q Manual V6 DE EN",
+          "page": "https://dual.de/wp-content/uploads/BDA-CS-618Q_manual_V6_DE_EN.pdf",
+          "locator": "PDF page 12",
+          "detail": "Manufacturer document used to identify the assembly and model revision."
+        }
+      ],
+      "artwork_credit": {
+        "credit": "Gyro Pro catalog",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "visual_review": {
+        "full_size": "Dual CS 618Q direct drive. Walnut plinth, bare smooth front face, black platter mat and shallow silver edge, bright open arch gimbal bearing around straight metal tonearm, small blue stylus rendered graphite, right front speed knob on dark rectangle.",
+        "card_size": "Metal arm bearing and right-hand selector."
+      }
     },
     {
       "model_id": "dual-0004",
@@ -911,15 +1055,87 @@
     },
     {
       "model_id": "rega-0004",
-      "kind": "generic",
-      "caption": "Условное изображение",
-      "path": "fallbacks/classic.webp"
+      "kind": "model",
+      "caption": "Rega Planar 3",
+      "path": "models/rega-0004.webp",
+      "creation": "independent_study",
+      "construction_sources": [
+        {
+          "type": "photograph",
+          "organization": "Rega",
+          "title": "Rega | Planar 3 Turntable",
+          "page": "https://www.rega.co.uk/products/planar-3/",
+          "locator": "https://www.rega.co.uk/assets/uploads/gallery-images/_800px/PL3-oak-GALLERY-3%281%29.jpg",
+          "detail": "Wood plinth, clear glass edge and exposed brace"
+        },
+        {
+          "type": "photograph",
+          "organization": "Rega",
+          "title": "Rega | Planar 3 Turntable",
+          "page": "https://www.rega.co.uk/products/planar-3/",
+          "locator": "https://www.rega.co.uk/assets/uploads/gallery-images/_800px/PL3-oak-GALLERY-1.jpg-%281%29-.jpg",
+          "detail": "Wood plinth, clear glass edge and exposed brace"
+        },
+        {
+          "type": "manual",
+          "organization": "Rega",
+          "title": "Rega Planar 3 — Planar 3 User Manual",
+          "page": "https://www.rega.co.uk/download/planar-3-qsg-final.pdf",
+          "locator": "PDF page 2",
+          "detail": "Manufacturer document used to identify the assembly and model revision."
+        }
+      ],
+      "artwork_credit": {
+        "credit": "Gyro Pro catalog",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "visual_review": {
+        "full_size": "Rega Planar 3 current classic. Rectangular light wood plinth, clear glass platter with dark felt, metallic double brace visible between platter edge and black RB330 bearing. Straight tapered right arm. No knobs atop front.",
+        "card_size": "Wood plinth, clear glass edge and exposed brace."
+      }
     },
     {
       "model_id": "rega-0005",
-      "kind": "generic",
-      "caption": "Условное изображение",
-      "path": "fallbacks/neutral.webp"
+      "kind": "model",
+      "caption": "Rega Planar 6",
+      "path": "models/rega-0005.webp",
+      "creation": "independent_study",
+      "construction_sources": [
+        {
+          "type": "photograph",
+          "organization": "Rega",
+          "title": "Rega | Planar 6 Turntable",
+          "page": "https://www.rega.co.uk/products/planar-6/",
+          "locator": "https://www.rega.co.uk/assets/uploads/heroes/_gr-1200px/planar-6-hero-01.jpg",
+          "detail": "Dark thin-edged plinth and layered glass platter"
+        },
+        {
+          "type": "photograph",
+          "organization": "Rega",
+          "title": "Rega | Planar 6 Turntable",
+          "page": "https://www.rega.co.uk/products/planar-6/",
+          "locator": "https://www.rega.co.uk/assets/uploads/gallery-images/_800px/planar-6-gallery-02.jpg",
+          "detail": "Dark thin-edged plinth and layered glass platter"
+        },
+        {
+          "type": "manual",
+          "organization": "Rega",
+          "title": "Rega Planar 6 — Planar 6 User Manual (multi-lingual)",
+          "page": "https://www.rega.co.uk/download/planar-6-user-manual-ml-07.pdf",
+          "locator": "PDF page 3",
+          "detail": "Manufacturer document used to identify the assembly and model revision."
+        }
+      ],
+      "artwork_credit": {
+        "credit": "Gyro Pro catalog",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "visual_review": {
+        "full_size": "Rega Planar 6. Matte dark grey lightweight rectangular foam sandwich plinth thin contrasting edge, smoked two-layer glass platter with black mat, polished metal bearing-to-arm brace partly visible, black RB330 arm right.",
+        "card_size": "Dark thin-edged plinth and layered glass platter."
+      }
     },
     {
       "model_id": "rega-0008",
@@ -2611,15 +2827,87 @@
     },
     {
       "model_id": "pro-ject-0008",
-      "kind": "generic",
-      "caption": "Условное изображение",
-      "path": "fallbacks/neutral.webp"
+      "kind": "model",
+      "caption": "Pro-Ject RPM 10 Carbon",
+      "path": "models/pro-ject-0008.webp",
+      "creation": "independent_study",
+      "construction_sources": [
+        {
+          "type": "photograph",
+          "organization": "Pro-Ject",
+          "title": "RPM 10 Carbon – Pro-Ject Audio Systems",
+          "page": "https://www.project-audio.com/en/product/rpm-10-carbon/",
+          "locator": "https://i0.wp.com/www.project-audio.com/wp-content/uploads/2018/04/rpm-10-carbon-3.jpg?fit=1536%2C1024&ssl=1",
+          "detail": "Tall platter over a separate rectangular platform"
+        },
+        {
+          "type": "photograph",
+          "organization": "Pro-Ject",
+          "title": "RPM 10 Carbon – Pro-Ject Audio Systems",
+          "page": "https://www.project-audio.com/en/product/rpm-10-carbon/",
+          "locator": "https://i0.wp.com/www.project-audio.com/wp-content/uploads/2018/04/rpm-10-carbon-2.jpg?fit=1618%2C1080&ssl=1",
+          "detail": "Tall platter over a separate rectangular platform"
+        },
+        {
+          "type": "manual",
+          "organization": "Pro-Ject",
+          "title": "Pro-Ject RPM 10 Carbon — Manual",
+          "page": "https://www.project-audio.com/wp-content/uploads/2018/04/Manual_RPM10-Carbon.pdf",
+          "locator": "PDF page 3",
+          "detail": "Manufacturer document used to identify the assembly and model revision."
+        }
+      ],
+      "artwork_credit": {
+        "credit": "Gyro Pro catalog",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "visual_review": {
+        "full_size": "Pro-Ject RPM 10 Carbon high-mass asymmetric charcoal drop-shaped deck on separate LARGE rectangular charcoal Ground it platform. Dominant tall polished aluminium platter with black top and thin black belt round outer edge; separate massive cylindrical motor left behind platter; large straight carbon 10 inch arm right.",
+        "card_size": "Tall platter over a separate rectangular platform."
+      }
     },
     {
       "model_id": "pro-ject-0009",
-      "kind": "generic",
-      "caption": "Условное изображение",
-      "path": "fallbacks/neutral.webp"
+      "kind": "model",
+      "caption": "Pro-Ject RPM 5 Carbon",
+      "path": "models/pro-ject-0009.webp",
+      "creation": "independent_study",
+      "construction_sources": [
+        {
+          "type": "photograph",
+          "organization": "Pro-Ject",
+          "title": "RPM 5 Carbon – Pro-Ject Audio Systems",
+          "page": "https://www.project-audio.com/en/product/rpm-5-carbon/",
+          "locator": "https://i0.wp.com/www.project-audio.com/wp-content/uploads/2018/04/rpm-5-carbon-1.jpg?fit=1536%2C1024&ssl=1",
+          "detail": "Frosted platter above the shaped base"
+        },
+        {
+          "type": "photograph",
+          "organization": "Pro-Ject",
+          "title": "RPM 5 Carbon – Pro-Ject Audio Systems",
+          "page": "https://www.project-audio.com/en/product/rpm-5-carbon/",
+          "locator": "https://i0.wp.com/www.project-audio.com/wp-content/uploads/2018/07/rpm-5-carbon-5.jpg?fit=1096%2C1080&ssl=1",
+          "detail": "Frosted platter above the shaped base"
+        },
+        {
+          "type": "manual",
+          "organization": "Pro-Ject",
+          "title": "Pro-Ject RPM 5 Carbon — Manual",
+          "page": "https://www.project-audio.com/wp-content/uploads/2018/04/Manual_RPM5-Carbon.pdf",
+          "locator": "PDF page 3",
+          "detail": "Manufacturer document used to identify the assembly and model revision."
+        }
+      ],
+      "artwork_credit": {
+        "credit": "Gyro Pro catalog",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "visual_review": {
+        "full_size": "Pro-Ject RPM 5 Carbon. Gloss dark compact drop-shaped plinth follows round platter to right arm pivot; thick frosted translucent acrylic platter with bare milky surface and small spindle, freestanding cylindrical motor rear left with thin peripheral belt, straight carbon tonearm at right.",
+        "card_size": "Frosted platter above the shaped base."
+      }
     },
     {
       "model_id": "pro-ject-0010",
@@ -2635,9 +2923,45 @@
     },
     {
       "model_id": "pro-ject-0012",
-      "kind": "generic",
-      "caption": "Условное изображение",
-      "path": "fallbacks/neutral.webp"
+      "kind": "model",
+      "caption": "Pro-Ject X1 B",
+      "path": "models/pro-ject-0012.webp",
+      "creation": "independent_study",
+      "construction_sources": [
+        {
+          "type": "photograph",
+          "organization": "Pro-Ject",
+          "title": "X1 B – Pro-Ject Audio Systems",
+          "page": "https://www.project-audio.com/en/product/x1-b/",
+          "locator": "https://i0.wp.com/www.project-audio.com/wp-content/uploads/2020/12/X1-B-Eucalyptus-frontal-Web.jpg?fit=1920%2C1280&ssl=1",
+          "detail": "Translucent platter and separate dark arm pivot"
+        },
+        {
+          "type": "photograph",
+          "organization": "Pro-Ject",
+          "title": "X1 B – Pro-Ject Audio Systems",
+          "page": "https://www.project-audio.com/en/product/x1-b/",
+          "locator": "https://i0.wp.com/www.project-audio.com/wp-content/uploads/2022/09/X1B-Coloroption-walnut.png?fit=640%2C461&ssl=1",
+          "detail": "Translucent platter and separate dark arm pivot"
+        },
+        {
+          "type": "manual",
+          "organization": "Pro-Ject",
+          "title": "Pro-Ject X1 B — Manual",
+          "page": "https://www.project-audio.com/wp-content/uploads/2022/07/X1B-Userguide.pdf",
+          "locator": "PDF page 3",
+          "detail": "Manufacturer document used to identify the assembly and model revision."
+        }
+      ],
+      "artwork_credit": {
+        "credit": "Gyro Pro catalog",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "visual_review": {
+        "full_size": "Pro-Ject X1 B, rectangular walnut-veneered slab, bare frosted white acrylic platter with plain spindle, straight slim 8.6 inch carbon/aluminium tonearm, black cylindrical right arm bearing, plain front face, feet under plinth.",
+        "card_size": "Translucent platter and separate dark arm pivot."
+      }
     },
     {
       "model_id": "pro-ject-0013",
@@ -2653,27 +2977,171 @@
     },
     {
       "model_id": "pro-ject-0015",
-      "kind": "generic",
-      "caption": "Условное изображение",
-      "path": "fallbacks/neutral.webp"
+      "kind": "model",
+      "caption": "Pro-Ject A2",
+      "path": "models/pro-ject-0015.webp",
+      "creation": "independent_study",
+      "construction_sources": [
+        {
+          "type": "photograph",
+          "organization": "Pro-Ject",
+          "title": "A2 – Pro-Ject Audio Systems",
+          "page": "https://www.project-audio.com/en/product/a2/",
+          "locator": "https://i0.wp.com/www.project-audio.com/wp-content/uploads/2023/07/A2-satin-black-diagonal-scaled.jpg?fit=1920%2C1280&ssl=1",
+          "detail": "Inset automatic chassis and right-hand controls"
+        },
+        {
+          "type": "photograph",
+          "organization": "Pro-Ject",
+          "title": "A2 – Pro-Ject Audio Systems",
+          "page": "https://www.project-audio.com/en/product/a2/",
+          "locator": "https://i0.wp.com/www.project-audio.com/wp-content/uploads/2023/07/A2-detail-1-scaled.jpg?fit=640%2C427&ssl=1",
+          "detail": "Inset automatic chassis and right-hand controls"
+        },
+        {
+          "type": "manual",
+          "organization": "Pro-Ject",
+          "title": "Pro-Ject A2 — Manual",
+          "page": "https://www.project-audio.com/wp-content/uploads/2023/07/A2-Manual.pdf",
+          "locator": "PDF page 1",
+          "detail": "Manufacturer document used to identify the assembly and model revision."
+        }
+      ],
+      "artwork_credit": {
+        "credit": "Gyro Pro catalog",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "visual_review": {
+        "full_size": "Pro-Ject Automat A2 fully automatic black deck. High block rectangular black wooden surround, inset black rounded corner subchassis carries black platter with polished rim left and straight low-mass black tonearm right with silver counterweight. Slender row of small automatic selector levers on right near arm rest and front right.",
+        "card_size": "Inset automatic chassis and right-hand controls."
+      }
     },
     {
       "model_id": "pro-ject-0016",
-      "kind": "generic",
-      "caption": "Условное изображение",
-      "path": "fallbacks/neutral.webp"
+      "kind": "model",
+      "caption": "Pro-Ject RPM 3 Carbon",
+      "path": "models/pro-ject-0016.webp",
+      "creation": "independent_study",
+      "construction_sources": [
+        {
+          "type": "photograph",
+          "organization": "Pro-Ject",
+          "title": "RPM 3 Carbon – Pro-Ject Audio Systems",
+          "page": "https://www.project-audio.com/en/product/rpm-3-carbon-2/",
+          "locator": "https://i0.wp.com/www.project-audio.com/wp-content/uploads/2018/04/rpm-3-carbon-5.jpg?fit=1536%2C1024&ssl=1",
+          "detail": "Curved arm and contrasting white plinth"
+        },
+        {
+          "type": "photograph",
+          "organization": "Pro-Ject",
+          "title": "RPM 3 Carbon – Pro-Ject Audio Systems",
+          "page": "https://www.project-audio.com/en/product/rpm-3-carbon-2/",
+          "locator": "https://i0.wp.com/www.project-audio.com/wp-content/uploads/2018/04/rpm-3-carbon-7.jpg?fit=1000%2C667&ssl=1",
+          "detail": "Curved arm and contrasting white plinth"
+        },
+        {
+          "type": "manual",
+          "organization": "Pro-Ject",
+          "title": "Pro-Ject RPM 3 Carbon — Manual",
+          "page": "https://www.project-audio.com/wp-content/uploads/2018/04/RPM3Carbon-Userguide.pdf",
+          "locator": "PDF page 3",
+          "detail": "Manufacturer document used to identify the assembly and model revision."
+        }
+      ],
+      "artwork_credit": {
+        "credit": "Gyro Pro catalog",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "visual_review": {
+        "full_size": "Pro-Ject RPM 3 Carbon white tear drop base. Large dark mat with inset central circle, narrow white rounded plinth below, separate motor behind left edge, curved S shaped carbon arm with silver counterweight and headshell reaching forward from right.",
+        "card_size": "Curved arm and contrasting white plinth."
+      }
     },
     {
       "model_id": "pro-ject-0017",
-      "kind": "generic",
-      "caption": "Условное изображение",
-      "path": "fallbacks/neutral.webp"
+      "kind": "model",
+      "caption": "Pro-Ject Signature 10",
+      "path": "models/pro-ject-0017.webp",
+      "creation": "independent_study",
+      "construction_sources": [
+        {
+          "type": "photograph",
+          "organization": "Pro-Ject",
+          "title": "Signature 10 – Pro-Ject Audio Systems",
+          "page": "https://www.project-audio.com/en/product/signature-10/",
+          "locator": "https://i0.wp.com/www.project-audio.com/wp-content/uploads/2021/03/PJ-Signature-10-4-scaled.jpg?fit=1920%2C1281&ssl=1",
+          "detail": "Large clamp and three controls at front right"
+        },
+        {
+          "type": "photograph",
+          "organization": "Pro-Ject",
+          "title": "Signature 10 – Pro-Ject Audio Systems",
+          "page": "https://www.project-audio.com/en/product/signature-10/",
+          "locator": "https://i0.wp.com/www.project-audio.com/wp-content/uploads/2021/04/Signature-10-Feature-8.jpg?resize=300%2C300&ssl=1",
+          "detail": "Large clamp and three controls at front right"
+        },
+        {
+          "type": "manual",
+          "organization": "Pro-Ject",
+          "title": "Pro-Ject Signature 10 — Manual",
+          "page": "https://www.project-audio.com/wp-content/uploads/2023/01/Manual-SIGNATURE-10.pdf",
+          "locator": "PDF page 3",
+          "detail": "Manufacturer document used to identify the assembly and model revision."
+        }
+      ],
+      "artwork_credit": {
+        "credit": "Gyro Pro catalog",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "visual_review": {
+        "full_size": "White rectangular plinth, separate pulley, tall polished platter and stepped clamp; three small controls below the right headshell.",
+        "card_size": "Large clamp and three controls at front right."
+      }
     },
     {
       "model_id": "pro-ject-0018",
-      "kind": "generic",
-      "caption": "Условное изображение",
-      "path": "fallbacks/neutral.webp"
+      "kind": "model",
+      "caption": "Pro-Ject T2",
+      "path": "models/pro-ject-0018.webp",
+      "creation": "independent_study",
+      "construction_sources": [
+        {
+          "type": "photograph",
+          "organization": "Pro-Ject",
+          "title": "T2 – Pro-Ject Audio Systems",
+          "page": "https://www.project-audio.com/en/product/t2/",
+          "locator": "https://i0.wp.com/www.project-audio.com/wp-content/uploads/2024/04/T2-1.png?fit=1920%2C628&ssl=1",
+          "detail": "Glass edge and plain walnut front"
+        },
+        {
+          "type": "photograph",
+          "organization": "Pro-Ject",
+          "title": "T2 – Pro-Ject Audio Systems",
+          "page": "https://www.project-audio.com/en/product/t2/",
+          "locator": "https://i0.wp.com/www.project-audio.com/wp-content/uploads/2024/04/T2-Super-Phono-6.jpg?fit=640%2C427&ssl=1",
+          "detail": "Glass edge and plain walnut front"
+        },
+        {
+          "type": "manual",
+          "organization": "Pro-Ject",
+          "title": "Pro-Ject T2 — Full Manual",
+          "page": "https://www.project-audio.com/wp-content/uploads/2024/04/T2-Manual.pdf",
+          "locator": "PDF page 2",
+          "detail": "Manufacturer document used to identify the assembly and model revision."
+        }
+      ],
+      "artwork_credit": {
+        "credit": "Gyro Pro catalog",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "visual_review": {
+        "full_size": "Pro-Ject T2 standard walnut. Wide clean shallow rectangular walnut plinth with bright clear 10mm glass platter and felt mat, straight slim aluminium tonearm black and compact bearing right, dark adjustable feet. Minimal controls.",
+        "card_size": "Glass edge and plain walnut front."
+      }
     },
     {
       "model_id": "pro-ject-0019",
@@ -2701,9 +3169,45 @@
     },
     {
       "model_id": "pro-ject-0023",
-      "kind": "generic",
-      "caption": "Условное изображение",
-      "path": "fallbacks/neutral.webp"
+      "kind": "model",
+      "caption": "Pro-Ject XA B",
+      "path": "models/pro-ject-0023.webp",
+      "creation": "independent_study",
+      "construction_sources": [
+        {
+          "type": "photograph",
+          "organization": "Pro-Ject",
+          "title": "XA B – Pro-Ject Audio Systems",
+          "page": "https://www.project-audio.com/en/product/xa-b/",
+          "locator": "https://i0.wp.com/www.project-audio.com/wp-content/uploads/2024/08/XA-B-lifestyle-9-1.jpg?fit=1920%2C1282&ssl=1",
+          "detail": "Transparent chassis and dark platter"
+        },
+        {
+          "type": "photograph",
+          "organization": "Pro-Ject",
+          "title": "XA B – Pro-Ject Audio Systems",
+          "page": "https://www.project-audio.com/en/product/xa-b/",
+          "locator": "https://i0.wp.com/www.project-audio.com/wp-content/uploads/2024/08/XA-B-Lifestyle-sky-2-1.jpg?fit=1920%2C1080&ssl=1",
+          "detail": "Transparent chassis and dark platter"
+        },
+        {
+          "type": "manual",
+          "organization": "Pro-Ject",
+          "title": "Pro-Ject XA B — Manual",
+          "page": "https://www.project-audio.com/wp-content/uploads/2024/08/XA-B-Manual.pdf",
+          "locator": "PDF page 2",
+          "detail": "Manufacturer document used to identify the assembly and model revision."
+        }
+      ],
+      "artwork_credit": {
+        "credit": "Gyro Pro catalog",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "visual_review": {
+        "full_size": "Pro-Ject XA B. Thick clear transparent rectangular acrylic chassis on three dark isolation feet: background shows through! Dark damped aluminium platter and dark mat, black straight aluminium arm right, dark cylindrical pivot, no knobs across front.",
+        "card_size": "Transparent chassis and dark platter."
+      }
     },
     {
       "model_id": "pro-ject-0024",
@@ -2725,9 +3229,45 @@
     },
     {
       "model_id": "pro-ject-0027",
-      "kind": "generic",
-      "caption": "Условное изображение",
-      "path": "fallbacks/neutral.webp"
+      "kind": "model",
+      "caption": "Pro-Ject E1.2",
+      "path": "models/pro-ject-0027.webp",
+      "creation": "independent_study",
+      "construction_sources": [
+        {
+          "type": "photograph",
+          "organization": "Pro-Ject",
+          "title": "E1.2 – Pro-Ject Audio Systems",
+          "page": "https://www.project-audio.com/en/product/e1-2/",
+          "locator": "https://i0.wp.com/www.project-audio.com/wp-content/uploads/2025/07/E1.2-White-front-cutout-WEB2-e1757486884497.png?fit=640%2C348&ssl=1",
+          "detail": "Three oval openings in the bare platter"
+        },
+        {
+          "type": "photograph",
+          "organization": "Pro-Ject",
+          "title": "E1.2 – Pro-Ject Audio Systems",
+          "page": "https://www.project-audio.com/en/product/e1-2/",
+          "locator": "https://i0.wp.com/www.project-audio.com/wp-content/uploads/2025/07/E1.2-Feature-Tonearm.jpg?resize=300%2C300&ssl=1",
+          "detail": "Three oval openings in the bare platter"
+        },
+        {
+          "type": "manual",
+          "organization": "Pro-Ject",
+          "title": "Pro-Ject E1.2 — Manual",
+          "page": "https://www.project-audio.com/wp-content/uploads/2025/07/Manual-E1.2.pdf",
+          "locator": "PDF page 2",
+          "detail": "Manufacturer document used to identify the assembly and model revision."
+        }
+      ],
+      "artwork_credit": {
+        "credit": "Gyro Pro catalog",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "visual_review": {
+        "full_size": "Pro-Ject E1.2 turntable viewed WITHOUT mat to show factory black aluminium platter with exactly three broad oval cutouts at 120 degrees and very shallow central relief, spindle at center. White plain rectangular plinth, stock slim straight arm right from black pivot with silver rear counterweight.",
+        "card_size": "Three oval openings in the bare platter."
+      }
     },
     {
       "model_id": "pro-ject-0028",
@@ -2737,9 +3277,45 @@
     },
     {
       "model_id": "pro-ject-0029",
-      "kind": "generic",
-      "caption": "Условное изображение",
-      "path": "fallbacks/neutral.webp"
+      "kind": "model",
+      "caption": "Pro-Ject VT-E",
+      "path": "models/pro-ject-0029.webp",
+      "creation": "independent_study",
+      "construction_sources": [
+        {
+          "type": "photograph",
+          "organization": "Pro-Ject",
+          "title": "VT-E – Pro-Ject Audio Systems",
+          "page": "https://www.project-audio.com/en/product/vt-e/",
+          "locator": "https://i0.wp.com/www.project-audio.com/wp-content/uploads/2018/03/VTE-main-black-1.jpg?fit=1536%2C1025&ssl=1",
+          "detail": "Upright platter, exposed belt and right-hand arm"
+        },
+        {
+          "type": "photograph",
+          "organization": "Pro-Ject",
+          "title": "VT-E – Pro-Ject Audio Systems",
+          "page": "https://www.project-audio.com/en/product/vt-e/",
+          "locator": "https://i0.wp.com/www.project-audio.com/wp-content/uploads/2018/03/PJ-VT-E-white-lifestyle-1.jpg?fit=1920%2C1281&ssl=1",
+          "detail": "Upright platter, exposed belt and right-hand arm"
+        },
+        {
+          "type": "manual",
+          "organization": "Pro-Ject",
+          "title": "Pro-Ject VT-E — Manual",
+          "page": "https://www.project-audio.com/wp-content/uploads/2018/03/Manual_VTE_R.pdf",
+          "locator": "PDF page 3",
+          "detail": "Manufacturer document used to identify the assembly and model revision."
+        }
+      ],
+      "artwork_credit": {
+        "credit": "Gyro Pro catalog",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "visual_review": {
+        "full_size": "White upright triangular plinth, low left pulley, perforated central clamp and downward-pointing right arm.",
+        "card_size": "Upright platter, exposed belt and right-hand arm."
+      }
     },
     {
       "model_id": "pro-ject-0030",
@@ -2749,15 +3325,87 @@
     },
     {
       "model_id": "pro-ject-0031",
-      "kind": "generic",
-      "caption": "Условное изображение",
-      "path": "fallbacks/neutral.webp"
+      "kind": "model",
+      "caption": "Pro-Ject Debut EVO 2",
+      "path": "models/pro-ject-0031.webp",
+      "creation": "independent_study",
+      "construction_sources": [
+        {
+          "type": "photograph",
+          "organization": "Pro-Ject",
+          "title": "Debut EVO 2 – Pro-Ject Audio Systems",
+          "page": "https://www.project-audio.com/en/product/debut-evo-2/",
+          "locator": "https://i0.wp.com/www.project-audio.com/wp-content/uploads/2024/07/Debut-EVO-2-Top-View2-1.png?fit=1920%2C1200&ssl=1",
+          "detail": "Integral headshell and compact isolation feet"
+        },
+        {
+          "type": "photograph",
+          "organization": "Pro-Ject",
+          "title": "Debut EVO 2 – Pro-Ject Audio Systems",
+          "page": "https://www.project-audio.com/en/product/debut-evo-2/",
+          "locator": "https://i0.wp.com/www.project-audio.com/wp-content/uploads/2024/07/Debut-EVO-2-Bearing-Block.jpg?resize=300%2C300&ssl=1",
+          "detail": "Integral headshell and compact isolation feet"
+        },
+        {
+          "type": "manual",
+          "organization": "Pro-Ject",
+          "title": "Pro-Ject Debut EVO 2 — Manual",
+          "page": "https://www.project-audio.com/wp-content/uploads/2024/08/Debut-EVO-2-Userguide.pdf",
+          "locator": "PDF page 3",
+          "detail": "Manufacturer document used to identify the assembly and model revision."
+        }
+      ],
+      "artwork_credit": {
+        "credit": "Gyro Pro catalog",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "visual_review": {
+        "full_size": "Pro-Ject Debut EVO 2: low satin dark rectangular plinth with subtly rounded corners; low black aluminium platter and black felt; straight one-piece carbon arm with integral perforated headshell and black bearing right, silver rear counterweight. Three short metal isolation feet. Clean deck, no top knobs.",
+        "card_size": "Integral headshell and compact isolation feet."
+      }
     },
     {
       "model_id": "pro-ject-0032",
-      "kind": "generic",
-      "caption": "Условное изображение",
-      "path": "fallbacks/neutral.webp"
+      "kind": "model",
+      "caption": "Pro-Ject 6PerspeX Balanced",
+      "path": "models/pro-ject-0032.webp",
+      "creation": "independent_study",
+      "construction_sources": [
+        {
+          "type": "photograph",
+          "organization": "Pro-Ject",
+          "title": "6PerspeX Balanced – Pro-Ject Audio Systems",
+          "page": "https://www.project-audio.com/en/product/6perspex-balanced/",
+          "locator": "https://i0.wp.com/www.project-audio.com/wp-content/uploads/2024/05/6PerspeX-Balanced-1.jpg?fit=1536%2C1024&ssl=1",
+          "detail": "Clear base, dark suspended assembly and visible towers"
+        },
+        {
+          "type": "photograph",
+          "organization": "Pro-Ject",
+          "title": "6PerspeX Balanced – Pro-Ject Audio Systems",
+          "page": "https://www.project-audio.com/en/product/6perspex-balanced/",
+          "locator": "https://i0.wp.com/www.project-audio.com/wp-content/uploads/2024/05/6PerspeX-Balanced-Back.jpg?fit=1536%2C1024&ssl=1",
+          "detail": "Clear base, dark suspended assembly and visible towers"
+        },
+        {
+          "type": "manual",
+          "organization": "Pro-Ject",
+          "title": "Pro-Ject 6PerspeX Balanced — Manual",
+          "page": "https://www.project-audio.com/wp-content/uploads/2024/05/6PerspeX_Balanced-Userguide.pdf",
+          "locator": "PDF page 3",
+          "detail": "Manufacturer document used to identify the assembly and model revision."
+        }
+      ],
+      "artwork_credit": {
+        "credit": "Gyro Pro catalog",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "visual_review": {
+        "full_size": "Pro-Ject 6PerspeX Balanced, thick transparent rectangular acrylic base with visible silver cylindrical suspension towers under dark floating subchassis, black thick platter with little central metal screw clamp, exposed motor pulley at left rear, straight black carbon Evolution arm right with counterweight. Three height adjustable feet.",
+        "card_size": "Clear base, dark suspended assembly and visible towers."
+      }
     },
     {
       "model_id": "pro-ject-0033",

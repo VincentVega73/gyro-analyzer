@@ -11,7 +11,7 @@
     },
     "Dual": {
       "total": 129,
-      "generic": 127
+      "generic": 123
     },
     "Электроника": {
       "total": 5,
@@ -31,11 +31,11 @@
     },
     "Pro-Ject": {
       "total": 71,
-      "generic": 69
+      "generic": 57
     },
     "Rega": {
       "total": 25,
-      "generic": 21
+      "generic": 19
     },
     "Sony": {
       "total": 112,
@@ -899,7 +899,7 @@
           "url": "https://dual.de/produkte/"
         }
       ],
-      "current_image": "fallbacks/neutral.webp"
+      "current_image": "models/dual-0002.webp"
     },
     {
       "model_id": "dual-0003",
@@ -913,7 +913,7 @@
           "url": "https://dual.de/produkte/"
         }
       ],
-      "current_image": "fallbacks/neutral.webp"
+      "current_image": "models/dual-0003.webp"
     },
     {
       "model_id": "dual-0004",
@@ -955,7 +955,7 @@
           "url": "https://dual.de/en/category/manual/"
         }
       ],
-      "current_image": "fallbacks/classic.webp"
+      "current_image": "models/dual-0006.webp"
     },
     {
       "model_id": "dual-0007",
@@ -969,7 +969,7 @@
           "url": "https://dual.de/en/category/manual/"
         }
       ],
-      "current_image": "fallbacks/classic.webp"
+      "current_image": "models/dual-0007.webp"
     },
     {
       "model_id": "dual-0008",
@@ -4946,7 +4946,7 @@
           "url": "https://www.project-audio.com/en/product/rpm-10-carbon/"
         }
       ],
-      "current_image": "fallbacks/neutral.webp"
+      "current_image": "models/pro-ject-0008.webp"
     },
     {
       "model_id": "pro-ject-0009",
@@ -4960,7 +4960,7 @@
           "url": "https://www.project-audio.com/en/product/rpm-5-carbon/"
         }
       ],
-      "current_image": "fallbacks/neutral.webp"
+      "current_image": "models/pro-ject-0009.webp"
     },
     {
       "model_id": "pro-ject-0010",
@@ -5002,7 +5002,7 @@
           "url": "https://www.project-audio.com/en/product/x1-b/"
         }
       ],
-      "current_image": "fallbacks/neutral.webp"
+      "current_image": "models/pro-ject-0012.webp"
     },
     {
       "model_id": "pro-ject-0013",
@@ -5044,7 +5044,7 @@
           "url": "https://www.project-audio.com/en/product/a2/"
         }
       ],
-      "current_image": "fallbacks/neutral.webp"
+      "current_image": "models/pro-ject-0015.webp"
     },
     {
       "model_id": "pro-ject-0016",
@@ -5058,7 +5058,7 @@
           "url": "https://www.project-audio.com/en/product/rpm-3-carbon-2/"
         }
       ],
-      "current_image": "fallbacks/neutral.webp"
+      "current_image": "models/pro-ject-0016.webp"
     },
     {
       "model_id": "pro-ject-0017",
@@ -5072,7 +5072,7 @@
           "url": "https://www.project-audio.com/en/product/signature-10/"
         }
       ],
-      "current_image": "fallbacks/neutral.webp"
+      "current_image": "models/pro-ject-0017.webp"
     },
     {
       "model_id": "pro-ject-0018",
@@ -5086,7 +5086,7 @@
           "url": "https://www.project-audio.com/en/product/t2/"
         }
       ],
-      "current_image": "fallbacks/neutral.webp"
+      "current_image": "models/pro-ject-0018.webp"
     },
     {
       "model_id": "pro-ject-0019",
@@ -5156,7 +5156,7 @@
           "url": "https://www.project-audio.com/en/product/xa-b/"
         }
       ],
-      "current_image": "fallbacks/neutral.webp"
+      "current_image": "models/pro-ject-0023.webp"
     },
     {
       "model_id": "pro-ject-0024",
@@ -5212,7 +5212,7 @@
           "url": "https://www.project-audio.com/en/product/e1-2/"
         }
       ],
-      "current_image": "fallbacks/neutral.webp"
+      "current_image": "models/pro-ject-0027.webp"
     },
     {
       "model_id": "pro-ject-0028",
@@ -5240,7 +5240,7 @@
           "url": "https://www.project-audio.com/en/product/vt-e/"
         }
       ],
-      "current_image": "fallbacks/neutral.webp"
+      "current_image": "models/pro-ject-0029.webp"
     },
     {
       "model_id": "pro-ject-0030",
@@ -5268,7 +5268,7 @@
           "url": "https://www.project-audio.com/en/product/debut-evo-2/"
         }
       ],
-      "current_image": "fallbacks/neutral.webp"
+      "current_image": "models/pro-ject-0031.webp"
     },
     {
       "model_id": "pro-ject-0032",
@@ -5282,7 +5282,7 @@
           "url": "https://www.project-audio.com/en/product/6perspex-balanced/"
         }
       ],
-      "current_image": "fallbacks/neutral.webp"
+      "current_image": "models/pro-ject-0032.webp"
     },
     {
       "model_id": "pro-ject-0033",
@@ -5935,7 +5935,7 @@
           "url": "https://www.rega.co.uk/download/planar-3-qsg-final.pdf"
         }
       ],
-      "current_image": "fallbacks/classic.webp"
+      "current_image": "models/rega-0004.webp"
     },
     {
       "model_id": "rega-0005",
@@ -5955,7 +5955,7 @@
           "url": "https://www.rega.co.uk/download/planar-6-user-manual-ml-07.pdf"
         }
       ],
-      "current_image": "fallbacks/neutral.webp"
+      "current_image": "models/rega-0005.webp"
     },
     {
       "model_id": "rega-0006",

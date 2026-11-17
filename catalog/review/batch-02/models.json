@@ -1,0 +1,122 @@
+[
+  {
+    "model_id": "rega-0003",
+    "caption": "Rega Planar 2",
+    "path": "models/rega-0003.webp",
+    "sha256": "06df20ab7ba59ae967196bd995cebdb4af99e0378727f9810a43d81cd1c003d5"
+  },
+  {
+    "model_id": "rega-0007",
+    "caption": "Rega Planar 10",
+    "path": "models/rega-0007.webp",
+    "sha256": "8ff82ccbaa0f64c509e04d890cc4f5f7004f1eccc5de5f445bc98659c3bc1f5a"
+  },
+  {
+    "model_id": "rega-0004",
+    "caption": "Rega Planar 3",
+    "path": "models/rega-0004.webp",
+    "sha256": "67982e1aa1f36ec58835136bebecd050eeed9f717f346cdec7c005ec47262a04"
+  },
+  {
+    "model_id": "rega-0005",
+    "caption": "Rega Planar 6",
+    "path": "models/rega-0005.webp",
+    "sha256": "1bc99862f0dbedec44838d5f34c62671c799e470149a40d9df39c5145c146bc4"
+  },
+  {
+    "model_id": "dual-0002",
+    "caption": "Dual CS 429",
+    "path": "models/dual-0002.webp",
+    "sha256": "7c07ed24d32d33f5b73540bd920f3fcde3a7481b6332bd0cf048b9fb3666a1f2"
+  },
+  {
+    "model_id": "dual-0003",
+    "caption": "Dual CS 529",
+    "path": "models/dual-0003.webp",
+    "sha256": "89fe6726cfdcae76f8d20f3f0eb9cb4a843d84c51426aab68713972cee4a467d"
+  },
+  {
+    "model_id": "dual-0006",
+    "caption": "Dual CS 518",
+    "path": "models/dual-0006.webp",
+    "sha256": "efc0fd874e6f6f1f7f798f8e79675cb2fc7df6dba2ea8a4ecc33d9fda7f5b3fa"
+  },
+  {
+    "model_id": "dual-0007",
+    "caption": "Dual CS 618Q",
+    "path": "models/dual-0007.webp",
+    "sha256": "6ac443ed11d61de0a0c2ef2d825c55b43c1f8e57d4f62316a07b884e84b0d91f"
+  },
+  {
+    "model_id": "pro-ject-0008",
+    "caption": "Pro-Ject RPM 10 Carbon",
+    "path": "models/pro-ject-0008.webp",
+    "sha256": "cbfb32d845263aa4bd11ace6622bb6859b4979311a9895e5ce6e01725a4d2937"
+  },
+  {
+    "model_id": "pro-ject-0009",
+    "caption": "Pro-Ject RPM 5 Carbon",
+    "path": "models/pro-ject-0009.webp",
+    "sha256": "4e0ec7d34d4263a6ae9208199d973b23e781ea434dcb13633076990517ae2b3e"
+  },
+  {
+    "model_id": "pro-ject-0016",
+    "caption": "Pro-Ject RPM 3 Carbon",
+    "path": "models/pro-ject-0016.webp",
+    "sha256": "cffab1ec761dc4986a687ac8d0babcfbef41bed3c9de491c175938194a3c60f0"
+  },
+  {
+    "model_id": "pro-ject-0017",
+    "caption": "Pro-Ject Signature 10",
+    "path": "models/pro-ject-0017.webp",
+    "sha256": "f7dc8b34f129d346b78864d0e36b6b9ea919f0ed8e6854e7c43e3401020266a8"
+  },
+  {
+    "model_id": "pro-ject-0018",
+    "caption": "Pro-Ject T2",
+    "path": "models/pro-ject-0018.webp",
+    "sha256": "f5d78cffeeccc7e0b1597bd254933faf98a0b73a85c2010d4cd26d54a2a88072"
+  },
+  {
+    "model_id": "pro-ject-0023",
+    "caption": "Pro-Ject XA B",
+    "path": "models/pro-ject-0023.webp",
+    "sha256": "e62d820a28e514720f0dcc806e530e62c257cffb70828725486174f5801b3085"
+  },
+  {
+    "model_id": "pro-ject-0029",
+    "caption": "Pro-Ject VT-E",
+    "path": "models/pro-ject-0029.webp",
+    "sha256": "722ef55f7df775a036459e8b5e55aecf520e54aaff93b540ac35ca9715dea2de"
+  },
+  {
+    "model_id": "pro-ject-0012",
+    "caption": "Pro-Ject X1 B",
+    "path": "models/pro-ject-0012.webp",
+    "sha256": "167467f1fde876e5f6db093da0c8b69669cd59faf039c90c4b2a413057e8730c"
+  },
+  {
+    "model_id": "pro-ject-0027",
+    "caption": "Pro-Ject E1.2",
+    "path": "models/pro-ject-0027.webp",
+    "sha256": "3cd0debf27e42d3f5ea338672339437e22a4604862014ce36c5908a5b46499c8"
+  },
+  {
+    "model_id": "pro-ject-0031",
+    "caption": "Pro-Ject Debut EVO 2",
+    "path": "models/pro-ject-0031.webp",
+    "sha256": "3014d1195970e443befc686aa62938cd1b69cc5da26e120befc99e604a6d2366"
+  },
+  {
+    "model_id": "pro-ject-0015",
+    "caption": "Pro-Ject A2",
+    "path": "models/pro-ject-0015.webp",
+    "sha256": "1b2fc12ccd86e64bb8b60505bb3a3494ed2196711838dcad8fea1ab6fdc8f036"
+  },
+  {
+    "model_id": "pro-ject-0032",
+    "caption": "Pro-Ject 6PerspeX Balanced",
+    "path": "models/pro-ject-0032.webp",
+    "sha256": "abba53d253f0e418ea8fd71094fed4817060bd5879bbda186bc4f528597532e9"
+  }
+]
